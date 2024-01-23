@@ -1,0 +1,285 @@
+{
+  "WildLives": {
+    "anemo_crystalfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Mondstadt",
+      "Rewards": [
+        "crystal_core"
+      ],
+      "Id": "anemo_crystalfly",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo_crystalfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Dragonspine",
+      "Rewards": [
+        "crystal_core"
+      ],
+      "Id": "cryo_crystalfly",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "electro_crystalfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Inazuma",
+      "Rewards": [
+        "crystal_core"
+      ],
+      "Id": "electro_crystalfly",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "geo_crystalfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Liyue",
+      "Rewards": [
+        "crystal_core"
+      ],
+      "Id": "geo_crystalfly",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "coral_crystalfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Enkanomiya",
+      "Rewards": [
+        "crystal_core"
+      ],
+      "Id": "coral_crystalfly",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "golden_loach": {
+      "EntityId": "wildlife",
+      "Group": "Loach",
+      "Location": "Liyue",
+      "Rewards": [
+        "loach_pearl"
+      ],
+      "Id": "golden_loach",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "sunny_loach": {
+      "EntityId": "wildlife",
+      "Group": "Loach",
+      "Location": "Inazuma",
+      "Rewards": [
+        "loach_pearl"
+      ],
+      "Id": "sunny_loach",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "sunset_loach": {
+      "EntityId": "wildlife",
+      "Group": "Loach",
+      "Location": "Inazuma",
+      "Rewards": [
+        "loach_pearl"
+      ],
+      "Id": "sunset_loach",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "green_frog": {
+      "EntityId": "wildlife",
+      "Group": "Frog",
+      "Location": 6,
+      "Rewards": [
+        "frog"
+      ],
+      "Id": "green_frog",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mud_frog": {
+      "EntityId": "wildlife",
+      "Group": "Frog",
+      "Location": 6,
+      "Rewards": [
+        "frog"
+      ],
+      "Id": "mud_frog",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "blue_frog": {
+      "EntityId": "wildlife",
+      "Group": "Frog",
+      "Location": "Mondstadt",
+      "Rewards": [
+        "frog"
+      ],
+      "Id": "blue_frog",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "golden_crab": {
+      "EntityId": "wildlife",
+      "Group": "Crab",
+      "Location": "Teyvat",
+      "Rewards": [
+        "crab"
+      ],
+      "Id": "golden_crab",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sun_crab": {
+      "EntityId": "wildlife",
+      "Group": "Crab",
+      "Location": 6,
+      "Rewards": [
+        "crab"
+      ],
+      "Id": "sun_crab",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "ocean_crab": {
+      "EntityId": "wildlife",
+      "Group": "Crab",
+      "Location": "Teyvat",
+      "Rewards": [
+        "crab"
+      ],
+      "Id": "ocean_crab",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "general_crab": {
+      "EntityId": "wildlife",
+      "Group": "Crab",
+      "Location": "Inazuma",
+      "Rewards": [
+        "crab"
+      ],
+      "Id": "general_crab",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "pale_red_crab": {
+      "EntityId": "wildlife",
+      "Group": "Crab",
+      "Location": "Inazuma",
+      "Rewards": [
+        "crab"
+      ],
+      "Id": "pale_red_crab",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "blue_horned_lizard": {
+      "EntityId": "wildlife",
+      "Group": "Lizard",
+      "Location": "Teyvat",
+      "Rewards": [
+        "lizard_tail"
+      ],
+      "Id": "blue_horned_lizard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "red_horned_lizard": {
+      "EntityId": "wildlife",
+      "Group": "Lizard",
+      "Location": "Teyvat",
+      "Rewards": [
+        "lizard_tail"
+      ],
+      "Id": "red_horned_lizard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "green_horned_lizard": {
+      "EntityId": "wildlife",
+      "Group": "Lizard",
+      "Location": 10,
+      "Rewards": [
+        "lizard_tail"
+      ],
+      "Id": "green_horned_lizard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pith_lizard": {
+      "EntityId": "wildlife",
+      "Group": "Lizard",
+      "Location": "Inazuma",
+      "Rewards": [
+        "lizard_tail"
+      ],
+      "Id": "pith_lizard",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "adorned_unagi": {
+      "EntityId": "wildlife",
+      "Group": "Unagi",
+      "Location": "Inazuma",
+      "Rewards": [
+        "eel_meat"
+      ],
+      "Id": "adorned_unagi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "red_finned_unagi": {
+      "EntityId": "wildlife",
+      "Group": "Unagi",
+      "Location": "Inazuma",
+      "Rewards": [
+        "eel_meat"
+      ],
+      "Id": "red_finned_unagi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "deep_sea_unagi": {
+      "EntityId": "wildlife",
+      "Group": "Unagi",
+      "Location": "Inazuma",
+      "Rewards": [
+        "eel_meat"
+      ],
+      "Id": "deep_sea_unagi",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "blue_butterfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Unknown",
+      "Rewards": [
+        "butterfly_wings"
+      ],
+      "Id": "blue_butterfly",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "yellow_butterfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Teyvat",
+      "Rewards": [
+        "butterfly_wings"
+      ],
+      "Id": "yellow_butterfly",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pink_butterfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Teyvat",
+      "Rewards": [
+        "butterfly_wings"
+      ],
+      "Id": "pink_butterfly",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "light_blue_butterfly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Teyvat",
+      "Rewards": [
+        "butterfly_wings"
+      ],
+      "Id": "light_blue_butterfly",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "firefly": {
+      "EntityId": "wildlife",
+      "Group": "Crystalfly",
+      "Location": "Teyvat",
+      "Rewards": [
+        "luminescent_spine"
+      ],
+      "Id": "firefly",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "WildLifeDatabase"
+}

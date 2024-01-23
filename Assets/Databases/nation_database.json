@@ -1,0 +1,50 @@
+{
+  "Nations": {
+    "mondstadt": {
+      "EntityId": "nation",
+      "PortraitUri": null,
+      "LocalSpecialitiesRewarded": "LocalSpecialityOfMondstadt",
+      "Element": "Anemo",
+      "Location": "Mondstadt",
+      "Id": "mondstadt",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "liyue": {
+      "EntityId": "nation",
+      "PortraitUri": null,
+      "LocalSpecialitiesRewarded": "LocalSpecialityOfLiyue",
+      "Element": "Geo",
+      "Location": "Liyue",
+      "Id": "liyue",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "inazuma": {
+      "EntityId": "nation",
+      "PortraitUri": null,
+      "LocalSpecialitiesRewarded": "LocalSpecialityOfInazuma",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "Id": "inazuma",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "sumeru": {
+      "EntityId": "nation",
+      "PortraitUri": null,
+      "LocalSpecialitiesRewarded": "LocalSpecialityOfSumeru",
+      "Element": "Dendro",
+      "Location": "Sumeru",
+      "Id": "sumeru",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "fontaine": {
+      "EntityId": "nation",
+      "PortraitUri": null,
+      "LocalSpecialitiesRewarded": "LocalSpecialityOfFontaine",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "Id": "fontaine",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Type": "NationDatabase"
+}

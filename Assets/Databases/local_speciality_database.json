@@ -1,0 +1,1503 @@
+{
+  "LocalSpecialityOfMondstadt": {
+    "calla_lily": {
+      "MaterialType": "CallaLily",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "springvale"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          31
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "calla_lily",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cecilia": {
+      "MaterialType": "Cecilia",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "starsnatch_cliff"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          35
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "cecilia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dandelion_seed": {
+      "MaterialType": "DandelionSeed",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "city_of_mondstadt"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          37
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "dandelion_seed",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philanemo_mushroom": {
+      "MaterialType": "PhilanemoMushroom",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "city_of_mondstadt",
+        "springvale",
+        "dawn_winery"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 290.89,
+          "Longitude": 24.43,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          39
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "philanemo_mushroom",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "small_lamp_grass": {
+      "MaterialType": "SmallLampGrass",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "whispering_woods"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          33
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "small_lamp_grass",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "valberry": {
+      "MaterialType": "Valberry",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "stormbearer_mountains",
+        "stormbearer_point"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -466.39,
+          "Longitude": 640.69,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          29
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "valberry",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "windwheel_aster": {
+      "MaterialType": "WindwheelAster",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "windrise",
+        "dawn_winery",
+        "stormterrors_lair"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          43
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "windwheel_aster",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "wolfhook": {
+      "MaterialType": "Wolfhook",
+      "Nation": "Mondstadt",
+      "Locations": [
+        "wolvendom"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          41
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "wolfhook",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "LocalSpecialityOfLiyue": {
+    "cor_lapis": {
+      "MaterialType": "CorLapis",
+      "Nation": "Liyue",
+      "Locations": [
+        "mt_hulao"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          40
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "cor_lapis",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "glaze_lily": {
+      "MaterialType": "GlazeLily",
+      "Nation": "Liyue",
+      "Locations": [
+        "liyue_harbor",
+        "qingce_village"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2908.58,
+          "Longitude": -1263.96,
+          "Zoom": -0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          38
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "glaze_lily",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "jueyun_chili": {
+      "MaterialType": "JueyunChili",
+      "Nation": "Liyue",
+      "Locations": [
+        "minlin",
+        "qingce_village",
+        "stone_gate"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          30
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "jueyun_chili",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "noctilucous_jade": {
+      "MaterialType": "NoctilucousJade",
+      "Nation": "Liyue",
+      "Locations": [
+        "mingyun_village"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          42
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "noctilucous_jade",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "qingxin": {
+      "MaterialType": "Qingxin",
+      "Nation": "Liyue",
+      "Locations": [
+        "minlin",
+        "wuwang_hill"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          32
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "qingxin",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "silk_flower": {
+      "MaterialType": "SilkFlower",
+      "Nation": "Liyue",
+      "Locations": [
+        "liyue_harbor",
+        "wangshu_inn"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          36
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "silk_flower",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "starconch": {
+      "MaterialType": "Starconch",
+      "Nation": "Liyue",
+      "Locations": [
+        "liyue",
+        "dragonspine"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          78
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "starconch",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "violetgrass": {
+      "MaterialType": "Violetgrass",
+      "Nation": "Liyue",
+      "Locations": [
+        "liyue"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          34
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "violetgrass",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "LocalSpecialityOfInazuma": {
+    "amakumo_fruit": {
+      "MaterialType": "AmakumoFruit",
+      "Nation": "Inazuma",
+      "Locations": [
+        "seirai_island"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 6974.46,
+          "Longitude": 3476.51,
+          "Zoom": -0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          228
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "amakumo_fruit",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "crystal_marrow": {
+      "MaterialType": "CrystalMarrow",
+      "Nation": "Inazuma",
+      "Locations": [
+        "yashiori_island",
+        "tatarasuna"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 6128.72,
+          "Longitude": 1813.4,
+          "Zoom": -0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          211
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "crystal_marrow",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "dendrobium": {
+      "MaterialType": "Dendrobium",
+      "Nation": "Inazuma",
+      "Locations": [
+        "kannazuka",
+        "yashiori_island"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5857.19,
+          "Longitude": 2066.58,
+          "Zoom": -0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          198
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "dendrobium",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "fluorescent_fungus": {
+      "MaterialType": "FluorescentFungus",
+      "Nation": "Inazuma",
+      "Locations": [
+        "tsurumi_island"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 8698.98,
+          "Longitude": 2001.01,
+          "Zoom": -0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          266
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "fluorescent_fungus",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "naku_weed": {
+      "MaterialType": "NakuWeed",
+      "Nation": "Inazuma",
+      "Locations": [
+        "seirai_island"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          197
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "naku_weed",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "onikabuto": {
+      "MaterialType": "Onikabuto",
+      "Nation": "Inazuma",
+      "Locations": [
+        "mikage_furnace",
+        "mt_yougou"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          196
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "onikabuto",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "sakura_bloom": {
+      "MaterialType": "SakuraBloom",
+      "Nation": "Inazuma",
+      "Locations": [
+        "narukami_island"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5035.57,
+          "Longitude": 3637.72,
+          "Zoom": -0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          199
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "sakura_bloom",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "sango_pearl": {
+      "MaterialType": "SangoPearl",
+      "Nation": "Inazuma",
+      "Locations": [
+        "watatsumi_island",
+        "enkanomiya"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 6070.0,
+          "Longitude": 229.82,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          227
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "sango_pearl",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "sea_ganoderma": {
+      "MaterialType": "SeaGanoderma",
+      "Nation": "Inazuma",
+      "Locations": [
+        "inazuma"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          185
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "sea_ganoderma",
+      "DateAdded": "2021-06-09T00:00:00"
+    }
+  },
+  "LocalSpecialityOfSumeru": {
+    "henna_berry": {
+      "MaterialType": "HennaBerry",
+      "Nation": "Sumeru",
+      "Locations": [
+        "sumeru_wild"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          431
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "henna_berry",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "kalpalata_lotus": {
+      "MaterialType": "KalpalataLotus",
+      "Nation": "Sumeru",
+      "Locations": [
+        "mountains_of_sumeru"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          401
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "kalpalata_lotus",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "mourning_flower": {
+      "MaterialType": "MourningFlower",
+      "Nation": "Sumeru",
+      "Locations": [
+        "deserts_of_sumeru"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1676.699951171875,
+          "Longitude": -6898.759765625,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          469
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "mourning_flower",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "nilotpala_lotus": {
+      "MaterialType": "NilotpalaLotus",
+      "Nation": "Sumeru",
+      "Locations": [
+        "lakes_and_river_banks_in_sumeru"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          400
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "nilotpala_lotus",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "padisarah": {
+      "MaterialType": "Padisarah",
+      "Nation": "Sumeru",
+      "Locations": [
+        "sumeru_city"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          413
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "padisarah",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "rukkhashava_mushrooms": {
+      "MaterialType": "RukkhashavaMushrooms",
+      "Nation": "Sumeru",
+      "Locations": [
+        "lokapala_jungle"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          402
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "rukkhashava_mushrooms",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sand_grease_pupa": {
+      "MaterialType": "SandGreasePupa",
+      "Nation": "Sumeru",
+      "Locations": [
+        "deserts_of_sumeru"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2979.0,
+          "Longitude": -5778.0,
+          "Zoom": 1.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          462
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "sand_grease_pupa",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "scarab": {
+      "MaterialType": "Scarab",
+      "Nation": "Sumeru",
+      "Locations": [
+        "sumeru_wild"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          430
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "scarab",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "trishiraite": {
+      "MaterialType": "Trishiraite",
+      "Nation": "Sumeru",
+      "Locations": [
+        "deserts_of_sumeru",
+        "temir_mountains"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1651.95,
+          "Longitude": -6905.83,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          468
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "trishiraite",
+      "DateAdded": "2023-04-12T00:00:00"
+    }
+  },
+  "LocalSpecialityOfFontaine": {
+    "beryl_conch": {
+      "MaterialType": "BerylConch",
+      "Nation": "Fontaine",
+      "Locations": [
+        "diving"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          500
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "beryl_conch",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "lakelight_lily": {
+      "MaterialType": "LakelightLily",
+      "Nation": "Fontaine",
+      "Locations": [
+        "fontaine_wild",
+        "erinnyes_forest"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          548
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "lakelight_lily",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "lumidouce_bell": {
+      "MaterialType": "LumidouceBell",
+      "Nation": "Fontaine",
+      "Locations": [
+        "fontaine_wild",
+        "court_of_fontaine"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          502
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "lumidouce_bell",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "lumitoile": {
+      "MaterialType": "Lumitoile",
+      "Nation": "Fontaine",
+      "Locations": [
+        "fontaine_wild"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          545
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "lumitoile",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "rainbow_rose": {
+      "MaterialType": "RainbowRose",
+      "Nation": "Fontaine",
+      "Locations": [
+        "gardening"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          503
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "rainbow_rose",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "romaritime_flower": {
+      "MaterialType": "RomaritimeFlower",
+      "Nation": "Fontaine",
+      "Locations": [
+        "diving"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          501
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "romaritime_flower",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "spring_of_the_first_dewdrop": {
+      "MaterialType": "SpringOfTheFirstDewdrop",
+      "Nation": "Fontaine",
+      "Locations": [
+        ""
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          549
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "spring_of_the_first_dewdrop",
+      "DateAdded": "2023-12-20T00:00:00"
+    },
+    "subdetection_unit": {
+      "MaterialType": "SubdetectionUnit",
+      "Nation": "Sumeru",
+      "Locations": [
+        "fontaine_wild"
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          546
+        ]
+      },
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "subdetection_unit",
+      "DateAdded": "2023-09-27T00:00:00"
+    }
+  },
+  "LocalSpecialityOfNatlan": {},
+  "LocalSpecialityOfSnezhnaya": {},
+  "Type": "LocalSpecialityDatabase"
+}

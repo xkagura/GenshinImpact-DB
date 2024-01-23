@@ -1,0 +1,770 @@
+{
+  "RedeemCodes": {
+    "GENSHINGIFT": {
+      "Code": "GENSHINGIFT",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 50,
+        "heros_wit": 3
+      },
+      "Expired": null
+    },
+    "MA6RPW8GGJAM": {
+      "Code": "MA6RPW8GGJAM",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": null
+    },
+    "GS6RLKGKWUER": {
+      "Code": "GS6RLKGKWUER",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-10-24T00:00:00"
+    },
+    "KS6QL3YJFCWM": {
+      "Code": "KS6QL3YJFCWM",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-10-24T00:00:00"
+    },
+    "6SP942Z3XVWH": {
+      "Code": "6SP942Z3XVWH",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-10-24T00:00:00"
+    },
+    "6A6VJTWGCPYV": {
+      "Code": "6A6VJTWGCPYV",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": "2022-10-06T00:00:00"
+    },
+    "2BP9HY6BYFR5": {
+      "Code": "2BP9HY6BYFR5",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-09-17T00:00:00"
+    },
+    "JT78YH7SGWRZ": {
+      "Code": "JT78YH7SGWRZ",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-09-17T00:00:00"
+    },
+    "3B6RYY7AHX9D": {
+      "Code": "3B6RYY7AHX9D",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-09-17T00:00:00"
+    },
+    "XTNDKTEBWA59": {
+      "Code": "XTNDKTEBWA59",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": "2022-08-22T00:00:00"
+    },
+    "KT7DKSFGCRWD": {
+      "Code": "KT7DKSFGCRWD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-08-14T00:00:00"
+    },
+    "EA7VKTFHU9VR": {
+      "Code": "EA7VKTFHU9VR",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-08-14T00:00:00"
+    },
+    "8ANCKTWYVRD5": {
+      "Code": "8ANCKTWYVRD5",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-08-14T00:00:00"
+    },
+    "MTNUJBXDD72R": {
+      "Code": "MTNUJBXDD72R",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": "2022-07-15T00:00:00"
+    },
+    "HA6C2AFBXSZV": {
+      "Code": "HA6C2AFBXSZV",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-07-03T00:00:00"
+    },
+    "WANVJAFAXTER": {
+      "Code": "WANVJAFAXTER",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-07-03T00:00:00"
+    },
+    "DTNVKAWBWSF5": {
+      "Code": "DTNVKAWBWSF5",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-07-03T00:00:00"
+    },
+    "MS7C3SV8DMZH": {
+      "Code": "MS7C3SV8DMZH",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": "2022-05-31T00:00:00"
+    },
+    "HSNUKTXCCPWV": {
+      "Code": "HSNUKTXCCPWV",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-05-21T00:00:00"
+    },
+    "DTNUKTWCC6D9": {
+      "Code": "DTNUKTWCC6D9",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-05-21T00:00:00"
+    },
+    "LANVJSFUD6CM": {
+      "Code": "LANVJSFUD6CM",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-05-21T00:00:00"
+    },
+    "ZSPDKSC3V8V5": {
+      "Code": "ZSPDKSC3V8V5",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": "2022-03-29T00:00:00"
+    },
+    "AB7CKBVQULE5": {
+      "Code": "AB7CKBVQULE5",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-03-19T00:00:00"
+    },
+    "3TPUKSV8C5X9": {
+      "Code": "3TPUKSV8C5X9",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-03-19T00:00:00"
+    },
+    "UT7C2TD8C5ZD": {
+      "Code": "UT7C2TD8C5ZD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-03-19T00:00:00"
+    },
+    "9BPCJCQGHAWZ": {
+      "Code": "9BPCJCQGHAWZ",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 5
+      },
+      "Expired": "2022-02-16T00:00:00"
+    },
+    "VTPU3CQWYCSD": {
+      "Code": "VTPU3CQWYCSD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2022-02-05T00:00:00"
+    },
+    "AB7VJC9EGDAZ": {
+      "Code": "AB7VJC9EGDAZ",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2022-02-05T00:00:00"
+    },
+    "WT7D3CQEHVBM": {
+      "Code": "WT7D3CQEHVBM",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2022-02-05T00:00:00"
+    },
+    "FANRONGCHANGSHENG": {
+      "Code": "FANRONGCHANGSHENG",
+      "Server": "All",
+      "Rewards": {
+        "mora": 18000,
+        "adventurers_experience": 8,
+        "fine_enhancement_ore": 10
+      },
+      "Expired": "2022-01-30T00:00:00"
+    },
+    "ETNU2DN5NZRR": {
+      "Code": "ETNU2DN5NZRR",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "adventurers_experience": 4
+      },
+      "Expired": "2022-01-05T00:00:00"
+    },
+    "5SPDKV8ZHBFV": {
+      "Code": "5SPDKV8ZHBFV",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-12-27T00:00:00"
+    },
+    "PSNVJURZZSD9": {
+      "Code": "PSNVJURZZSD9",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-12-27T00:00:00"
+    },
+    "SA7V2DRZGAU5": {
+      "Code": "SA7V2DRZGAU5",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-12-27T00:00:00"
+    },
+    "BSPD3ZRXU985": {
+      "Code": "BSPD3ZRXU985",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "2021-11-24T00:00:00"
+    },
+    "KB6DKDNM7H49": {
+      "Code": "KB6DKDNM7H49",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-11-13T00:00:00"
+    },
+    "BSNDJC747Z7D": {
+      "Code": "BSNDJC747Z7D",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-11-13T00:00:00"
+    },
+    "AS7CJDP4NG7H": {
+      "Code": "AS7CJDP4NG7H",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-11-13T00:00:00"
+    },
+    "BSNUJGQFUTPM": {
+      "Code": "BSNUJGQFUTPM",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-10-04T00:00:00"
+    },
+    "NB6VKHQWVANZ": {
+      "Code": "NB6VKHQWVANZ",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-10-04T00:00:00"
+    },
+    "LBNDKG8XDTND": {
+      "Code": "LBNDKG8XDTND",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-10-04T00:00:00"
+    },
+    "NTPVU7JTJYPD": {
+      "Code": "NTPVU7JTJYPD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-08-21T00:00:00"
+    },
+    "CB7UU6KT2H59": {
+      "Code": "CB7UU6KT2H59",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-08-21T00:00:00"
+    },
+    "DSPVUN2BKH5M": {
+      "Code": "DSPVUN2BKH5M",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-08-21T00:00:00"
+    },
+    "GENSHINGALAXY": {
+      "Code": "GENSHINGALAXY",
+      "Server": "All",
+      "Rewards": {
+        "mora": 10000,
+        "mondstadt_hash_brown": 3,
+        "adventurers_experience": 10,
+        "northern_smoked_chicken": 3,
+        "fine_enhancement_ore": 5
+      },
+      "Expired": "2021-07-21T00:00:00"
+    },
+    "GENSHINEPIC": {
+      "Code": "GENSHINEPIC",
+      "Server": "All",
+      "Rewards": {
+        "mora": 10000,
+        "squirrel_fish": 3,
+        "northern_apple_stew": 3,
+        "adventurers_experience": 10,
+        "fine_enhancement_ore": 5
+      },
+      "Expired": "2021-07-21T00:00:00"
+    },
+    "LS6T4L9ZZ7TH": {
+      "Code": "LS6T4L9ZZ7TH",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-07-10T00:00:00"
+    },
+    "GBNA9J5H9Y4H": {
+      "Code": "GBNA9J5H9Y4H",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-07-10T00:00:00"
+    },
+    "AS6BQKLY9GLD": {
+      "Code": "AS6BQKLY9GLD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-07-10T00:00:00"
+    },
+    "SBNBUK67M37Z": {
+      "Code": "SBNBUK67M37Z",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 30,
+        "adventurers_experience": 5
+      },
+      "Expired": "0001-01-01T00:00:00"
+    },
+    "GS6ACJ775KNV": {
+      "Code": "GS6ACJ775KNV",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "2021-06-09T00:00:00"
+    },
+    "UTNBBGSZ3NQM": {
+      "Code": "UTNBBGSZ3NQM",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-05-29T00:00:00"
+    },
+    "8A6ABHTH2N9Z": {
+      "Code": "8A6ABHTH2N9Z",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-05-29T00:00:00"
+    },
+    "WTNTBYSZJNRD": {
+      "Code": "WTNTBYSZJNRD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-05-29T00:00:00"
+    },
+    "FS6SU367M279": {
+      "Code": "FS6SU367M279",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-04-17T00:00:00"
+    },
+    "4BNSD3675J8D": {
+      "Code": "4BNSD3675J8D",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-04-17T00:00:00"
+    },
+    "ATPTUJPP53QH": {
+      "Code": "ATPTUJPP53QH",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-04-17T00:00:00"
+    },
+    "2T7E9CPA7YJE": {
+      "Code": "2T7E9CPA7YJE",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-04-17T00:00:00"
+    },
+    "EBPWQU6SNZ22": {
+      "Code": "EBPWQU6SNZ22",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-04-17T00:00:00"
+    },
+    "CBNXRD6S7H3N": {
+      "Code": "CBNXRD6S7H3N",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-04-17T00:00:00"
+    },
+    "TT7BVJNPL249": {
+      "Code": "TT7BVJNPL249",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60
+      },
+      "Expired": "2021-03-31T00:00:00"
+    },
+    "PSNTC8FEQK4D": {
+      "Code": "PSNTC8FEQK4D",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2021-03-07T00:00:00"
+    },
+    "ET7ADQFF8KJR": {
+      "Code": "ET7ADQFF8KJR",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-03-07T00:00:00"
+    },
+    "KTNSCQWW922M": {
+      "Code": "KTNSCQWW922M",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-03-07T00:00:00"
+    },
+    "JSSK8N23JZR": {
+      "Code": "JSSK8N23JZR",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2021-01-23T00:00:00"
+    },
+    "DU2MHJQL1ZT": {
+      "Code": "DU2MHJQL1ZT",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2021-01-23T00:00:00"
+    },
+    "CUUPMBJSVD": {
+      "Code": "CUUPMBJSVD",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 50
+      },
+      "Expired": "2021-01-26T00:00:00"
+    },
+    "NBEM3MYAL2B": {
+      "Code": "NBEM3MYAL2B",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 10000
+      },
+      "Expired": "2021-01-23T00:00:00"
+    },
+    "153YUSAENH": {
+      "Code": "153YUSAENH",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 10,
+        "adventurers_experience": 5
+      },
+      "Expired": "0001-01-01T00:00:00"
+    },
+    "GSIMPTQ125": {
+      "Code": "GSIMPTQ125",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "0001-01-01T00:00:00"
+    },
+    "G3TQQ6TOQME": {
+      "Code": "G3TQQ6TOQME",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "heros_wit": 5
+      },
+      "Expired": "2020-12-12T00:00:00"
+    },
+    "5KVEIBSXDUU": {
+      "Code": "5KVEIBSXDUU",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mystic_enhancement_ore": 10
+      },
+      "Expired": "2020-12-12T00:00:00"
+    },
+    "EATDGIXLD56": {
+      "Code": "EATDGIXLD56",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 100,
+        "mora": 50000
+      },
+      "Expired": "2020-12-12T00:00:00"
+    },
+    "GOLNXLAKC58": {
+      "Code": "GOLNXLAKC58",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 50
+      },
+      "Expired": "2020-11-30T00:00:00"
+    },
+    "GENSHIN1111": {
+      "Code": "GENSHIN1111",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "2020-11-20T00:00:00"
+    },
+    "GENSHINZHB30": {
+      "Code": "GENSHINZHB30",
+      "Server": "All",
+      "Rewards": {
+        "primogem": 160
+      },
+      "Expired": "2020-10-31T00:00:00"
+    },
+    "GENSHINMHY0M": {
+      "Code": "GENSHINMHY0M",
+      "Server": "NA",
+      "Rewards": {
+        "primogem": 30
+      },
+      "Expired": "2020-10-31T00:00:00"
+    },
+    "GENSHINMHY0I": {
+      "Code": "GENSHINMHY0I",
+      "Server": "AS",
+      "Rewards": {
+        "primogem": 30
+      },
+      "Expired": "2020-10-21T00:00:00"
+    },
+    "GENSHINMHY0O": {
+      "Code": "GENSHINMHY0O",
+      "Server": "EU",
+      "Rewards": {
+        "primogem": 30
+      },
+      "Expired": "2020-10-21T00:00:00"
+    },
+    "GENSHIN1006A": {
+      "Code": "GENSHIN1006A",
+      "Server": "NA",
+      "Rewards": {
+        "primogem": 30,
+        "adventurers_experience": 5
+      },
+      "Expired": "2020-10-13T00:00:00"
+    },
+    "GENSHIN1006S": {
+      "Code": "GENSHIN1006S",
+      "Server": "AS",
+      "Rewards": {
+        "primogem": 30,
+        "adventurers_experience": 5
+      },
+      "Expired": "2020-10-13T00:00:00"
+    },
+    "GENSHIN1006U": {
+      "Code": "GENSHIN1006U",
+      "Server": "EU",
+      "Rewards": {
+        "primogem": 30,
+        "adventurers_experience": 5
+      },
+      "Expired": "2020-10-13T00:00:00"
+    },
+    "GENSHIN0928N": {
+      "Code": "GENSHIN0928N",
+      "Server": "NA",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "2020-10-07T00:00:00"
+    },
+    "GENSHIN0928E": {
+      "Code": "GENSHIN0928E",
+      "Server": "AS",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "2020-10-07T00:00:00"
+    },
+    "GENSHIN0928A": {
+      "Code": "GENSHIN0928A",
+      "Server": "EU",
+      "Rewards": {
+        "primogem": 60,
+        "mora": 10000
+      },
+      "Expired": "2020-10-07T00:00:00"
+    }
+  },
+  "Type": "RedeemCodeData"
+}

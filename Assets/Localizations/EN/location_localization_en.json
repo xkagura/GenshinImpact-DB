@@ -1,0 +1,420 @@
+{
+  "LangCode": "EN",
+  "Locations": {
+    "dragonspine": {
+      "Name": "Dragonspine",
+      "Description": null
+    },
+    "enkanomiya": {
+      "Name": "Enkanomiya",
+      "Description": null
+    },
+    "the_chasm": {
+      "Name": "The Chasm",
+      "Description": null
+    },
+    "diving": {
+      "Name": "Diving",
+      "Description": null
+    },
+    "gardening": {
+      "Name": "Gardening",
+      "Description": null
+    }
+  },
+  "Mondstadt": {
+    "beaches_of_dragonspine": {
+      "Name": "Beaches of Dragonspine",
+      "Description": null
+    },
+    "cider_lake": {
+      "Name": "Cider Lake",
+      "Description": null
+    },
+    "city_of_mondstadt": {
+      "Name": "City of Mondstadt",
+      "Description": null
+    },
+    "dawn_winery": {
+      "Name": "Dawn Winery",
+      "Description": null
+    },
+    "springvale": {
+      "Name": "Springvale",
+      "Description": null
+    },
+    "starsnatch_cliff": {
+      "Name": "Starsnatch Cliff",
+      "Description": null
+    },
+    "stormbearer_mountains": {
+      "Name": "Stormbearer Mountains",
+      "Description": null
+    },
+    "stormbearer_point": {
+      "Name": "Stormbearer Point",
+      "Description": null
+    },
+    "stormterrors_lair": {
+      "Name": "Stormterror's Lair",
+      "Description": null
+    },
+    "windrise": {
+      "Name": "Windrise",
+      "Description": null
+    },
+    "whispering_woods": {
+      "Name": "Whispering Woods",
+      "Description": null
+    },
+    "wolvendom": {
+      "Name": "Wolvendom",
+      "Description": null
+    }
+  },
+  "Liyue": {
+    "beaches_of_liyue": {
+      "Name": "Beaches of Liyue",
+      "Description": null
+    },
+    "bishui_plain": {
+      "Name": "Bishui Plain",
+      "Description": null
+    },
+    "dihua_marsh": {
+      "Name": "Dihua Marsh",
+      "Description": null
+    },
+    "guili_plains": {
+      "Name": "Guili Plains",
+      "Description": null
+    },
+    "liyue_harbor": {
+      "Name": "Liyue Harbor",
+      "Description": null
+    },
+    "luhua_pool": {
+      "Name": "Luhua Pool",
+      "Description": null
+    },
+    "minlin": {
+      "Name": "Minlin",
+      "Description": null
+    },
+    "mingyun_village": {
+      "Name": "Mingyun Village",
+      "Description": null
+    },
+    "mt_aocang": {
+      "Name": "Mt. Aocang",
+      "Description": null
+    },
+    "mt_hulao": {
+      "Name": "Mt. Hulao",
+      "Description": null
+    },
+    "stone_gate": {
+      "Name": "Stone Gate",
+      "Description": null
+    },
+    "qingce_village": {
+      "Name": "Qingce Village",
+      "Description": null
+    },
+    "tianqiu_valley": {
+      "Name": "Tianqiu Valley",
+      "Description": null
+    },
+    "wangshu_inn": {
+      "Name": "Wangshu Inn",
+      "Description": null
+    },
+    "wuwang_hill": {
+      "Name": "Wuwang Hill",
+      "Description": null
+    },
+    "nameless_ruins": {
+      "Name": "nameless_ruins",
+      "Description": null
+    },
+    "underground_waterway": {
+      "Name": "Underground Waterway",
+      "Description": null
+    }
+  },
+  "Inazuma": {
+    "beaches_of_inazuma": {
+      "Name": "Beaches of Inazuma",
+      "Description": null
+    },
+    "amakane_island": {
+      "Name": "Amakane Island",
+      "Description": null
+    },
+    "autake_plains": {
+      "Name": "Autake Plains",
+      "Description": null
+    },
+    "chirai_shrine": {
+      "Name": "Chirai Shrine",
+      "Description": null
+    },
+    "kannazuka": {
+      "Name": "Kannazuka",
+      "Description": null
+    },
+    "koseki_village": {
+      "Name": "Koseki Village",
+      "Description": null
+    },
+    "mikage_furnace": {
+      "Name": "Mikage Furnace",
+      "Description": null
+    },
+    "mt_yougou": {
+      "Name": "Mt. Yougou",
+      "Description": null
+    },
+    "narukami_island": {
+      "Name": "Narukami Island",
+      "Description": null
+    },
+    "nazuchi_beach": {
+      "Name": "Nazuchi Beach",
+      "Description": null
+    },
+    "ritou": {
+      "Name": "Ritou",
+      "Description": null
+    },
+    "sangonomiya_shrine": {
+      "Name": "Sangonomiya Shrine",
+      "Description": null
+    },
+    "serai_island": {
+      "Name": "Serai Island",
+      "Description": null
+    },
+    "suigetsu_pool": {
+      "Name": "Suigetsu Pool",
+      "Description": null
+    },
+    "tatarasuna": {
+      "Name": "Tatarasuna",
+      "Description": null
+    },
+    "tsurumi_island": {
+      "Name": "Tsurumi Island",
+      "Description": null
+    },
+    "watatsumi_island": {
+      "Name": "Watatsumi Island",
+      "Description": null
+    },
+    "yashiori_island": {
+      "Name": "Yashiori Island",
+      "Description": null
+    },
+    "the_serpents_bowels": {
+      "Name": "The Serpent's Bowels",
+      "Description": null
+    },
+    "the_serpents_heart_altar": {
+      "Name": "The Altar at The Serpent's Heart",
+      "Description": null
+    }
+  },
+  "Sumeru": {
+    "mountains_of_sumeru": {
+      "Name": "Mountains of Sumeru",
+      "Description": null
+    },
+    "deserts_of_sumeru": {
+      "Name": "Deserts of Sumeru",
+      "Description": null
+    },
+    "lakes_and_river_banks_in_sumeru": {
+      "Name": "Lakes and River Banks in Sumeru",
+      "Description": null
+    },
+    "lokapala_jungle": {
+      "Name": "Lokapala Jungle",
+      "Description": null
+    },
+    "sumeru_city": {
+      "Name": "Sumeru City",
+      "Description": null
+    },
+    "yazadaha_pool": {
+      "Name": "Yazadaha Pool",
+      "Description": null
+    },
+    "vimara_village": {
+      "Name": "Vimara Village",
+      "Description": null
+    },
+    "port_ormos": {
+      "Name": "Port Ormos",
+      "Description": null
+    },
+    "devantaka_mountain": {
+      "Name": "Devantaka Mountain",
+      "Description": null
+    },
+    "mawtiyima_forest": {
+      "Name": "Mawtiyima Forest",
+      "Description": null
+    },
+    "vanarana": {
+      "Name": "Vanarana",
+      "Description": null
+    },
+    "temir_mountains": {
+      "Name": "Temir Mountains",
+      "Description": null
+    }
+  },
+  "Fontaine": {
+    "fontaine_wild": {
+      "Name": "Found in the wilds of Fontaine",
+      "Description": null
+    },
+    "salacia_plain_western_shoal": {
+      "Name": "Salacia Plain: Western Shoal",
+      "Description": null
+    },
+    "fishing_boat_at_sea": {
+      "Name": "Fishing Boat at Sea",
+      "Description": null
+    },
+    "west_slopes_of_mont_automnequi": {
+      "Name": "West Slopes of Mont Automnequi",
+      "Description": null
+    },
+    "fountain_of_lucine_western_shoal": {
+      "Name": "Fountain of Lucine: Western Shoal",
+      "Description": null
+    },
+    "elynas_southern_mountains": {
+      "Name": "Elynas: Southern Mountains",
+      "Description": null
+    },
+    "elynas_eastern_shoal": {
+      "Name": "Elynas: Eastern Shoal",
+      "Description": null
+    },
+    "court_of_fontaine": {
+      "Name": "Court of Fontaine",
+      "Description": null
+    },
+    "court_of_fontaine_city_wall_southern_arc": {
+      "Name": "Court of Fontaine: City Wall Southern Arc",
+      "Description": null
+    },
+    "elynas_northeast_beach": {
+      "Name": "Elynas: Northeast Beach",
+      "Description": null
+    },
+    "erinnyes_forest": {
+      "Name": "Erinnyes Forest",
+      "Description": null
+    }
+  },
+  "Natlan": {},
+  "Snezhnaya": {},
+  "Shops": {
+    "paimons_bargains": {
+      "Name": "Paimon's Bargains",
+      "Description": null
+    },
+    "with_wind_comes_glory": {
+      "Name": "With Wind Comes Glory",
+      "Description": "Marjorie"
+    },
+    "mingxing_jewelry": {
+      "Name": "Mingxing Jewelry",
+      "Description": "Xingxi"
+    },
+    "netsuke_no_gen_crafts": {
+      "Name": "Netsuke no Gen Crafts",
+      "Description": "Mikoshi Genichirou"
+    },
+    "mondstadt_general_goods": {
+      "Name": "Mondstadt General Goods",
+      "Description": "Blanche"
+    },
+    "second_life": {
+      "Name": "Second Life",
+      "Description": "Dongsheng"
+    },
+    "tsukumomono_groceries": {
+      "Name": "Tsukumomono Groceries",
+      "Description": "Aoi"
+    },
+    "good_hunter": {
+      "Name": "Good Hunter",
+      "Description": "Sara"
+    },
+    "wanmin_restaurant": {
+      "Name": "Wanmin Restaurant",
+      "Description": "Chef Mao"
+    },
+    "shimuras": {
+      "Name": " Shimura's",
+      "Description": "Shimura Kanbei"
+    },
+    "mondstadt_fishing_association": {
+      "Name": "Mondstadt Fishing Association",
+      "Description": "Nantuck"
+    },
+    "liyue_fishing_association": {
+      "Name": "Liyue Fishing Association",
+      "Description": "Jiawei"
+    },
+    "inazuma_fishing_association": {
+      "Name": "Inazuma Fishing Association",
+      "Description": "Kujirai Momiji"
+    },
+    "floral_whisper": {
+      "Name": "Floral Whisper",
+      "Description": "Flora"
+    },
+    "botanist_chloris": {
+      "Name": "Botanist",
+      "Description": "Chloris"
+    },
+    "miller_ms_bai": {
+      "Name": "Miller",
+      "Description": "Ms. Bai"
+    },
+    "wangshu_inn_shop": {
+      "Name": "Wangshu Inn",
+      "Description": "Verr Goldet"
+    },
+    "bubu_pharmacy": {
+      "Name": "Bubu Pharmacy",
+      "Description": "Herbalist Gui"
+    },
+    "jade_mystery": {
+      "Name": "Jade Mystery",
+      "Description": "Shitou"
+    },
+    "wanyou_boutique": {
+      "Name": "Wanyou Boutique",
+      "Description": "Bolai"
+    },
+    "merchant_changshun": {
+      "Name": "Merchant",
+      "Description": "Changshun"
+    },
+    "sailing_breeze": {
+      "Name": "Sailing Breeze",
+      "Description": "Karpillia"
+    },
+    "chuyu_trading_company": {
+      "Name": "Chuyu Trading Company",
+      "Description": "Qiuyue"
+    }
+  },
+  "Type": "LocationLocalization"
+}

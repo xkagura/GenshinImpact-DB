@@ -1,0 +1,1073 @@
+{
+  "LangCode": "EN",
+  "DomainsOfMastery": {
+    "cecilia_garden": {
+      "Name": "Cecilia Garden",
+      "Description": "The Cecilia flowers that only grow on high cliffs once bloomed in the greenhouses here. The ancient civilization that once enjoyed the scent of the Cecilia was lost, and so too was the sea of white flowers.",
+      "ChallengeNames": [
+        "City of Reflections",
+        "Submerged Valley",
+        "Ruins of Thirsting Capital"
+      ],
+      "LeyLineDisorders": {
+        "1": [
+          "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-80% Reduce CD) until the inflicted Hydro element is removed."
+        ],
+        "2": [
+          "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+        ],
+        "3": [
+          "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-100% Reduce CD) until the inflicted Hydro element is removed."
+        ],
+        "4": [
+          "Your character will be periodically inflicted with Slowing Water, greatly increasing your skill's CD duration (-150% Reduce CD) until the inflicted Hydro element is removed."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Slowing Water is an application of Hydro that will extend characters' Elemental Skill and Burst CDs. Use Elemental Reactions to remove it or switch to other characters to decrease combat difficulty.",
+          "Cryo attacks can be used to control opponents affected by Hydro through being Frozen. The Frozen reaction can be used to break Hydro Shields that protect opponents."
+        ],
+        "4": [
+          "Slowing Water is an application of Hydro that will extend characters' Elemental Skill and Burst CDs. Use Elemental Reactions to remove it or switch to other characters to decrease combat difficulty.",
+          "Cryo attacks can be used to control opponents affected by Hydro through being Frozen. The Frozen reaction can be used to break Hydro Shields that protect opponents."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 20 enemies. Time between kills cannot exceed 20 seconds."
+        ],
+        "2": [
+          "Defeat 23 enemies. Time between kills cannot exceed 25 seconds"
+        ],
+        "3": [
+          "Defeat 22 enemies. Time between kills cannot exceed 50 seconds."
+        ],
+        "4": [
+          "Defeat 8 enemies. Time between kills cannot exceed 40 seconds.",
+          "Defeat 2 enemies. Time between kills cannot exceed 80 seconds."
+        ]
+      }
+    },
+    "hidden_palace_of_lianshan_formula": {
+      "Name": "Hidden Palace of Lianshan Formula",
+      "Description": "The operation of the Lianshan Formula created endless thunderstorms within the bowels of the mountain. It is said that the rumbling sounds of thunder that one hears outside the domain's gates call out to the curious souls.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
+        ],
+        "2": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
+        ],
+        "3": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed.",
+          "Lightning bolts will periodically fall from above, dealing Electro DMG and completely draining the hit character's Energy. Lightning bolts may leave balls of lightning."
+        ],
+        "4": [
+          "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed.",
+          "Lightning bolts will periodically fall from above, dealing Electro DMG and completely draining the hit character's Energy. Lightning bolts may leave balls of lightning."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Engulfing Storm is an application of Electro that will continuously sap characters' Elemental Energy. Use Elemental Reactions to remove it or enlist characters whose Energy Recharge is high or who do not rely on their Elemental Bursts to decrease combat difficulty."
+        ],
+        "4": [
+          "Engulfing Storm is an application of Electro that will continuously sap characters' Elemental Energy. Use Elemental Reactions to remove it or enlist characters whose Energy Recharge is high or who do not rely on their Elemental Bursts to decrease combat difficulty."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 20 opponents within 360 seconds."
+        ],
+        "2": [
+          "Defeat 16 opponents within 360 seconds."
+        ],
+        "3": [
+          "Defeat 10 opponents within 360 seconds."
+        ],
+        "4": [
+          "Defeat 8 opponents within 480 seconds."
+        ]
+      }
+    },
+    "court_of_flowing_sand": {
+      "Name": "Court of Flowing Sand",
+      "Description": "They say that in antediluvian times now lost to history, there was once a foolish ruler who dreamed of building a high garden in honor of the white sacred tree over the primordial sands. Now, dead silence fills the kingdom built on sand, but the obsessions of the past remain.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "All party members' Shield Strength increased by 40%.",
+          "When a character obtains an Elemental Shard generated by a Geo Elemental Reaction, a shockwave will be unleashed, dealing DMG to enemies nearby."
+        ],
+        "2": [
+          "All party members' Shield Strength increased by 40%.",
+          "When a character obtains an Elemental Shard generated by a Geo Elemental Reaction, a shockwave will be unleashed, dealing DMG to enemies nearby."
+        ],
+        "3": [
+          "All party members' Shield Strength increased by 40%.",
+          "When a character obtains an Elemental Shard generated by a Geo Elemental Reaction, a shockwave will be unleashed, dealing DMG to enemies nearby."
+        ],
+        "4": [
+          "All party members' Shield Strength increased by 40%.",
+          "When a character obtains an Elemental Shard generated by a Geo Elemental Reaction, a shockwave will be unleashed, dealing DMG to enemies nearby."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "All characters' Shield Strength is increased. When a character obtains an Elemental Shard generated by a Geo Elemental Reaction, a shockwave will be unleashed, dealing DMG to enemies nearby. Enlist Geo-aligned characters into your party to use this Ley Line Disorder to deal even more DMG."
+        ],
+        "4": [
+          "All characters' Shield Strength is increased. When a character obtains an Elemental Shard generated by a Geo Elemental Reaction, a shockwave will be unleashed, dealing DMG to enemies nearby. Enlist Geo-aligned characters into your party to use this Ley Line Disorder to deal even more DMG."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 18 enemies in less than 6:00 minutes."
+        ],
+        "2": [
+          "Defeat 10 enemies in less than 6:00 minutes."
+        ],
+        "3": [
+          "Defeat 8 enemies in less than 6:00 minutes."
+        ],
+        "4": [
+          "Defeat 12 enemies in less than 6:00 minutes."
+        ]
+      }
+    },
+    "tower_of_abject_pride": {
+      "Name": "Tower of Abject Pride",
+      "Description": "It is said that the deserts were once home to three sage-kings, one of whom remained lovely and wise till the very end. They parted ways eventually for the sake of the paradise they sought in their hearts. This place is called a \"tower,\" but in truth was the temporary residence of one of these people when they were building that earthly paradise. If one stretches the past back even further, it was once a small shrine built to avoid the wind and the sand.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
+        ],
+        "2": [
+          "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
+        ],
+        "3": [
+          "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
+        ],
+        "4": [
+          "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "During the challenge, Quickened opponents will have all their Elemental RES decreased. As such, place Dendro and Electro characters in your party to use the Ley Line Disorder here to your advantage."
+        ],
+        "4": [
+          "During the challenge, Quickened opponents will have all their Elemental RES decreased. As such, place Dendro and Electro characters in your party to use the Ley Line Disorder here to your advantage."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 12 opponent(s) within 300 second(s)."
+        ],
+        "2": [
+          "Defeat 16 opponent(s) within 300 second(s)."
+        ],
+        "3": [
+          "Defeat 10 opponent(s) within 300 second(s)."
+        ],
+        "4": [
+          "Defeat 9 opponent(s) within 300 second(s)."
+        ]
+      }
+    },
+    "echoes_of_the_deep_tides": {
+      "Name": "Echoes of the Deep Tides",
+      "Description": "Legend speaks of a time in the distant past, when the Sovereign of the Waters had not yet returned from confinement, there was another God King who dreamed of building a prosperous empire out of harmonious music atop the waves. But the great ambition of building a utopia failed to come to fruition, and the arrogance of humanity sunk into their depths along with their pride. The golden melodies long silent, only the cold music of the tides still echoes upon the remains of their grand altars.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "After triggering Hydro-related reactions on opponents, all party members receive a 10% Hydro DMG bonus that lasts 10s. This effect can be triggered every 2s. Max 5 stacks. Characters' resistance to interruption will be increased when 5 stacks are reached."
+        ],
+        "2": [
+          "After triggering Hydro-related reactions on opponents, all party members receive a 10% Hydro DMG bonus that lasts 10s. This effect can be triggered every 2s. Max 5 stacks. Characters' resistance to interruption will be increased when 5 stacks are reached."
+        ],
+        "3": [
+          "After triggering Hydro-related reactions on opponents, all party members receive a 10% Hydro DMG bonus that lasts 10s. This effect can be triggered every 2s. Max 5 stacks. Characters' resistance to interruption will be increased when 5 stacks are reached."
+        ],
+        "4": [
+          "After triggering Hydro-related reactions on opponents, all party members receive a 10% Hydro DMG bonus that lasts 10s. This effect can be triggered every 2s. Max 5 stacks. Characters' resistance to interruption will be increased when 5 stacks are reached."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "After a character triggers Hydro-Related Reactions, all party members will be granted a Hydro DMG Bonus. As such, place Hydro characters into the party to defeat your opponents more effectively."
+        ],
+        "4": [
+          "After a character triggers Hydro-Related Reactions, all party members will be granted a Hydro DMG Bonus. As such, place Hydro characters into the party to defeat your opponents more effectively."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 6 opponent(s) within 300 second(s)"
+        ],
+        "2": [
+          "Defeat 7 opponent(s) within 300 second(s)"
+        ],
+        "3": [
+          "Defeat 5 opponent(s) within 300 second(s)"
+        ],
+        "4": [
+          "Defeat 5 opponent(s) within 300 second(s)"
+        ]
+      }
+    }
+  },
+  "DomainsOfForgery": {
+    "forsaken_rift": {
+      "Name": "Forsaken Rift",
+      "Description": "It is said in ancient times, people would venture into the valley to seek out the ancient tree on the altar. They would whisper their secrets into the tree hole, relieving themselves of the burden of keeping the secrets to themselves. The Forsaken Rift is filled with long-forgotten secrets.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed."
+        ],
+        "2": [
+          "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed."
+        ],
+        "3": [
+          "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed. Icicles will periodically fall from above, dealing Cryo DMG."
+        ],
+        "4": [
+          "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed. Icicles will periodically fall from above, dealing Cryo DMG."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Condensed Ice is an application of Cryo that will cause characters' Stamina Consumption to greatly increase. Use Elemental Reactions to remove it.",
+          "Pyro attacks can break the opponent's Cryo Shield."
+        ],
+        "4": [
+          "Condensed Ice is an application of Cryo that will cause characters' Stamina Consumption to greatly increase. Use Elemental Reactions to remove it.",
+          "Pyro attacks can break the opponent's Cryo Shield."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 18 opponents within 360 seconds."
+        ],
+        "2": [
+          "Defeat 20 opponents within 360 seconds."
+        ],
+        "3": [
+          "Defeat 8 opponents within 360 seconds."
+        ],
+        "4": [
+          "Defeat 8 opponents within 480 seconds."
+        ]
+      }
+    },
+    "taishan_mansion": {
+      "Name": "Taishan Mansion",
+      "Description": "Once, people who sought the path of the adepti had to pass the trials of heavens and earth. Taishan Mansion served as the trial of \"earth.\" Now that the adepti have long departed from this realm, Taishan Mansion has also turned into a common treasure trove.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Your character will be periodically inflicted with Smoldering Flames, causing you to take Pyro DMG until the inflicted Pyro element is removed."
+        ],
+        "2": [
+          "Your character will be periodically inflicted with Smoldering Flames, causing you to take Pyro DMG until the inflicted Pyro element is removed."
+        ],
+        "3": [
+          "Your character will be periodically inflicted with Smoldering Flames, causing you to take Pyro DMG until the inflicted Pyro element is removed."
+        ],
+        "4": [
+          "Your character will be periodically inflicted with Smoldering Flames, causing you to take Pyro DMG until the inflicted Pyro element is removed."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Smoldering Flames is an application of Pyro that will continuously deal DMG to characters. Use Elemental Reactions to remove it or use characters' healing abilities and shields to decrease combat difficulty."
+        ],
+        "4": [
+          "Smoldering Flames is an application of Pyro that will continuously deal DMG to characters. Use Elemental Reactions to remove it or use characters' healing abilities and shields to decrease combat difficulty."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 20 opponents within 360 seconds."
+        ],
+        "2": [
+          "Defeat 12 opponents within 360 seconds."
+        ],
+        "3": [
+          "Defeat 8 opponents within 360 seconds."
+        ],
+        "4": [
+          "Defeat 4 opponents within 480 seconds."
+        ]
+      }
+    },
+    "violet_court": {
+      "Name": "Violet Court",
+      "Description": "Sometime in the ancient past, the mountains rose higher than the skies, and the earth was larger than heaven's dome. But one day, the mirror shattered, and the oceans arose. In these legends, this caused the court of the primeval sakura to become sundered from the other islands.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "All characters in the party gain a 25% Electro DMG Bonus",
+          "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+        ],
+        "2": [
+          "All characters in the party gain a 25% Electro DMG Bonus",
+          "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+        ],
+        "3": [
+          "All characters in the party gain a 25% Electro DMG Bonus",
+          "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+        ],
+        "4": [
+          "All characters in the party gain a 25% Electro DMG Bonus",
+          "Inside the challenge is Electro Crystalfruit, and Nascent Electro Pearls will emerge at intervals. After obtaining Nascent Electro Pearls, a character's Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, and Elemental Burst will unleash Falling Thunder upon hitting enemies, dealing Electro DMG."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "When you obtain Nascent Electro Pearls produced by Electro Crystalfruits, characters' attacks will trigger one instance of additional Electro DMG when they hit opponents."
+        ],
+        "4": [
+          "When you obtain Nascent Electro Pearls produced by Electro Crystalfruits, characters' attacks will trigger one instance of additional Electro DMG when they hit opponents.",
+          "When one of the two Kairagi falls, the other will quickly regenerate its HP and buff itself. Find some way to defeat them both at the same time."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 10 enemies in less than 6:00 minutes."
+        ],
+        "2": [
+          "Defeat 8 enemies in less than 6:00 minutes."
+        ],
+        "3": [
+          "Defeat 10 enemies in less than 6:00 minutes."
+        ],
+        "4": [
+          "Defeat 8 enemies in less than 6:00 minutes."
+        ]
+      }
+    },
+    "steeple_of_ignorance": {
+      "Name": "Steeple of Ignorance",
+      "Description": "In the ancient past, man-made towers that could touch the skies were built all across the land. Though human hearts flowed downward, their souls aspired toward the high heavens. These towers would always fall, or collapse under their own weight and plummet into the depths. However, if one were to look at things at a grander scale, the heavens and earth are as one — no direction is truly different from another.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Dealing Elemental DMG increases the DMG dealt by all party members by 10% for 10s. Stacks triggered by different types of Elemental DMG are counted independently. Max 4 stacks."
+        ],
+        "2": [
+          "Dealing Elemental DMG increases the DMG dealt by all party members by 10% for 10s. Stacks triggered by different types of Elemental DMG are counted independently. Max 4 stacks."
+        ],
+        "3": [
+          "Dealing Elemental DMG increases the DMG dealt by all party members by 10% for 10s. Stacks triggered by different types of Elemental DMG are counted independently. Max 4 stacks."
+        ],
+        "4": [
+          "Dealing Elemental DMG increases the DMG dealt by all party members by 10% for 10s. Stacks triggered by different types of Elemental DMG are counted independently. Max 4 stacks."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "During the challenge, dealing Elemental DMG to opponents will increase the DMG dealt by all party members. Different types of Elemental DMG will trigger this effect with independent durations. As such, place characters with different Elemental Types into your party to use the Ley Line Disorder to your advantage in combat."
+        ],
+        "4": [
+          "During the challenge, dealing Elemental DMG to opponents will increase the DMG dealt by all party members. Different types of Elemental DMG will trigger this effect with independent durations. As such, place characters with different Elemental Types into your party to use the Ley Line Disorder to your advantage in combat."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 2 opponent(s) within 300 second(s)."
+        ],
+        "2": [
+          "Defeat 3 opponent(s) within 300 second(s)."
+        ],
+        "3": [
+          "Defeat 2 opponent(s) within 300 second(s)."
+        ],
+        "4": [
+          "Defeat 2 opponent(s) within 300 second(s)."
+        ]
+      }
+    },
+    "pale_forgotten_glory": {
+      "Name": "Pale Forgotten Glory",
+      "Description": "In the past, the great white armada that traversed the seas was Fontaine's supreme pride and glory, for the Mistress of Rivers and Oceans blessed her people with the authority and wish to conquer all the waters of the world. However, this lofty ambition was insufficient to overcome the laws of fate.\nTo this day, on the brass masts are inscribed the words: \"I have conquered the waves of the four seas.\"",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "When a character recovers or loses HP, your active character's Normal, Charged, and Plunging Attack DMG increases by 10% for 10s. This effect can be triggered once every 0.1s. Max 7 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
+        ],
+        "2": [
+          "When a character recovers or loses HP, your active character's Normal, Charged, and Plunging Attack DMG increases by 10% for 10s. This effect can be triggered once every 0.1s. Max 7 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
+        ],
+        "3": [
+          "When a character recovers or loses HP, your active character's Normal, Charged, and Plunging Attack DMG increases by 10% for 10s. This effect can be triggered once every 0.1s. Max 7 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
+        ],
+        "4": [
+          "When a character recovers or loses HP, your active character's Normal, Charged, and Plunging Attack DMG increases by 10% for 10s. This effect can be triggered once every 0.1s. Max 7 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "When a character's current HP increases or decreases, your active character's Normal, Charged, and Plunging Attacks will deal increased DMG. As such, place characters with Healing abilities in the party to defeat your opponents more effectively."
+        ],
+        "4": [
+          "When a character's current HP increases or decreases, your active character's Normal, Charged, and Plunging Attacks will deal increased DMG. As such, place characters with Healing abilities in the party to defeat your opponents more effectively."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 3 enemies in 300 seconds."
+        ],
+        "2": [
+          "Defeat 4 enemies in 300 seconds."
+        ],
+        "3": [
+          "Defeat 2 enemies in 300 seconds."
+        ],
+        "4": [
+          "Defeat 2 enemies in 300 seconds."
+        ]
+      }
+    }
+  },
+  "DomainsOfBlessing": {
+    "domain_of_guyun": {
+      "Name": "Domain of Guyun",
+      "Description": "Delusions and disappointments of an ancient ambition to lead humanity are gathered here. It refuses to give up on its lofty ambitions, though it is for now consigned to fester in the cavernous depths of Guyun.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."
+        ],
+        "2": [
+          "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies."
+        ],
+        "3": [
+          "When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies."
+        ],
+        "4": [
+          "Electro-Charged DMG increased by 150% and its AoE is increased by 100%."
+        ],
+        "5": [
+          "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Melt is triggered, you will be hit by a powerful blast, causing your character to take DMG.",
+          "When Vaporize is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "6": [
+          "When Superconduct is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Melt is triggered, you will be hit by a powerful blast, causing your character to take DMG.",
+          "When Vaporize is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      "ChallengeFeatures": {
+        "5": [
+          "The Elemental Node in this challenge will apply a Pyro buff to nearby opponents at intervals. Electro attacks can remove this buff effectively through the Overloaded reaction and deal more DMG using the Ley Line Disorder here."
+        ],
+        "6": [
+          "The Elemental Node in this challenge will apply a Cryo buff to nearby opponents at intervals. Electro attacks can remove this buff effectively through the Superconduct reaction and deal more DMG using the Ley Line Disorder here."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 28 enemies while protecting Domain Monolith."
+        ],
+        "2": [
+          "Defeat 22 enemies while protecting Domain Monolith."
+        ],
+        "3": [
+          "Defeat 20 enemies while protecting Domain Monolith."
+        ],
+        "4": [
+          "Defeat 20 enemies while protecting Domain Monolith."
+        ],
+        "5": [
+          "Defeat all enemies in less than 5:00 minutes."
+        ],
+        "6": [
+          "Defeat all enemies in less than 7:00 minutes."
+        ]
+      }
+    },
+    "midsummer_courtyard": {
+      "Name": "Midsummer Courtyard",
+      "Description": "With the fall of the ancient lost civilization, the once prosperous and magnificent Sommernachtgarten was also buried underground, leaving only its ancient trees and stones to remember its past glory.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies."
+        ],
+        "2": [
+          "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "3": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "4": [
+          "When Vaporize is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Electro-Charged is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "5": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "6": [
+          "When Overloaded is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Superconduct is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      "ChallengeFeatures": {
+        "5": [
+          "This stage contains a Cryo Elemental Node: it will apply a Cryo buff to nearby opponents at intervals, which will increase their offensive capabilities and durability. This Cryo buff can be removed using Elemental Reactions.",
+          "The Elemental Node in this challenge will apply a Cryo buff to nearby opponents at intervals. Pyro attacks can remove this buff effectively through the Melt reaction and deal more DMG using the Ley Line Disorder here."
+        ],
+        "6": [
+          "This stage contains an Electro Elemental Node: it will apply an Electro buff to nearby opponents at intervals, which will increase their offensive capabilities and durability. This Electro buff can be removed using Elemental Reactions.",
+          "The Elemental Node in this challenge will apply an Electro buff to nearby opponents at intervals. Pyro attacks can remove this buff effectively through the Overloaded reaction and deal more DMG using the Ley Line Disorder here."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 26 opponents within 300 seconds."
+        ],
+        "2": [
+          "Defeat 12 opponents within 300 seconds."
+        ],
+        "3": [
+          "Defeat 14 opponents within 360 seconds."
+        ],
+        "4": [
+          "Defeat 15 opponents within 360 seconds."
+        ],
+        "5": [
+          "Defeat 5 opponents within 360 seconds."
+        ],
+        "6": [
+          "Defeat 7 opponents within 360 seconds."
+        ]
+      }
+    },
+    "valley_of_remembrance": {
+      "Name": "Valley of Remembrance",
+      "Description": "After a period of time, the people of the continent lost track of the past. They attempt to explore downwards, searching for the things that they had forgotten. On the other side of the ancient tree's hollow, the secrets of yesterday have become today's treasures.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Physical DMG dealt by all party members increased by 75%."
+        ],
+        "2": [
+          "Physical DMG dealt by all party members increased by 75%."
+        ],
+        "3": [
+          "Physical DMG dealt by all party members increased by 75%."
+        ],
+        "4": [
+          "Physical DMG dealt by all party members increased by 75%."
+        ],
+        "5": [
+          "Physical DMG dealt by all party members increased by 75%."
+        ]
+      },
+      "ChallengeFeatures": {
+        "4": [
+          "The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
+        ],
+        "5": [
+          "The opponents in this challenge have decreased Physical RES. Use characters who excel in dealing Physical DMG to decrease challenge difficulty."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 23 opponents within 300 seconds."
+        ],
+        "2": [
+          "Defeat 16 opponents within 300 seconds."
+        ],
+        "3": [
+          "Defeat 20 opponents within 1 minute (additional time will be gained after each kill)."
+        ],
+        "4": [
+          "Defeat 7 opponents within 360 seconds."
+        ],
+        "5": [
+          "Defeat 5 opponents within 360 seconds."
+        ]
+      }
+    },
+    "hidden_palace_of_zhou_formula": {
+      "Name": "Hidden Palace of Zhou Formula",
+      "Description": "There is a secret ritual that can conceal one gate out of eight, cutting off the route for evil to escape. This ritual was performed here long ago, sealing demons within this labyrinth. Rumor has it that the Method to fit Pillars with Zhou Formula presently seals an evil Chi.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "The duration of the Frozen status effect is greatly increased.",
+          "When Superconduct is triggered, an Energy Blast will occur dealing DMG to surrounding enemies."
+        ],
+        "2": [
+          "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies.",
+          "When Overloaded is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "3": [
+          "When Superconduct is triggered, an Energy Blast will occur dealing DMG to surrounding enemies.",
+          "When Overloaded is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ],
+        "4": [
+          "When Melt is triggered, an Energy Blast will occur dealing DMG to surrounding enemies.",
+          "When Overloaded is triggered, you will be hit by a powerful blast, causing your character to take DMG."
+        ]
+      },
+      "ChallengeFeatures": {
+        "2": [
+          "This stage contains a Pyro Elemental Node: it will apply a Pyro buff to nearby opponents at intervals, which will increase their offensive capabilities and durability. This Pyro buff can be removed using Elemental Reactions."
+        ],
+        "3": [
+          "This stage contains an Electro Elemental Node: it will apply an Electro buff to nearby opponents at intervals, which will increase their offensive capabilities and durability. This Electro buff can be removed using Elemental Reactions.",
+          "The Elemental Node in this challenge will apply an Electro buff to nearby opponents at intervals. Cryo attacks can remove this buff effectively through the Superconduct reaction and deal more DMG using the Ley Line Disorder here."
+        ],
+        "4": [
+          "This stage contains a Pyro Elemental Node: it will apply a Pyro buff to nearby opponents at intervals, which will increase their offensive capabilities and durability. This Pyro buff can be removed using Elemental Reactions.",
+          "The Elemental Node in this challenge will apply a Pyro buff to nearby opponents at intervals. Cryo attacks can remove this buff effectively through the Melt reaction and deal more DMG using the Ley Line Disorder here."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 20 enemies while protecting Domain Monolith."
+        ],
+        "2": [
+          "Defeat 8 enemies within 6:00 minutes."
+        ],
+        "3": [
+          "Defeat 16 enemies within 360 seconds."
+        ],
+        "4": [
+          "Defeat 6 opponents within 60 seconds (time is added after each kill)."
+        ]
+      }
+    },
+    "peak_of_vindagnyr": {
+      "Name": "Peak of Vindagnyr",
+      "Description": "This city entombed in snow once had a proud, romantic name to call its own, just as the mountain itself was once lush and verdant in the ancient past. But after the nail that froze the skies over descended upon this mountain, the festive site where priests ascended to face the heavens can no longer hear its voice, nor will those priests ever return again.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+          "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+          "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+        ],
+        "2": [
+          "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+          "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+          "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+        ],
+        "3": [
+          "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+          "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+          "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+        ],
+        "4": [
+          "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
+          "The platforms in this challenge will intermittently switch between the Subzero and Warm statuses.",
+          "The areas affected by the Warm status will diminish Sheer Cold. The areas affected by the Subzero status will accelerate Sheer Cold's accumulation."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "The areas affected by the Warm status will diminish Sheer Cold. Pyro attacks will effectively remove Cryo from opponents."
+        ],
+        "4": [
+          "The areas affected by the Warm status will diminish Sheer Cold. Pyro attacks will effectively remove Cryo from opponents."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat all enemies in less than 10:00 minutes."
+        ],
+        "2": [
+          "Defeat all enemies in less than 10:00 minutes."
+        ],
+        "3": [
+          "Defeat all enemies in less than 10:00 minutes."
+        ],
+        "4": [
+          "Defeat all enemies in less than 10:00 minutes."
+        ]
+      }
+    },
+    "ridge_watch": {
+      "Name": "Ridge Watch",
+      "Description": "Standing proudly over the start of the ridge, these ancient city ruins overlook both north and south, both mountain and river, like a boundary marker. Legend has it that its gates and blessings are only open to those whose hearts are lit with an eternal blaze.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+        ],
+        "2": [
+          "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+        ],
+        "3": [
+          "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+        ],
+        "4": [
+          "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Use characters who can provide shields or trigger the Crystallize reaction to deal greater DMG through the Ley Line Disorder."
+        ],
+        "4": [
+          "Use characters who can provide shields or trigger the Crystallize reaction to deal greater DMG through the Ley Line Disorder."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 10 enemies in less than 6:00 minutes."
+        ],
+        "2": [
+          "Defeat 8 enemies in less than 5:00 minutes."
+        ],
+        "3": [
+          "Defeat 10 enemies in less than 6:00 minutes."
+        ],
+        "4": [
+          "Defeat 2 enemies in less than 5:00 minutes."
+        ]
+      }
+    },
+    "momiji_dyed_court": {
+      "Name": "Momiji-Dyed Court",
+      "Description": "This court is ever a silent scene of falling red leaves. Perhaps lost causes and unforgettable loves may follow the veins of the earth and coalesce into the fruits of the court's white tree.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on.",
+          "Flame Boon: active characters will gain a 60% Pyro DMG Bonus.",
+          "Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
+        ],
+        "2": [
+          "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on.",
+          "Flame Boon: active characters will gain a 60% Pyro DMG Bonus.",
+          "Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
+        ],
+        "3": [
+          "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on.",
+          "Flame Boon: active characters will gain a 60% Pyro DMG Bonus.",
+          "Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
+        ],
+        "4": [
+          "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on.",
+          "Flame Boon: active characters will gain a 60% Pyro DMG Bonus.",
+          "Frost Boon: active characters will gain a 60% Cryo DMG Bonus."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Flame Boon and Frost Boon surfaces will grant characters Pyro and Cryo DMG Bonuses respectively."
+        ],
+        "4": [
+          "Flame Boon and Frost Boon surfaces will grant characters Pyro and Cryo DMG Bonuses respectively."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 13 enemies in less than 6:00 minutes."
+        ],
+        "2": [
+          "Defeat 9 enemies in less than 6:00 minutes."
+        ],
+        "3": [
+          "Defeat 7 enemies in less than 6:00 minutes."
+        ],
+        "4": [
+          "Defeat 4 enemies in less than 6:00 minutes."
+        ]
+      }
+    },
+    "slumbering_court": {
+      "Name": "Slumbering Court",
+      "Description": "This great hall stood when Seirai Island neither had the name it has now, nor had it yet been stained with the color of thunder. The scenery within will probably never change, either.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "All characters in the party gain a 40% Electro DMG Bonus.",
+          "When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+        ],
+        "2": [
+          "All characters in the party gain a 40% Electro DMG Bonus.",
+          "When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+        ],
+        "3": [
+          "All characters in the party gain a 40% Electro DMG Bonus.",
+          "When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+        ],
+        "4": [
+          "All characters in the party gain a 40% Electro DMG Bonus.",
+          "When an active character triggers Electro-Charged on opponents, they will trigger a shockwave that will deal True DMG to opponents. A shockwave can be triggered in this manner once every 3s."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "All party members receive an Electro DMG Bonus."
+        ],
+        "4": [
+          "Electro attacks can deal with Thundercraven Rifthounds more effectively through the Electro-Charged reaction and the Ley Line Disorder."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 10 enemies in less than 6:00 minutes."
+        ],
+        "2": [
+          "Defeat 13 enemies in less than 6:00 minutes."
+        ],
+        "3": [
+          "Defeat 7 enemies in less than 6:00 minutes."
+        ],
+        "4": [
+          "Defeat 9 enemies in less than 6:00 minutes."
+        ]
+      }
+    },
+    "clear_pool_and_mountain_cavern": {
+      "Name": "Clear Pool and Mountain Cavern",
+      "Description": "Mt. Aocang is a place of secret wonders. What at first merely seems like beautiful scenery in fact conceals a stone cave that connects to the heavens and breathes out clouds. Nonetheless, this is not how the saying \"where the clouds emerge\" was derived.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "Geo DMG dealt by all party members increased by 75%."
+        ],
+        "2": [
+          "Geo DMG dealt by all party members increased by 75%."
+        ],
+        "3": [
+          "Geo DMG dealt by all party members increased by 75%."
+        ]
+      },
+      "ChallengeFeatures": {
+        "2": [
+          "All party members receive a Geo DMG Bonus.",
+          "Opponents possess different types of Elemental Shield. One may consider using Geo and Anemo attacks, which can react with all of their shields, to counteract them."
+        ],
+        "3": [
+          "All party members receive a Geo DMG Bonus.",
+          "Opponents possess different types of Elemental Shield. One may consider using Geo and Anemo attacks, which can react with all of their shields, to counteract them."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 3 opponents within 300 sec."
+        ],
+        "2": [
+          "Defeat 3 opponents within 360 sec."
+        ],
+        "3": [
+          "Defeat 3 opponents within 360 sec"
+        ]
+      }
+    },
+    "the_lost_valley": {
+      "Name": "The Lost Valley",
+      "Description": "The ancient ritual grounds were buried beneath the earth amidst a cataclysm that tore heaven and earth asunder before being uplifted by the descent of an alien object, and finally unveiled by a destructive battle that resulted from a betrayal. Nonetheless, those who once frequented this place are no more.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+        ],
+        "2": [
+          "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+        ],
+        "3": [
+          "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+        ],
+        "4": [
+          "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Enlist characters whose Elemental Skill CDs are shorter to make use of the Ley Line Disorder and deal more DMG through the use of more Elemental Skills."
+        ],
+        "4": [
+          "Enlist characters whose Elemental Skill CDs are shorter to make use of the Ley Line Disorder and deal more DMG through the use of more Elemental Skills."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 2 opponents within 360 seconds."
+        ],
+        "2": [
+          "Defeat 4 opponents within 360 seconds."
+        ],
+        "3": [
+          "Defeat 5 opponents within 360 seconds."
+        ],
+        "4": [
+          "Defeat 3 opponents within 360 seconds."
+        ]
+      }
+    },
+    "spire_of_solitary_enlightenment": {
+      "Name": "Spire of Solitary Enlightenment",
+      "Description": "In ancient times, this was a great and beautiful place, seemingly made to bless the children of humanity. But the arrow of heaven would descend, making mountains out of flat land and burying the ancient capitol beneath the hills.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
+        ],
+        "2": [
+          "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
+        ],
+        "3": [
+          "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
+        ],
+        "4": [
+          "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "Place characters with high Elemental Mastery into your party to use the Ley Line Disorder to increase the Elemental Mastery of all party members."
+        ],
+        "4": [
+          "Place characters with high Elemental Mastery into your party to use the Ley Line Disorder to increase the Elemental Mastery of all party members."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "?"
+        ],
+        "2": [
+          "?"
+        ],
+        "3": [
+          "?"
+        ],
+        "4": [
+          "Defeat all enemies in less than 6:00 minutes."
+        ]
+      }
+    },
+    "city_of_gold": {
+      "Name": "City of Gold",
+      "Description": "This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+        ],
+        "2": [
+          "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+        ],
+        "3": [
+          "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+        ],
+        "4": [
+          "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "During this challenge, triggering Swirl reactions will grant all party members an Anemo DMG Bonus. As such, place Anemo characters into the party to make use of the Ley Line Disorder and defeat your opponents more effectively."
+        ],
+        "4": [
+          "During this challenge, triggering Swirl reactions will grant all party members an Anemo DMG Bonus. As such, place Anemo characters into the party to make use of the Ley Line Disorder and defeat your opponents more effectively."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat all enemies in less than 5:00 minutes"
+        ],
+        "2": [
+          "Defeat all enemies in less than 5:00 minutes"
+        ],
+        "3": [
+          "Defeat all enemies in less than 5:00 minutes"
+        ],
+        "4": [
+          "Defeat all enemies in less than 5:00 minutes"
+        ]
+      }
+    },
+    "molten_iron_fortress": {
+      "Name": "Molten Iron Fortress",
+      "Description": "Legend has it that the territory of the red desert was marked by an ancient barrier of iron and bronze. The Lord of the Blazing Sun used to set out from here on his chariot to drive away the evil spirits wandering among the grim mountains. However, the gilded nations later sank into the sand and towering parapets of iron and bronze thus faded into oblivion along with their parent nations, leaving only unrecognizable ruins.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "When a party member triggers a Dendro-related Elemental Reaction, the Elemental Mastery of all party members is increased by 150 for 8s. This effect can be triggered at most every 1s."
+        ],
+        "2": [
+          "When a party member triggers a Dendro-related Elemental Reaction, the Elemental Mastery of all party members is increased by 150 for 8s. This effect can be triggered at most every 1s."
+        ],
+        "3": [
+          "When a party member triggers a Dendro-related Elemental Reaction, the Elemental Mastery of all party members is increased by 150 for 8s. This effect can be triggered at most every 1s."
+        ],
+        "4": [
+          "When a party member triggers a Dendro-related Elemental Reaction, the Elemental Mastery of all party members is increased by 150 for 8s. This effect can be triggered at most every 1s."
+        ]
+      },
+      "ChallengeFeatures": {},
+      "Objectives": {
+        "1": [
+          "Defeat 12 enemies in 300 seconds."
+        ],
+        "2": [
+          "Defeat 9 enemies in 300 seconds."
+        ],
+        "3": [
+          "Defeat 7 enemies in 300 seconds."
+        ],
+        "4": [
+          "Defeat 4 enemies in 300 seconds."
+        ]
+      }
+    },
+    "denouement_of_sin": {
+      "Name": "Denouement of Sin",
+      "Description": "Legends say that the first Lochknight concealed themselves in the remote wilderness with the Lochfolk, intending to use self-exile and rigorous training in an attempt to repay a sin fated to be beyond redemption. Now, the land has long returned to deathly silence, with the long chill winds still blowing through the deserted valley.",
+      "ChallengeNames": null,
+      "LeyLineDisorders": {
+        "1": [
+          "When a character recovers or loses HP, all your party members' CRIT DMG increases by 7% for 10s. This effect can be triggered once every 0.1s. Max 10 stacks. Each stack's duration is counted independently."
+        ],
+        "2": [
+          "When a character recovers or loses HP, all your party members' CRIT DMG increases by 7% for 10s. This effect can be triggered once every 0.1s. Max 10 stacks. Each stack's duration is counted independently."
+        ],
+        "3": [
+          "When a character recovers or loses HP, all your party members' CRIT DMG increases by 7% for 10s. This effect can be triggered once every 0.1s. Max 10 stacks. Each stack's duration is counted independently."
+        ],
+        "4": [
+          "When a character recovers or loses HP, all your party members' CRIT DMG increases by 7% for 10s. This effect can be triggered once every 0.1s. Max 10 stacks. Each stack's duration is counted independently."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "When a character's current HP increases or decreases, all party members will receive a CRIT DMG Bonus. As such, place characters with Healing abilities in the party to defeat your opponents more effectively."
+        ],
+        "4": [
+          "When a character's current HP increases or decreases, all party members will receive a CRIT DMG Bonus. As such, place characters with Healing abilities in the party to defeat your opponents more effectively."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 5 opponent(s) within 300 second(s)"
+        ],
+        "2": [
+          "Defeat 6 opponent(s) within 300 second(s)"
+        ],
+        "3": [
+          "Defeat 6 opponent(s) within 300 second(s)"
+        ],
+        "4": [
+          "Defeat 5 opponent(s) within 300 second(s)"
+        ]
+      }
+    }
+  },
+  "Type": "DomainLocalization"
+}

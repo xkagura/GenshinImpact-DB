@@ -1,0 +1,2048 @@
+{
+  "ElementalLifeforms": {
+    "anemo_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "anemo_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "cryo_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dendro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": 1030,
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "dendro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "electro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "geo_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "geo_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hydro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "hydro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pyro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "pyro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_anemo_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_anemo_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_cryo_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_cryo_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_dendro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": 6,
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_dendro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_electro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_electro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_geo_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_geo_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_hydro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_hydro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "large_pyro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "large_pyro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mutant_electro_slime": {
+      "CommonAscensionMaterialsRewarded": "Slime",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          59
+        ]
+      },
+      "Id": "mutant_electro_slime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "anemo_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "anemo_specter",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "cryo_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": 1032,
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "cryo_specter",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "dendro_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": 1032,
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "dendro_specter",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "electro_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": 1032,
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "electro_specter",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "geo_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "geo_specter",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "hydro_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "hydro_specter",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "pyro_specter": {
+      "CommonAscensionMaterialsRewarded": "Spectral",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": 1032,
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          229
+        ]
+      },
+      "Id": "pyro_specter",
+      "DateAdded": "2022-01-05T00:00:00"
+    }
+  },
+  "MysticalBeasts": {
+    "cryo_whopperflower": {
+      "CommonAscensionMaterialsRewarded": "Nectar",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          47
+        ]
+      },
+      "Id": "cryo_whopperflower",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_whopperflower": {
+      "CommonAscensionMaterialsRewarded": "Nectar",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          47
+        ]
+      },
+      "Id": "electro_whopperflower",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "pyro_whopperflower": {
+      "CommonAscensionMaterialsRewarded": "Nectar",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          47
+        ]
+      },
+      "Id": "pyro_whopperflower",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hunters_ray_1": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "hunters_ray_1",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "hunters_ray_2": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "hunters_ray_2",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "armored_crab_1": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Unknown",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "armored_crab_1",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "armored_crab_2": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Unknown",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "armored_crab_2",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "blubberbeast": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "blubberbeast",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "hat_jellyfish_1": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "hat_jellyfish_1",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "hat_jellyfish_2": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "hat_jellyfish_2",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "bubbly_seahorse_1": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "bubbly_seahorse_1",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "bubbly_seahorse_2": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "bubbly_seahorse_2",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "bubbly_seahorse_3": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "bubbly_seahorse_3",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "ball_octopus_1": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "ball_octopus_1",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "ball_octopus_2": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "ball_octopus_2",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "angelic_sea_hare_1": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "angelic_sea_hare_1",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "angelic_sea_hare_2": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "angelic_sea_hare_2",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "sternshield_crab": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Hydro, Pyro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "sternshield_crab",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "bubbler_seahorse": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Electro, Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "bubbler_seahorse",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "cherubic_sea_hare": {
+      "CommonAscensionMaterialsRewarded": "Pearl",
+      "EntityId": "enemy",
+      "Element": "Cryo, Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          493
+        ]
+      },
+      "Id": "cherubic_sea_hare",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Hilichurls": {
+    "hilichurl": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "hilichurl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hilichurl_fighter": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "hilichurl_fighter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hilichurl_berserker": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "hilichurl_berserker",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "wooden_shield_hilichurl_guard": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "wooden_shield_hilichurl_guard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "rock_shield_hilichurl_guard": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "rock_shield_hilichurl_guard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "ice_shield_hilichurl_guard": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "ice_shield_hilichurl_guard",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "pyro_hilichurl_grenadier": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "pyro_hilichurl_grenadier",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo_hilichurl_grenadier": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Dragonspine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "cryo_hilichurl_grenadier",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "electro_hilichurl_grenadier": {
+      "CommonAscensionMaterialsRewarded": "Mask",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          55
+        ]
+      },
+      "Id": "electro_hilichurl_grenadier",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "hilichurl_shooter": {
+      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          56
+        ]
+      },
+      "Id": "hilichurl_shooter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo_hilichurl_shooter": {
+      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          56
+        ]
+      },
+      "Id": "cryo_hilichurl_shooter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_hilichurl_shooter": {
+      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          56
+        ]
+      },
+      "Id": "electro_hilichurl_shooter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pyro_hilichurl_shooter": {
+      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          56
+        ]
+      },
+      "Id": "pyro_hilichurl_shooter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "anemo_samachurl": {
+      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          57
+        ]
+      },
+      "Id": "anemo_samachurl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo_samachurl": {
+      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Dragonspine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          57
+        ]
+      },
+      "Id": "cryo_samachurl",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "dendro_samachurl": {
+      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          57
+        ]
+      },
+      "Id": "dendro_samachurl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_samachurl": {
+      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          57
+        ]
+      },
+      "Id": "electro_samachurl",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "geo_samachurl": {
+      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          57
+        ]
+      },
+      "Id": "geo_samachurl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hydro_samachurl": {
+      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          57
+        ]
+      },
+      "Id": "hydro_samachurl",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Fatui": {
+    "fatui_anemoboxer_vanguard": {
+      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          54
+        ]
+      },
+      "Id": "fatui_anemoboxer_vanguard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fatui_electrohammer_vanguard": {
+      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          54
+        ]
+      },
+      "Id": "fatui_electrohammer_vanguard",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fatui_geochanter_bracer": {
+      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          54
+        ]
+      },
+      "Id": "fatui_geochanter_bracer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fatui_pyroslinger_bracer": {
+      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          54
+        ]
+      },
+      "Id": "fatui_pyroslinger_bracer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fatui_cryogunner_legionnaire": {
+      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          54
+        ]
+      },
+      "Id": "fatui_cryogunner_legionnaire",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fatui_hydrogunner_legionnaire": {
+      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          54
+        ]
+      },
+      "Id": "fatui_hydrogunner_legionnaire",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "HumansFactions": {
+    "treasure_hoarder_crusher": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_crusher",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_gravedigger": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_gravedigger",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_marksman": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_marksman",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_scout": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_scout",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_handyman": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_handyman",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_pugilist": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_pugilist",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_seaman": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_seaman",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_cryo_potioneer": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical, Cryo",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_cryo_potioneer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_electro_potioneer": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical, Electro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_electro_potioneer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_hydro_potioneer": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical, Hydro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_hydro_potioneer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_pyro_potioneer": {
+      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "EntityId": "enemy",
+      "Element": "Physical, Pyro",
+      "Location": "Teyvat",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          58
+        ]
+      },
+      "Id": "treasure_hoarder_pyro_potioneer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "nobushi_hitsukeban": {
+      "CommonAscensionMaterialsRewarded": "Handguard",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          209
+        ]
+      },
+      "Id": "nobushi_hitsukeban",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "nobushi_jintouban": {
+      "CommonAscensionMaterialsRewarded": "Handguard",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          209
+        ]
+      },
+      "Id": "nobushi_jintouban",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "nobushi_kikouban": {
+      "CommonAscensionMaterialsRewarded": "Handguard",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          209
+        ]
+      },
+      "Id": "nobushi_kikouban",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "kairagi_dancing_thunder": {
+      "CommonAscensionMaterialsRewarded": "Handguard",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          209
+        ]
+      },
+      "Id": "kairagi_dancing_thunder",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "kairagi_fiery_might": {
+      "CommonAscensionMaterialsRewarded": "Handguard",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          209
+        ]
+      },
+      "Id": "kairagi_fiery_might",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "eremite_axe_vanguard": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_axe_vanguard",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_crossbow": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_crossbow",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_ravenbeak_halberdier": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_ravenbeak_halberdier",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_linebreaker": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_linebreaker",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_sword_dancer": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_sword_dancer",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_daythunder": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_daythunder",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_sunfrost": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_sunfrost",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_desert_clearwater": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_desert_clearwater",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eremite_stone_enchanter": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_stone_enchanter",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "eremite_galehunter": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_galehunter",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "eremite_scorching_loremaster": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_scorching_loremaster",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "eremite_floral_ring_dancer": {
+      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          389
+        ]
+      },
+      "Id": "eremite_floral_ring_dancer",
+      "DateAdded": "2023-01-18T00:00:00"
+    }
+  },
+  "Automatons": {
+    "area_alert_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Cryo, Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "area_alert_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "arithmetic_enhancer_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "arithmetic_enhancer_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "geological_survey_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Geo, Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "geological_survey_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "nimble_harvester_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Anemo, Geo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "nimble_harvester_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "recon_log_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "recon_log_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "underwater_patrol_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "underwater_patrol_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "underwater_survey_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "underwater_survey_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "annihilation_specialist_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Electro, Hydro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "annihilation_specialist_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "assault_specialist_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Electro, Pyro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "assault_specialist_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "construction_specialist_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Cryo, Pyro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "construction_specialist_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "suppression_specialist_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Dendro, Pyro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "suppression_specialist_mek",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "deepwater_assault_mek": {
+      "CommonAscensionMaterialsRewarded": "Gear",
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          494
+        ]
+      },
+      "Id": "deepwater_assault_mek",
+      "DateAdded": "2023-09-27T00:00:00"
+    }
+  },
+  "Type": "CommonEnemyDatabase"
+}

@@ -1,0 +1,1647 @@
+{
+  "TalentDomainMaterials": {
+    "teachings_of_freedom": {
+      "Set": "Freedom",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_freedom",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "guide_to_freedom": {
+      "Set": "Freedom",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_freedom",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philosophies_of_freedom": {
+      "Set": "Freedom",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_freedom",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teachings_of_resistance": {
+      "Set": "Resistance",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_resistance",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "guide_to_resistance": {
+      "Set": "Resistance",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_resistance",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philosophies_of_resistance": {
+      "Set": "Resistance",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_resistance",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teachings_of_ballad": {
+      "Set": "Ballad",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_ballad",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "guide_to_ballad": {
+      "Set": "Ballad",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_ballad",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philosophies_of_ballad": {
+      "Set": "Ballad",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_ballad",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teachings_of_prosperity": {
+      "Set": "Prosperity",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_prosperity",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "guide_to_prosperity": {
+      "Set": "Prosperity",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_prosperity",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philosophies_of_prosperity": {
+      "Set": "Prosperity",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_prosperity",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teachings_of_diligence": {
+      "Set": "Diligence",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_diligence",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "guide_to_diligence": {
+      "Set": "Diligence",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_diligence",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philosophies_of_diligence": {
+      "Set": "Diligence",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_diligence",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teachings_of_gold": {
+      "Set": "Gold",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_gold",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "guide_to_gold": {
+      "Set": "Gold",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_gold",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "philosophies_of_gold": {
+      "Set": "Gold",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_gold",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teachings_of_transience": {
+      "Set": "Transience",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_transience",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "guide_to_transience": {
+      "Set": "Transience",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_transience",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "philosophies_of_transience": {
+      "Set": "Transience",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_transience",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "teachings_of_elegance": {
+      "Set": "Elegance",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_elegance",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "guide_to_elegance": {
+      "Set": "Elegance",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_elegance",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "philosophies_of_elegance": {
+      "Set": "Elegance",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_elegance",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "teachings_of_light": {
+      "Set": "Light",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_light",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "guide_to_light": {
+      "Set": "Light",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_light",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "philosophies_of_light": {
+      "Set": "Light",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_light",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "teachings_of_admonition": {
+      "Set": "Admonition",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_admonition",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "guide_to_admonition": {
+      "Set": "Admonition",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_admonition",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "philosophies_of_admonition": {
+      "Set": "Admonition",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_admonition",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "teachings_of_ingenuity": {
+      "Set": "Ingenuity",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_ingenuity",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "guide_to_ingenuity": {
+      "Set": "Ingenuity",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_ingenuity",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "philosophies_of_ingenuity": {
+      "Set": "Ingenuity",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_ingenuity",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "teachings_of_praxis": {
+      "Set": "Praxis",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_praxis",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "guide_to_praxis": {
+      "Set": "Praxis",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_praxis",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "philosophies_of_praxis": {
+      "Set": "Praxis",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_praxis",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "teachings_of_equity": {
+      "Set": "Equity",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_equity",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "guide_to_equity": {
+      "Set": "Equity",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_equity",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "philosophies_of_equity": {
+      "Set": "Equity",
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_equity",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "teachings_of_justice": {
+      "Set": "Justice",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_justice",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "guide_to_justice": {
+      "Set": "Justice",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_justice",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "philosophies_of_justice": {
+      "Set": "Justice",
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_justice",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "teachings_of_order": {
+      "Set": "Order",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "teachings_of_order",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "guide_to_order": {
+      "Set": "Order",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "guide_to_order",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "philosophies_of_order": {
+      "Set": "Order",
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "philosophies_of_order",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "WeeklyBossMaterials": {
+    "dvalins_plume": {
+      "MaterialType": "DvalinsPlume",
+      "BossType": "Dvalin",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "dvalins_plume",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dvalins_claw": {
+      "MaterialType": "DvalinsClaw",
+      "BossType": "Dvalin",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "dvalins_claw",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dvalins_sigh": {
+      "MaterialType": "DvalinsSigh",
+      "BossType": "Dvalin",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "dvalins_sigh",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tail_of_boreas": {
+      "MaterialType": "TailOfBoreas",
+      "BossType": "Andrius",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "tail_of_boreas",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "ring_of_boreas": {
+      "MaterialType": "RingOfBoreas",
+      "BossType": "Andrius",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "ring_of_boreas",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "spirit_locket_of_boreas": {
+      "MaterialType": "SpiritLocketOfBoreas",
+      "BossType": "Andrius",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "spirit_locket_of_boreas",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tusk_of_monoceros_caeli": {
+      "MaterialType": "TuskOfMonocerosCaeli",
+      "BossType": "Childe",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "tusk_of_monoceros_caeli",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "shard_of_a_foul_legacy": {
+      "MaterialType": "ShardOfAFoulLegacy",
+      "BossType": "Childe",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "shard_of_a_foul_legacy",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "shadow_of_the_warrior": {
+      "MaterialType": "ShadowOfTheWarrior",
+      "BossType": "Childe",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "shadow_of_the_warrior",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "dragon_lords_crown": {
+      "MaterialType": "DragonLordsCrown",
+      "BossType": "Azhdaha",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "dragon_lords_crown",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "bloodjade_branch": {
+      "MaterialType": "BloodjadeBranch",
+      "BossType": "Azhdaha",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "bloodjade_branch",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "gilded_scale": {
+      "MaterialType": "GildedScale",
+      "BossType": "Azhdaha",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "gilded_scale",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "molten_moment": {
+      "MaterialType": "MoltenMoment",
+      "BossType": "LaSignora",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "molten_moment",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "hellfire_butterfly": {
+      "MaterialType": "HellfireButterfly",
+      "BossType": "LaSignora",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "hellfire_butterfly",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "ashen_heart": {
+      "MaterialType": "AshenHeart",
+      "BossType": "LaSignora",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "ashen_heart",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "mudra_of_the_malefic_general": {
+      "MaterialType": "MudraOfTheMaleficGeneral",
+      "BossType": "Mikoto",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "mudra_of_the_malefic_general",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "tears_of_the_calamitous_god": {
+      "MaterialType": "TearsOfTheCalamitousGod",
+      "BossType": "Mikoto",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "tears_of_the_calamitous_god",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "the_meaning_of_aeons": {
+      "MaterialType": "TheMeaningOfAeons",
+      "BossType": "Mikoto",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "the_meaning_of_aeons",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "puppet_strings": {
+      "MaterialType": "PuppetStrings",
+      "BossType": "Joururi",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "puppet_strings",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "mirror_of_mushin": {
+      "MaterialType": "MirrorOfMushin",
+      "BossType": "Joururi",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "mirror_of_mushin",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "dakas_bell": {
+      "MaterialType": "DakasBell",
+      "BossType": "Joururi",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "dakas_bell",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "worldspan_fern": {
+      "MaterialType": "WorldspanFern",
+      "BossType": "OasisPrime",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "worldspan_fern",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "primordial_greenbloom": {
+      "MaterialType": "PrimordialGreenbloom",
+      "BossType": "OasisPrime",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "primordial_greenbloom",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "everamber": {
+      "MaterialType": "Everamber",
+      "BossType": "OasisPrime",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "everamber",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "lightless_silk_string": {
+      "MaterialType": "LightlessSilkString",
+      "BossType": "Narwhal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "lightless_silk_string",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "lightless_eye_of_the_maelstrom": {
+      "MaterialType": "LightlessEyeOfTheMaelstrom",
+      "BossType": "Narwhal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "lightless_eye_of_the_maelstrom",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "lightless_mass": {
+      "MaterialType": "LightlessMass",
+      "BossType": "Narwhal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "lightless_mass",
+      "DateAdded": "2023-11-08T00:00:00"
+    }
+  },
+  "TalentMaterials": {
+    "crown_of_insight": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "crown_of_insight",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "TalentMaterialDatabase"
+}

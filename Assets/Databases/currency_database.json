@@ -1,0 +1,214 @@
+{
+  "Mora": {
+    "CurrencyType": "Mora",
+    "EntityId": "material",
+    "Rarity": {
+      "Range": {
+        "Start": {
+          "Value": 3,
+          "IsFromEnd": false
+        },
+        "End": {
+          "Value": 3,
+          "IsFromEnd": false
+        }
+      },
+      "Value": 3
+    },
+    "Id": "mora",
+    "DateAdded": "2020-09-28T00:00:00"
+  },
+  "RealmCurrency": {
+    "CurrencyType": "RealmCurrency",
+    "EntityId": "material",
+    "Rarity": {
+      "Range": {
+        "Start": {
+          "Value": 3,
+          "IsFromEnd": false
+        },
+        "End": {
+          "Value": 3,
+          "IsFromEnd": false
+        }
+      },
+      "Value": 3
+    },
+    "Id": "realm_currency",
+    "DateAdded": "2021-04-28T00:00:00"
+  },
+  "Currencies": {
+    "primogem": {
+      "CurrencyType": "Primogem",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "primogem",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "anemo_sigil": {
+      "CurrencyType": "AnemoSigil",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "anemo_sigil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dendro_sigil": {
+      "CurrencyType": "DendroSigil",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "dendro_sigil",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "geo_sigil": {
+      "CurrencyType": "GeoSigil",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "geo_sigil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_sigil": {
+      "CurrencyType": "ElectroSigil",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "electro_sigil",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "hydro_sigil": {
+      "CurrencyType": "HydroSigil",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "hydro_sigil",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "genesis_crystal": {
+      "CurrencyType": "GenesisCrystal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "genesis_crystal",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "masterless_stardust": {
+      "CurrencyType": "MasterlessStardust",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "masterless_stardust",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "masterless_starglitter": {
+      "CurrencyType": "MasterlessStarglitter",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "masterless_starglitter",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "CurrencyDatabase"
+}

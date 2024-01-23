@@ -1,0 +1,32 @@
+{
+  "Challenges": {
+    "blossom_of_wealth": {
+      "EntityId": "world_challenge",
+      "WorldChallengeType": "BlossomOfWealth",
+      "CurrencyRewarded": "Mora",
+      "EnhancementMaterialsRewarded": 0,
+      "Location": "Teyvat",
+      "Id": "blossom_of_wealth",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "blossom_of_revelation": {
+      "EntityId": "world_challenge",
+      "WorldChallengeType": "BlossomOfRelevation",
+      "CurrencyRewarded": "Unknown",
+      "EnhancementMaterialsRewarded": "Character",
+      "Location": "Teyvat",
+      "Id": "blossom_of_revelation",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "spiral_abyss": {
+      "EntityId": "world_challenge",
+      "WorldChallengeType": "SpiralAbyss",
+      "CurrencyRewarded": 3,
+      "EnhancementMaterialsRewarded": 3,
+      "Location": "Mondstadt",
+      "Id": "spiral_abyss",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "WorldChallengeDatabase"
+}

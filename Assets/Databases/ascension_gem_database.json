@@ -1,0 +1,613 @@
+{
+  "Materials": {
+    "brilliant_diamond_sliver": {
+      "Set": "Diamond",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "brilliant_diamond_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "brilliant_diamond_fragment": {
+      "Set": "Diamond",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "brilliant_diamond_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "brilliant_diamond_chunk": {
+      "Set": "Diamond",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "brilliant_diamond_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "brilliant_diamond_gemstone": {
+      "Set": "Diamond",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "brilliant_diamond_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "agnidus_agate_sliver": {
+      "Set": "Agnidus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "agnidus_agate_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "agnidus_agate_fragment": {
+      "Set": "Agnidus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "agnidus_agate_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "agnidus_agate_chunk": {
+      "Set": "Agnidus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "agnidus_agate_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "agnidus_agate_gemstone": {
+      "Set": "Agnidus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "agnidus_agate_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "varunada_lazurite_sliver": {
+      "Set": "Varunada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "varunada_lazurite_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "varunada_lazurite_fragment": {
+      "Set": "Varunada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "varunada_lazurite_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "varunada_lazurite_chunk": {
+      "Set": "Varunada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "varunada_lazurite_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "varunada_lazurite_gemstone": {
+      "Set": "Varunada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "varunada_lazurite_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vajrada_amethyst_sliver": {
+      "Set": "Vajrada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "vajrada_amethyst_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vajrada_amethyst_fragment": {
+      "Set": "Vajrada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "vajrada_amethyst_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vajrada_amethyst_chunk": {
+      "Set": "Vajrada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "vajrada_amethyst_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vajrada_amethyst_gemstone": {
+      "Set": "Vajrada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "vajrada_amethyst_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vayuda_turquoise_sliver": {
+      "Set": "Vayuda",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "vayuda_turquoise_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vayuda_turquoise_fragment": {
+      "Set": "Vayuda",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "vayuda_turquoise_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vayuda_turquoise_chunk": {
+      "Set": "Vayuda",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "vayuda_turquoise_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vayuda_turquoise_gemstone": {
+      "Set": "Vayuda",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "vayuda_turquoise_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shivada_jade_sliver": {
+      "Set": "Shivada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "shivada_jade_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shivada_jade_fragment": {
+      "Set": "Shivada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "shivada_jade_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shivada_jade_chunk": {
+      "Set": "Shivada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "shivada_jade_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shivada_jade_gemstone": {
+      "Set": "Shivada",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "shivada_jade_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prithiva_topaz_sliver": {
+      "Set": "Prithiva",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "prithiva_topaz_sliver",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prithiva_topaz_fragment": {
+      "Set": "Prithiva",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "prithiva_topaz_fragment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prithiva_topaz_chunk": {
+      "Set": "Prithiva",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "prithiva_topaz_chunk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prithiva_topaz_gemstone": {
+      "Set": "Prithiva",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "prithiva_topaz_gemstone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "nagadus_emerald_sliver": {
+      "Set": "Nagadus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "nagadus_emerald_sliver",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "nagadus_emerald_fragment": {
+      "Set": "Nagadus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "nagadus_emerald_fragment",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "nagadus_emerald_chunk": {
+      "Set": "Nagadus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "nagadus_emerald_chunk",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "nagadus_emerald_gemstone": {
+      "Set": "Nagadus",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "nagadus_emerald_gemstone",
+      "DateAdded": "2022-08-24T00:00:00"
+    }
+  },
+  "Type": "AscensionGemDatabase"
+}

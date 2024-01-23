@@ -1,0 +1,1300 @@
+{
+  "Fishies": {
+    "medaka": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Medaka",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FruitPaste",
+      "Location": 14,
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          233
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "medaka",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "glaze_medaka": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Medaka",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FruitPaste",
+      "Location": "Inazuma",
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          234
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "glaze_medaka",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "sweet_flower_medaka": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Medaka",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FruitPaste",
+      "Location": "Liyue",
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          235
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "sweet_flower_medaka",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "aizen_medaka": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Medaka",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FruitPaste",
+      "Location": "Mondstadt",
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          236
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "aizen_medaka",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "dawncatcher": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Medaka",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FruitPaste",
+      "Location": 14,
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          237
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "dawncatcher",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "crystalfish": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Medaka",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FruitPaste",
+      "Location": 14,
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          238
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "crystalfish",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "brown_shirakodai": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Butterflyfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FalseWorm",
+      "Location": "Liyue",
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          246
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "brown_shirakodai",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "purple_shirakodai": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Butterflyfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FalseWorm",
+      "Location": "Inazuma",
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          247
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "purple_shirakodai",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "tea_colored_shirakodai": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Butterflyfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FalseWorm",
+      "Location": "Mondstadt",
+      "CatchingDifficulty": "VeryEasy",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          248
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "tea_colored_shirakodai",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "abiding_angelfish": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Butterflyfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FalseWorm",
+      "Location": "Liyue",
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          249
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "abiding_angelfish",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "raimei_angelfish": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Butterflyfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FalseWorm",
+      "Location": "Inazuma",
+      "CatchingDifficulty": "VeryHard",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          250
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "raimei_angelfish",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "lunged_stickleback": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Stickleback",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Redrot",
+      "Location": "Inazuma",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          239
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "lunged_stickleback",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "betta": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Stickleback",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Redrot",
+      "Location": "Liyue",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          240
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "betta",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "venomspine_fish": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Stickleback",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Redrot",
+      "Location": "Mondstadt",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          241
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "venomspine_fish",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "akai_maou": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Stickleback",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Redrot",
+      "Location": 14,
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          242
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "akai_maou",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "snowstrider": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Stickleback",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Redrot",
+      "Location": "Mondstadt",
+      "CatchingDifficulty": "VeryHard",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          243
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "snowstrider",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "golden_koi": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Koi",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FakeFly",
+      "Location": 14,
+      "CatchingDifficulty": "Medium",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          244
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "golden_koi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "rusty_koi": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Koi",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FakeFly",
+      "Location": 14,
+      "CatchingDifficulty": "Medium",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          245
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "rusty_koi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "pufferfish": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Pufferfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FakeFly",
+      "Location": 14,
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          251
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "pufferfish",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "bitter_pufferfish": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Pufferfish",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FakeFly",
+      "Location": 14,
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          252
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "bitter_pufferfish",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "divda_ray": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Ray",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FakeFly",
+      "Location": "Enkanomiya",
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -269.0,
+          "Longitude": 198.64,
+          "Zoom": -4.0
+        },
+        "Map": "Enkanomiya",
+        "ShownTypes": [
+          336
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "divda_ray",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "formalo_ray": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Ray",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "FakeFly",
+      "Location": "Enkanomiya",
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -269.0,
+          "Longitude": 198.64,
+          "Zoom": -4.0
+        },
+        "Map": "Enkanomiya",
+        "ShownTypes": [
+          335
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "formalo_ray",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "halcyon_jade_axe_marlin": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "AxeMarlins",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Sumeru",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          423
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "halcyon_jade_axe_marlin",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "lazurite_axe_marlin": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "AxeMarlins",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Sumeru",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          422
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "lazurite_axe_marlin",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "peach_of_the_deep_waves": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Angler",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Sumeru",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          419
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "peach_of_the_deep_waves",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sandstorm_angler": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Angler",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Sumeru",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          420
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "sandstorm_angler",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sunset_cloud_angler": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Angler",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Sumeru",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          421
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "sunset_cloud_angler",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "true_fruit_angler": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Angler",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Sumeru",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Unknown",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          418
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "true_fruit_angler",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "streaming_axe_marlin": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "AxeMarlins",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "Sugardew",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          527
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "streaming_axe_marlin",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "rippling_heartfeather_bass": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "HeartfeatherBass",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "SourBait",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          528
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "rippling_heartfeather_bass",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "blazing_heartfeather_bass": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "HeartfeatherBass",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "SourBait",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          529
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "blazing_heartfeather_bass",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "maintenance_mek_initial_configuration": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Mek",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "MekBait",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "Anytime",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          530
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "maintenance_mek_initial_configuration",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "maintenance_mek_water_body_cleaner": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Mek",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "MekBait",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllDay",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          531
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "maintenance_mek_water_body_cleaner",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "maintenance_mek_situation_controller": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Mek",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "MekBait",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Easy",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          532
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "maintenance_mek_situation_controller",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "maintenance_mek_platinum_collection": {
+      "EntityId": "fish",
+      "PortraitUri": null,
+      "Set": "Mek",
+      "CurrencyType": "Fish",
+      "BaitTypeRequired": "MekBait",
+      "Location": "Fontaine",
+      "CatchingDifficulty": "Hard",
+      "TimeOfDay": "AllNight",
+      "UnixTimerFactory": {},
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          533
+        ]
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "maintenance_mek_platinum_collection",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Type": "FishDatabase"
+}

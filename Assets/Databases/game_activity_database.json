@@ -1,0 +1,47 @@
+{
+  "GameActivities": {
+    "commissions": {
+      "EntityId": "game_activity",
+      "IconFileName": "icon_commission",
+      "UnixTimerFactory": {},
+      "Id": "commissions",
+      "DateAdded": null
+    },
+    "battle_pass_daily": {
+      "EntityId": "game_activity",
+      "IconFileName": "icon_battle_pass",
+      "UnixTimerFactory": {},
+      "Id": "battle_pass_daily",
+      "DateAdded": null
+    },
+    "battle_pass_weekly": {
+      "EntityId": "game_activity",
+      "IconFileName": "icon_battle_pass",
+      "UnixTimerFactory": {},
+      "Id": "battle_pass_weekly",
+      "DateAdded": null
+    },
+    "reputation_bounties": {
+      "EntityId": "game_activity",
+      "IconFileName": "icon_reputation",
+      "UnixTimerFactory": {},
+      "Id": "reputation_bounties",
+      "DateAdded": null
+    },
+    "reputation_requests": {
+      "EntityId": "game_activity",
+      "IconFileName": "icon_reputation",
+      "UnixTimerFactory": {},
+      "Id": "reputation_requests",
+      "DateAdded": null
+    },
+    "parametric_transformer": {
+      "EntityId": "game_activity",
+      "IconFileName": "gadgets_parametric_transformer",
+      "UnixTimerFactory": {},
+      "Id": "parametric_transformer",
+      "DateAdded": null
+    }
+  },
+  "Type": "GameActivityDatabase"
+}

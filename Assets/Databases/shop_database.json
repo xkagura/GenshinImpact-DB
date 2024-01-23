@@ -1,0 +1,386 @@
+{
+  "PaimonsBargains": {
+    "Id": "paimons_bargains",
+    "CurrencyType": 49152,
+    "Products": null,
+    "Location": "Unknown"
+  },
+  "Shops": {
+    "mondstadt_general_goods": {
+      "Id": "mondstadt_general_goods",
+      "CurrencyType": "Mora",
+      "Products": {
+        "cabbage": 120,
+        "milk": 100,
+        "onion": 80,
+        "pepper": 80,
+        "potato": 120,
+        "salt": 60,
+        "tomato": 120,
+        "wheat": 100
+      },
+      "Location": "Mondstadt"
+    },
+    "second_life": {
+      "Id": "second_life",
+      "CurrencyType": "Mora",
+      "Products": {
+        "almond": 120,
+        "cabbage": 120,
+        "milk": 100,
+        "onion": 80,
+        "pepper": 80,
+        "potato": 120,
+        "rice": 100,
+        "salt": 60,
+        "shrimp_meat": 120,
+        "tofu": 100,
+        "tomato": 120,
+        "wheat": 100
+      },
+      "Location": "Liyue"
+    },
+    "tsukumomono_groceries": {
+      "Id": "tsukumomono_groceries",
+      "CurrencyType": "Mora",
+      "Products": {
+        "cabbage": 120,
+        "milk": 100,
+        "naku_weed": 1000,
+        "onion": 80,
+        "pepper": 80,
+        "potato": 120,
+        "rice": 100,
+        "salt": 60,
+        "shrimp_meat": 120,
+        "tofu": 100,
+        "tomato": 120,
+        "wheat": 100
+      },
+      "Location": "Inazuma"
+    },
+    "good_hunter": {
+      "Id": "good_hunter",
+      "CurrencyType": "Mora",
+      "Products": {
+        "bacon": 720,
+        "butter": 270,
+        "cheese": 420,
+        "chicken_mushroom_skewer": 450,
+        "crab_roe": 1125,
+        "cream": 150,
+        "fishermans_toast": 1025,
+        "flour": 150,
+        "ham": 630,
+        "jam": 1475,
+        "sausage": 845,
+        "smoked_fowl": 900,
+        "sugar": 450,
+        "teyvat_fried_egg": 200
+      },
+      "Location": "Mondstadt"
+    },
+    "wanmin_restaurant": {
+      "Id": "wanmin_restaurant",
+      "CurrencyType": "Mora",
+      "Products": {
+        "bamboo_shoot": 240,
+        "carrot": 260,
+        "chicken_mushroom_skewer": 450,
+        "crab": 240,
+        "fishermans_toast": 1025,
+        "fish": 240,
+        "flour": 150,
+        "ham": 630,
+        "jueyun_chili": 1000,
+        "lotus_head": 300,
+        "matsutake": 300,
+        "mushroom": 180,
+        "radish": 350,
+        "sausage": 840,
+        "sugar": 450,
+        "teyvat_fried_egg": 200
+      },
+      "Location": "Liyue"
+    },
+    "shimuras": {
+      "Id": "shimuras",
+      "CurrencyType": "Mora",
+      "Products": {
+        "bacon": 720,
+        "chicken_mushroom_skewer": 450,
+        "crab": 240,
+        "fishermans_toast": 1250,
+        "fish": 240,
+        "flour": 150,
+        "lavender_moon": 240,
+        "radish": 350,
+        "sausage": 840,
+        "seagrass": 240,
+        "sugar": 450,
+        "teyvat_fried_egg": 200
+      },
+      "Location": "Inazuma"
+    },
+    "with_wind_comes_glory": {
+      "Id": "with_wind_comes_glory",
+      "CurrencyType": "AnemoSigil",
+      "Products": {
+        "agnidus_agate_sliver": 10,
+        "boreal_wolfs_milk_tooth": 4,
+        "fetters_of_the_dandelion_gladiator": 4,
+        "memory_of_roving_gales": 225,
+        "mora": 1,
+        "northlander_sword_billet": 225,
+        "prithiva_topaz_sliver": 10,
+        "shivada_jade_sliver": 10,
+        "tile_of_decarabians_tower": 4,
+        "vajrada_amethyst_sliver": 10,
+        "varunada_lazurite_sliver": 10,
+        "vayuda_turquoise_sliver": 10
+      },
+      "Location": "Mondstadt"
+    },
+    "mingxing_jewelry": {
+      "Id": "mingxing_jewelry",
+      "CurrencyType": "GeoSigil",
+      "Products": {
+        "agnidus_agate_sliver": 10,
+        "grain_of_aerosiderite": 4,
+        "luminous_sands_from_guyun": 4,
+        "memory_of_immovable_crystals": 225,
+        "mist_veiled_lead_elixir": 4,
+        "mora": 1,
+        "northlander_bow_billet": 225,
+        "northlander_catalyst_billet": 225,
+        "northlander_claymore_billet": 225,
+        "northlander_polearm_billet": 225,
+        "prithiva_topaz_sliver": 10,
+        "shivada_jade_sliver": 10,
+        "vajrada_amethyst_sliver": 10,
+        "varunada_lazurite_sliver": 10,
+        "vayuda_turquoise_sliver": 10
+      },
+      "Location": "Liyue"
+    },
+    "netsuke_no_gen_crafts": {
+      "Id": "netsuke_no_gen_crafts",
+      "CurrencyType": "ElectroSigil",
+      "Products": {
+        "coral_branch_of_a_distant_sea": 2,
+        "mask_of_the_wicked_lieutenant": 2,
+        "mora": 2,
+        "narukamis_wisdom": 2
+      },
+      "Location": "Inazuma"
+    },
+    "floral_whisper": {
+      "Id": "floral_whisper",
+      "CurrencyType": "Mora",
+      "Products": {
+        "sweet_flower": 200,
+        "windwheel_aster": 1000,
+        "cecilia": 1000,
+        "small_lamp_grass": 1000,
+        "calla_lily": 1000
+      },
+      "Location": "Mondstadt"
+    },
+    "botanist_chloris": {
+      "Id": "botanist_chloris",
+      "CurrencyType": "Mora",
+      "Products": {
+        "snapdragon": 280,
+        "mint": 150,
+        "wolfhook": 1000,
+        "valberry": 1000,
+        "philanemo_mushroom": 1000
+      },
+      "Location": "Mondstadt"
+    },
+    "miller_ms_bai": {
+      "Id": "miller_ms_bai",
+      "CurrencyType": "Mora",
+      "Products": {
+        "qingce_stir_fry": 6150,
+        "tofu": 120,
+        "almond": 150,
+        "silk_flower": 1000,
+        "glaze_lily": 50000
+      },
+      "Location": "Liyue"
+    },
+    "wangshu_inn_shop": {
+      "Id": "wangshu_inn_shop",
+      "CurrencyType": "Mora",
+      "Products": {
+        "almond_tofu": 1550,
+        "matsutake_meat_rolls": 1775,
+        "jueyun_chili_chicken": 1925,
+        "noodles_with_mountain_delicacies": 2150,
+        "chicken_mushroom_skewer": 450,
+        "matsutake": 300,
+        "butter": 270,
+        "sausage": 840,
+        "silk_flower": 1000,
+        "violetgrass": 1000
+      },
+      "Location": "Liyue"
+    },
+    "bubu_pharmacy": {
+      "Id": "bubu_pharmacy",
+      "CurrencyType": "Mora",
+      "Products": {
+        "qingxin": 600,
+        "horsetail": 240,
+        "lotus_head": 300,
+        "mist_flower_corolla": 1000,
+        "flaming_flower_stamen": 1000,
+        "violetgrass": 1000
+      },
+      "Location": "Liyue"
+    },
+    "jade_mystery": {
+      "Id": "jade_mystery",
+      "CurrencyType": "Mora",
+      "Products": {
+        "iron_chunk": 120,
+        "white_iron_chunk": 400,
+        "noctilucous_jade": 1000
+      },
+      "Location": "Liyue"
+    },
+    "wanyou_boutique": {
+      "Id": "wanyou_boutique",
+      "CurrencyType": "Mora",
+      "Products": {
+        "apple": 240,
+        "sunsettia": 170,
+        "fish": 240,
+        "starconch": 1000
+      },
+      "Location": "Liyue"
+    },
+    "merchant_changshun": {
+      "Id": "merchant_changshun",
+      "CurrencyType": "Mora",
+      "Products": {
+        "potato": 150,
+        "sugar": 450,
+        "cheese": 420,
+        "cor_lapis": 1500,
+        "electro_crystal": 1500
+      },
+      "Location": "Liyue"
+    },
+    "chuyu_trading_company": {
+      "Id": "chuyu_trading_company",
+      "CurrencyType": "Mora",
+      "Products": {
+        "iron_chunk": 120,
+        "white_iron_chunk": 400,
+        "electro_crystal": 1000
+      },
+      "Location": 12
+    },
+    "sailing_breeze": {
+      "Id": "sailing_breeze",
+      "CurrencyType": "Mora",
+      "Products": {
+        "dandelion_seed": 60000
+      },
+      "Location": 10
+    }
+  },
+  "FishingAssociations": {
+    "mondstadt_fishing_association": {
+      "TradeMenu": {
+        "windtangler": {
+          "medaka": 20,
+          "aizen_medaka": 20,
+          "venonspine_fish": 20,
+          "tea_colored_shirakodai": 20
+        },
+        "fishing_line_stabilizer": {
+          "medaka": 3
+        }
+      },
+      "Id": "mondstadt_fishing_association",
+      "CurrencyType": "Fish",
+      "Products": null,
+      "Location": "Mondstadt"
+    },
+    "liyue_fishing_association": {
+      "TradeMenu": {
+        "wishmaker": {
+          "medaka": 20,
+          "sweet_flower_medaka": 20,
+          "betta": 20,
+          "brown_shirakodai": 20
+        },
+        "fishing_line_stabilizer": {
+          "medaka": 3
+        }
+      },
+      "Id": "liyue_fishing_association",
+      "CurrencyType": "Fish",
+      "Products": null,
+      "Location": "Liyue"
+    },
+    "inazuma_fishing_association": {
+      "TradeMenu": {
+        "narukawa_ukai": {
+          "medaka": 20,
+          "glaze_medaka": 20,
+          "lunged_stickleback": 20,
+          "purple_shirakodai": 20
+        },
+        "the_catch": {
+          "raimei_angelfish": 6,
+          "golden_koi": 20,
+          "rusty_koi": 20
+        },
+        "akos_sake_vessel": {
+          "raimei_angelfish": 3,
+          "pufferfish": 10,
+          "bitter_pufferfish": 10
+        },
+        "fishing_line_stabilizer": {
+          "medaka": 3
+        }
+      },
+      "Id": "inazuma_fishing_association",
+      "CurrencyType": "Fish",
+      "Products": null,
+      "Location": "Inazuma"
+    },
+    "sumeru_fishing_association": {
+      "TradeMenu": {
+        "serendipity": {
+          "medaka": 20,
+          "true_fruit_angler": 20,
+          "sunset_cloud_angler": 20,
+          "sandstorm_angler": 20
+        },
+        "end_of_the_line": {
+          "peach_of_the_deep_waves": 4,
+          "lazurite_axe_marlin": 16,
+          "halcyon_jade_axe_marlin": 16
+        },
+        "original_fish_ointment": {
+          "peach_of_the_deep_waves": 2,
+          "lazurite_axe_marlin": 8,
+          "halcyon_jade_axe_marlin": 8
+        },
+        "fishing_line_stabilizer": {
+          "medaka": 3
+        }
+      },
+      "Id": "sumeru_fishing_association",
+      "CurrencyType": "Fish",
+      "Products": null,
+      "Location": "Sumeru"
+    }
+  },
+  "Type": "ShopDatabase"
+}

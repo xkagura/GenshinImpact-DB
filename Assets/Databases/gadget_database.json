@@ -1,0 +1,1565 @@
+{
+  "ReusableGadgets": {
+    "anemo_treasure_compass": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": "00:00:30",
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "golden_raven_insignia": 10,
+          "philanemo_mushroom": 30,
+          "crystal_chunk": 50,
+          "mora": 50000
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:30"
+      },
+      "TradingBlueprints": null,
+      "Id": "anemo_treasure_compass",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "dendro_treasure_compass": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": "00:00:30",
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "golden_raven_insignia": 10,
+          "padisarah": 30,
+          "crystal_chunk": 50,
+          "mora": 50000
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:30"
+      },
+      "TradingBlueprints": null,
+      "Id": "dendro_treasure_compass",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "electro_treasure_compass": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Forging",
+      "Cooldown": "00:00:30",
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "golden_raven_insignia": 10,
+          "onikabuto": 30,
+          "crystal_chunk": 50,
+          "mora": 50000
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:30"
+      },
+      "TradingBlueprints": null,
+      "Id": "electro_treasure_compass",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "geo_treasure_compass": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Forging",
+      "Cooldown": "00:00:30",
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "golden_raven_insignia": 10,
+          "cor_lapis": 30,
+          "crystal_chunk": 50,
+          "mora": 50000
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:30"
+      },
+      "TradingBlueprints": null,
+      "Id": "geo_treasure_compass",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "hydro_treasure_compass": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "FontaineReputationReward",
+      "Cooldown": "00:00:30",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "hydro_treasure_compass",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "kusava": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "kusava",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "the_boon_of_the_elder_tree": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "SumeruReputationReward",
+      "Cooldown": "00:00:15",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "the_boon_of_the_elder_tree",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "crystalfly_trap": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Placeable",
+      "Obtainable": "FontaineReputationReward",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "crystalfly_trap",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fishing_line_stabilizer": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Fishing",
+      "Obtainable": "FishingAssociations",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": [
+        {
+          "Id": "mondstadt_fishing_association",
+          "Ingredients": {
+            "medaka": 3
+          },
+          "Amount": 1
+        },
+        {
+          "Id": "liyue_fishing_association",
+          "Ingredients": {
+            "medaka": 3
+          },
+          "Amount": 1
+        },
+        {
+          "Id": "inazuma_fishing_association",
+          "Ingredients": {
+            "medaka": 3
+          },
+          "Amount": 1
+        },
+        {
+          "Id": "sumeru_fishing_association",
+          "Ingredients": {
+            "medaka": 3
+          },
+          "Amount": 1
+        }
+      ],
+      "Id": "fishing_line_stabilizer",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "kamera": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "kamera",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "lumenstone_adjuvant": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "lumenstone_adjuvant",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "memento_lens": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "memento_lens",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "narukawa_ukai": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Fishing",
+      "Obtainable": "InazumaFishingAssociation",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": [
+        {
+          "Id": "inazuma_fishing_association",
+          "Ingredients": {
+            "medaka": 20,
+            "glaze_medaka": 20,
+            "lunged_stickleback": 20,
+            "purple_shirakodai": 20
+          },
+          "Amount": 1
+        }
+      ],
+      "Id": "narukawa_ukai",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "nre_menu_30": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Forging",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "lizard_tail": 20,
+          "chaos_circuit": 20,
+          "electro_crystal": 50,
+          "mora": 50000
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:30"
+      },
+      "TradingBlueprints": null,
+      "Id": "nre_menu_30",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "parametric_transformer": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Placeable",
+      "Obtainable": "Quest",
+      "Cooldown": "7.00:00:00",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "parametric_transformer",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "peculiar_pinion": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": "00:00:03",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "peculiar_pinion",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "red_feather_fan": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "InazumaReputationReward",
+      "Cooldown": "00:00:30",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "red_feather_fan",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "seed_dispensary": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "seed_dispensary",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "serendipity": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Fishing",
+      "Obtainable": "SumeruFishingAssociation",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": [
+        {
+          "Id": "sumeru_fishing_association",
+          "Ingredients": {
+            "medaka": 20,
+            "true_fruit_angler": 20,
+            "sunset_cloud_angler": 20,
+            "sandstorm_angler": 20
+          },
+          "Amount": 1
+        }
+      ],
+      "Id": "serendipity",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "serenitea_pot": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Placeable",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "serenitea_pot",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "special_kamera": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "special_kamera",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "ultra_hot_burner_lamp_test_model": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Processing",
+      "Obtainable": "SumeruReputationReward",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "ultra_hot_burner_lamp_test_model",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "vintage_lyre": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "vintage_lyre",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "wilderness_rod": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Fishing",
+      "Obtainable": "Quest",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "wilderness_rod",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "wind_catcher": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "MondstadtReputationReward",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "hurricane_seed": 10,
+          "windwheel_aster": 30,
+          "crystal_chunk": 50,
+          "mora": 50000
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:01:40"
+      },
+      "TradingBlueprints": null,
+      "Id": "wind_catcher",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "wind_powered_wind_generator": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "FontaineReputationReward",
+      "Cooldown": "00:00:20",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "wind_powered_wind_generator",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "windtangler": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Fishing",
+      "Obtainable": "MondstadtFishingAssociation",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": [
+        {
+          "Id": "mondstadt_fishing_association",
+          "Ingredients": {
+            "medaka": 20,
+            "aizen_medaka": 20,
+            "venomspine_fish": 20,
+            "tea_colored_shirakodai": 20
+          },
+          "Amount": 1
+        }
+      ],
+      "Id": "windtangler",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "wishmaker": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Fishing",
+      "Obtainable": "LiyueFishingAssociation",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": [
+        {
+          "Id": "liyue_fishing_association",
+          "Ingredients": {
+            "medaka": 20,
+            "sweet_flower_medaka": 20,
+            "betta": 20,
+            "brown_shirakodai": 20
+          },
+          "Amount": 1
+        }
+      ],
+      "Id": "wishmaker",
+      "DateAdded": "2021-09-01T00:00:00"
+    }
+  },
+  "ConsumableGadgets": {
+    "anemoculus_resonance_stone": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "dandelion_seed": 5,
+          "cecilia": 5,
+          "crystal_chunk": 1,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "TradingBlueprints": null,
+      "Id": "anemoculus_resonance_stone",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "dendroculus_resonance_stone": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "nilotpala_lotus": 5,
+          "rukkhashava_mushrooms": 5,
+          "crystal_chunk": 1,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "TradingBlueprints": null,
+      "Id": "dendroculus_resonance_stone",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "electroculus_resonance_stone": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "naku_weed": 5,
+          "sakura_bloom": 5,
+          "amethyst_lump": 1,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "TradingBlueprints": null,
+      "Id": "electroculus_resonance_stone",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "geoculus_resonance_stone": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "cor_lapis": 5,
+          "glaze_lily": 5,
+          "crystal_chunk": 1,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "TradingBlueprints": null,
+      "Id": "geoculus_resonance_stone",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "hydroculus_resonance_stone": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "Crafting",
+      "Cooldown": "00:05:00",
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "romaritime_flower": 5,
+          "rainbow_rose": 5,
+          "crystal_chunk": 1,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "TradingBlueprints": null,
+      "Id": "hydroculus_resonance_stone",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "adepti_seekers_stove": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Placeable",
+      "Obtainable": "Forging",
+      "Cooldown": "00:05:00",
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "flaming_essential_oil": 1,
+          "crystal_core": 2,
+          "iron_chunk": 2,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:10"
+      },
+      "TradingBlueprints": null,
+      "Id": "adepti_seekers_stove",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "omni_ubiquity_net": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "NPC",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "omni_ubiquity_net",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "portable_waypoint": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Placeable",
+      "Obtainable": "Crafting",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "dead_ley_line_leaves": 1,
+          "luminescent_spine": 2,
+          "crystal_chunk": 5,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "TradingBlueprints": null,
+      "Id": "portable_waypoint",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "warming_bottle": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "GadgetType": "Consumable",
+      "Usage": "Instant",
+      "Obtainable": "FrostbearingTreeReward",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": {
+        "CraftingMethod": "Forging",
+        "Ingredients": {
+          "flaming_flower_stamen": 2,
+          "starsilver": 2,
+          "mora": 500
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": "00:00:10"
+      },
+      "TradingBlueprints": null,
+      "Id": "warming_bottle",
+      "DateAdded": "2020-12-23T00:00:00"
+    }
+  },
+  "MementoGadgets": {
+    "aratakis_great_and_glorious_drum": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "aratakis_great_and_glorious_drum",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "cloud_retainers_damasked_device": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "cloud_retainers_damasked_device",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "endora": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "endora",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "floral_zither": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "NPC",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "floral_zither",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "itty_bitty_octobaby": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "itty_bitty_octobaby",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "jumpy_dumpty_party_popper": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "jumpy_dumpty_party_popper",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "launch_tube": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "launch_tube",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "mini_seelie_curcuma": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "mini_seelie_curcuma",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "mini_seelie_dayflower": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "mini_seelie_dayflower",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "mini_seelie_moss": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "mini_seelie_moss",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "mini_seelie_rose": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "mini_seelie_rose",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "mini_seelie_viola": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "mini_seelie_viola",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "moonstringer": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "moonstringer",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "portable_aerodynamic_gelatinous_bubble_generator": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Reusable",
+      "Usage": "Instant",
+      "Obtainable": "Event",
+      "Cooldown": "00:00:07",
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "portable_aerodynamic_gelatinous_bubble_generator",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "shiki_koshou": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "shiki_koshou",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "waverider_repair_toolbox": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "Event",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "waverider_repair_toolbox",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "wind_blessed_harpastum": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "NPC",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "wind_blessed_harpastum",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "windblume_festival_commemorative_balloon": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "NPC",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "windblume_festival_commemorative_balloon",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "windsong_lyre": {
+      "EntityId": "gadget",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "GadgetType": "Memento",
+      "Usage": "Equipment",
+      "Obtainable": "NPC",
+      "Cooldown": null,
+      "CraftingRecipeBlueprint": null,
+      "TradingBlueprints": null,
+      "Id": "windsong_lyre",
+      "DateAdded": "2021-03-17T00:00:00"
+    }
+  },
+  "Type": "GadgetDatabase"
+}

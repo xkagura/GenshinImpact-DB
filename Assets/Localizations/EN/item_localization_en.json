@@ -1,0 +1,246 @@
+{
+  "LangCode": "EN",
+  "Materials": {
+    "original_resin": {
+      "Name": "Original Resin",
+      "Description": "Used to vitalize Petrified Trees and Ley Line Blossoms, allowing access to the treasures they hold. Energy regenerates over time.",
+      "Effect": null
+    },
+    "condensed_resin": {
+      "Name": "Condensed Resin",
+      "Description": "Can be used to revitalize Ley Line Blossoms from Ley Line Outcrops or Petrified Trees in Domains to receive 2 sets of rewards at one time. This includes double the amount of Adventure EXP and Companionship EXP.",
+      "Effect": null
+    },
+    "fragile_resin": {
+      "Name": "Fragile Resin",
+      "Description": "An item used to restore Original Resin by 60 points. This crystalline substance pulsates with a little energy that can be absorbed by Original Resin. The flow of energies of all sorts is the source of many wonders and challenges in the world. Those same energies are also contained within this crystal.",
+      "Effect": null
+    },
+    "transient_resin": {
+      "Name": "Transient Resin",
+      "Description": "An item that can be used to replenish Original Resin. Once used, it will replenish 60 Original Resin.\n\nOnce obtained, it will automatically dissipate after a period of time.\n\nThe expiration time will be calculated from the Monday after the item is obtained, and it will disappear seven days from then.\n\nMultiple Transient Resins obtained on different weeks will have their expiration dates counted independently.",
+      "Effect": null
+    },
+    "intertwined_fate": {
+      "Name": "Intertwined Fate",
+      "Description": "A fateful stone that connects dreams. Its glimmers can entwine fates and connect dreams, just as how its glimmer links stars into the shapes of a heart's desires.",
+      "Effect": null
+    },
+    "acquaint_fate": {
+      "Name": "Acquaint Fate",
+      "Description": "A seed that lights up the night. No matter the distance apart, guided by the stone's glimmer, the fated will meet under the stars.",
+      "Effect": null
+    },
+    "anemoculus": {
+      "Name": "Anemoculus",
+      "Description": "A substance that has accumulated intense Anemo energy. Offer it to the Statue and help reinstate the power it has lost over the years.",
+      "Effect": null
+    },
+    "dendroculus": {
+      "Name": "Dendroculus",
+      "Description": "A substance that has accumulated intense Dendro energy. Offer it to the Statue and help reinstate the power it has lost over the years.",
+      "Effect": null
+    },
+    "geoculus": {
+      "Name": "Geoculus",
+      "Description": "A substance that has accumulated intense Geo energy. Offer it to the Statue and help reinstate the power it has lost over the years.",
+      "Effect": null
+    },
+    "electroculus": {
+      "Name": "Electroculus",
+      "Description": "A substance that has accumulated intense Electro energy. Offer it to the Statue and help reinstate the power it has lost over the years.",
+      "Effect": null
+    },
+    "hydroculus": {
+      "Name": "Hydroculus",
+      "Description": "A substance that has accumulated intense Hydro energy. Offer it to the Statue and help reinstate the power it has lost over the years.",
+      "Effect": null
+    },
+    "crimson_agate": {
+      "Name": "Crimson Agate",
+      "Description": "A type of crystal formed from the combination of concentrated life force with an energy unique to Dragonspine. Makes for an ideal nutrient for growing Frostbearing Trees.",
+      "Effect": null
+    },
+    "lumenspar": {
+      "Name": "Lumenspar",
+      "Description": "A sky-blue crystal that glitters so brightly that it brings forth echoes of the heavens above, which cannot be seen from underground... If you hold it up to your ear, you can almost hear a soft sigh coming from within. This might sound strange, but this crystal also gives off a faint warmth.",
+      "Effect": null
+    },
+    "mondstadt_shrine_of_depths_key": {
+      "Name": "Mondstadt Shrine of Depths Key",
+      "Description": "A key that can break the seal on the ancient Shrines of Depths scattered around Mondstadt. These Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+      "Effect": null
+    },
+    "liyue_shrine_of_depths_key": {
+      "Name": "Liyue Shrine of Depths Key",
+      "Description": "A key that can break the seal on the ancient Shrines of Depths scattered around Liyue. These Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+      "Effect": null
+    },
+    "inazuma_shrine_of_depths_key": {
+      "Name": "Inazuma Shrine of Depths Key",
+      "Description": "A key that can break the seal on the ancient Shrines of Depths scattered around Inazuma. These Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+      "Effect": null
+    },
+    "sumeru_shrine_of_depths_key": {
+      "Name": "Sumeru Shrine of Depths Key",
+      "Description": "A key that can break the seal on the ancient Shrines of Depths scattered around Sumeru.\nThese Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+      "Effect": null
+    },
+    "fontaine_shrine_of_depths_key": {
+      "Name": "Fontaine Shrine of Depths Key",
+      "Description": "A key that can break the seal on the ancient Shrines of Depths scattered around Fontaine. These Shrines of Depths sealed themselves off when the civilization that built them was lost. Keys lost deep within domains are able to break the seals. Or perhaps that, for a moment, these keys help the seals to forget all that they have lost.",
+      "Effect": null
+    }
+  },
+  "Experiences": {
+    "exp_adventure": {
+      "Name": "Adventure EXP",
+      "Description": "Adventure EXP. Used to improve Adventure Rank."
+    },
+    "exp_trust": {
+      "Name": "Trust",
+      "Description": "Accumulate this to increase your Trust Rank."
+    },
+    "exp_character": {
+      "Name": "Character EXP",
+      "Description": "Character EXP, used to level up characters."
+    },
+    "exp_weapon": {
+      "Name": "Weapon EXP",
+      "Description": "Weapon EXP, used to level up characters."
+    },
+    "exp_companionship": {
+      "Name": "Companion­ship EXP",
+      "Description": "Companionship EXP. Used to increase Friendship levels."
+    },
+    "exp_battle_pass": {
+      "Name": "Battle Pass EXP",
+      "Description": "Your travel diary contains all that you have experienced in your long journey. These experiences shall someday become the stuff of song."
+    },
+    "exp_mondstadt_reputation": {
+      "Name": "Mondstadt Reputation EXP",
+      "Description": "Increases your Reputation level in Mondstadt."
+    },
+    "exp_liyue_reputation": {
+      "Name": "Liyue Reputation EXP",
+      "Description": "Increases your Reputation level in Liyue."
+    },
+    "exp_inazuma_reputation": {
+      "Name": "Inazuma Reputation EXP",
+      "Description": "Increases your Reputation level in Inazuma."
+    },
+    "exp_sumeru_reputation": {
+      "Name": "Sumeru Reputation EXP",
+      "Description": "Increases your Reputation level in Sumeru."
+    },
+    "exp_fontaine_reputation": {
+      "Name": "Fontaine Reputation EXP",
+      "Description": "Increases your Reputation level in Fontaine."
+    },
+    "exp_natlan_reputation": {
+      "Name": "Natlan Reputation EXP",
+      "Description": "Increases your Reputation level in Natlan."
+    },
+    "exp_snezhnaya_reputation": {
+      "Name": "Snezhnaya Reputation EXP",
+      "Description": "Increases your Reputation level in Snezhnaya."
+    }
+  },
+  "Outfits": {
+    "gunnhildrs_legacy": {
+      "Name": "Gunnhildr's Legacy",
+      "Description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions."
+    },
+    "100_percent_outrider": {
+      "Name": "100% Outrider",
+      "Description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!"
+    },
+    "pact_of_stars_and_moon": {
+      "Name": "Pact of Stars and Moon",
+      "Description": "Mona's outfit. A costume made specifically to encompass the astrological concept of \"the destined moment,\" thanks to the 30% discount ticket she got from the planetarium refund."
+    },
+    "to_the_churchs_free_spirit": {
+      "Name": "To the Church's Free Spirit",
+      "Description": "Rosaria's outfit. This seems to have been custom-made for her by the Church."
+    },
+    "sea_breeze_dandelion": {
+      "Name": "Sea Breeze Dandelion",
+      "Description": "Jean's summer wear. Light and cool, but no less elegant for it. The perfect choice for a trip to the seaside."
+    },
+    "summertime_sparkle": {
+      "Name": "Summertime Sparkle6",
+      "Description": "Barbara's beach attire. This pretty skirt brims with summer vitality and carries with it a cool ocean breeze."
+    },
+    "opulent_splendor": {
+      "Name": "Opulent Splendor",
+      "Description": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance."
+    },
+    "orchids_evening_gown": {
+      "Name": "Orchid's Evening Gown",
+      "Description": "Ningguang's formal wear. The long cyan skirt traces her elegant curves, and the butterfly wings at her ankles lend the outfit a touch of light grace."
+    },
+    "ein_immernachtstraum": {
+      "Name": "Ein Immer­nachts­traum",
+      "Description": "A ceremonial outfit for the Prinzessin. May she who is noble retain her courage, sincerity, and kindness forever, such that no evil shall ever overcome her."
+    },
+    "red_dead_of_night": {
+      "Name": "Red Dead of Night",
+      "Description": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows.\nThe crimson red traces it leave behind at the edges of the enemy's vision will scar their nightmares forever."
+    },
+    "springbloom_missive": {
+      "Name": "Springbloom Missive",
+      "Description": "Ayaka's travel outfit. Its design is based on the Fontaine dresses depicted in light novel illustrations and seems to reflect the lifestyle of proper ladies who live in that nation."
+    },
+    "a_sobriquet_under_shade": {
+      "Name": "A Sobriquet Under Shade",
+      "Description": "An outfit Lisa had someone commission for her when she revisited Sumeru. A perfect balance between practicality and elegance, the dress bears a resemblance to Lisa's old uniform from the Akademiya days."
+    },
+    "blossoming_starlight": {
+      "Name": "Blossoming Starlight",
+      "Description": "An exquisite outfit Klee wears only for the most important performances. The colors are brilliant, like a cake adorned with cream flowers and crowned with scarlet candles. With it comes happiness and smiles that will fill your adventures."
+    },
+    "sailwind_shadow": {
+      "Name": "Sailwind Shadow",
+      "Description": "Kaeya's outfit from his role as the \"Dagger Bandit\" in the play. Though flamboyant and designed to be as eye-catching as possible, it isn't difficult to put on, though it does take some time to get all the accessories and daggers sorted."
+    }
+  },
+  "GameActivities": {
+    "consume_resin_new": {
+      "Name": "Consuming Resin",
+      "Description": "Consume Original Resin."
+    },
+    "dispatch_expedition": {
+      "Name": "Expeditions",
+      "Description": "Dispatch a Character on an Expedition"
+    },
+    "commissions": {
+      "Name": "Commissions",
+      "Description": "Complete 4 Daily Commissions."
+    },
+    "battle_pass_daily": {
+      "Name": "Battle Pass",
+      "Description": "Complete Daily Battle Pass missions."
+    },
+    "battle_pass_weekly": {
+      "Name": "Battle Pass",
+      "Description": "Complete Weekly Battle Pass missions."
+    },
+    "reputation_bounties": {
+      "Name": "Reputation",
+      "Description": "Complete 3 Weekly Reputation Bounties."
+    },
+    "reputation_requests": {
+      "Name": "Reputation",
+      "Description": "Complete 3 Weekly Reputation Requests."
+    },
+    "parametric_transformer": {
+      "Name": "Using Gadgets",
+      "Description": "Use the Parametric Transformer."
+    },
+    "consume_resin": {
+      "Name": "Consuming Resin",
+      "Description": "Consume 160 Original Resin."
+    }
+  },
+  "Type": "ItemLocalization"
+}

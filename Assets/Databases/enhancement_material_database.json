@@ -1,0 +1,183 @@
+{
+  "Materials": {
+    "wanderers_advice": {
+      "Set": "Character",
+      "CraftingRecipeBlueprints": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "wanderers_advice",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "adventurers_experience": {
+      "Set": "Character",
+      "CraftingRecipeBlueprints": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "adventurers_experience",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "heros_wit": {
+      "Set": "Character",
+      "CraftingRecipeBlueprints": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "heros_wit",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "enhancement_ore": {
+      "Set": "Weapon",
+      "CraftingRecipeBlueprints": [
+        {
+          "CraftingMethod": "Forging",
+          "Ingredients": {
+            "iron_chunk": 2,
+            "mora": 5
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:00:05"
+        }
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "enhancement_ore",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fine_enhancement_ore": {
+      "Set": "Weapon",
+      "CraftingRecipeBlueprints": [
+        {
+          "CraftingMethod": "Forging",
+          "Ingredients": {
+            "white_iron_chunk": 3,
+            "mora": 10
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:00:06"
+        },
+        {
+          "CraftingMethod": "Forging",
+          "Ingredients": {
+            "starsilver": 3,
+            "mora": 10
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:00:06"
+        }
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "fine_enhancement_ore",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mystic_enhancement_ore": {
+      "Set": "Weapon",
+      "CraftingRecipeBlueprints": [
+        {
+          "CraftingMethod": "Forging",
+          "Ingredients": {
+            "crystal_chunk": 4,
+            "mora": 50
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Forging",
+          "Ingredients": {
+            "amethyst_lump": 4,
+            "mora": 50
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Forging",
+          "Ingredients": {
+            "magical_crystal_chunk": 3,
+            "original_resin": 10,
+            "mora": 100
+          },
+          "AmountCrafted": 6,
+          "CraftingTime": "00:00:05"
+        }
+      ],
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "mystic_enhancement_ore",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "EnhancementMaterialDatabase"
+}

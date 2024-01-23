@@ -1,0 +1,53 @@
+{
+  "Resonances": {
+    "protective_canopy": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Unknown",
+      "Id": "protective_canopy",
+      "DateAdded": null
+    },
+    "impetuous_winds": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Anemo",
+      "Id": "impetuous_winds",
+      "DateAdded": null
+    },
+    "shattering_ice": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Cryo",
+      "Id": "shattering_ice",
+      "DateAdded": null
+    },
+    "high_voltage": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Electro",
+      "Id": "high_voltage",
+      "DateAdded": null
+    },
+    "enduring_rock": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Geo",
+      "Id": "enduring_rock",
+      "DateAdded": null
+    },
+    "soothing_water": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Hydro",
+      "Id": "soothing_water",
+      "DateAdded": null
+    },
+    "fervent_flames": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Pyro",
+      "Id": "fervent_flames",
+      "DateAdded": null
+    },
+    "sprawling_greenery": {
+      "EntityId": "elemental_resonance",
+      "ElementalResonance": "Dendro",
+      "Id": "sprawling_greenery",
+      "DateAdded": null
+    }
+  },
+  "Type": "ResonanceDatabase"
+}

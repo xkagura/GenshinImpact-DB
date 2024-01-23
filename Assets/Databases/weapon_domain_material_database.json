@@ -1,0 +1,1445 @@
+{
+  "Materials": {
+    "tile_of_decarabians_tower": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Decarabians",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "tile_of_decarabians_tower",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "debris_of_decarabians_city": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Decarabians",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "debris_of_decarabians_city",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fragment_of_decarabians_epic": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Decarabians",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "fragment_of_decarabians_epic",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "scattered_piece_of_decarabians_dream": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Decarabians",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "scattered_piece_of_decarabians_dream",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "boreal_wolfs_milk_tooth": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Boreal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "boreal_wolfs_milk_tooth",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "boreal_wolfs_cracked_tooth": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Boreal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "boreal_wolfs_cracked_tooth",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "boreal_wolfs_broken_fang": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Boreal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "boreal_wolfs_broken_fang",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "boreal_wolfs_nostalgia": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Boreal",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "boreal_wolfs_nostalgia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fetters_of_the_dandelion_gladiator": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Dandelion",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "fetters_of_the_dandelion_gladiator",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "chains_of_the_dandelion_gladiator": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Dandelion",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "chains_of_the_dandelion_gladiator",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shackles_of_the_dandelion_gladiator": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Dandelion",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "shackles_of_the_dandelion_gladiator",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dream_of_the_dandelion_gladiator": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Dandelion",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "dream_of_the_dandelion_gladiator",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "luminous_sands_from_guyun": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Guyun",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "luminous_sands_from_guyun",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lustrous_stone_from_guyun": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Guyun",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "lustrous_stone_from_guyun",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "relic_from_guyun": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Guyun",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "relic_from_guyun",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "divine_body_from_guyun": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Guyun",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "divine_body_from_guyun",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mist_veiled_lead_elixir": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Elixir",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "mist_veiled_lead_elixir",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mist_veiled_mercury_elixir": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Elixir",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "mist_veiled_mercury_elixir",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mist_veiled_gold_elixir": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Elixir",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "mist_veiled_gold_elixir",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mist_veiled_primo_elixir": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Elixir",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "mist_veiled_primo_elixir",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "grain_of_aerosiderite": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Aerosiderite",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "grain_of_aerosiderite",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "piece_of_aerosiderite": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Aerosiderite",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "piece_of_aerosiderite",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "bit_of_aerosiderite": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Aerosiderite",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "bit_of_aerosiderite",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "chunk_of_aerosiderite": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Aerosiderite",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "chunk_of_aerosiderite",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "coral_branch_of_a_distant_sea": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "DistantSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "coral_branch_of_a_distant_sea",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "jeweled_branch_of_a_distant_sea": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "DistantSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "jeweled_branch_of_a_distant_sea",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "jade_branch_of_a_distant_sea": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "DistantSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "jade_branch_of_a_distant_sea",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "golden_branch_of_a_distant_sea": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "DistantSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "golden_branch_of_a_distant_sea",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "narukamis_wisdom": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Narukami",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "narukamis_wisdom",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "narukamis_joy": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Narukami",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "narukamis_joy",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "narukamis_affection": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Narukami",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "narukamis_affection",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "narukamis_valor": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Narukami",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "narukamis_valor",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "mask_of_the_wicked_lieutenant": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "mask_of_the_wicked_lieutenant",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "mask_of_the_tigers_bite": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "mask_of_the_tigers_bite",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "mask_of_the_one_horned": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "mask_of_the_one_horned",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "mask_of_the_kijin": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "mask_of_the_kijin",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "copper_talisman_of_the_forest_dew": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "ForestDew",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "copper_talisman_of_the_forest_dew",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "iron_talisman_of_the_forest_dew": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "ForestDew",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "iron_talisman_of_the_forest_dew",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "silver_talisman_of_the_forest_dew": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "ForestDew",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "silver_talisman_of_the_forest_dew",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "golden_talisman_of_the_forest_dew": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "ForestDew",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "golden_talisman_of_the_forest_dew",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "oasis_gardens_reminiscence": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "OasisGarden",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "oasis_gardens_reminiscence",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "oasis_gardens_kindness": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "OasisGarden",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "oasis_gardens_kindness",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "oasis_gardens_mourning": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "OasisGarden",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "oasis_gardens_mourning",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "oasis_gardens_truth": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "OasisGarden",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "oasis_gardens_truth",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "echo_of_scorching_might": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "ScorchingMight",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "echo_of_scorching_might",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "remnant_glow_of_scorching_might": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "ScorchingMight",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "remnant_glow_of_scorching_might",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "dream_of_scorching_might": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "ScorchingMight",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "dream_of_scorching_might",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "olden_days_of_scorching_might": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "ScorchingMight",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "olden_days_of_scorching_might",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "fragment_of_an_ancient_chord": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Chord",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "fragment_of_an_ancient_chord",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "chapter_of_an_ancient_chord": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Chord",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "chapter_of_an_ancient_chord",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "movement_of_an_ancient_chord": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Chord",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "movement_of_an_ancient_chord",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "echo_of_an_ancient_chord": {
+      "DaysOfWeek": [
+        "Monday",
+        "Thursday",
+        "Sunday"
+      ],
+      "Set": "Chord",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "echo_of_an_ancient_chord",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "dross_of_pure_sacred_dewdrop": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Dewdrop",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "dross_of_pure_sacred_dewdrop",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "sublimation_of_pure_sacred_dewdrop": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Dewdrop",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "sublimation_of_pure_sacred_dewdrop",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "spring_of_pure_sacred_dewdrop": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Dewdrop",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "spring_of_pure_sacred_dewdrop",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "essence_of_pure_sacred_dewdrop": {
+      "DaysOfWeek": [
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "Set": "Dewdrop",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "essence_of_pure_sacred_dewdrop",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "broken_goblet_of_the_pristine_sea": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "PristineSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "broken_goblet_of_the_pristine_sea",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "wine_goblet_of_the_pristine_sea": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "PristineSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "wine_goblet_of_the_pristine_sea",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "silver_goblet_of_the_pristine_sea": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "PristineSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "silver_goblet_of_the_pristine_sea",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "golden_goblet_of_the_pristine_sea": {
+      "DaysOfWeek": [
+        "Wednesday",
+        "Saturday",
+        "Sunday"
+      ],
+      "Set": "PristineSea",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "golden_goblet_of_the_pristine_sea",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Type": "WeaponDomainMaterialDatabase"
+}

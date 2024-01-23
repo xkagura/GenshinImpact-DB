@@ -1,0 +1,9330 @@
+{
+  "Food": {
+    "activated_starshroom": {
+      "Region": "Sumeru",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "activated_starshroom",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "apple": {
+      "Region": "Teyvat",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          165
+        ]
+      },
+      "Id": "apple",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "apple_cider": {
+      "Region": "Mondstadt",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "apple_cider",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "berry_and_mint_burst": {
+      "Region": "Mondstadt",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "berry_and_mint_burst",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "bulle_fruit": {
+      "Region": "Fontaine",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          519
+        ]
+      },
+      "Id": "bulle_fruit",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "crocodile_jerky": {
+      "Region": "Sumeru",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "crocodile_jerky",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "dango_milk": {
+      "Region": "Inazuma",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "dango_milk",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "holy_water": {
+      "Region": "Mondstadt",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "holy_water",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pops_teas": {
+      "Region": "Liyue",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "pops_teas",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "scorched_starshroom": {
+      "Region": "Sumeru",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "scorched_starshroom",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sparkling_berry_juice": {
+      "Region": "Mondstadt",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "sparkling_berry_juice",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "special_mushroom_pizza": {
+      "Region": "Inazuma",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "special_mushroom_pizza",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "starshroom": {
+      "Region": "Chasm",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          355
+        ]
+      },
+      "Id": "starshroom",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "sunsettia": {
+      "Region": "Unknown",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1296.93,
+          "Longitude": -670.01,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          164
+        ]
+      },
+      "Id": "sunsettia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "wolfhook_juice": {
+      "Region": "Mondstadt",
+      "EntityId": "food",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "wolfhook_juice",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "CookableFood": {
+    "pile_em_up": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "potato": 3,
+        "small_lamp_grass": 1,
+        "cheese": 1
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "pile_em_up",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "aaru_mixed_rice": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 3,
+        "flour": 2,
+        "glabrous_beans": 2,
+        "tomato": 2
+      },
+      "EffectValues": [
+        [
+          50
+        ],
+        [
+          60
+        ],
+        [
+          40
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "aaru_mixed_rice",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "adeptus_temptation": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "ham": 3,
+        "crab": 3,
+        "shrimp_meat": 3,
+        "matsutake": 3
+      },
+      "EffectValues": [
+        [
+          316,
+          10
+        ],
+        [
+          372,
+          12
+        ],
+        [
+          260,
+          8
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "adeptus_temptation",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "adventurers_breakfast_sandwich": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 4,
+        "flour": 3,
+        "ham": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "adventurers_breakfast_sandwich",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "almond_tofu": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "milk": 3,
+        "sugar": 1,
+        "almond": 1
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          66
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "almond_tofu",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "baklava": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "ajilenakh_nut": 2,
+        "butter": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "baklava",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "bamboo_shoot_soup": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "ham": 2,
+        "bamboo_shoot": 1
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "bamboo_shoot_soup",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "barbatos_ratatouille": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "carrot": 4,
+        "potato": 4,
+        "onion": 4
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "barbatos_ratatouille",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "barbeque_ribs": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "pepper": 2,
+        "marcotte": 1
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "barbeque_ribs",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "berry_mizu_manjuu": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 2,
+        "berry": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "berry_mizu_manjuu",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "bird_egg_sushi": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 1,
+        "rice": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "bird_egg_sushi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "biryani": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 4,
+        "raw_meat": 3,
+        "spice": 2,
+        "padisarah": 1
+      },
+      "EffectValues": [
+        [
+          261,
+          8
+        ],
+        [
+          308,
+          10
+        ],
+        [
+          215,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "biryani",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "black_back_perch_stew": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 3,
+        "jueyun_chili": 1,
+        "salt": 1,
+        "violetgrass": 1
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "black_back_perch_stew",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "boudin_noir_aux_pommes": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "apple": 2,
+        "raw_meat": 1,
+        "butter": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "boudin_noir_aux_pommes",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "bountiful_year": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 4,
+        "carrot": 4,
+        "onion": 2,
+        "violetgrass": 1
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "bountiful_year",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "braised_meat": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "carrot": 2,
+        "potato": 2,
+        "onion": 1
+      },
+      "EffectValues": [
+        [
+          30
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "braised_meat",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "butter_chicken": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 3,
+        "tomato": 3,
+        "butter": 1,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "butter_chicken",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "butter_crab": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "butter": 4,
+        "crab": 4,
+        "seagrass": 2,
+        "matsutake": 1
+      },
+      "EffectValues": [
+        [
+          261,
+          8
+        ],
+        [
+          308,
+          10
+        ],
+        [
+          215,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "butter_crab",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "calla_lily_seafood_soup": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "crab": 3,
+        "calla_lily": 1,
+        "mint": 2
+      },
+      "EffectValues": [
+        [
+          200
+        ],
+        [
+          235
+        ],
+        [
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "calla_lily_seafood_soup",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "candied_ajilenakh_nut": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "ajilenakh_nut": 4,
+        "almond": 2,
+        "butter": 2,
+        "sumeru_rose": 1
+      },
+      "EffectValues": [
+        [
+          200
+        ],
+        [
+          235
+        ],
+        [
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "candied_ajilenakh_nut",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "cassoulet": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sausage": 2,
+        "fowl": 1,
+        "glabrous_beans": 1,
+        "marcotte": 1
+      },
+      "EffectValues": [
+        [
+          25
+        ],
+        [
+          30
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "cassoulet",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "charcoal_baked_ajilenakh_cake": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "ajilenakh_nut": 2,
+        "flour": 1,
+        "jam": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "charcoal_baked_ajilenakh_cake",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "chicken_tofu_pudding": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 4,
+        "ham": 2,
+        "bird_egg": 2,
+        "snapdragon": 1
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "chicken_tofu_pudding",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "chicken_mushroom_skewer": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mushroom": 1,
+        "fowl": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "chicken_mushroom_skewer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "chili_mince_cornbread_buns": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "jueyun_chili": 2,
+        "flour": 3,
+        "cabbage": 2
+      },
+      "EffectValues": [
+        [
+          30,
+          200
+        ],
+        [
+          35,
+          235
+        ],
+        [
+          25,
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "chili_mince_cornbread_buns",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "coffee_bavarois": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 3,
+        "milk": 3,
+        "coffee_beans": 4,
+        "cream": 2
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "coffee_bavarois",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "cold_cut_platter": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "ham": 1,
+        "bacon": 1,
+        "sausage": 1,
+        "mint": 1
+      },
+      "EffectValues": [
+        [
+          30
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "cold_cut_platter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "come_and_get_it": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "fish": 3,
+        "rice": 3,
+        "tofu": 1
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "come_and_get_it",
+      "DateAdded": null
+    },
+    "conch_madeleine": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 3,
+        "flour": 2,
+        "butter": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          17
+        ],
+        [
+          20
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "conch_madeleine",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "consomme": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 3,
+        "bird_egg": 3,
+        "carrot": 2,
+        "marcotte": 1
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "consomme",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "crab_roe_kourayaki": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "crab": 1,
+        "crab_roe": 1
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          66
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "crab_roe_kourayaki",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "crab_roe_tofu": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "crab_roe": 1,
+        "tofu": 1
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "crab_roe_tofu",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "crab_ham_and_veggie_bake": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "crab_roe": 1,
+        "ham": 1,
+        "cream": 1,
+        "cabbage": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "crab_ham_and_veggie_bake",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cream_of_mushroom_soup": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mushroom": 3,
+        "cream": 3
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "cream_of_mushroom_soup",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "cream_stew": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "cream": 2,
+        "snapdragon": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "cream_stew",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "crepes_suzette": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bulle_fruit": 2,
+        "cream": 1,
+        "jam": 1,
+        "flour": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "crepes_suzette",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "crispy_potato_shrimp_platter": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mint": 4,
+        "shrimp_meat": 4,
+        "potato": 3,
+        "berry": 2
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "crispy_potato_shrimp_platter",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "crystal_shrimp": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 3,
+        "shrimp_meat": 3,
+        "carrot": 2
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "crystal_shrimp",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cured_pork_dry_hotpot": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "ham": 2,
+        "matsutake": 2,
+        "snapdragon": 1,
+        "pepper": 1
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "cured_pork_dry_hotpot",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "curry_shrimp": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "shrimp_meat": 3,
+        "onion": 2,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "curry_shrimp",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "dragon_beard_noodles": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 4,
+        "fowl": 2,
+        "mushroom": 2,
+        "ham": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "dragon_beard_noodles",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "dry_braised_salted_fish": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 1,
+        "salt": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "dry_braised_salted_fish",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "duck_confit": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 1,
+        "potato": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "duck_confit",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "egg_roll": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "egg_roll",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "fatteh": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "glabrous_beans": 2,
+        "milk": 2,
+        "mint": 1
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "fatteh",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "fish_and_chips": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 3,
+        "flour": 3,
+        "potato": 3,
+        "salt": 1
+      },
+      "EffectValues": [
+        [
+          85
+        ],
+        [
+          100
+        ],
+        [
+          70
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "fish_and_chips",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fish_with_cream_sauce": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 3,
+        "milk": 2,
+        "mint": 1
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "fish_with_cream_sauce",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "fishermans_toast": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "tomato": 2,
+        "onion": 1,
+        "milk": 1
+      },
+      "EffectValues": [
+        [
+          107
+        ],
+        [
+          126
+        ],
+        [
+          88
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "fishermans_toast",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "five_pickled_treasures": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "radish": 2,
+        "carrot": 2,
+        "lavender_melon": 2,
+        "seagrass": 2
+      },
+      "EffectValues": [
+        [
+          85
+        ],
+        [
+          100
+        ],
+        [
+          70
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "five_pickled_treasures",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "flaming_red_bolognese": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 2,
+        "raw_meat": 2,
+        "tomato": 1
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "flaming_red_bolognese",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fontaine_aspic": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 2,
+        "fowl": 2,
+        "cream": 1
+      },
+      "EffectValues": [
+        [
+          9
+        ],
+        [
+          12
+        ],
+        [
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "fontaine_aspic",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fontainian_foie_gras": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 2,
+        "jam": 1,
+        "marcotte": 1
+      },
+      "EffectValues": [
+        [
+          200
+        ],
+        [
+          235
+        ],
+        [
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "fontainian_foie_gras",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fontainian_onion_soup": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "onion": 3,
+        "flour": 2,
+        "cheese": 1
+      },
+      "EffectValues": [
+        [
+          107
+        ],
+        [
+          126
+        ],
+        [
+          88
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "fontainian_onion_soup",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fragrant_mashed_potatoes": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "potato": 6,
+        "cream": 4,
+        "pepper": 3
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "fragrant_mashed_potatoes",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "fried_radish_balls": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "radish": 2,
+        "pepper": 1
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          66
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "fried_radish_balls",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fruits_of_the_festival": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "wolfhook": 2,
+        "sunsettia": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          17
+        ],
+        [
+          20
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "fruits_of_the_festival",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "fruity_duet": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sunsettia": 1,
+        "jam": 1,
+        "qingxin": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "fruity_duet",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fruity_smoothie": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "berry": 3,
+        "milk": 3,
+        "qingxin": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "fruity_smoothie",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fruity_trio": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "marcotte": 2,
+        "bulle_fruit": 1,
+        "jam": 1,
+        "bird_egg": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "fruity_trio",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fullmoon_egg": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 4,
+        "shrimp_meat": 2,
+        "bird_egg": 2,
+        "flour": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "fullmoon_egg",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "garlic_baguette": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 4,
+        "butter": 2
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          61
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "garlic_baguette",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "gilded_tajine": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "padisarah": 2,
+        "spice": 1,
+        "onion": 1
+      },
+      "EffectValues": [
+        [
+          22
+        ],
+        [
+          25
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "None",
+      "InteractiveMapPoint": null,
+      "Id": "gilded_tajine",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "golden_chicken_burger": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 4,
+        "flour": 2,
+        "cabbage": 2,
+        "butter": 2
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "golden_chicken_burger",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "golden_crab": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 5,
+        "flour": 5,
+        "crab": 4,
+        "salt": 2
+      },
+      "EffectValues": [
+        [
+          261,
+          8
+        ],
+        [
+          308,
+          10
+        ],
+        [
+          215,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "golden_crab",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "golden_fried_chicken": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 4,
+        "butter": 4,
+        "pepper": 3,
+        "flour": 2
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "golden_fried_chicken",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "golden_shrimp_balls": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "shrimp_meat": 5,
+        "potato": 4,
+        "flour": 3
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "golden_shrimp_balls",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "goulash": {
+      "EntityId": "food",
+      "Region": "Dragonspine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "chilled_meat": 2,
+        "carrot": 2,
+        "tomato": 1
+      },
+      "EffectValues": null,
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "SheerColdRES",
+      "InteractiveMapPoint": null,
+      "Id": "goulash",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "grilled_tiger_fish": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 1,
+        "pepper": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "grilled_tiger_fish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "grilled_unagi_fillet": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "eel_meat": 3,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "grilled_unagi_fillet",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "haggis": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "potato": 3,
+        "radish": 3,
+        "marcotte": 2
+      },
+      "EffectValues": [
+        [
+          261,
+          8
+        ],
+        [
+          308,
+          10
+        ],
+        [
+          215,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "haggis",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "ile_flottante": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sugar": 2,
+        "bird_egg": 1
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "None",
+      "InteractiveMapPoint": null,
+      "Id": "ile_flottante",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "imported_poultry": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 4,
+        "lavender_melon": 3,
+        "flour": 2,
+        "bird_egg": 2
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "imported_poultry",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "invigorating_kitty_meal": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 4,
+        "raw_meat": 2,
+        "seagrass": 2,
+        "rice": 1
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "invigorating_kitty_meal",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "jade_fruit_soup": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sunsettia": 3,
+        "sugar": 1,
+        "qingxin": 1,
+        "violetgrass": 1
+      },
+      "EffectValues": [
+        [
+          17
+        ],
+        [
+          20
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "jade_fruit_soup",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "jade_parcels": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "lotus_head": 3,
+        "jueyun_chili": 2,
+        "cabbage": 2,
+        "ham": 1
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "jade_parcels",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "jewelry_soup": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "snapdragon": 2,
+        "tofu": 2,
+        "lotus_head": 1
+      },
+      "EffectValues": [
+        [
+          107
+        ],
+        [
+          126
+        ],
+        [
+          88
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "jewelry_soup",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "jueyun_chili_chicken": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 2,
+        "jueyun_chili": 1,
+        "pepper": 1
+      },
+      "EffectValues": [
+        [
+          9
+        ],
+        [
+          12
+        ],
+        [
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "jueyun_chili_chicken",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "jueyun_guoba": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "horsetail": 2,
+        "rice": 2,
+        "ham": 1,
+        "jueyun_chili": 1
+      },
+      "EffectValues": [
+        [
+          30
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "jueyun_guoba",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "katsu_sandwich": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "raw_meat": 2,
+        "cabbage": 1
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          66
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "katsu_sandwich",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "konda_cuisine": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 3,
+        "snapdragon": 2,
+        "lavender_melon": 2,
+        "mushroom": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "konda_cuisine",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "lambad_fish_roll": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 1,
+        "sumeru_rose": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "lambad_fish_roll",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "lasagna": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "raw_meat": 2,
+        "cheese": 2,
+        "butter": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "lasagna",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "lotus_flower_crisp": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "almond": 4,
+        "flour": 2,
+        "butter": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          200
+        ],
+        [
+          235
+        ],
+        [
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "lotus_flower_crisp",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "lotus_seed_and_bird_egg_soup": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "lotus_head": 1,
+        "bird_egg": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "lotus_seed_and_bird_egg_soup",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "masala_cheese_balls": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "spice": 1,
+        "cheese": 1,
+        "potato": 2
+      },
+      "EffectValues": [
+        [
+          9
+        ],
+        [
+          12
+        ],
+        [
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "masala_cheese_balls",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "matsutake_meat_rolls": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "matsutake": 2,
+        "raw_meat": 2
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "matsutake_meat_rolls",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "meat_lovers_mushroom_pizza": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "flour": 4,
+        "mushroom": 3,
+        "cheese": 2
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "meat_lovers_mushroom_pizza",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "milky_mushroom_crisp_tower": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 4,
+        "mushroom": 3,
+        "cheese": 2,
+        "cream": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "milky_mushroom_crisp_tower",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "mint_jelly": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mint": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "mint_jelly",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "mint_salad": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mint": 4,
+        "jueyun_chili": 1
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          66
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "mint_salad",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "minty_bean_soup": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "glabrous_beans": 2,
+        "mint": 2
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "minty_bean_soup",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "minty_fruit_tea": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mint": 3,
+        "sunsettia": 3,
+        "berry": 3,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          200
+        ],
+        [
+          235
+        ],
+        [
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "minty_fruit_tea",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "minty_meat_rolls": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mint": 4,
+        "raw_meat": 3,
+        "jueyun_chili": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "minty_meat_rolls",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "miso_soup": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "tofu": 1,
+        "seagrass": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          260
+        ],
+        [
+          10,
+          300
+        ],
+        [
+          8,
+          210
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "miso_soup",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "mixed_yakisoba": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "cabbage": 2,
+        "raw_meat": 1
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "mixed_yakisoba",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "mondstadt_grilled_fish": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 1,
+        "pepper": 1
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "mondstadt_grilled_fish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mondstadt_hash_brown": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "pinecone": 2,
+        "potato": 1,
+        "jam": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "mondstadt_hash_brown",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "moon_pie": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "bird_egg": 4,
+        "butter": 3,
+        "flour": 2
+      },
+      "EffectValues": [
+        [
+          30,
+          200
+        ],
+        [
+          35,
+          235
+        ],
+        [
+          25,
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "moon_pie",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "mora_meat": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 1,
+        "flour": 1
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "mora_meat",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "more_and_more": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 3,
+        "bacon": 2,
+        "lavender_melon": 1,
+        "flour": 1
+      },
+      "EffectValues": [
+        [
+          30
+        ],
+        [
+          40
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "more_and_more",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "mushroom_hodgepodge": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rukkhashava_mushrooms": 1,
+        "mushroom": 1,
+        "starshroom": 1
+      },
+      "EffectValues": [
+        [
+          107
+        ],
+        [
+          126
+        ],
+        [
+          88
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "mushroom_hodgepodge",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "mushroom_pizza": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mushroom": 4,
+        "flour": 3,
+        "cabbage": 2,
+        "cheese": 1
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "mushroom_pizza",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "noodles_with_mountain_delicacies": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mushroom": 3,
+        "raw_meat": 2,
+        "flour": 2
+      },
+      "EffectValues": [
+        [
+          50
+        ],
+        [
+          60
+        ],
+        [
+          40
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "noodles_with_mountain_delicacies",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "northern_apple_stew": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "apple": 3,
+        "butter": 1,
+        "pepper": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "northern_apple_stew",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "northern_smoked_chicken": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "smoked_fowl": 1,
+        "onion": 1,
+        "cabbage": 1
+      },
+      "EffectValues": [
+        [
+          50
+        ],
+        [
+          60
+        ],
+        [
+          40
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "northern_smoked_chicken",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "omelette_rice": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 4,
+        "rice": 3,
+        "tomato": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "omelette_rice",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "oncidium_tofu": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "tofu": 4,
+        "ham": 1,
+        "fowl": 1,
+        "bamboo_shoot": 2
+      },
+      "EffectValues": [
+        [
+          85
+        ],
+        [
+          100
+        ],
+        [
+          70
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "oncidium_tofu",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "onigiri": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 2,
+        "rice": 1,
+        "seagrass": 2
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "onigiri",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "padisarah_pudding": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "padisarah": 2,
+        "sumeru_rose": 1,
+        "milk": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "padisarah_pudding",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "panipuri": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "potato": 1,
+        "glabrous_beans": 1,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          650
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "panipuri",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "pate_de_fruit": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bulle_fruit": 1,
+        "jam": 1,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          15
+        ],
+        [
+          20
+        ],
+        [
+          10
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "pate_de_fruit",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "pita_pocket": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "flour": 3,
+        "tomato": 2,
+        "milk": 2
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "pita_pocket",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "poissonchant_pie": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 3,
+        "bird_egg": 1,
+        "flour": 2,
+        "bacon": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "poissonchant_pie",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "poisson_seafood_soup": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 4,
+        "tomato": 2,
+        "mint": 2,
+        "marcotte": 2
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "poisson_seafood_soup",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "potato_boat": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "potato": 1,
+        "rukkhashava_mushrooms": 1,
+        "cheese": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "potato_boat",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "qingce_stir_fry": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mushroom": 3,
+        "lotus_head": 2,
+        "jueyun_chili": 1,
+        "cabbage": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "qingce_stir_fry",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "radish_veggie_soup": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "radish": 1,
+        "mint": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          260
+        ],
+        [
+          10,
+          300
+        ],
+        [
+          8,
+          210
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "radish_veggie_soup",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "radish_and_fish_stew": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 2,
+        "radish": 2,
+        "salt": 1
+      },
+      "EffectValues": [
+        [
+          9
+        ],
+        [
+          12
+        ],
+        [
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "radish_and_fish_stew",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "rainbow_aster": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "milk": 3,
+        "lavender_melon": 2,
+        "calla_lily": 2,
+        "mint": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "rainbow_aster",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "rice_buns": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 1,
+        "horsetail": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          1000
+        ],
+        [
+          10,
+          1200
+        ],
+        [
+          8,
+          800
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "rice_buns",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "rice_cake_soup": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sausage": 2,
+        "tofu": 1,
+        "fish": 1,
+        "lavender_melon": 1
+      },
+      "EffectValues": [
+        [
+          200
+        ],
+        [
+          235
+        ],
+        [
+          165
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "rice_cake_soup",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "rice_pudding": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 3,
+        "rice": 2,
+        "milk": 2,
+        "sugar": 2
+      },
+      "EffectValues": [
+        [
+          85
+        ],
+        [
+          100
+        ],
+        [
+          70
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "rice_pudding",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "rose_custard": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "milk": 2,
+        "sumeru_rose": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "rose_custard",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "sabz_meat_stew": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "snapdragon": 2,
+        "onion": 2,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "sabz_meat_stew",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "sakura_mochi": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 4,
+        "sugar": 2,
+        "sakura_bloom": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "sakura_mochi",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "sakura_shrimp_crackers": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "shrimp_meat": 3,
+        "potato": 3,
+        "sakura_bloom": 2
+      },
+      "EffectValues": [
+        [
+          22
+        ],
+        [
+          25
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "sakura_shrimp_crackers",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "sakura_tempura": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "shrimp_meat": 4,
+        "lavender_melon": 2,
+        "sakura_bloom": 2,
+        "flour": 1
+      },
+      "EffectValues": [
+        [
+          25
+        ],
+        [
+          30
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "sakura_tempura",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "samosa": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "flour": 1,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "samosa",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "sangayaki": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 2,
+        "snapdragon": 2,
+        "salt": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "sangayaki",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "sashimi_platter": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 4,
+        "shrimp_meat": 4,
+        "crab": 4,
+        "radish": 2
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "sashimi_platter",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "satisfying_salad": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "cabbage": 2,
+        "apple": 2,
+        "bird_egg": 1,
+        "potato": 1
+      },
+      "EffectValues": [
+        [
+          9
+        ],
+        [
+          12
+        ],
+        [
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "satisfying_salad",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sauteed_matsutake": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "matsutake": 3,
+        "flour": 3,
+        "pinecone": 2,
+        "butter": 2
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "sauteed_matsutake",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "scented_meat_balls": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "mysterious_meat": 3,
+        "wheat": 2,
+        "onion": 2,
+        "spice": 2
+      },
+      "EffectValues": [
+        [
+          26,
+          32,
+          38,
+          950,
+          1250,
+          1550
+        ],
+        [
+          28,
+          34,
+          40,
+          1400,
+          1900,
+          2350
+        ],
+        [
+          24,
+          30,
+          36,
+          450,
+          600,
+          700
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "scented_meat_balls",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "selva_salad": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "zaytun_peach": 2,
+        "mint": 2,
+        "sumeru_rose": 2
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "selva_salad",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "shawarma_wrap": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2,
+        "flour": 2,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          81
+        ],
+        [
+          95
+        ],
+        [
+          66
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "shawarma_wrap",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "soba_noodles": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 1,
+        "seagrass": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          260
+        ],
+        [
+          10,
+          300
+        ],
+        [
+          8,
+          210
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "soba_noodles",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "squirrel_fish": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 4,
+        "tomato": 2,
+        "flour": 2,
+        "sugar": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "squirrel_fish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "steak": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 2
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "steak",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "steak_tartare": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "bird_egg": 3,
+        "onion": 2,
+        "marcotte": 2
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "steak_tartare",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "sticky_honey_roast": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "carrot": 2,
+        "sugar": 2
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "sticky_honey_roast",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "stir_fried_filet": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 1,
+        "jueyun_chili": 1
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "stir_fried_filet",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "stir_fried_fish_noodles": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 2,
+        "rice": 2,
+        "snapdragon": 2
+      },
+      "EffectValues": [
+        [
+          20,
+          390
+        ],
+        [
+          22,
+          470
+        ],
+        [
+          18,
+          300
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "stir_fried_fish_noodles",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "stir_fried_shrimp": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "shrimp_meat": 4,
+        "flour": 3,
+        "snapdragon": 3
+      },
+      "EffectValues": [
+        [
+          25
+        ],
+        [
+          30
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "stir_fried_shrimp",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "stone_harbor_delicacies": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "potato": 2,
+        "violetgrass": 1,
+        "matsutake": 1
+      },
+      "EffectValues": [
+        [
+          9
+        ],
+        [
+          12
+        ],
+        [
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "stone_harbor_delicacies",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "sunset_berry_tea": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sunsettia": 3,
+        "berry": 3,
+        "sugar": 2
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "sunset_berry_tea",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sunshine_sprat": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "butter": 3,
+        "fish": 3,
+        "salt": 1,
+        "small_lamp_grass": 1
+      },
+      "EffectValues": [
+        [
+          25
+        ],
+        [
+          30
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "sunshine_sprat",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "super_magnificent_pizza": {
+      "EntityId": "food",
+      "Region": "Unknown",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 1,
+        "ham": 1,
+        "flour": 1,
+        "cheese": 1
+      },
+      "EffectValues": [
+        [
+          35,
+          8
+        ],
+        [
+          45,
+          10
+        ],
+        [
+          25,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "super_magnificent_pizza",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "sweet_madame": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 2,
+        "sweet_flower": 2
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "sweet_madame",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sweet_shrimp_sushi": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "shrimp_meat": 2,
+        "rice": 1
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "sweet_shrimp_sushi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "tahchin": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 4,
+        "fowl": 2,
+        "fish": 2,
+        "padisarah": 1
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "tahchin",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "taiyaki": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "sunsettia": 3,
+        "milk": 3,
+        "flour": 2,
+        "sugar": 2
+      },
+      "EffectValues": [
+        [
+          28,
+          620
+        ],
+        [
+          30,
+          790
+        ],
+        [
+          26,
+          450
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "taiyaki",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "tandoori_roast_chicken": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 3,
+        "rukkhashava_mushrooms": 2,
+        "padisarah": 1,
+        "spice": 1
+      },
+      "EffectValues": [
+        [
+          272,
+          8
+        ],
+        [
+          320,
+          10
+        ],
+        [
+          224,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "tandoori_roast_chicken",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "tasses_ragout": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "tomato": 3,
+        "salt": 2,
+        "onion": 3
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "tasses_ragout",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "tea_break_pancake": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "berry": 3,
+        "flour": 2,
+        "bird_egg": 1
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "tea_break_pancake",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teyvat_fried_egg": {
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 1
+      },
+      "EffectValues": [
+        [
+          100
+        ],
+        [
+          150
+        ],
+        [
+          50
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "teyvat_fried_egg",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tianshu_meat": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "sugar": 2,
+        "qingxin": 1,
+        "matsutake": 1
+      },
+      "EffectValues": [
+        [
+          30,
+          8
+        ],
+        [
+          45,
+          10
+        ],
+        [
+          25,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "tianshu_meat",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "tomates_narbonnaises": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "onion": 1,
+        "tomato": 3,
+        "raw_meat": 3,
+        "bacon": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "tomates_narbonnaises",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "tonkotsu_ramen": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "flour": 3,
+        "bamboo_shoot": 2,
+        "bird_egg": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "tonkotsu_ramen",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "tri_flavored_skewer": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 4,
+        "bird_egg": 2,
+        "flour": 2,
+        "snapdragon": 1
+      },
+      "EffectValues": [
+        [
+          194
+        ],
+        [
+          228
+        ],
+        [
+          160
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "tri_flavored_skewer",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "tricolor_dango": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "milk": 2,
+        "snapdragon": 2,
+        "sakura_bloom": 2,
+        "rice": 1
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "tricolor_dango",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "tripes_du_port": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "carrot": 3,
+        "onion": 2,
+        "fermented_juice": 1
+      },
+      "EffectValues": [
+        [
+          1200
+        ],
+        [
+          1500
+        ],
+        [
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "tripes_du_port",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "triple_layered_consomme": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "ham": 2,
+        "fowl": 2,
+        "bamboo_shoot": 1,
+        "mushroom": 1
+      },
+      "EffectValues": [
+        [
+          25
+        ],
+        [
+          30
+        ],
+        [
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "triple_layered_consomme",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "trout_amandine": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 1,
+        "almond": 1
+      },
+      "EffectValues": [
+        [
+          9,
+          260
+        ],
+        [
+          10,
+          300
+        ],
+        [
+          8,
+          210
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "trout_amandine",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "tulumba": {
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bird_egg": 3,
+        "flour": 2,
+        "sugar": 2,
+        "coffee_beans": 1
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "tulumba",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "tuna_sushi": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fish": 3,
+        "rice": 3
+      },
+      "EffectValues": [
+        [
+          22,
+          1200
+        ],
+        [
+          24,
+          1500
+        ],
+        [
+          20,
+          900
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "tuna_sushi",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "udon_noodles": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "flour": 3,
+        "seagrass": 1,
+        "fish": 1
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "udon_noodles",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "unagi_chazuke": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "eel_meat": 1,
+        "rice": 1,
+        "seagrass": 1,
+        "salt": 1
+      },
+      "EffectValues": [
+        [
+          17
+        ],
+        [
+          20
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "unagi_chazuke",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "universal_peace": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "rice": 4,
+        "lotus_head": 2,
+        "carrot": 2,
+        "berry": 2
+      },
+      "EffectValues": [
+        [
+          32,
+          1250
+        ],
+        [
+          34,
+          1900
+        ],
+        [
+          30,
+          600
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "universal_peace",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "vegetarian_abalone": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "matsutake": 2,
+        "snapdragon": 2
+      },
+      "EffectValues": [
+        [
+          400
+        ],
+        [
+          550
+        ],
+        [
+          250
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "vegetarian_abalone",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "vessie_chicken": {
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": {
+        "fowl": 4,
+        "raw_meat": 4,
+        "marcotte": 3,
+        "fermented_juice": 2
+      },
+      "EffectValues": [
+        [
+          35,
+          8
+        ],
+        [
+          45,
+          10
+        ],
+        [
+          25,
+          6
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "vessie_chicken",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "wakatakeni": {
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": {
+        "bamboo_shoot": 3,
+        "seagrass": 2
+      },
+      "EffectValues": [
+        [
+          107
+        ],
+        [
+          126
+        ],
+        [
+          88
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "wakatakeni",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "zhongyuan_chop_suey": {
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": {
+        "raw_meat": 3,
+        "fish": 3,
+        "flour": 3,
+        "salt": 2
+      },
+      "EffectValues": [
+        [
+          20
+        ],
+        [
+          25
+        ],
+        [
+          15
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "zhongyuan_chop_suey",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "SpecialDishes": {
+    "woodland_dream": {
+      "BaseDishId": "sunshine_sprat",
+      "CharacterId": "albedo",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          35
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "woodland_dream",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "ideal_circumstance": {
+      "BaseDishId": "sabz_meat_stew",
+      "CharacterId": "alhaitham",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          2350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "ideal_circumstance",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "satiety_gel": {
+      "BaseDishId": "mint_jelly",
+      "CharacterId": "aloy",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16,
+          1350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "satiety_gel",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "outriders_champion_steak": {
+      "BaseDishId": "steak",
+      "CharacterId": "amber",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          10,
+          150
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "outriders_champion_steak",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "heat_quelling_soup": {
+      "BaseDishId": "jade_fruit_soup",
+      "CharacterId": "baizhu",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "heat_quelling_soup",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "spicy_stew": {
+      "BaseDishId": "cream_stew",
+      "CharacterId": "barbara",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "spicy_stew",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "flash_fried_filet": {
+      "BaseDishId": "stir_fried_filet",
+      "CharacterId": "beidou",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          10,
+          150
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "flash_fried_filet",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "teyvat_charred_egg": {
+      "BaseDishId": "teyvat_fried_egg",
+      "CharacterId": "bennett",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          10,
+          150
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "teyvat_charred_egg",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "utmost_care": {
+      "BaseDishId": "aaru_mixed_rice",
+      "CharacterId": "candace",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          80
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "utmost_care",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "cold_noodles_with_mountain_delicacies": {
+      "BaseDishId": "noodles_with_mountain_delicacies",
+      "CharacterId": "chongyun",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          80
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaIncrease",
+      "InteractiveMapPoint": null,
+      "Id": "cold_noodles_with_mountain_delicacies",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "yearning": {
+      "BaseDishId": "pita_pocket",
+      "CharacterId": "collei",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          2350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "yearning",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "duel_soul": {
+      "BaseDishId": "tahchin",
+      "CharacterId": "cyno",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          34,
+          980
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "duel_soul",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "goldflame_tajine": {
+      "BaseDishId": "gilded_tajine",
+      "CharacterId": "dehya",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          30
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "goldflame_tajine",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "once_upon_a_time_in_mondstadt": {
+      "BaseDishId": "pile_em_up",
+      "CharacterId": "diluc",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "once_upon_a_time_in_mondstadt",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "definitely_not_bar_food": {
+      "BaseDishId": "mondstadt_grilled_fish",
+      "CharacterId": "diona",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          10,
+          150
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "definitely_not_bar_food",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "show_me_the_mora": {
+      "BaseDishId": "butter_chicken",
+      "CharacterId": "dori",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          274
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "show_me_the_mora",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "stormcrest_pie": {
+      "BaseDishId": "moon_pie",
+      "CharacterId": "eula",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          282
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "stormcrest_pie",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "traditionally_made_charcoal_baked_ajilenakh_cake": {
+      "BaseDishId": "charcoal_baked_ajilenakh_cake",
+      "CharacterId": "faruzan",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          1500
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "traditionally_made_charcoal_baked_ajilenakh_cake",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "die_heilige_sinfonie": {
+      "BaseDishId": "cold_cut_platter",
+      "CharacterId": "fischl",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          55
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "die_heilige_sinfonie",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "seabirds_sojourn": {
+      "BaseDishId": "poisson_seafood_soup",
+      "CharacterId": "freminet",
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          34,
+          980
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "seabirds_sojourn",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "prosperous_peace": {
+      "BaseDishId": "universal_peace",
+      "CharacterId": "ganyu",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          2350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "prosperous_peace",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "victorious_legend": {
+      "BaseDishId": "tonkotsu_ramen",
+      "CharacterId": "gorou",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          2350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "victorious_legend",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "ghostly_march": {
+      "BaseDishId": "vegetarian_abalone",
+      "CharacterId": "hu_tao",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          15,
+          550
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "ghostly_march",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "omurice_waltz": {
+      "BaseDishId": "omelette_rice",
+      "CharacterId": "kuki_shinobu",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "omurice_waltz",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "way_of_the_strong": {
+      "BaseDishId": "mixed_yakisoba",
+      "CharacterId": "arataki_itto",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          15,
+          550
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "way_of_the_strong",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "invigorating_pizza": {
+      "BaseDishId": "mushroom_pizza",
+      "CharacterId": "jean",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          34,
+          980
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "invigorating_pizza",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "all_weather_beauty": {
+      "BaseDishId": "dry_braised_salted_fish",
+      "CharacterId": "kaedehara_kazuha",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16,
+          1350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "all_weather_beauty",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "fruity_skewers": {
+      "BaseDishId": "chicken_mushroom_skewer",
+      "CharacterId": "kaeya",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16,
+          1350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "fruity_skewers",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "snow_on_the_hearth": {
+      "BaseDishId": "sakura_mochi",
+      "CharacterId": "kamisato_ayaka",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          1500
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "snow_on_the_hearth",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "quiet_elegance": {
+      "BaseDishId": "sakura_tempura",
+      "CharacterId": "kamisato_ayato",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          35
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "quiet_elegance",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "the_endeavor": {
+      "BaseDishId": "fatteh",
+      "CharacterId": "kaveh",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          15,
+          550
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "the_endeavor",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "survival_grilled_fish": {
+      "BaseDishId": "grilled_tiger_fish",
+      "CharacterId": "keqing",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16,
+          1350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "survival_grilled_fish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "energizing_bento": {
+      "BaseDishId": "invigorating_kitty_meal",
+      "CharacterId": "kirara",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          34,
+          980
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "energizing_bento",
+      "DateAdded": "2023-05-24T00:00:00"
+    },
+    "fish_flavored_toast": {
+      "BaseDishId": "fishermans_toast",
+      "CharacterId": "klee",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          151
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "fish_flavored_toast",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "faith_eternal": {
+      "BaseDishId": "egg_roll",
+      "CharacterId": "kujou_sara",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          10,
+          150
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "faith_eternal",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "extravagant_slumber": {
+      "BaseDishId": "rose_custard",
+      "CharacterId": "layla",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          26,
+          570
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "extravagant_slumber",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "mysterious_bolognese": {
+      "BaseDishId": "flaming_red_bolognese",
+      "CharacterId": "lisa",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          26,
+          570
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "mysterious_bolognese",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "a_leisurely_sip": {
+      "BaseDishId": "conch_madeleine",
+      "CharacterId": "lynette",
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "a_leisurely_sip",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "cubic_tricks": {
+      "BaseDishId": "pate_de_fruit",
+      "CharacterId": "lyney",
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "cubic_tricks",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "surveyors_breakfast_sandwich": {
+      "BaseDishId": "adventurers_breakfast_sandwich",
+      "CharacterId": "mika",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          274
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "surveyors_breakfast_sandwich",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "der_weisheit_letzter_schluss_life": {
+      "BaseDishId": "satisfying_salad",
+      "CharacterId": "mona",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "der_weisheit_letzter_schluss_life",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "halvamazd": {
+      "BaseDishId": "candied_ajilenakh_nut",
+      "CharacterId": "nahida",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          282
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "halvamazd",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "consomme_purete": {
+      "BaseDishId": "consomme",
+      "CharacterId": "neuvillette",
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "consomme_purete",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "swirling_steps": {
+      "BaseDishId": "padisarah_pudding",
+      "CharacterId": "nilou",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "swirling_steps",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "qiankun_mora_meat": {
+      "BaseDishId": "mora_meat",
+      "CharacterId": "ningguang",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          10,
+          150
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "qiankun_mora_meat",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lighter_than_air_pancake": {
+      "BaseDishId": "tea_break_pancake",
+      "CharacterId": "noelle",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          15,
+          550
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "lighter_than_air_pancake",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "no_tomorrow": {
+      "BaseDishId": "come_and_get_it",
+      "CharacterId": "qiqi",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          20
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "no_tomorrow",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "puppy_paw_hash_brown": {
+      "BaseDishId": "mondstadt_hash_brown",
+      "CharacterId": "razor",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          2350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "puppy_paw_hash_brown",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dinner_of_judgment": {
+      "BaseDishId": "sweet_madame",
+      "CharacterId": "rosaria",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          30,
+          1750
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "dinner_of_judgment",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "a_stunning_stratagem": {
+      "BaseDishId": "bird_egg_sushi",
+      "CharacterId": "sangonomiya_kokomi",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16,
+          1350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "a_stunning_stratagem",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "dizziness_be_gone_no_jutsu_version_2_0": {
+      "BaseDishId": "onigiri",
+      "CharacterId": "sayu",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          26,
+          570
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "dizziness_be_gone_no_jutsu_version_2_0",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "heartstring_noodles": {
+      "BaseDishId": "dragon_beard_noodles",
+      "CharacterId": "shenhe",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          274
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "heartstring_noodles",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "the_only_truth": {
+      "BaseDishId": "katsu_sandwich",
+      "CharacterId": "shikanoin_heizou",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          114
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "the_only_truth",
+      "DateAdded": "2022-07-13T00:00:00"
+    },
+    "nutritious_meal_v_593": {
+      "BaseDishId": "crab_ham_and_veggie_bake",
+      "CharacterId": "sucrose",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          20,
+          1500
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "nutritious_meal_v_593",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "a_prize_catch": {
+      "BaseDishId": "calla_lily_seafood_soup",
+      "CharacterId": "tartaglia",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          282
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "a_prize_catch",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "warmth": {
+      "BaseDishId": "miso_soup",
+      "CharacterId": "thoma",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          14,
+          350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "warmth",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "forest_watchers_choice": {
+      "BaseDishId": "mushroom_hodgepodge",
+      "CharacterId": "tighnari",
+      "EntityId": "food",
+      "Region": "Sumeru",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          151
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "forest_watchers_choice",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "a_buoyant_breeze": {
+      "BaseDishId": "barbatos_ratatouille",
+      "CharacterId": "venti",
+      "EntityId": "food",
+      "Region": "Mondstadt",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "a_buoyant_breeze",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shimi_chazuke": {
+      "BaseDishId": "unagi_chazuke",
+      "CharacterId": "wanderer",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "shimi_chazuke",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "secret_sauce_bbq_ribs": {
+      "BaseDishId": "barbeque_ribs",
+      "CharacterId": "wriothesley",
+      "EntityId": "food",
+      "Region": "Fontaine",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          30,
+          1750
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "secret_sauce_bbq_ribs",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "wanmin_restaurants_boiled_fish": {
+      "BaseDishId": "black_back_perch_stew",
+      "CharacterId": "xiangling",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          34,
+          980
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "wanmin_restaurants_boiled_fish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sweet_dream": {
+      "BaseDishId": "almond_tofu",
+      "CharacterId": "xiao",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          114
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "sweet_dream",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "all_delicacy_parcels": {
+      "BaseDishId": "crystal_shrimp",
+      "CharacterId": "xingqiu",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          26,
+          570
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "all_delicacy_parcels",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "rockin_riffin_chicken": {
+      "BaseDishId": "jueyun_chili_chicken",
+      "CharacterId": "xinyan",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          16
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "CRITRateUp",
+      "InteractiveMapPoint": null,
+      "Id": "rockin_riffin_chicken",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "fukuuchi_udon": {
+      "BaseDishId": "udon_noodles",
+      "CharacterId": "yae_miko",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          15,
+          550
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "fukuuchi_udon",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "my_way": {
+      "BaseDishId": "crab_roe_tofu",
+      "CharacterId": "yanfei",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          15,
+          550
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "Revive",
+      "InteractiveMapPoint": null,
+      "Id": "my_way",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "qingce_household_dish": {
+      "BaseDishId": "qingce_stir_fry",
+      "CharacterId": "yaoyao",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          274
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ATKUp",
+      "InteractiveMapPoint": null,
+      "Id": "qingce_household_dish",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "dew_dipped_shrimp": {
+      "BaseDishId": "stir_fried_shrimp",
+      "CharacterId": "yelan",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          35
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DefenseUp",
+      "InteractiveMapPoint": null,
+      "Id": "dew_dipped_shrimp",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "summer_festival_fish": {
+      "BaseDishId": "tricolor_dango",
+      "CharacterId": "yoimiya",
+      "EntityId": "food",
+      "Region": "Inazuma",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          40,
+          2350
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Healing",
+      "InteractiveMapPoint": null,
+      "Id": "summer_festival_fish",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "cloud_shrouded_jade": {
+      "BaseDishId": "lotus_seed_and_bird_egg_soup",
+      "CharacterId": "yun_jin",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          25
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "StatusEffect": "StaminaReduction",
+      "InteractiveMapPoint": null,
+      "Id": "cloud_shrouded_jade",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "slow_cooked_bamboo_shoot_soup": {
+      "BaseDishId": "bamboo_shoot_soup",
+      "CharacterId": "zhongli",
+      "EntityId": "food",
+      "Region": "Liyue",
+      "IsEvent": false,
+      "IngredientIds": null,
+      "EffectValues": [
+        [
+          34,
+          980
+        ]
+      ],
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "Regeneration",
+      "InteractiveMapPoint": null,
+      "Id": "slow_cooked_bamboo_shoot_soup",
+      "DateAdded": "2020-11-11T00:00:00"
+    }
+  },
+  "Type": "FoodDatabase"
+}

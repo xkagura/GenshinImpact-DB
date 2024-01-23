@@ -1,0 +1,3239 @@
+{
+  "Characters": {
+    "traveler": {
+      "Id": "traveler",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "C3TalentLevelBonus": "Unknown",
+      "C5TalentLevelBonus": "Unknown",
+      "AscensionGemType": "Diamond",
+      "LocalSpecialityType": "WindwheelAster",
+      "CommonEnemyMaterialType": "Mask",
+      "TalentDomainMaterialType": "Unknown",
+      "WeeklyBossMaterialType": "Unknown",
+      "EntityId": "character",
+      "Birthday": null,
+      "ElementType": "Unknown",
+      "Gender": "Unknown",
+      "Region": "Unknown",
+      "Stats": {
+        "BaseHP": 911.791,
+        "BaseATK": 17.808,
+        "BaseDEF": 57.225,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3262.3718,
+        "AscensionATK": 63.7182,
+        "AscensionDEF": 204.75
+      },
+      "Stat": "ATK_Percentage",
+      "NormalBossMaterialType": "Unknown",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "albedo": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-09-13T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1029.5856,
+        "BaseATK": 19.551,
+        "BaseDEF": 68.2062,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4228.035,
+        "AscensionATK": 80.28111,
+        "AscensionDEF": 280.098
+      },
+      "Stat": "Geo_DMG_Bonus",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "TuskOfMonocerosCaeli",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "BasaltPillar",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "Cecilia",
+      "Id": "albedo",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "alhaitham": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-02-11T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1039.1188,
+        "BaseATK": 24.3922,
+        "BaseDEF": 60.84711,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4267.1836,
+        "AscensionATK": 100.16024,
+        "AscensionDEF": 249.8769
+      },
+      "Stat": "Dendro_DMG_Bonus",
+      "TalentDomainMaterialType": "Ingenuity",
+      "WeeklyBossMaterialType": "MirrorOfMushin",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "PseudoStamens",
+      "CommonEnemyMaterialType": "EremiteCloth",
+      "LocalSpecialityType": "SandGreasePupa",
+      "Id": "alhaitham",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "aloy": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-04T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Unknown",
+      "C3TalentLevelBonus": "Unknown",
+      "C5TalentLevelBonus": "Unknown",
+      "Stats": {
+        "BaseHP": 848.4548,
+        "BaseATK": 18.21036,
+        "BaseDEF": 52.6504,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 3484.214,
+        "AscensionATK": 74.77612,
+        "AscensionDEF": 216.216
+      },
+      "Stat": "Cryo_DMG_Bonus",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "MoltenMoment",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "CrystallineBloom",
+      "CommonEnemyMaterialType": "Spectral",
+      "LocalSpecialityType": "CrystalMarrow",
+      "Id": "aloy",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "amber": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-08-10T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 793.2582,
+        "BaseATK": 18.6984,
+        "BaseDEF": 50.358,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2838.2634,
+        "AscensionATK": 66.90411,
+        "AscensionDEF": 180.18
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "DvalinsSigh",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EverflameSeed",
+      "CommonEnemyMaterialType": "Arrowhead",
+      "LocalSpecialityType": "SmallLampGrass",
+      "Id": "amber",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "kamisato_ayaka": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-09-28T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1000.986,
+        "BaseATK": 26.6266,
+        "BaseDEF": 61.0266,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4110.59,
+        "AscensionATK": 109.33523,
+        "AscensionDEF": 250.614
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Elegance",
+      "WeeklyBossMaterialType": "BloodjadeBranch",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "PerpetualHeart",
+      "CommonEnemyMaterialType": "Handguard",
+      "LocalSpecialityType": "SakuraBloom",
+      "Id": "kamisato_ayaka",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "kamisato_ayato": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-03-26T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1067.7184,
+        "BaseATK": 23.275,
+        "BaseDEF": 59.83,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4384.629,
+        "AscensionATK": 95.57275,
+        "AscensionDEF": 245.7
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Elegance",
+      "WeeklyBossMaterialType": "MudraOfTheMaleficGeneral",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "DewOfRepudiation",
+      "CommonEnemyMaterialType": "Handguard",
+      "LocalSpecialityType": "SakuraBloom",
+      "Id": "kamisato_ayato",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "baizhu": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-25T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Male",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1039.1188,
+        "BaseATK": 14.9891,
+        "BaseDEF": 38.8895,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4267.1836,
+        "AscensionATK": 61.54885,
+        "AscensionDEF": 159.705
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Gold",
+      "WeeklyBossMaterialType": "WorldspanFern",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "EvergloomRing",
+      "CommonEnemyMaterialType": "FungalPowder",
+      "LocalSpecialityType": "Violetgrass",
+      "Id": "baizhu",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "barbara": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-07-05T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 820.6119,
+        "BaseATK": 13.356,
+        "BaseDEF": 56.0805,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2936.1348,
+        "AscensionATK": 47.78865,
+        "AscensionDEF": 200.655
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "RingOfBoreas",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "CleansingHeart",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "PhilanemoMushroom",
+      "Id": "barbara",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "beidou": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-02-14T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1094.1492,
+        "BaseATK": 18.87648,
+        "BaseDEF": 54.36375,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3914.8462,
+        "AscensionATK": 67.54129,
+        "AscensionDEF": 194.5125
+      },
+      "Stat": "Electro_DMG_Bonus",
+      "TalentDomainMaterialType": "Gold",
+      "WeeklyBossMaterialType": "DvalinsSigh",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "LightningPrism",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "NoctilucousJade",
+      "Id": "beidou",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "bennett": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-02-29T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1039.4418,
+        "BaseATK": 16.0272,
+        "BaseDEF": 64.66425,
+        "BaseSubStat": 6.7,
+        "AscensionHP": 3719.104,
+        "AscensionATK": 57.34638,
+        "AscensionDEF": 231.3675
+      },
+      "Stat": "Energy_Recharge",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "DvalinsPlume",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EverflameSeed",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "WindwheelAster",
+      "Id": "bennett",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "candace": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-05-03T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 911.791,
+        "BaseATK": 17.808,
+        "BaseDEF": 57.225,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2778.3936,
+        "AscensionATK": 54.2655,
+        "AscensionDEF": 174.375
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Admonition",
+      "WeeklyBossMaterialType": "TearsOfTheCalamitousGod",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "LightGuidingTetrahedron",
+      "CommonEnemyMaterialType": "EremiteCloth",
+      "LocalSpecialityType": "HennaBerry",
+      "Id": "candace",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "charlotte": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-04-10T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "Pneuma",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 902.6731,
+        "BaseATK": 14.51352,
+        "BaseDEF": 45.78,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3229.748,
+        "AscensionATK": 51.930332,
+        "AscensionDEF": 163.8
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Justice",
+      "WeeklyBossMaterialType": "LightlessSilkString",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "TourbillonDevice",
+      "CommonEnemyMaterialType": "Gear",
+      "LocalSpecialityType": "BerylConch",
+      "Id": "charlotte",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "chevreuse": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-01-10T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1002.9701,
+        "BaseATK": 16.20528,
+        "BaseDEF": 50.70135,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3588.6091,
+        "AscensionATK": 57.983562,
+        "AscensionDEF": 181.4085
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Order",
+      "WeeklyBossMaterialType": "LightlessEyeOfTheMaelstrom",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "FontemerUnihorn",
+      "CommonEnemyMaterialType": "Gear",
+      "LocalSpecialityType": "LumidouceBell",
+      "Id": "chevreuse",
+      "DateAdded": "2024-01-09T00:00:00"
+    },
+    "chongyun": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-09-07T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Male",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 920.90894,
+        "BaseATK": 18.6984,
+        "BaseDEF": 54.36375,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3294.9956,
+        "AscensionATK": 66.90411,
+        "AscensionDEF": 194.5125
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "DvalinsSigh",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "HoarfrostCore",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "CorLapis",
+      "Id": "chongyun",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "collei": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-05-08T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 820.6119,
+        "BaseATK": 16.73952,
+        "BaseDEF": 50.358,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2936.1348,
+        "AscensionATK": 59.895107,
+        "AscensionDEF": 180.18
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Praxis",
+      "WeeklyBossMaterialType": "TearsOfTheCalamitousGod",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "MajesticHookedBeak",
+      "CommonEnemyMaterialType": "Arrowhead",
+      "LocalSpecialityType": "RukkhashavaMushrooms",
+      "Id": "collei",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "cyno": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-06-23T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Male",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 972.3864,
+        "BaseATK": 24.7646,
+        "BaseDEF": 66.88994,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 3400.7546,
+        "AscensionATK": 86.603615,
+        "AscensionDEF": 233.9415
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Admonition",
+      "WeeklyBossMaterialType": "MudraOfTheMaleficGeneral",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "ThunderclapFruitcore",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "Scarab",
+      "Id": "cyno",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "dehya": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-07T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1220.2496,
+        "BaseATK": 20.6682,
+        "BaseDEF": 48.88111,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 5011.0044,
+        "AscensionATK": 84.8686,
+        "AscensionDEF": 200.7369
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Praxis",
+      "WeeklyBossMaterialType": "PuppetStrings",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "LightGuidingTetrahedron",
+      "CommonEnemyMaterialType": "EremiteCloth",
+      "LocalSpecialityType": "SandGreasePupa",
+      "Id": "dehya",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "diluc": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-30T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Male",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1010.5192,
+        "BaseATK": 26.068,
+        "BaseDEF": 61.0266,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 4149.7383,
+        "AscensionATK": 107.04148,
+        "AscensionDEF": 250.614
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "DvalinsPlume",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EverflameSeed",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "SmallLampGrass",
+      "Id": "diluc",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "diona": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-01-18T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 802.3761,
+        "BaseATK": 17.808,
+        "BaseDEF": 50.358,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2870.8872,
+        "AscensionATK": 63.7182,
+        "AscensionDEF": 180.18
+      },
+      "Stat": "Cryo_DMG_Bonus",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "ShardOfAFoulLegacy",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "HoarfrostCore",
+      "CommonEnemyMaterialType": "Arrowhead",
+      "LocalSpecialityType": "CallaLily",
+      "Id": "diona",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "dori": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-12-21T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1039.4418,
+        "BaseATK": 18.6984,
+        "BaseDEF": 60.6585,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3719.104,
+        "AscensionATK": 66.90411,
+        "AscensionDEF": 217.035
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Ingenuity",
+      "WeeklyBossMaterialType": "BloodjadeBranch",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "ThunderclapFruitcore",
+      "CommonEnemyMaterialType": "EremiteCloth",
+      "LocalSpecialityType": "KalpalataLotus",
+      "Id": "dori",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "eula": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-10-25T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1029.5856,
+        "BaseATK": 26.6266,
+        "BaseDEF": 58.45391,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4228.035,
+        "AscensionATK": 109.33523,
+        "AscensionDEF": 240.0489
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "DragonLordsCrown",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "CrystallineBloom",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "DandelionSeed",
+      "Id": "eula",
+      "DateAdded": "2021-05-18T00:00:00"
+    },
+    "faruzan": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-08-20T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 802.3761,
+        "BaseATK": 16.4724,
+        "BaseDEF": 52.647,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2870.8872,
+        "AscensionATK": 58.939335,
+        "AscensionDEF": 188.37
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Admonition",
+      "WeeklyBossMaterialType": "PuppetStrings",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "LightGuidingTetrahedron",
+      "CommonEnemyMaterialType": "EremiteCloth",
+      "LocalSpecialityType": "HennaBerry",
+      "Id": "faruzan",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "fischl": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-05-27T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 770.4634,
+        "BaseATK": 20.4792,
+        "BaseDEF": 49.78575,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2756.704,
+        "AscensionATK": 73.27593,
+        "AscensionDEF": 178.1325
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "SpiritLocketOfBoreas",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "LightningPrism",
+      "CommonEnemyMaterialType": "Arrowhead",
+      "LocalSpecialityType": "SmallLampGrass",
+      "Id": "fischl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "freminet": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-09-24T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Male",
+      "WeaponType": "Claymore",
+      "ArkheType": "Pneuma",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "NormalAttack",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1012.088,
+        "BaseATK": 21.3696,
+        "BaseDEF": 59.39955,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3621.2327,
+        "AscensionATK": 76.46184,
+        "AscensionDEF": 212.5305
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Justice",
+      "WeeklyBossMaterialType": "WorldspanFern",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "Coppelius",
+      "CommonEnemyMaterialType": "Pearl",
+      "LocalSpecialityType": "RomaritimeFlower",
+      "Id": "freminet",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "furina": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-10-13T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "All",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1191.65,
+        "BaseATK": 18.9924,
+        "BaseDEF": 54.14615,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 4893.559,
+        "AscensionATK": 77.987366,
+        "AscensionDEF": 222.3585
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Justice",
+      "WeeklyBossMaterialType": "LightlessMass",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "WaterThatFailedToTranscend",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "LakelightLily",
+      "Id": "furina",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "ganyu": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-12-02T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 762.656,
+        "BaseATK": 26.068,
+        "BaseDEF": 49.0606,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 3131.878,
+        "AscensionATK": 107.04148,
+        "AscensionDEF": 201.474
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "ShadowOfTheWarrior",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "HoarfrostCore",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "Qingxin",
+      "Id": "ganyu",
+      "DateAdded": "2021-01-12T00:00:00"
+    },
+    "gorou": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-05-18T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Male",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 802.3761,
+        "BaseATK": 15.31488,
+        "BaseDEF": 54.36375,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2870.8872,
+        "AscensionATK": 54.797653,
+        "AscensionDEF": 194.5125
+      },
+      "Stat": "Geo_DMG_Bonus",
+      "TalentDomainMaterialType": "Light",
+      "WeeklyBossMaterialType": "MoltenMoment",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "PerpetualHeart",
+      "CommonEnemyMaterialType": "Spectral",
+      "LocalSpecialityType": "SangoPearl",
+      "Id": "gorou",
+      "DateAdded": "2021-12-14T00:00:00"
+    },
+    "shikanoin_heizou": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-07-24T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Male",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 893.5552,
+        "BaseATK": 18.87648,
+        "BaseDEF": 57.33945,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3197.1245,
+        "AscensionATK": 67.54129,
+        "AscensionDEF": 205.1595
+      },
+      "Stat": "Anemo_DMG_Bonus",
+      "TalentDomainMaterialType": "Transience",
+      "WeeklyBossMaterialType": "TheMeaningOfAeons",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "RunicFang",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "Onikabuto",
+      "Id": "shikanoin_heizou",
+      "DateAdded": "2022-07-13T00:00:00"
+    },
+    "hu_tao": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-07-15T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1210.7164,
+        "BaseATK": 8.2859,
+        "BaseDEF": 68.2062,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4971.856,
+        "AscensionATK": 34.0239,
+        "AscensionDEF": 280.098
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "ShardOfAFoulLegacy",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "JuvenileJade",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "SilkFlower",
+      "Id": "hu_tao",
+      "DateAdded": "2021-03-02T00:00:00"
+    },
+    "arataki_itto": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-06-01T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Male",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1000.986,
+        "BaseATK": 17.689,
+        "BaseDEF": 74.66784,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 4110.59,
+        "AscensionATK": 72.63529,
+        "AscensionDEF": 306.6336
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Elegance",
+      "WeeklyBossMaterialType": "AshenHeart",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "RiftbornRegalia",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "Onikabuto",
+      "Id": "arataki_itto",
+      "DateAdded": "2021-12-14T00:00:00"
+    },
+    "jean": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-03-14T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1143.984,
+        "BaseATK": 18.62,
+        "BaseDEF": 59.83,
+        "BaseSubStat": 5.5,
+        "AscensionHP": 4697.817,
+        "AscensionATK": 76.4582,
+        "AscensionDEF": 245.7
+      },
+      "Stat": "Healing_Bonus",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "DvalinsPlume",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "HurricaneSeed",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "DandelionSeed",
+      "Id": "jean",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "kaeya": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-11-30T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 975.6164,
+        "BaseATK": 18.6984,
+        "BaseDEF": 66.381,
+        "BaseSubStat": 6.7,
+        "AscensionHP": 3490.7378,
+        "AscensionATK": 66.90411,
+        "AscensionDEF": 237.51
+      },
+      "Stat": "Energy_Recharge",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "SpiritLocketOfBoreas",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "HoarfrostCore",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "CallaLily",
+      "Id": "kaeya",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "kaveh": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-07-09T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Male",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1002.9701,
+        "BaseATK": 19.5888,
+        "BaseDEF": 62.9475,
+        "BaseSubStat": 24.0,
+        "AscensionHP": 3588.6091,
+        "AscensionATK": 70.09002,
+        "AscensionDEF": 225.225
+      },
+      "Stat": "Elemental_Mastery",
+      "TalentDomainMaterialType": "Ingenuity",
+      "WeeklyBossMaterialType": "PrimordialGreenbloom",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "QuelledCreeper",
+      "CommonEnemyMaterialType": "FungalPowder",
+      "LocalSpecialityType": "MourningFlower",
+      "Id": "kaveh",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "kaedehara_kazuha": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-10-29T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1039.1188,
+        "BaseATK": 23.0888,
+        "BaseDEF": 62.8215,
+        "BaseSubStat": 28.8,
+        "AscensionHP": 4267.1836,
+        "AscensionATK": 94.80817,
+        "AscensionDEF": 257.985
+      },
+      "Stat": "Elemental_Mastery",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "GildedScale",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "MarionetteCore",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "SeaGanoderma",
+      "Id": "kaedehara_kazuha",
+      "DateAdded": "2021-06-29T00:00:00"
+    },
+    "keqing": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-11-20T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1020.0524,
+        "BaseATK": 25.137,
+        "BaseDEF": 62.2232,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4188.8867,
+        "AscensionATK": 103.21857,
+        "AscensionDEF": 255.528
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Prosperity",
+      "WeeklyBossMaterialType": "RingOfBoreas",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "LightningPrism",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "CorLapis",
+      "Id": "keqing",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "kirara": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-01-22T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1021.2059,
+        "BaseATK": 18.6984,
+        "BaseDEF": 45.78,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3653.8564,
+        "AscensionATK": 66.90411,
+        "AscensionDEF": 163.8
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Transience",
+      "WeeklyBossMaterialType": "Everamber",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "EvergloomRing",
+      "CommonEnemyMaterialType": "Spectral",
+      "LocalSpecialityType": "AmakumoFruit",
+      "Id": "kirara",
+      "DateAdded": "2023-05-24T00:00:00"
+    },
+    "klee": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-07-27T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 800.7888,
+        "BaseATK": 24.206,
+        "BaseDEF": 47.864,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 3288.4717,
+        "AscensionATK": 99.39566,
+        "AscensionDEF": 196.56
+      },
+      "Stat": "Pyro_DMG_Bonus",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "RingOfBoreas",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EverflameSeed",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "PhilanemoMushroom",
+      "Id": "klee",
+      "DateAdded": "2020-10-20T00:00:00"
+    },
+    "sangonomiya_kokomi": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-02-22T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1048.652,
+        "BaseATK": 18.2476,
+        "BaseDEF": 51.15465,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4306.332,
+        "AscensionATK": 74.92904,
+        "AscensionDEF": 210.0735
+      },
+      "Stat": "Hydro_DMG_Bonus",
+      "TalentDomainMaterialType": "Transience",
+      "WeeklyBossMaterialType": "HellfireButterfly",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "DewOfRepudiation",
+      "CommonEnemyMaterialType": "Spectral",
+      "LocalSpecialityType": "SangoPearl",
+      "Id": "sangonomiya_kokomi",
+      "DateAdded": "2021-09-21T00:00:00"
+    },
+    "layla": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-12-19T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 930.0268,
+        "BaseATK": 18.16416,
+        "BaseDEF": 54.936,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3327.6194,
+        "AscensionATK": 64.99256,
+        "AscensionDEF": 196.56
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Ingenuity",
+      "WeeklyBossMaterialType": "MirrorOfMushin",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "PerpetualHeart",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "NilotpalaLotus",
+      "Id": "layla",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "lisa": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-06-09T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 802.3761,
+        "BaseATK": 19.41072,
+        "BaseDEF": 48.069,
+        "BaseSubStat": 24.0,
+        "AscensionHP": 2870.8872,
+        "AscensionATK": 69.452835,
+        "AscensionDEF": 171.99
+      },
+      "Stat": "Elemental_Mastery",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "DvalinsClaw",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "LightningPrism",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "Valberry",
+      "Id": "lisa",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lynette": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-02-02T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "Ousia",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1039.4418,
+        "BaseATK": 19.41072,
+        "BaseDEF": 59.685677,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3719.104,
+        "AscensionATK": 69.452835,
+        "AscensionDEF": 213.55424
+      },
+      "Stat": "Anemo_DMG_Bonus",
+      "TalentDomainMaterialType": "Order",
+      "WeeklyBossMaterialType": "Everamber",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "Coppelia",
+      "CommonEnemyMaterialType": "Gear",
+      "LocalSpecialityType": "LumidouceBell",
+      "Id": "lynette",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "lyney": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-02-02T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Male",
+      "WeaponType": "Bow",
+      "ArkheType": "Pneuma",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "NormalAttack",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 857.988,
+        "BaseATK": 24.7646,
+        "BaseDEF": 41.881,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 3523.3625,
+        "AscensionATK": 101.6894,
+        "AscensionDEF": 171.99
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Equity",
+      "WeeklyBossMaterialType": "PrimordialGreenbloom",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EmperorsResolution",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "RainbowRose",
+      "Id": "lyney",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "mika": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-08-11T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Male",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1048.5597,
+        "BaseATK": 18.6984,
+        "BaseDEF": 59.800125,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3751.7275,
+        "AscensionATK": 66.90411,
+        "AscensionDEF": 213.96375
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "MirrorOfMushin",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "PseudoStamens",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "Wolfhook",
+      "Id": "mika",
+      "DateAdded": "2023-03-21T00:00:00"
+    },
+    "mona": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-08-31T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 810.322,
+        "BaseATK": 22.344,
+        "BaseDEF": 50.8555,
+        "BaseSubStat": 8.0,
+        "AscensionHP": 3327.62,
+        "AscensionATK": 91.74984,
+        "AscensionDEF": 208.845
+      },
+      "Stat": "Energy_Recharge",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "RingOfBoreas",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "CleansingHeart",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "PhilanemoMushroom",
+      "Id": "mona",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "nahida": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-10-27T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 806.5087,
+        "BaseATK": 23.275,
+        "BaseDEF": 49.0606,
+        "BaseSubStat": 28.8,
+        "AscensionHP": 3311.961,
+        "AscensionATK": 95.57275,
+        "AscensionDEF": 201.474
+      },
+      "Stat": "Elemental_Mastery",
+      "TalentDomainMaterialType": "Ingenuity",
+      "WeeklyBossMaterialType": "PuppetStrings",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "QuelledCreeper",
+      "CommonEnemyMaterialType": "FungalPowder",
+      "LocalSpecialityType": "KalpalataLotus",
+      "Id": "nahida",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "navia": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-08-16T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "Ousia",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 984.78,
+        "BaseATK": 27.3714,
+        "BaseDEF": 61.74456,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4044.0374,
+        "AscensionATK": 112.393555,
+        "AscensionDEF": 253.5624
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Equity",
+      "WeeklyBossMaterialType": "LightlessSilkString",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "Coppelius",
+      "CommonEnemyMaterialType": "Pearl",
+      "LocalSpecialityType": "SpringOfTheFirstDewdrop",
+      "Id": "navia",
+      "DateAdded": "2023-12-20T00:00:00"
+    },
+    "neuvillette": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-12-18T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Male",
+      "WeaponType": "Catalyst",
+      "ArkheType": "Pneuma",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "NormalAttack",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1143.984,
+        "BaseATK": 16.218,
+        "BaseDEF": 44.8725,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4697.817,
+        "AscensionATK": 66.595,
+        "AscensionDEF": 184.275
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Equity",
+      "WeeklyBossMaterialType": "Everamber",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "FontemerUnihorn",
+      "CommonEnemyMaterialType": "Pearl",
+      "LocalSpecialityType": "Lumitoile",
+      "Id": "neuvillette",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "nilou": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-12-03T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1182.1168,
+        "BaseATK": 17.8752,
+        "BaseDEF": 56.71884,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4854.4106,
+        "AscensionATK": 73.39987,
+        "AscensionDEF": 232.9236
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Praxis",
+      "WeeklyBossMaterialType": "TearsOfTheCalamitousGod",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "PerpetualCaliber",
+      "CommonEnemyMaterialType": "FungalPowder",
+      "LocalSpecialityType": "Padisarah",
+      "Id": "nilou",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "ningguang": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-08-26T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 820.6119,
+        "BaseATK": 17.808,
+        "BaseDEF": 48.069,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2936.1348,
+        "AscensionATK": 63.7182,
+        "AscensionDEF": 171.99
+      },
+      "Stat": "Geo_DMG_Bonus",
+      "TalentDomainMaterialType": "Prosperity",
+      "WeeklyBossMaterialType": "SpiritLocketOfBoreas",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "BasaltPillar",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "GlazeLily",
+      "Id": "ningguang",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "noelle": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-04-21T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1012.088,
+        "BaseATK": 16.0272,
+        "BaseDEF": 66.95325,
+        "BaseSubStat": 7.5,
+        "AscensionHP": 3621.2327,
+        "AscensionATK": 57.34638,
+        "AscensionDEF": 239.5575
+      },
+      "Stat": "DEF_Percentage",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "DvalinsClaw",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "BasaltPillar",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "Valberry",
+      "Id": "noelle",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "qiqi": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-03-03T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 962.8532,
+        "BaseATK": 22.344,
+        "BaseDEF": 71.796,
+        "BaseSubStat": 5.5,
+        "AscensionHP": 3953.9958,
+        "AscensionATK": 91.74984,
+        "AscensionDEF": 294.84
+      },
+      "Stat": "Healing_Bonus",
+      "TalentDomainMaterialType": "Prosperity",
+      "WeeklyBossMaterialType": "TailOfBoreas",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "HoarfrostCore",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "Violetgrass",
+      "Id": "qiqi",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "raiden_shogun": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-06-26T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1004.79926,
+        "BaseATK": 26.2542,
+        "BaseDEF": 61.44541,
+        "BaseSubStat": 8.0,
+        "AscensionHP": 4126.249,
+        "AscensionATK": 107.80606,
+        "AscensionDEF": 252.3339
+      },
+      "Stat": "Energy_Recharge",
+      "TalentDomainMaterialType": "Light",
+      "WeeklyBossMaterialType": "MoltenMoment",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "StormBeads",
+      "CommonEnemyMaterialType": "Handguard",
+      "LocalSpecialityType": "AmakumoFruit",
+      "Id": "raiden_shogun",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "razor": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-09-09T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Male",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1002.9701,
+        "BaseATK": 19.5888,
+        "BaseDEF": 62.9475,
+        "BaseSubStat": 7.5,
+        "AscensionHP": 3588.6091,
+        "AscensionATK": 70.09002,
+        "AscensionDEF": 225.225
+      },
+      "Stat": "Physical_DMG_Bonus",
+      "TalentDomainMaterialType": "Resistance",
+      "WeeklyBossMaterialType": "DvalinsClaw",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "LightningPrism",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "Wolfhook",
+      "Id": "razor",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "rosaria": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-01-24T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1030.3239,
+        "BaseATK": 20.12304,
+        "BaseDEF": 59.514,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3686.4802,
+        "AscensionATK": 72.001564,
+        "AscensionDEF": 212.94
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "ShadowOfTheWarrior",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "HoarfrostCore",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "Valberry",
+      "Id": "rosaria",
+      "DateAdded": "2021-04-06T00:00:00"
+    },
+    "kujou_sara": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-07-14T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 802.3761,
+        "BaseATK": 16.38336,
+        "BaseDEF": 52.647,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2870.8872,
+        "AscensionATK": 58.620743,
+        "AscensionDEF": 188.37
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Elegance",
+      "WeeklyBossMaterialType": "AshenHeart",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "StormBeads",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "Dendrobium",
+      "Id": "kujou_sara",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "sayu": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-10-19T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 993.8522,
+        "BaseATK": 20.4792,
+        "BaseDEF": 62.432476,
+        "BaseSubStat": 24.0,
+        "AscensionHP": 3555.9854,
+        "AscensionATK": 73.27593,
+        "AscensionDEF": 223.38225
+      },
+      "Stat": "Elemental_Mastery",
+      "TalentDomainMaterialType": "Light",
+      "WeeklyBossMaterialType": "GildedScale",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "MarionetteCore",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "CrystalMarrow",
+      "Id": "sayu",
+      "DateAdded": "2021-08-10T00:00:00"
+    },
+    "shenhe": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-10T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1011.47253,
+        "BaseATK": 23.6474,
+        "BaseDEF": 64.6164,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4153.653,
+        "AscensionATK": 97.10191,
+        "AscensionDEF": 265.356
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Prosperity",
+      "WeeklyBossMaterialType": "HellfireButterfly",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "DragonheirsFalseFin",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "Qingxin",
+      "Id": "shenhe",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "kuki_shinobu": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-07-27T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1030.3239,
+        "BaseATK": 17.808,
+        "BaseDEF": 62.9475,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3686.4802,
+        "AscensionATK": 63.7182,
+        "AscensionDEF": 225.225
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Elegance",
+      "WeeklyBossMaterialType": "TearsOfTheCalamitousGod",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "RunicFang",
+      "CommonEnemyMaterialType": "Spectral",
+      "LocalSpecialityType": "NakuWeed",
+      "Id": "kuki_shinobu",
+      "DateAdded": "2022-06-21T00:00:00"
+    },
+    "sucrose": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-11-26T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 775.02234,
+        "BaseATK": 14.2464,
+        "BaseDEF": 58.94175,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2773.016,
+        "AscensionATK": 50.97456,
+        "AscensionDEF": 210.8925
+      },
+      "Stat": "Anemo_DMG_Bonus",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "SpiritLocketOfBoreas",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "HurricaneSeed",
+      "CommonEnemyMaterialType": "Nectar",
+      "LocalSpecialityType": "WindwheelAster",
+      "Id": "sucrose",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tartaglia": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-07-20T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Male",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Snezhnaya",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1020.0524,
+        "BaseATK": 23.4612,
+        "BaseDEF": 63.4198,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4188.8867,
+        "AscensionATK": 96.33733,
+        "AscensionDEF": 260.442
+      },
+      "Stat": "Hydro_DMG_Bonus",
+      "TalentDomainMaterialType": "Freedom",
+      "WeeklyBossMaterialType": "ShardOfAFoulLegacy",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "CleansingHeart",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "Starconch",
+      "Id": "tartaglia",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "thoma": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-01-09T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Male",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 866.2015,
+        "BaseATK": 16.9176,
+        "BaseDEF": 62.9475,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3099.2532,
+        "AscensionATK": 60.53229,
+        "AscensionDEF": 225.225
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Transience",
+      "WeeklyBossMaterialType": "HellfireButterfly",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "SmolderingPearl",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "FluorescentFungus",
+      "Id": "thoma",
+      "DateAdded": "2021-11-02T00:00:00"
+    },
+    "tighnari": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-12-29T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Male",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 844.64154,
+        "BaseATK": 20.8544,
+        "BaseDEF": 49.0606,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 3468.5547,
+        "AscensionATK": 85.63319,
+        "AscensionDEF": 201.474
+      },
+      "Stat": "Dendro_DMG_Bonus",
+      "TalentDomainMaterialType": "Admonition",
+      "WeeklyBossMaterialType": "TheMeaningOfAeons",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "MajesticHookedBeak",
+      "CommonEnemyMaterialType": "FungalPowder",
+      "LocalSpecialityType": "NilotpalaLotus",
+      "Id": "tighnari",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "venti": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-06-16T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Male",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Mondstadt",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 819.8552,
+        "BaseATK": 20.482,
+        "BaseDEF": 52.0521,
+        "BaseSubStat": 8.0,
+        "AscensionHP": 3366.7688,
+        "AscensionATK": 84.10402,
+        "AscensionDEF": 213.759
+      },
+      "Stat": "Energy_Recharge",
+      "TalentDomainMaterialType": "Ballad",
+      "WeeklyBossMaterialType": "TailOfBoreas",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "HurricaneSeed",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "Cecilia",
+      "Id": "venti",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "wanderer": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-01-03T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Male",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Sumeru",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 791.2556,
+        "BaseATK": 25.5094,
+        "BaseDEF": 47.2657,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 3249.3232,
+        "AscensionATK": 104.747734,
+        "AscensionDEF": 194.103
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Praxis",
+      "WeeklyBossMaterialType": "DakasBell",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "PerpetualCaliber",
+      "CommonEnemyMaterialType": "Handguard",
+      "LocalSpecialityType": "RukkhashavaMushrooms",
+      "Id": "wanderer",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "wriothesley": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-11-23T00:00:00",
+      "ElementType": "Cryo",
+      "Gender": "Male",
+      "WeaponType": "Catalyst",
+      "ArkheType": "Ousia",
+      "Region": "Fontaine",
+      "C3TalentLevelBonus": "NormalAttack",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1058.1852,
+        "BaseATK": 24.206,
+        "BaseDEF": 59.41119,
+        "BaseSubStat": 9.6,
+        "AscensionHP": 4345.48,
+        "AscensionATK": 99.39566,
+        "AscensionDEF": 243.9801
+      },
+      "Stat": "Crit_DMG",
+      "TalentDomainMaterialType": "Order",
+      "WeeklyBossMaterialType": "PrimordialGreenbloom",
+      "AscensionGemType": "Shivada",
+      "NormalBossMaterialType": "TourbillonDevice",
+      "CommonEnemyMaterialType": "Gear",
+      "LocalSpecialityType": "SubdetectionUnit",
+      "Id": "wriothesley",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "xiangling": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-11-02T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 911.791,
+        "BaseATK": 18.87648,
+        "BaseDEF": 56.0805,
+        "BaseSubStat": 24.0,
+        "AscensionHP": 3262.3718,
+        "AscensionATK": 67.54129,
+        "AscensionDEF": 200.655
+      },
+      "Stat": "Elemental_Mastery",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "DvalinsClaw",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EverflameSeed",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "JueyunChili",
+      "Id": "xiangling",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "xiao": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-17T00:00:00",
+      "ElementType": "Anemo",
+      "Gender": "Male",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 991.4528,
+        "BaseATK": 27.1852,
+        "BaseDEF": 62.2232,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 4071.4412,
+        "AscensionATK": 111.628975,
+        "AscensionDEF": 255.528
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Prosperity",
+      "WeeklyBossMaterialType": "ShadowOfTheWarrior",
+      "AscensionGemType": "Vayuda",
+      "NormalBossMaterialType": "JuvenileJade",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "Qingxin",
+      "Id": "xiao",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "xingqiu": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-10-09T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Male",
+      "WeaponType": "Sword",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 857.08356,
+        "BaseATK": 16.9176,
+        "BaseDEF": 63.51975,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3066.6296,
+        "AscensionATK": 60.53229,
+        "AscensionDEF": 227.2725
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Gold",
+      "WeeklyBossMaterialType": "TailOfBoreas",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "CleansingHeart",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "SilkFlower",
+      "Id": "xingqiu",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "xinyan": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-10-16T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Claymore",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 939.1447,
+        "BaseATK": 20.83536,
+        "BaseDEF": 66.95325,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3360.243,
+        "AscensionATK": 74.55029,
+        "AscensionDEF": 239.5575
+      },
+      "Stat": "ATK_Percentage",
+      "TalentDomainMaterialType": "Gold",
+      "WeeklyBossMaterialType": "TuskOfMonocerosCaeli",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "EverflameSeed",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "Violetgrass",
+      "Id": "xinyan",
+      "DateAdded": "2020-12-01T00:00:00"
+    },
+    "yae_miko": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-06-27T00:00:00",
+      "ElementType": "Electro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 807.46204,
+        "BaseATK": 26.4404,
+        "BaseDEF": 44.2742,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 3315.8757,
+        "AscensionATK": 108.57064,
+        "AscensionDEF": 181.818
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Light",
+      "WeeklyBossMaterialType": "TheMeaningOfAeons",
+      "AscensionGemType": "Vajrada",
+      "NormalBossMaterialType": "DragonheirsFalseFin",
+      "CommonEnemyMaterialType": "Handguard",
+      "LocalSpecialityType": "SeaGanoderma",
+      "Id": "yae_miko",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "yanfei": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-06-28T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Catalyst",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 784.14026,
+        "BaseATK": 20.12304,
+        "BaseDEF": 49.2135,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 2805.64,
+        "AscensionATK": 72.001564,
+        "AscensionDEF": 176.085
+      },
+      "Stat": "Pyro_DMG_Bonus",
+      "TalentDomainMaterialType": "Gold",
+      "WeeklyBossMaterialType": "BloodjadeBranch",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "JuvenileJade",
+      "CommonEnemyMaterialType": "TreasureHoarderInsignia",
+      "LocalSpecialityType": "NoctilucousJade",
+      "Id": "yanfei",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "yaoyao": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-03-06T00:00:00",
+      "ElementType": "Dendro",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1030.3239,
+        "BaseATK": 17.808,
+        "BaseDEF": 62.9475,
+        "BaseSubStat": 6.0,
+        "AscensionHP": 3686.4802,
+        "AscensionATK": 63.7182,
+        "AscensionDEF": 225.225
+      },
+      "Stat": "HP_Percentage",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "DakasBell",
+      "AscensionGemType": "Nagadus",
+      "NormalBossMaterialType": "QuelledCreeper",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "JueyunChili",
+      "Id": "yaoyao",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "yelan": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-04-20T00:00:00",
+      "ElementType": "Hydro",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 1124.9176,
+        "BaseATK": 18.9924,
+        "BaseDEF": 42.65879,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 4619.52,
+        "AscensionATK": 77.987366,
+        "AscensionDEF": 175.1841
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Prosperity",
+      "WeeklyBossMaterialType": "GildedScale",
+      "AscensionGemType": "Varunada",
+      "NormalBossMaterialType": "RunicFang",
+      "CommonEnemyMaterialType": "FatuiInsignia",
+      "LocalSpecialityType": "Starconch",
+      "Id": "yelan",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "yoimiya": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-06-21T00:00:00",
+      "ElementType": "Pyro",
+      "Gender": "Female",
+      "WeaponType": "Bow",
+      "ArkheType": "None",
+      "Region": "Inazuma",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 791.2556,
+        "BaseATK": 25.137,
+        "BaseDEF": 47.864,
+        "BaseSubStat": 4.8,
+        "AscensionHP": 3249.3232,
+        "AscensionATK": 103.21857,
+        "AscensionDEF": 196.56
+      },
+      "Stat": "Crit_Rate",
+      "TalentDomainMaterialType": "Transience",
+      "WeeklyBossMaterialType": "DragonLordsCrown",
+      "AscensionGemType": "Agnidus",
+      "NormalBossMaterialType": "SmolderingPearl",
+      "CommonEnemyMaterialType": "Scroll",
+      "LocalSpecialityType": "NakuWeed",
+      "Id": "yoimiya",
+      "DateAdded": "2021-08-10T00:00:00"
+    },
+    "yun_jin": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Birthday": "2024-05-21T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Female",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalBurst",
+      "C5TalentLevelBonus": "ElementalSkill",
+      "Stats": {
+        "BaseHP": 893.5552,
+        "BaseATK": 16.0272,
+        "BaseDEF": 61.5741,
+        "BaseSubStat": 6.7,
+        "AscensionHP": 3197.1245,
+        "AscensionATK": 57.34638,
+        "AscensionDEF": 220.311
+      },
+      "Stat": "Energy_Recharge",
+      "TalentDomainMaterialType": "Diligence",
+      "WeeklyBossMaterialType": "AshenHeart",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "RiftbornRegalia",
+      "CommonEnemyMaterialType": "Mask",
+      "LocalSpecialityType": "GlazeLily",
+      "Id": "yun_jin",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "zhongli": {
+      "EntityId": "character",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Birthday": "2024-12-31T00:00:00",
+      "ElementType": "Geo",
+      "Gender": "Male",
+      "WeaponType": "Polearm",
+      "ArkheType": "None",
+      "Region": "Liyue",
+      "C3TalentLevelBonus": "ElementalSkill",
+      "C5TalentLevelBonus": "ElementalBurst",
+      "Stats": {
+        "BaseHP": 1143.984,
+        "BaseATK": 19.551,
+        "BaseDEF": 57.4368,
+        "BaseSubStat": 7.2,
+        "AscensionHP": 4697.817,
+        "AscensionATK": 80.2811,
+        "AscensionDEF": 235.872
+      },
+      "Stat": "Geo_DMG_Bonus",
+      "TalentDomainMaterialType": "Gold",
+      "WeeklyBossMaterialType": "TuskOfMonocerosCaeli",
+      "AscensionGemType": "Prithiva",
+      "NormalBossMaterialType": "BasaltPillar",
+      "CommonEnemyMaterialType": "Slime",
+      "LocalSpecialityType": "CorLapis",
+      "Id": "zhongli",
+      "DateAdded": "2020-12-01T00:00:00"
+    }
+  },
+  "Type": "CharacterDatabase"
+}

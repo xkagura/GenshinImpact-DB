@@ -1,0 +1,401 @@
+{
+  "LangCode": "EN",
+  "Namecards": {
+    "namecard_albedo": {
+      "Title": null,
+      "Name": "Sun Blossom",
+      "Description": "Allow me to bear witness to this miracle."
+    },
+    "namecard_alhaitham": {
+      "Title": null,
+      "Name": "Enlightenment",
+      "Description": "\"The only things researchers should abide by are debates and dialectics. Only by questioning everything at all times can one avoid falling into prejudice.\""
+    },
+    "namecard_aloy": {
+      "Title": null,
+      "Name": "Dawn",
+      "Description": "\"Everything I do is in the service of life, not death.\""
+    },
+    "namecard_amber": {
+      "Title": null,
+      "Name": "Bunny",
+      "Description": "\"It's Baron Bunny!\""
+    },
+    "namecard_baizhu": {
+      "Title": null,
+      "Name": "Relief",
+      "Description": "Sincerity begets longevity."
+    },
+    "namecard_barbara": {
+      "Title": null,
+      "Name": "Flow",
+      "Description": "When Barbara sings, her melodic voice flows like the tender healing of a clear spring."
+    },
+    "namecard_beidou": {
+      "Title": null,
+      "Name": "Weighing Anchor",
+      "Description": "\"Weighing anchor out to sea, one is wont to waver. But look to the skies, and the stars shall light the way.\""
+    },
+    "namecard_bennett": {
+      "Title": null,
+      "Name": "Recognition",
+      "Description": "A sign of recognition from Benny's Adventure Team."
+    },
+    "namecard_charlotte": {
+      "Title": null,
+      "Name": "Exclusive",
+      "Description": "\"One, I've written an exclusive, and it's going to generate a lot of buzz for sure! Two, the newspaper said the situation is developing too slowly, so they're changing to a press release instead... Three, the person writing the press release will be in the Opera Epiclese as the defendant tomorrow, so they've decided to run my piece after all!\""
+    },
+    "namecard_chevreuse": {
+      "Title": null,
+      "Name": "Type II",
+      "Description": "The standard issue weapon of the Special Security and Surveillance Patrol is known as the \"Special Security and Surveillance Patrol Type II Standard Musket.\" Yet, though there may be countless flowers in this world, the one you treasure is special, even if it should be known to the world as nothing at all special."
+    },
+    "namecard_chongyun": {
+      "Title": null,
+      "Name": "Spirit Blade",
+      "Description": "This was originally a peachwood sword made of ice. But a big enough ice block makes a better exorcist's tool than peachwood."
+    },
+    "namecard_collei": {
+      "Title": null,
+      "Name": "Good Virtue",
+      "Description": "\"I—It's Cuilein-Anbar! I, uh...\""
+    },
+    "namecard_dehya": {
+      "Title": null,
+      "Name": "Purifying Flame",
+      "Description": "Those that should be burned will be reduced to fly ash, so that all the precious things that should be preserved can be revealed."
+    },
+    "namecard_diluc": {
+      "Title": null,
+      "Name": "Flames",
+      "Description": "Master Crepus painted many eagles during his lifetime, but he never could've foreseen creating an eagle with such fire."
+    },
+    "namecard_diona": {
+      "Title": null,
+      "Name": "Meow!",
+      "Description": "All who have Kätzlein blood will have such feline features. An ancient prank played by a certain someone, perhaps?"
+    },
+    "namecard_dori": {
+      "Title": null,
+      "Name": "Jinni",
+      "Description": "If you wipe the lamp she gave you and then scrub the Mora you gave her, no wish is unattainable... right?"
+    },
+    "namecard_eula": {
+      "Title": null,
+      "Name": "Ice-Sealed",
+      "Description": "A cold heart is but a shell to protect oneself."
+    },
+    "namecard_faruzan": {
+      "Title": null,
+      "Name": "Sealed Secret",
+      "Description": "\"A—Anyway! Next time, remember to refer to me as Madam Faruzan before you ask a question! Seriously...\""
+    },
+    "namecard_fischl": {
+      "Title": null,
+      "Name": "Night Raven",
+      "Description": "A raven dark as midnight with wings that can block out the sun. \"I permit thee to conceive his likeness upon such decoration!\""
+    },
+    "namecard_freminet": {
+      "Title": null,
+      "Name": "Progress",
+      "Description": "As the clockwork devices do naught but round and round in circles turn, the dolls march forward."
+    },
+    "namecard_furina": {
+      "Title": null,
+      "Name": "Banquet",
+      "Description": "Can one person eat every cake? If they eat one per day, they should be able to enjoy cake for a week or so, right? But will the cakes stay fresh that long? Hmm... Well, don't worry, because there will be friends coming to eat the cakes together."
+    },
+    "namecard_ganyu": {
+      "Title": null,
+      "Name": "Qilin",
+      "Description": "Do no harm to plant nor insect."
+    },
+    "namecard_gorou": {
+      "Title": null,
+      "Name": "Leisurely Hound",
+      "Description": "As long as you believe in the path you are walking, then everything you encounter on your journey will be a source of happiness."
+    },
+    "namecard_hu_tao": {
+      "Title": null,
+      "Name": "Spirit Soother",
+      "Description": "Director Hu Tao isn't scary at all. Probably."
+    },
+    "namecard_arataki_itto": {
+      "Title": null,
+      "Name": "Oni Face",
+      "Description": "A real man puts sorrow and anger behind him and smiles brightly for the world to see!"
+    },
+    "namecard_jean": {
+      "Title": null,
+      "Name": "The Winds' Course",
+      "Description": "The dandelion, also called \"lion's fang\" by some, is the flower most sensitive to the direction of the wind."
+    },
+    "namecard_kaedehara_kazuha": {
+      "Title": null,
+      "Name": "Autumn Maple-Viewing",
+      "Description": "\"The pine-song ripples as red leaves billow.\""
+    },
+    "namecard_kaeya": {
+      "Title": null,
+      "Name": "Pavo Ocellus",
+      "Description": "The pattern of peacock feathers resembles eyes that never shut. Can we really say that this Pavo Ocellus is missing an eye...?"
+    },
+    "namecard_kaveh": {
+      "Title": null,
+      "Name": "Domed Court",
+      "Description": "\"When conceptualizing architecture, there is nothing wrong with imagining that the structure we build will surmount the firmament and outlast the stars.\""
+    },
+    "namecard_kamisato_ayaka": {
+      "Title": null,
+      "Name": "Folding Fan",
+      "Description": "Ayaka does constantly change out the fans she carries with her, of course. If you're buying her some as gifts, remember not to send summer fans or throwing fans. Dancing fans or tea fans are good choices, though."
+    },
+    "namecard_kamisato_ayato": {
+      "Title": null,
+      "Name": "Ripple",
+      "Description": "The camellia alights upon the mirrored pond, sending ripples throughout the water."
+    },
+    "namecard_keqing": {
+      "Title": null,
+      "Name": "Lightning Stiletto",
+      "Description": "It was originally invented to just test out one's surroundings and climb to high places, really..."
+    },
+    "namecard_klee": {
+      "Title": null,
+      "Name": "Explosive",
+      "Description": "Klee's lucky explosive — can you tell if it's Jumpy Dumpty or Dodoco? (Hint: Look carefully at the tail...)"
+    },
+    "namecard_kujou_sara": {
+      "Title": null,
+      "Name": "Tengu",
+      "Description": "Kujou Sara may have forsaken the arrogant life of the tengu race, but she has never neglected their brilliance with the sword or their supernatural might."
+    },
+    "namecard_kuki_shinobu": {
+      "Title": null,
+      "Name": "Net",
+      "Description": "\"You know those Naku Weed rings they have in Inazuma? You know, the kind that can drive out evil? Shinobu got the idea that since wicked things won't cross their boundaries willingly, we could make them into items that could be actively used. Ah, her talent for being a shrine maiden is truly frightening...\""
+    },
+    "namecard_layla": {
+      "Title": null,
+      "Name": "Daydream",
+      "Description": "\"The starry sky in your dreams will illuminate your way forward, on the premise that the crystal in your heart reflects clear lights.\""
+    },
+    "namecard_lisa": {
+      "Title": null,
+      "Name": "Tempus Fugit",
+      "Description": "An hourglass marks the end of the work day for Lisa. Its sand moves fast."
+    },
+    "namecard_lynette": {
+      "Title": null,
+      "Name": "Earnestness",
+      "Description": "One major type of magic revolves around \"appearing suddenly.\" Lynette is usually conserving her energy, but her serious side can \"appear\" as abruptly as pigeons from a hat."
+    },
+    "namecard_lyney": {
+      "Title": null,
+      "Name": "Pretense",
+      "Description": "One major type of magic revolves around making things \"vanish.\" Lyney has an arsenal of tricks up his sleeve. As his accomplice, as long as you are willing to turn a blind eye, all your problems may vanish as well."
+    },
+    "namecard_mika": {
+      "Title": null,
+      "Name": "Index",
+      "Description": "Every time he holds the map he illustrated in his hands, the boy feels like he is holding a small piece of rubbing in this world."
+    },
+    "namecard_mona": {
+      "Title": null,
+      "Name": "Starry Sky",
+      "Description": "A girl gazes down at the stars' reflection on the water, pondering the joys and sorrows of life."
+    },
+    "namecard_nahida": {
+      "Title": null,
+      "Name": "Crescent",
+      "Description": "The rising moon admires the sun, because her light can shine all over the earth. On the other hand, the setting sun is envious of the moon, for she can be accompanied by the sweetest of dreams."
+    },
+    "namecard_navia": {
+      "Title": null,
+      "Name": "Rosula",
+      "Description": "Namecard style.\nRoses shall bloom, and thus does Ms. Navia's umbrella flower. Yet beware, for roses have thorns, and Navia's booming brolly packs a powerful punch."
+    },
+    "namecard_neuvillette": {
+      "Title": null,
+      "Name": "Surge",
+      "Description": "The water's surface may seem placid as a pristine gem, but it may yet be lying in wait for an opportune moment to gush forth."
+    },
+    "namecard_nilou": {
+      "Title": null,
+      "Name": "Lotus Dance",
+      "Description": "The lotus that blooms amidst the pure water is naught but a flash of light beneath her toes."
+    },
+    "namecard_ningguang": {
+      "Title": null,
+      "Name": "Phoenix",
+      "Description": "They say that \"more's the pity that phoenixes are few.\" But seriously, one Ningguang is more than enough..."
+    },
+    "namecard_noelle": {
+      "Title": null,
+      "Name": "Protector",
+      "Description": "Noelle is quite special. Noelle won't let any harm come to you."
+    },
+    "namecard_qiqi": {
+      "Title": null,
+      "Name": "Cold Storage",
+      "Description": "What should be kept in the fridge? Dr. Baizhu's herbs, coconut milk... and Hu Tao."
+    },
+    "namecard_raiden_shogun": {
+      "Title": null,
+      "Name": "Enlightenment",
+      "Description": "Not simply Ei, and not merely the Raiden Shogun. Observe yourself also with one stormy eye, and you will someday reach a breakthrough."
+    },
+    "namecard_razor": {
+      "Title": null,
+      "Name": "Wolvensprint",
+      "Description": "It's quite a sight to behold Razor and the wolves prepare their dinner, but they won't let Klee or the Traveler see the slightly gruesome affair."
+    },
+    "namecard_rosaria": {
+      "Title": null,
+      "Name": "Indenture",
+      "Description": "The unselfish warmth and goodwill of the people is, to her, a kindness that she must repay, and so it is an indenture that follows her forever."
+    },
+    "namecard_sangonomiya_kokomi": {
+      "Title": null,
+      "Name": "The Deep",
+      "Description": "All Watatsumi islanders know this tale: that deep beneath the waves lies their former home."
+    },
+    "namecard_sayu": {
+      "Title": null,
+      "Name": "Muji-Muji Daruma",
+      "Description": "It is even smaller than Sayu, sure, but it can help her do the things she doesn't want to do."
+    },
+    "namecard_shenhe": {
+      "Title": null,
+      "Name": "Comb",
+      "Description": "The early onset of white hair is often correlated to one's sorrows. Since \"comb\" and \"scatter\" are similarly read in Liyue's language, they believe that combing one's hair is the same as scattering one's misfortunes."
+    },
+    "namecard_shikanoin_heizou": {
+      "Title": null,
+      "Name": "Temari",
+      "Description": "A Temari of entwining strings in various colors. It must have taken someone's great effort to make such an item, yet Heizou only sees it as a simple game to untangle each string."
+    },
+    "namecard_sucrose": {
+      "Title": null,
+      "Name": "Bio-Alchemy",
+      "Description": "If you closely examine an Anemo Hypostasis before it disappears, you will discover that they are actually quite square."
+    },
+    "namecard_tartaglia": {
+      "Title": null,
+      "Name": "Foul Legacy",
+      "Description": "This bears all the marks of that fellow who gallivants as he pleases across the continent with his ever-changing combat styles. Yet, his \"Foul Legacy\" was not originally his. Rather, it was taught to him by that solitary girl who dwelt in the darkest corners of the universe."
+    },
+    "namecard_thoma": {
+      "Title": null,
+      "Name": "Blazing Guard",
+      "Description": "Blazing armor, flaming guards."
+    },
+    "namecard_tighnari": {
+      "Title": null,
+      "Name": "Dew-Kissed",
+      "Description": "Tighnari takes good care of his big, fluffy tail. The essential oil he uses was extracted from flowers and mixed together meticulously. It gives off a faint, calming scent."
+    },
+    "namecard_venti": {
+      "Title": null,
+      "Name": "Azure Sky",
+      "Description": "The bright blue of a cloudless sky and the melodious tone of Der Frühling complement each other perfectly."
+    },
+    "namecard_wanderer": {
+      "Title": null,
+      "Name": "Drifter's Ballad",
+      "Description": "In a world most transient does the past hide, and in the whims of floating flowers does thin snow abide."
+    },
+    "namecard_wriothesley": {
+      "Title": null,
+      "Name": "Detention",
+      "Description": "Maintaining order at the Fortress of Meropide is no simple affair. As such, a deft and sometimes firm hand is needed — along with a small pinch of truly regrettable cruelty."
+    },
+    "namecard_xiangling": {
+      "Title": null,
+      "Name": "Fresh from the Pan",
+      "Description": "Try saying this three times fast: \"Guoba sears sea snails by Liyue's sea shore.\""
+    },
+    "namecard_xiao": {
+      "Title": null,
+      "Name": "Mask",
+      "Description": "He longs for a day to come when he will wear the mask and dance — not to conquer demons, but to the tune of that flute amid a sea of flowers."
+    },
+    "namecard_xingqiu": {
+      "Title": null,
+      "Name": "Rainbow",
+      "Description": "Come watch the night rain that brings no rainbow."
+    },
+    "namecard_xinyan": {
+      "Title": null,
+      "Name": "Song's End",
+      "Description": "Xinyan only has time to examine her instrument carefully after the performance is over. Even in silence, it is a beauty."
+    },
+    "namecard_yae_miko": {
+      "Title": null,
+      "Name": "Kitsune Dreaming",
+      "Description": "Where can Yae Miko's fox form be found? In your dreams, that's where."
+    },
+    "namecard_yaoyao": {
+      "Title": null,
+      "Name": "Yuegui",
+      "Description": "\"Can you guess which one here is Yuegui? That's right, all of them are!\""
+    },
+    "namecard_yanfei": {
+      "Title": null,
+      "Name": "Impartial",
+      "Description": "Justice, signed in scarlet."
+    },
+    "namecard_yelan": {
+      "Title": null,
+      "Name": "Throw",
+      "Description": "\"Dice are always quite hard to make 'fair.' That goes double for dice with shoddier workmanship. The weighting on each numbered side will almost certainly be unbalanced.\""
+    },
+    "namecard_yoimiya": {
+      "Title": null,
+      "Name": "Auratus Spark",
+      "Description": "Even momentarily sparks can leave beautiful, unquenchable flames in the hearts of those who watch the night sky."
+    },
+    "namecard_yun_jin": {
+      "Title": null,
+      "Name": "Rhyme",
+      "Description": "Ms. Yun has two sorts of teachers. The critics of her onstage performances are one, and the books on rhyme she references while writing are the other."
+    },
+    "namecard_zhongli": {
+      "Title": null,
+      "Name": "Planet Befall",
+      "Description": "Stars fall, light dims."
+    },
+    "namecard_achievement_hero": {
+      "Title": "Achievement",
+      "Name": "Hero",
+      "Description": "Your hero's journey began before you knew it, but it's the experiences that really made it special."
+    },
+    "namecard_reputation_mondstadt": {
+      "Title": "Mondstadt Reputation",
+      "Name": "Hero's Fame",
+      "Description": "The name of the Honorary Knight has spread far and wide among the citizenry."
+    },
+    "namecard_reputation_liyue": {
+      "Title": "Liyue Reputation",
+      "Name": "A Thousand Ships",
+      "Description": "Many boats have been numbered by day and night."
+    },
+    "namecard_reputation_inazuma": {
+      "Title": "Inazuma Reputation",
+      "Name": "Raiden Emblem",
+      "Description": "This is the emblem of the Ogosho Shogun, and is the banner of her troops, the Electro Mitsudomoe."
+    },
+    "namecard_reputation_sumeru": {
+      "Title": "Sumeru Reputation",
+      "Name": "Observance",
+      "Description": "Behold everything the world has to offer: see through all that the sky's light surveys."
+    },
+    "namecard_reputation_fontaine": {
+      "Title": "Fontaine Reputation",
+      "Name": "Wondrous Machine",
+      "Description": "The symbol of the energy blocks used by all of Fontaine's clockwork meka. There was once a great debate over whether it should be registered as a trademark, but in the end, the public was simply called upon not to use it too freely."
+    }
+  },
+  "Type": "NamecardLocalization"
+}

@@ -1,0 +1,638 @@
+{
+  "LangCode": "EN",
+  "Characters": {
+    "lumine": {
+      "Title": null,
+      "FirstName": "Lumine",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Viatrix",
+      "Description": null
+    },
+    "aether": {
+      "Title": null,
+      "FirstName": "Aether",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Viator",
+      "Description": null
+    },
+    "traveler": {
+      "Title": "Outlander",
+      "FirstName": "Traveler",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": null,
+      "Description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven."
+    },
+    "albedo": {
+      "Title": "Kreideprinz",
+      "FirstName": "Albedo",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Princeps Cretaceus",
+      "Description": "A genius known as the Kreideprinz, he is the Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius."
+    },
+    "alhaitham": {
+      "Title": "Admonishing Instruction",
+      "FirstName": "Alhaitham",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Vultur Volans",
+      "Description": "The current scribe of the Sumeru Akademiya, a man endowed with extraodinary intelligence and talent. He lives free — free from the searching eyes of ordinary people, anyway."
+    },
+    "aloy": {
+      "Title": "Savior From Another World",
+      "FirstName": "Aloy",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Nora Fortis",
+      "Description": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time."
+    },
+    "amber": {
+      "Title": "Gliding Champion",
+      "FirstName": "Amber",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Lepus",
+      "Description": "Always energetic and full of life, Amber's the best - albeit only - Outrider of the Knights of Favonius."
+    },
+    "kamisato_ayaka": {
+      "Title": "Frostflake Heron",
+      "FirstName": "Ayaka",
+      "LastName": "Kamisato",
+      "Japanese": true,
+      "Constellation": "Grus Nivis",
+      "Description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong."
+    },
+    "kamisato_ayato": {
+      "Title": "Pillar of Fortitude",
+      "FirstName": "Ayato",
+      "LastName": "Kamisato",
+      "Japanese": true,
+      "Constellation": "Cypressus Custos",
+      "Description": "The young but highly accomplished head of the Yashiro Commission's Kamisato Clan. Cultured and polite, he is a man of many ways and means."
+    },
+    "baizhu": {
+      "Title": "Beyond Mortality",
+      "FirstName": "Baizhu",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Lagenaria",
+      "Description": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng. His medicinal knowledge is encyclopedic, and his personal intrigues subtle."
+    },
+    "barbara": {
+      "Title": "Shining Idol",
+      "FirstName": "Barbara",
+      "LastName": "Pegg",
+      "Japanese": false,
+      "Constellation": "Crater",
+      "Description": "Every citizen of Mondstadt adores Barbara. However, she learned the word \"idol\" from a magazine."
+    },
+    "beidou": {
+      "Title": "Uncrowned Lord of the Ocean",
+      "FirstName": "Beidou",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Victor Mare",
+      "Description": "Captain of her crew, The Crux. She's quite an unbound and forthright woman."
+    },
+    "bennett": {
+      "Title": "Trial by Fire",
+      "FirstName": "Bennett",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Rota Calamitas",
+      "Description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky."
+    },
+    "candace": {
+      "Title": "Golden Vow",
+      "FirstName": "Candace",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Sagitta Scutum",
+      "Description": "The guardian of Aaru Village who is gentle and benevolent. She will not allow anyone to harm Aaru Village under her watch."
+    },
+    "charlotte": {
+      "Title": "Lens of Verity",
+      "FirstName": "Charlotte",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Hualina Veritas",
+      "Description": "Indefatigable reporter of The Steambird, constantly on the hunt for the \"truth.\""
+    },
+    "chevreuse": {
+      "Title": "Executor of Justice",
+      "FirstName": "Chevreuse",
+      "LastName": "",
+      "Japanese": false,
+      "Constellation": "Sclopetum Ensiferum",
+      "Description": "he captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guily."
+    },
+    "chongyun": {
+      "Title": "Frozen Ardor",
+      "FirstName": "Chongyun",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Nubis Caesor",
+      "Description": "A young exorcist from a family of exorcists. He does everything he can to suppress his abundance of yang energy."
+    },
+    "collei": {
+      "Title": "Sprout of Rebirth",
+      "FirstName": "Collei",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Leptailurus Cervarius",
+      "Description": "A trainee ranger active in Avidya Forest. Behind her enthusiastic words and actions hides a slightly introverted personality."
+    },
+    "cyno": {
+      "Title": "Judicator of Secrets",
+      "FirstName": "Cyno",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Lupus Aureus",
+      "Description": "The General Mahamatra of the Akademiya, leader of all the Matras. He has a unique sense of humor that never fails to leave a deep impression."
+    },
+    "dehya": {
+      "Title": "Flame-Mane",
+      "FirstName": "Dehya",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Flame-Mane",
+      "Description": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru. Valiant and powerful, she enjoys great fame amongst her fellow Eremites."
+    },
+    "diluc": {
+      "Title": "The Dark Side of Dawn",
+      "FirstName": "Diluc",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Noctua",
+      "Description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way."
+    },
+    "diona": {
+      "Title": "Kätzlein Cocktail",
+      "FirstName": "Diona",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Feles",
+      "Description": "A young lady who has inherited trace amounts of non-human blood. She is the incredible popular bartender of the Cat's Tail tavern."
+    },
+    "dori": {
+      "Title": "Treasure of Dream Garden",
+      "FirstName": "Dori",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Magicae Lucerna",
+      "Description": "An elusive merchant who has a fondness for glittering Mora."
+    },
+    "eula": {
+      "Title": "Dance of the Shimmering Wave",
+      "FirstName": "Eula",
+      "LastName": "Lawrence",
+      "Japanese": false,
+      "Constellation": "Aphros Delos",
+      "Description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company. The reason for which a descendant of the ancient nobles might join the Knights remains a great mystery in Mondstadt to this very day."
+    },
+    "faruzan": {
+      "Title": "Enigmatic Machinist",
+      "FirstName": "Faruzan",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Flosculi Implexi",
+      "Description": "A researcher from \"one hundred years ago\". She enjoys self-identifying as everyone's senior, and has significant knowledge of ancient scripts and machines of all kinds."
+    },
+    "fischl": {
+      "Title": "Prinzessin der Verurteilung!",
+      "FirstName": "Fischl",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Corvus",
+      "Description": "A mysterious girl who calls herself \"Prinzessin der Verurteilung\" and travels with a night raven named Oz."
+    },
+    "freminet": {
+      "Title": "Yearning for Unseen Depths",
+      "FirstName": "Freminet",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Automaton",
+      "Description": "A reserved young man who is well-versed in diving. Beneath his distant, icy demeanor lies a pure heart bereft of all flaws."
+    },
+    "furina": {
+      "Title": "Endless Solo of Solitude",
+      "FirstName": "Furina",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Animula Choragi",
+      "Description": "The absolute focus of the stage of judgment, until the final applause sounds."
+    },
+    "ganyu": {
+      "Title": "Plenilune Gaze",
+      "FirstName": "Ganyu",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Sinae Unicornis",
+      "Description": "The secretary at Yuehai Pavilion. The blood of the qilin, an illuminated beast, flows within her veins."
+    },
+    "gorou": {
+      "Title": "Canine Warrior",
+      "FirstName": "Gorou",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Canis Bellatoris",
+      "Description": "The great general of Watatsumi Island's forces. He is deeply trusted by his subordinates."
+    },
+    "shikanoin_heizou": {
+      "Title": "Analytical Harmony",
+      "FirstName": "Heizou",
+      "LastName": "Shikanoin",
+      "Japanese": true,
+      "Constellation": "Cervus Minor",
+      "Description": "A young prodigy detective from the Tenryou Commission. His senses are sharp and his thoughts are clear."
+    },
+    "hu_tao": {
+      "Title": "Fragrance in Thaw",
+      "FirstName": "Hu Tao",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Papilio Charontis",
+      "Description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age."
+    },
+    "arataki_itto": {
+      "Title": "Hanamizaka Heroics",
+      "FirstName": "Itto",
+      "LastName": "Arataki",
+      "Japanese": true,
+      "Constellation": "Taurus Iracundus",
+      "Description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?"
+    },
+    "jean": {
+      "Title": "Dandelion Knight",
+      "FirstName": "Jean",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Leo Minor",
+      "Description": "The righteous and rigorous Dandelion Knight, and Acting Grand Master of Mondstadt's Knights of Favonius."
+    },
+    "kaedehara_kazuha": {
+      "Title": "Scarlet Leaves Pursue Wild Waves",
+      "FirstName": "Kazuha",
+      "LastName": "Kaedehara",
+      "Japanese": true,
+      "Constellation": "Acer Palmatum",
+      "Description": "A wandering samurai from Inazuma who is currently with Liyue's Crux Fleet. A gentle and carefree soul whose heart hides a great many burdens from the past."
+    },
+    "kaeya": {
+      "Title": "Frostwind Swordsman",
+      "FirstName": "Kaeya",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Pavo Ocellus",
+      "Description": "An accomplished swordsman and a strategic thinker in the Knights of Favonius, rumored to hail from beyond Mondstadt."
+    },
+    "kaveh": {
+      "Title": "Empyrean Reflection",
+      "FirstName": "Kaveh",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Paradisaea",
+      "Description": "A renowned architect from Sumeru who perhaps cares a bit too much about too many things. He is an aesthete troubled by reality."
+    },
+    "keqing": {
+      "Title": "Driving Thunder",
+      "FirstName": "Keqing",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Trulla Cementarii",
+      "Description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue — but in truth, gods admire skeptics such as her quite a lot."
+    },
+    "kirara": {
+      "Title": "Cat Upon the Eaves",
+      "FirstName": "Kirara",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Arcella",
+      "Description": "A courier for Komaniya Express, a delivery company in Inazuma. A nekomata who loves her job and human society."
+    },
+    "klee": {
+      "Title": "Fleeing Sunlight",
+      "FirstName": "Klee",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Trifolium",
+      "Description": "An explosives expert and a regular at the Knights of Favonius's confinement room. Also known as Fleeing Sunlight."
+    },
+    "sangonomiya_kokomi": {
+      "Title": "Pearl of Wisdom",
+      "FirstName": "Kokomi",
+      "LastName": "Sangonomiya",
+      "Japanese": true,
+      "Constellation": "Dracaena Somnolenta",
+      "Description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at this young lady's fingertips."
+    },
+    "layla": {
+      "Title": "Fantastical Evening Star",
+      "FirstName": "Layla",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Luscinia",
+      "Description": "A Rtawahist student who specializes in Theoretical Astrology. Heavily prone to somnambulism and locked in a grinding war with sleep deprivation, the problem of restful slumber is a most troubling one to her."
+    },
+    "lisa": {
+      "Title": "Witch of Purple Rose",
+      "FirstName": "Lisa",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Tempus Fugit",
+      "Description": "The languid but knowledgeable Librarian of the Knights of Favonius, deemed by Sumeru Academia to be their most distinguished graduate in the past two centuries."
+    },
+    "lynette": {
+      "Title": "Elegance in the Shadows",
+      "FirstName": "Lynette",
+      "LastName": "",
+      "Japanese": false,
+      "Constellation": "Felis Alba",
+      "Description": "A magic assistant of few words, her emotions are as inscrutable as any cat's."
+    },
+    "lyney": {
+      "Title": "Spectacle of Phantasmagoria",
+      "FirstName": "Lyney",
+      "LastName": "",
+      "Japanese": false,
+      "Constellation": "Felis Fuscus",
+      "Description": "A famed Fontainian magician who possesses great stage presence as well as gift of the gab. Audiences are enthralled by his exquisite skills, and they hang on to his every clever word."
+    },
+    "mika": {
+      "Title": "Coordinates of Clear Frost",
+      "FirstName": "Mika",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Palumbus",
+      "Description": "A young knight born to an ordinary family. He serves as a Front-Line Surveyor in his Company. He is a low-key and cautious character."
+    },
+    "mona": {
+      "Title": "Astral Reflection",
+      "FirstName": "Mona",
+      "LastName": "Megistus",
+      "Japanese": false,
+      "Constellation": "Astrolabos",
+      "Description": "A mysterious young astrologer who proclaims herself to be \"Astrologist Mona Megistus,\" and who possesses abilities to match the title. Erudite, but prideful."
+    },
+    "nahida": {
+      "Title": "Physic of Purity",
+      "FirstName": "Nahida",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Sapientia Oromasdis",
+      "Description": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams."
+    },
+    "navia": {
+      "Title": "Helm of the Radiant Rose",
+      "FirstName": "Navia",
+      "LastName": "Caspar",
+      "Japanese": false,
+      "Constellation": "Rosa Multiflora",
+      "Description": "The current President of Spina di Rosula, who is lovely, dutiful, and a great boss."
+    },
+    "neuvillette": {
+      "Title": "Ordainer of Inexorable Judgment",
+      "FirstName": "Neuvillette",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Leviathan Judicator",
+      "Description": "The Chief Justice of Fontaine, known as the Iudex, is renowned for his unassailable impartiality."
+    },
+    "nilou": {
+      "Title": "Dance of Lotuslight",
+      "FirstName": "Nilou",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Lotos Somno",
+      "Description": "The star of Zubayr Theater. She is full of warmth and innocence, and her dances are lively and elegant."
+    },
+    "ningguang": {
+      "Title": "Eclipsing Star",
+      "FirstName": "Ningguang",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Opus Aequilibrium",
+      "Description": "The Tianquan of the Liyue Qixing. Her wealth is unsurpassed in all of Teyvat."
+    },
+    "noelle": {
+      "Title": "Chivalric Blossom",
+      "FirstName": "Noelle",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Parma Cordis",
+      "Description": "A maid who faithfully serves the Knights of Favonius. She dreams of joining their ranks someday."
+    },
+    "qiqi": {
+      "Title": "Icy Resurrection",
+      "FirstName": "Qiqi",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Pristina Nola",
+      "Description": "An apprentice and herb gatherer at Bubu Pharmacy. An undead with a bone-white complexion, she seldom has much in the way of words or emotion."
+    },
+    "raiden_shogun": {
+      "Title": "Plane of Euthymia",
+      "FirstName": "Raiden",
+      "LastName": "Shogun",
+      "Japanese": false,
+      "Constellation": "Imperatrix Umbrosa",
+      "Description": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity."
+    },
+    "razor": {
+      "Title": "Wolf Boy",
+      "FirstName": "Razor",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Lupus Minor",
+      "Description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization. As agile as lightning."
+    },
+    "rosaria": {
+      "Title": "Thorny Benevolence",
+      "FirstName": "Rosaria",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Spinea Corona",
+      "Description": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone."
+    },
+    "kujou_sara": {
+      "Title": "Crowfeather Kaburaya",
+      "FirstName": "Sara",
+      "LastName": "Kujou",
+      "Japanese": true,
+      "Constellation": "Flabellum",
+      "Description": "A general of the Tenryou Commission. Bold, decisive, and skilled in battle."
+    },
+    "sayu": {
+      "Title": "Mujina Ninja",
+      "FirstName": "Sayu",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Nyctereutes Minor",
+      "Description": "A pint-sized ninja attached to the Shuumatsuban, who always seems sleep-deprived."
+    },
+    "shenhe": {
+      "Title": "Lonesome Transcendence",
+      "FirstName": "Shenhe",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Crista Doloris",
+      "Description": "An adepti disciple with a most unusual air about her. Having spent much time cultivating in isolation in Liyue's mountains, she has become every bit as cool and distant as the adepti themselves."
+    },
+    "sucrose": {
+      "Title": "Harmless Sweetie",
+      "FirstName": "Sucrose",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Ampulla",
+      "Description": "An alchemist filled with curiosity about all things. She researches bio-alchemy."
+    },
+    "kuki_shinobu": {
+      "Title": "Mender of Tribulations",
+      "FirstName": "Shinobu",
+      "LastName": "Kuki",
+      "Japanese": true,
+      "Constellation": "Tribulatio Demptio",
+      "Description": "The capable and reliable deputy leader of the \"Arataki Gang.\" Please note: capable and reliable are not appellations for the \"Arataki Gang,\" but for their deputy leader in specific."
+    },
+    "tartaglia": {
+      "Title": "Childe",
+      "FirstName": "Tartaglia",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Monoceros Caeli",
+      "Description": "No. 11 of The Harbingers, also known as \"Childe.\" His name is highly feared on the battlefield."
+    },
+    "thoma": {
+      "Title": "Protector From Afar",
+      "FirstName": "Thoma",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Rubeum Scutum",
+      "Description": "The Kamisato Clan's housekeeper. A well-known \"fixer\" in Inazuma."
+    },
+    "tighnari": {
+      "Title": "Verdant Strider",
+      "FirstName": "Tighnari",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Vulpes Zerda",
+      "Description": "A young researcher well-versed in botany who currently serves as a Forest Watcher in Avidya Forest. He is a straight shooter with a warm heart — and a dab hand at guiding even the dullest of pupils."
+    },
+    "venti": {
+      "Title": "Windborne Bard",
+      "FirstName": "Venti",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Carmen Dei",
+      "Description": "One of the many bards of Mondstadt, who freely wanders the city's streets and alleys."
+    },
+    "wanderer": {
+      "Title": "Eons Adrift",
+      "FirstName": "Wanderer",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Peregrinus",
+      "Description": "A wayfaring figure whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act the part."
+    },
+    "wriothesley": {
+      "Title": "Emissary of Solitary Iniquity",
+      "FirstName": "Wriothesley",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Cerberus",
+      "Description": "Duke of the Fortress of Meropide, Lord Incognito of the murky depths."
+    },
+    "xiangling": {
+      "Title": "Exquisite Delicacy",
+      "FirstName": "Xiangling",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Trulla",
+      "Description": "A renowned chef from Liyue. She's extremely passionate about cooking and excels at making her signature hot and spicy dishes."
+    },
+    "xiao": {
+      "Title": "Vigilant Yaksha",
+      "FirstName": "Xiao",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Alatus Nemeseos",
+      "Description": "A yaksha adeptus who defends Liyue. Also heralded as the \"Conqueror of Demons\" and \"Vigilant Yaksha.\""
+    },
+    "xingqiu": {
+      "Title": "Juvenile Galant",
+      "FirstName": "Xingqiu",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Fabulae Textile",
+      "Description": "A young man carrying a longsword who is frequently seen at book booths. He has a chivalrous heart and yearns for justice and fairness for all."
+    },
+    "xinyan": {
+      "Title": "Blazing Riff",
+      "FirstName": "Xinyan",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Fila Ignium",
+      "Description": "Liyue's sole rock 'n' roll musician. She rebels against ossified prejudices using her music and passionate singing."
+    },
+    "yae_miko": {
+      "Title": "Astute Amusement",
+      "FirstName": "Yae Miko",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Divina Vulpes",
+      "Description": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance."
+    },
+    "yanfei": {
+      "Title": "Wise Innocence",
+      "FirstName": "Yanfei",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Bestia Iustitia",
+      "Description": "A well-known legal adviser active in Liyue Harbor. A brilliant young lady in whose veins runs the blood of an illuminated beast."
+    },
+    "yaoyao": {
+      "Title": "Burgeoning Grace",
+      "FirstName": "Yaoyao",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Osmanthus",
+      "Description": "Streetward Rambler's youngest disciple. A gentle and caring \"little adult.\""
+    },
+    "yelan": {
+      "Title": "Valley Orchid",
+      "FirstName": "Yelan",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Umbrabilis Orchis",
+      "Description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a \"non-entity\" on the Ministry of Civil Affairs' list."
+    },
+    "yoimiya": {
+      "Title": "Frolicking Flames",
+      "FirstName": "Yoimiya",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Carassius Auratus",
+      "Description": "Owner of Naganohara Fireworks. Known as \"Queen of the Summer Festival,\" she excels in her craft of creating fireworks that symbolize people's hopes and dreams."
+    },
+    "yun_jin": {
+      "Title": "Stage Lucida",
+      "FirstName": "Yun Jin",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Opera Grandis",
+      "Description": "A renowned Liyue opera singer who is skilled in both playwriting and singing. Her style is one-of-a-kind, exquisite and delicate, much like the person herself."
+    },
+    "zhongli": {
+      "Title": "Vago Mundo",
+      "FirstName": "Zhongli",
+      "LastName": null,
+      "Japanese": false,
+      "Constellation": "Lapis Dei",
+      "Description": "A mysterious expert contracted by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things."
+    }
+  },
+  "Type": "CharacterLocalization"
+}

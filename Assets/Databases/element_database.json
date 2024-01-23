@@ -1,0 +1,61 @@
+{
+  "Elements": {
+    "anemo": {
+      "EntityId": "element",
+      "ElementType": "Anemo",
+      "ReactsWith": "Cryo, Electro, Hydro, Pyro",
+      "Nation": "Mondstadt",
+      "Id": "anemo",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo": {
+      "EntityId": "element",
+      "ElementType": "Cryo",
+      "ReactsWith": "Anemo, Electro, Geo, Hydro, Pyro",
+      "Nation": "Snezhnaya",
+      "Id": "cryo",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dendro": {
+      "EntityId": "element",
+      "ElementType": "Dendro",
+      "ReactsWith": "Electro, Hydro, Pyro",
+      "Nation": "Sumeru",
+      "Id": "dendro",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro": {
+      "EntityId": "element",
+      "ElementType": "Electro",
+      "ReactsWith": "Anemo, Cryo, Dendro, Geo, Hydro, Pyro",
+      "Nation": "Inazuma",
+      "Id": "electro",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "geo": {
+      "EntityId": "element",
+      "ElementType": "Geo",
+      "ReactsWith": "Cryo, Electro, Hydro, Pyro",
+      "Nation": "Liyue",
+      "Id": "geo",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hydro": {
+      "EntityId": "element",
+      "ElementType": "Hydro",
+      "ReactsWith": "Anemo, Cryo, Dendro, Electro, Geo, Pyro",
+      "Nation": "Fontaine",
+      "Id": "hydro",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pyro": {
+      "EntityId": "element",
+      "ElementType": "Pyro",
+      "ReactsWith": "Anemo, Cryo, Dendro, Electro, Geo, Hydro",
+      "Nation": "Natlan",
+      "Id": "pyro",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "ElementDatabase"
+}

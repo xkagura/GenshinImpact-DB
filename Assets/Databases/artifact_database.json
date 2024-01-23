@@ -1,0 +1,1094 @@
+{
+  "Artifacts": {
+    "adventurer": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Set": "Adventurer",
+      "KeyTerms": [
+        "hp"
+      ],
+      "Id": "adventurer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "archaic_petra": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "ArchaicPetra",
+      "KeyTerms": [
+        "geo",
+        "geo_dmg_bonus"
+      ],
+      "Id": "archaic_petra",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "berserker": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "Berserker",
+      "KeyTerms": [
+        "crit_rate"
+      ],
+      "Id": "berserker",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "blizzard_strayer": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "BlizzardStrayer",
+      "KeyTerms": [
+        "cryo",
+        "cryo_dmg_bonus"
+      ],
+      "Id": "blizzard_strayer",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "bloodstained_chivalry": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "BloodstainedChivalry",
+      "KeyTerms": [
+        "physical_dmg_bonus",
+        "charged_attack",
+        "stamina"
+      ],
+      "Id": "bloodstained_chivalry",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "brave_heart": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "BraveHeart",
+      "KeyTerms": [
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "brave_heart",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "crimson_witch_of_flames": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "CrimsonWitchOfFlames",
+      "KeyTerms": [
+        "pyro",
+        "pyro_dmg_bonus",
+        "overloaded",
+        "burning",
+        "burgeon",
+        "vaporize",
+        "melt"
+      ],
+      "Id": "crimson_witch_of_flames",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "deepwood_memories": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "DeepwoodMemories",
+      "KeyTerms": [
+        "dendro",
+        "dendro_dmg_bonus",
+        "elemental_skill",
+        "elemental_burst"
+      ],
+      "Id": "deepwood_memories",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "defenders_will": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "DefendersWill",
+      "KeyTerms": [
+        "def",
+        "elemental_res"
+      ],
+      "Id": "defenders_will",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "desert_pavilion_chronicle": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "DesertPavilionChronicle",
+      "KeyTerms": [
+        "anemo_dmg_bonus",
+        "normal_attack"
+      ],
+      "Id": "desert_pavilion_chronicle",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "echoes_of_an_offering": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "EchoesOfAnOffering",
+      "KeyTerms": [
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "echoes_of_an_offering",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "emblem_of_severed_fate": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "EmblemOfSeveredFate",
+      "KeyTerms": [
+        "energy_recharge",
+        "elemental_burst"
+      ],
+      "Id": "emblem_of_severed_fate",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "flower_of_paradise_lost": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "FlowerOfParadiseLost",
+      "KeyTerms": [
+        "elemental_mastery",
+        "bloom",
+        "hyperbloom",
+        "burgeon"
+      ],
+      "Id": "flower_of_paradise_lost",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "gambler": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "Gambler",
+      "KeyTerms": [
+        "elemental_skill"
+      ],
+      "Id": "gambler",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "gilded_dreams": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "GildedDreams",
+      "KeyTerms": [
+        "elemental_mastery"
+      ],
+      "Id": "gilded_dreams",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "gladiators_finale": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "GladiatorsFinale",
+      "KeyTerms": [
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "gladiators_finale",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "golden_troupe": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "GoldenTroupe",
+      "KeyTerms": [
+        "elemental_skill_dmg"
+      ],
+      "Id": "golden_troupe",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "heart_of_depth": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "HeartOfDepth",
+      "KeyTerms": [
+        "hydro",
+        "hydro_dmg_bonus"
+      ],
+      "Id": "heart_of_depth",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "husk_of_opulent_dreams": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "HuskOfOpulentDreams",
+      "KeyTerms": [
+        "def",
+        "def_percentage"
+      ],
+      "Id": "husk_of_opulent_dreams",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "instructor": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "Instructor",
+      "KeyTerms": [
+        "elemental_mastery"
+      ],
+      "Id": "instructor",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lavawalker": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "Lavawalker",
+      "KeyTerms": [
+        "pyro",
+        "pyro_res"
+      ],
+      "Id": "lavawalker",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lucky_dog": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Set": "LuckyDog",
+      "KeyTerms": [
+        "def",
+        "hp"
+      ],
+      "Id": "lucky_dog",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "maiden_beloved": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "MaidenBeloved",
+      "KeyTerms": [
+        "healing_bonus"
+      ],
+      "Id": "maiden_beloved",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "marechaussee_hunter": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "MarechausseeHunter",
+      "KeyTerms": [
+        "normal_atk_dmg",
+        "charged_atk_dmg",
+        "crit_rate"
+      ],
+      "Id": "marechaussee_hunter",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "martial_artist": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "MartialArtist",
+      "KeyTerms": [
+        "normal_attack",
+        "charged_attack",
+        "elemental_skill"
+      ],
+      "Id": "martial_artist",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "noblesse_oblige": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "NoblesseOblige",
+      "KeyTerms": [
+        "elemental_burst",
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "noblesse_oblige",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "nymphs_dream": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "NymphsDream",
+      "KeyTerms": [
+        "hydro_dmg_bonus",
+        "normal_attack",
+        "elemental_skill",
+        "elemental_burst",
+        "atk"
+      ],
+      "Id": "nymphs_dream",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "ocean_hued_clam": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "OceanHuedClam",
+      "KeyTerms": [
+        "healing_bonus"
+      ],
+      "Id": "ocean_hued_clam",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "pale_flame": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "PaleFlame",
+      "KeyTerms": [
+        "physical_dmg_bonus",
+        "elemental_skill",
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "pale_flame",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "prayers_for_destiny": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "PrayersForDestiny",
+      "KeyTerms": [
+        "hydro",
+        "hydro_res"
+      ],
+      "Id": "prayers_for_destiny",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prayers_for_illumination": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "PrayersForIllumination",
+      "KeyTerms": [
+        "pyro",
+        "pyro_res"
+      ],
+      "Id": "prayers_for_illumination",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prayers_for_wisdom": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "PrayersForWisdom",
+      "KeyTerms": [
+        "electro",
+        "electro_res"
+      ],
+      "Id": "prayers_for_wisdom",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "prayers_to_springtime": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "PrayersToSpringtime",
+      "KeyTerms": [
+        "cryo",
+        "cryo_res"
+      ],
+      "Id": "prayers_to_springtime",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "resolution_of_sojourner": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "ResolutionOfSojourner",
+      "KeyTerms": [
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "resolution_of_sojourner",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "retracing_bolide": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "RetracingBolide",
+      "KeyTerms": [
+        "shield"
+      ],
+      "Id": "retracing_bolide",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "scholar": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "Scholar",
+      "KeyTerms": [
+        "energy_recharge"
+      ],
+      "Id": "scholar",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shimenawas_reminiscence": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "ShimenawasReminiscence",
+      "KeyTerms": [
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "shimenawas_reminiscence",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "tenacity_of_the_millelith": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "TenacityOfTheMillelith",
+      "KeyTerms": [
+        "hp",
+        "hp_percentage"
+      ],
+      "Id": "tenacity_of_the_millelith",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "the_exile": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "TheExile",
+      "KeyTerms": [
+        "energy_recharge"
+      ],
+      "Id": "the_exile",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "thundering_fury": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "ThunderingFury",
+      "KeyTerms": [
+        "electro",
+        "electro_dmg_bonus"
+      ],
+      "Id": "thundering_fury",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "thundersoother": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "Thundersoother",
+      "KeyTerms": [
+        "electro",
+        "electro_res"
+      ],
+      "Id": "thundersoother",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tiny_miracle": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "TinyMiracle",
+      "KeyTerms": [
+        "res",
+        "elemental_res"
+      ],
+      "Id": "tiny_miracle",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "traveling_doctor": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Set": "TravelingDoctor",
+      "KeyTerms": [
+        "healing_bonus",
+        "hp",
+        "hp_percentage"
+      ],
+      "Id": "traveling_doctor",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vermillion_hereafter": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "VermillionHereafter",
+      "KeyTerms": [
+        "atk",
+        "atk_percentage"
+      ],
+      "Id": "vermillion_hereafter",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "viridescent_venerer": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "ViridescentVenerer",
+      "KeyTerms": [
+        "anemo",
+        "anemo_dmg_bonus"
+      ],
+      "Id": "viridescent_venerer",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "vourukashas_glow": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "VourukashasGlow",
+      "KeyTerms": [
+        "hp",
+        "elemental_skill",
+        "elemental_burst"
+      ],
+      "Id": "vourukashas_glow",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "wanderers_troupe": {
+      "EntityId": "artifact_set",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Set": "WanderersTroupe",
+      "KeyTerms": [
+        "elemental_mastery"
+      ],
+      "Id": "wanderers_troupe",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "ArtifactDatabase"
+}

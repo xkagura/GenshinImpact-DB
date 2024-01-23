@@ -1,0 +1,724 @@
+{
+  "MondstadtFishingSpots": {
+    "fishing_spot_cider_lake_1": {
+      "LocationId": "cider_lake",
+      "Fishes": [
+        "medaka",
+        "tea_colored_shirakodai",
+        "venomspine_fish",
+        "akai_maou",
+        "pufferfish",
+        "bitter_pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_cider_lake_1",
+      "DateAdded": null
+    },
+    "fishing_spot_cider_lake_2": {
+      "LocationId": "cider_lake",
+      "Fishes": [
+        "aizen_medaka",
+        "crystalfish",
+        "tea_colored_shirakodai",
+        "venomspine_fish",
+        "rusty_koi"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_cider_lake_2",
+      "DateAdded": null
+    },
+    "fishing_spot_dawn_winery": {
+      "LocationId": "dawn_winery",
+      "Fishes": [
+        "dawncatcher",
+        "tea_colored_shirakodai",
+        "venomspine_fish",
+        "akai_maou",
+        "pufferfish",
+        "bitter_pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_dawn_winery",
+      "DateAdded": null
+    },
+    "fishing_spot_stormbearer_mountains": {
+      "LocationId": "stormbearer_mountains",
+      "Fishes": [
+        "medaka",
+        "aizen_medaka",
+        "dawncatcher",
+        "crystalfish",
+        "tea_colored_shirakodai",
+        "venomspine_fish",
+        "golden_koi"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_stormbearer_mountains",
+      "DateAdded": null
+    },
+    "fishing_spot_stormterrors_lair_1": {
+      "LocationId": "stormterrors_lair",
+      "Fishes": [
+        "medaka",
+        "aizen_medaka",
+        "dawncatcher",
+        "tea_colored_shirakodai"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_stormterrors_lair_1",
+      "DateAdded": null
+    },
+    "fishing_spot_stormterrors_lair_2": {
+      "LocationId": "stormterrors_lair",
+      "Fishes": [
+        "medaka",
+        "aizen_medaka",
+        "dawncatcher",
+        "crystalfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_stormterrors_lair_2",
+      "DateAdded": null
+    },
+    "fishing_spot_windrise": {
+      "LocationId": "windrise",
+      "Fishes": [
+        "medaka",
+        "tea_colored_shirakodai",
+        "venomspine_fish"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Mondstadt",
+      "Id": "fishing_spot_windrise",
+      "DateAdded": null
+    },
+    "fishing_spot_dragonspine": {
+      "LocationId": "dragonspine",
+      "Fishes": [
+        "medaka",
+        "tea_colored_shirakodai",
+        "venomspine_fish",
+        "snowstrider"
+      ],
+      "EntityId": "area",
+      "Nation": "Mondstadt",
+      "Location": "Dragonspine",
+      "Id": "fishing_spot_dragonspine",
+      "DateAdded": null
+    }
+  },
+  "LiyueFishingSpots": {
+    "fishing_spot_bishui_plain_1": {
+      "LocationId": "bishui_plain",
+      "Fishes": [
+        "medaka",
+        "brown_shirakodai",
+        "betta"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_bishui_plain_1",
+      "DateAdded": null
+    },
+    "fishing_spot_bishui_plain_2": {
+      "LocationId": "bishui_plain",
+      "Fishes": [
+        "medaka",
+        "crystalfish",
+        "brown_shirakodai"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_bishui_plain_2",
+      "DateAdded": null
+    },
+    "fishing_spot_dihua_marsh": {
+      "LocationId": "dihua_marsh",
+      "Fishes": [
+        "medaka",
+        "sweet_flower_medaka",
+        "dawncatcher",
+        "brown_shirakodai"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_dihua_marsh",
+      "DateAdded": null
+    },
+    "fishing_spot_guili_plains": {
+      "LocationId": "guili_plains",
+      "Fishes": [
+        "sweet_flower_medaka",
+        "brown_shirakodai",
+        "betta",
+        "akai_maou",
+        "golden_koi",
+        "rusty_koi"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_guili_plains",
+      "DateAdded": null
+    },
+    "fishing_spot_liyue_harbor": {
+      "LocationId": "liyue_harbor",
+      "Fishes": [
+        "sweet_flower_medaka",
+        "dawncatcher",
+        "crystalfish",
+        "betta",
+        "pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_liyue_harbor",
+      "DateAdded": null
+    },
+    "fishing_spot_luhua_pool": {
+      "LocationId": "luhua_pool",
+      "Fishes": [
+        "sweet_flower_medaka",
+        "brown_shirakodai",
+        "betta",
+        "akai_maou",
+        "golden_koi",
+        "rusty_koi"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_luhua_pool",
+      "DateAdded": null
+    },
+    "fishing_spot_mt_aocang": {
+      "LocationId": "mt_aocang",
+      "Fishes": [
+        "medaka",
+        "sweet_flower_medaka",
+        "dawncatcher",
+        "crystalfish",
+        "abiding_angelfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_mt_aocang",
+      "DateAdded": null
+    },
+    "fishing_spot_mt_hulao": {
+      "LocationId": "mt_hulao",
+      "Fishes": [
+        "medaka",
+        "sweet_flower_medaka",
+        "dawncatcher",
+        "crystalfish",
+        "brown_shirakodai",
+        "betta"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_mt_hulao",
+      "DateAdded": null
+    },
+    "fishing_spot_qingce_village": {
+      "LocationId": "qingce_village",
+      "Fishes": [
+        "sweet_flower_medaka",
+        "dawncatcher",
+        "crystalfish",
+        "brown_shirakodai",
+        "betta",
+        "bitter_pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_qingce_village",
+      "DateAdded": null
+    },
+    "fishing_spot_tianqiu_valley": {
+      "LocationId": "tianqiu_valley",
+      "Fishes": [
+        "medaka",
+        "crystalfish",
+        "betta"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_tianqiu_valley",
+      "DateAdded": null
+    },
+    "fishing_spot_wangshu_inn": {
+      "LocationId": "wangshu_inn",
+      "Fishes": [
+        "sweet_flower_medaka",
+        "brown_shirakodai",
+        "betta",
+        "akai_maou",
+        "golden_koi",
+        "rusty_koi"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Liyue",
+      "Id": "fishing_spot_wangshu_inn",
+      "DateAdded": null
+    },
+    "fishing_spot_nameless_ruins": {
+      "LocationId": "nameless_ruins",
+      "Fishes": [
+        "sweet_flower_medaka",
+        "dawncatcher",
+        "crystalfish",
+        "akai_maou",
+        "pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Chasm",
+      "Id": "fishing_spot_nameless_ruins",
+      "DateAdded": null
+    },
+    "fishing_spot_underground_waterway": {
+      "LocationId": "underground_waterway",
+      "Fishes": [
+        "medaka",
+        "betta",
+        "akai_maou",
+        "brown_shirakodai",
+        "bitter_pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Liyue",
+      "Location": "Chasm",
+      "Id": "fishing_spot_underground_waterway",
+      "DateAdded": null
+    }
+  },
+  "InazumaFishingSpots": {
+    "fishing_spot_amakane_island": {
+      "LocationId": "amakane_island",
+      "Fishes": [
+        "glaze_medaka",
+        "purple_shirakodai",
+        "lunged_stickleback"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_amakane_island",
+      "DateAdded": null
+    },
+    "fishing_spot_autake_plains": {
+      "LocationId": "autake_plains",
+      "Fishes": [
+        "medaka",
+        "purple_shirakodai",
+        "lunged_stickleback",
+        "akai_maou"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_autake_plains",
+      "DateAdded": null
+    },
+    "fishing_spot_chirai_shrine": {
+      "LocationId": "chirai_shrine",
+      "Fishes": [
+        "medaka",
+        "glaze_medaka",
+        "crystalfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_chirai_shrine",
+      "DateAdded": null
+    },
+    "fishing_spot_koseki_village_1": {
+      "LocationId": "koseki_village",
+      "Fishes": [
+        "glaze_medaka",
+        "purple_shirakodai",
+        "lunged_stickleback",
+        "akai_maou",
+        "golden_koi",
+        "rusty_koi"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_koseki_village_1",
+      "DateAdded": null
+    },
+    "fishing_spot_koseki_village_2": {
+      "LocationId": "koseki_village",
+      "Fishes": [
+        "medaka",
+        "crystalfish",
+        "purple_shirakodai",
+        "pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_koseki_village_2",
+      "DateAdded": null
+    },
+    "fishing_spot_nazuchi_beach": {
+      "LocationId": "nazuchi_beach",
+      "Fishes": [
+        "medaka",
+        "purple_shirakodai",
+        "lunged_stickleback",
+        "bitter_pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_nazuchi_beach",
+      "DateAdded": null
+    },
+    "fishing_spot_ritou": {
+      "LocationId": "ritou",
+      "Fishes": [
+        "glaze_medaka",
+        "lunged_stickleback",
+        "akai_maou",
+        "pufferfish",
+        "bitter_pufferfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_ritou",
+      "DateAdded": null
+    },
+    "fishing_spot_sangonomiya_shrine": {
+      "LocationId": "sangonomiya_shrine",
+      "Fishes": [
+        "medaka",
+        "glaze_medaka",
+        "crystalfish",
+        "purple_shirakodai",
+        "lunged_stickleback"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_sangonomiya_shrine",
+      "DateAdded": null
+    },
+    "fishing_spot_suigetsu_pool": {
+      "LocationId": "suigetsu_pool",
+      "Fishes": [
+        "medaka",
+        "glaze_medaka",
+        "crystalfish",
+        "purple_shirakodai",
+        "lunged_stickleback"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_suigetsu_pool",
+      "DateAdded": null
+    },
+    "fishing_spot_tatarasuna": {
+      "LocationId": "tatarasuna",
+      "Fishes": [
+        "raimei_angelfish"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Inazuma",
+      "Id": "fishing_spot_tatarasuna",
+      "DateAdded": null
+    },
+    "fishing_spot_the_serpents_bowels": {
+      "LocationId": "the_serpents_bowels",
+      "Fishes": [
+        "divda_ray",
+        "formalo_ray"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Enkanomiya",
+      "Id": "fishing_spot_the_serpents_bowels",
+      "DateAdded": null
+    },
+    "fishing_spot_the_serpents_heart_altar_1": {
+      "LocationId": "the_serpents_heart_altar",
+      "Fishes": [
+        "divda_ray",
+        "formalo_ray"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Enkanomiya",
+      "Id": "fishing_spot_the_serpents_heart_altar_1",
+      "DateAdded": null
+    },
+    "fishing_spot_the_serpents_heart_altar_2": {
+      "LocationId": "the_serpents_heart_altar",
+      "Fishes": [
+        "divda_ray",
+        "formalo_ray"
+      ],
+      "EntityId": "area",
+      "Nation": "Inazuma",
+      "Location": "Enkanomiya",
+      "Id": "fishing_spot_the_serpents_heart_altar_2",
+      "DateAdded": null
+    }
+  },
+  "SumeruFishingSpots": {
+    "fishing_spot_sumeru_city": {
+      "LocationId": "sumeru_city",
+      "Fishes": [
+        "dawncatcher",
+        "sandstorm_angler",
+        "sunset_cloud_angler",
+        "lazurite_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_sumeru_city",
+      "DateAdded": null
+    },
+    "fishing_spot_yazadaha_pool": {
+      "LocationId": "yazadaha_pool",
+      "Fishes": [
+        "akai_maou",
+        "true_fruit_angler",
+        "sandstorm_angler",
+        "sunset_cloud_angler",
+        "lazurite_axe_marlin",
+        "halcyon_jade_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_yazadaha_pool",
+      "DateAdded": null
+    },
+    "fishing_spot_vimara_village": {
+      "LocationId": "vimara_village",
+      "Fishes": [
+        "medaka",
+        "true_fruit_angler",
+        "sandstorm_angler",
+        "sunset_cloud_angler",
+        "lazurite_axe_marlin",
+        "halcyon_jade_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_vimara_village",
+      "DateAdded": null
+    },
+    "fishing_spot_port_ormos": {
+      "LocationId": "port_ormos",
+      "Fishes": [
+        "crystalfish",
+        "true_fruit_angler",
+        "sandstorm_angler",
+        "sunset_cloud_angler",
+        "lazurite_axe_marlin",
+        "halcyon_jade_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_port_ormos",
+      "DateAdded": null
+    },
+    "fishing_spot_devantaka_mountain": {
+      "LocationId": "devantaka_mountain",
+      "Fishes": [
+        "dawncatcher",
+        "true_fruit_angler",
+        "sunset_cloud_angler",
+        "halcyon_jade_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_devantaka_mountain",
+      "DateAdded": null
+    },
+    "fishing_spot_mawtiyima_forest": {
+      "LocationId": "mawtiyima_forest",
+      "Fishes": [
+        "peach_of_the_deep_waves",
+        "sunset_cloud_angler",
+        "lazurite_axe_marlin",
+        "halcyon_jade_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_mawtiyima_forest",
+      "DateAdded": null
+    },
+    "fishing_spot_vanarana": {
+      "LocationId": "vanarana",
+      "Fishes": [
+        "medaka",
+        "true_fruit_angler",
+        "sandstorm_angler",
+        "sunset_cloud_angler",
+        "lazurite_axe_marlin",
+        "halcyon_jade_axe_marlin"
+      ],
+      "EntityId": "area",
+      "Nation": "Sumeru",
+      "Location": "Sumeru",
+      "Id": "fishing_spot_vanarana",
+      "DateAdded": null
+    }
+  },
+  "FontaineFishingSpots": {
+    "fishing_spot_salacia_plain_western_shoal": {
+      "LocationId": "salacia_plain_western_shoal",
+      "Fishes": [
+        "streaming_axe_marlin",
+        "blazing_heartfeather_bass",
+        "rippling_heartfeather_bass",
+        "maintenance_mek_water_body_cleaner",
+        "maintenance_mek_situation_controller"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_salacia_plain_western_shoal",
+      "DateAdded": null
+    },
+    "fishing_spot_fishing_boat_at_sea": {
+      "LocationId": "fishing_boat_at_sea",
+      "Fishes": [
+        "streaming_axe_marlin",
+        "blazing_heartfeather_bass",
+        "rippling_heartfeather_bass",
+        "maintenance_mek_initial_configuration"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_fishing_boat_at_sea",
+      "DateAdded": null
+    },
+    "fishing_spot_west_slopes_of_mont_automnequi": {
+      "LocationId": "west_slopes_of_mont_automnequi",
+      "Fishes": [
+        "medaka",
+        "blazing_heartfeather_bass",
+        "rippling_heartfeather_bass",
+        "maintenance_mek_water_body_cleaner",
+        "maintenance_mek_platinum_collection"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_west_slopes_of_mont_automnequi",
+      "DateAdded": null
+    },
+    "fishing_spot_fountain_of_lucine_western_shoal": {
+      "LocationId": "fountain_of_lucine_western_shoal",
+      "Fishes": [
+        "streaming_axe_marlin",
+        "blazing_heartfeather_bass",
+        "maintenance_mek_initial_configuration",
+        "maintenance_mek_situation_controller"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_fountain_of_lucine_western_shoal",
+      "DateAdded": null
+    },
+    "fishing_spot_elynas_southern_mountains": {
+      "LocationId": "elynas_southern_mountains",
+      "Fishes": [
+        "streaming_axe_marlin",
+        "blazing_heartfeather_bass",
+        "rippling_heartfeather_bass",
+        "maintenance_mek_water_body_cleaner",
+        "maintenance_mek_situation_controller"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_elynas_southern_mountains",
+      "DateAdded": null
+    },
+    "fishing_spot_elynas_eastern_shoal": {
+      "LocationId": "elynas_eastern_shoal",
+      "Fishes": [
+        "streaming_axe_marlin",
+        "blazing_heartfeather_bass",
+        "rippling_heartfeather_bass",
+        "maintenance_mek_initial_configuration"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_elynas_eastern_shoal",
+      "DateAdded": null
+    },
+    "fishing_spot_court_of_fontaine_city_wall_southern_arc": {
+      "LocationId": "court_of_fontaine_city_wall_southern_arc",
+      "Fishes": [
+        "medaka",
+        "streaming_axe_marlin",
+        "maintenance_mek_water_body_cleaner",
+        "maintenance_mek_situation_controller"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_court_of_fontaine_city_wall_southern_arc",
+      "DateAdded": null
+    },
+    "fishing_spot_elynas_northeast_beach": {
+      "LocationId": "elynas_northeast_beach",
+      "Fishes": [
+        "sandstorm_angler",
+        "rippling_heartfeather_bass",
+        "maintenance_mek_initial_configuration",
+        "maintenance_mek_water_body_cleaner"
+      ],
+      "EntityId": "area",
+      "Nation": "Fontaine",
+      "Location": "Fontaine",
+      "Id": "fishing_spot_elynas_northeast_beach",
+      "DateAdded": null
+    }
+  },
+  "NatlanFishingSpots": {},
+  "SnezhnayaFishingSpots": {},
+  "Type": "FishingSpotDatabase"
+}

@@ -1,0 +1,593 @@
+{
+  "Enemies": {
+    "anemo_hypostasis": {
+      "NormalBossMaterialRewarded": "HurricaneSeed",
+      "AscensionGemsRewarded": "Vayuda",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Mondstadt",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -660.15,
+          "Longitude": 561.66,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          132
+        ]
+      },
+      "Id": "anemo_hypostasis",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cryo_hypostasis": {
+      "NormalBossMaterialRewarded": "CrystallineBloom",
+      "AscensionGemsRewarded": "Shivada",
+      "ArtifactsRewarded": 277059012612,
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Dragonspine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1079.33,
+          "Longitude": -193.53,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          181
+        ]
+      },
+      "Id": "cryo_hypostasis",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "dendro_hypostasis": {
+      "NormalBossMaterialRewarded": "QuelledCreeper",
+      "AscensionGemsRewarded": "Nagadus",
+      "ArtifactsRewarded": 274877925381,
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 4688.4,
+          "Longitude": -4639.82,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          452
+        ]
+      },
+      "Id": "dendro_hypostasis",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "electro_hypostasis": {
+      "NormalBossMaterialRewarded": "LightningPrism",
+      "AscensionGemsRewarded": "Vajrada",
+      "ArtifactsRewarded": 277042235396,
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Mondstadt",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 940.74,
+          "Longitude": 1200.88,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          135
+        ]
+      },
+      "Id": "electro_hypostasis",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "geo_hypostasis": {
+      "NormalBossMaterialRewarded": "BasaltPillar",
+      "AscensionGemsRewarded": "Prithiva",
+      "ArtifactsRewarded": 311385147392,
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Liyue",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2202.21,
+          "Longitude": 114.76,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          138
+        ]
+      },
+      "Id": "geo_hypostasis",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hydro_hypostasis": {
+      "NormalBossMaterialRewarded": "DewOfRepudiation",
+      "AscensionGemsRewarded": "Varunada",
+      "ArtifactsRewarded": 311389341696,
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5808.46,
+          "Longitude": 219.42,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          262
+        ]
+      },
+      "Id": "hydro_hypostasis",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "pyro_hypostasis": {
+      "NormalBossMaterialRewarded": "SmolderingPearl",
+      "AscensionGemsRewarded": "Agnidus",
+      "ArtifactsRewarded": 274886313989,
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5290.86,
+          "Longitude": 2434.07,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          203
+        ]
+      },
+      "Id": "pyro_hypostasis",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "cryo_regisvine": {
+      "NormalBossMaterialRewarded": "HoarfrostCore",
+      "AscensionGemsRewarded": "Shivada",
+      "ArtifactsRewarded": 277059012612,
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Mondstadt",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1076.5,
+          "Longitude": -190.71,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          181
+        ]
+      },
+      "Id": "cryo_regisvine",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_regisvine": {
+      "NormalBossMaterialRewarded": "ThunderclapFruitcore",
+      "AscensionGemsRewarded": "Vajrada",
+      "ArtifactsRewarded": 311385147392,
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2205.04,
+          "Longitude": -2872.05,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          390
+        ]
+      },
+      "Id": "electro_regisvine",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "pyro_regisvine": {
+      "NormalBossMaterialRewarded": "EverflameSeed",
+      "AscensionGemsRewarded": "Agnidus",
+      "ArtifactsRewarded": 274886313989,
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Liyue",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2100.39,
+          "Longitude": -1692.6,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          137
+        ]
+      },
+      "Id": "pyro_regisvine",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "rhodeia_of_loch": {
+      "NormalBossMaterialRewarded": "CleansingHeart",
+      "AscensionGemsRewarded": "Varunada",
+      "ArtifactsRewarded": 277029586949,
+      "EntityId": "enemy",
+      "Element": "Hydro",
+      "Location": "Liyue",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 471.22,
+          "Longitude": -1019.43,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          136
+        ]
+      },
+      "Id": "rhodeia_of_loch",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "primo_geovishap": {
+      "NormalBossMaterialRewarded": "JuvenileJade",
+      "AscensionGemsRewarded": 61,
+      "ArtifactsRewarded": 277088323588,
+      "EntityId": "enemy",
+      "Element": "Cryo, Electro, Geo, Hydro, Pyro",
+      "Location": "Liyue",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2055.14,
+          "Longitude": -2227.17,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          157
+        ]
+      },
+      "Id": "primo_geovishap",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "maguu_kenki": {
+      "NormalBossMaterialRewarded": "MarionetteCore",
+      "AscensionGemsRewarded": 72,
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Anemo, Cryo",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 6201.61,
+          "Longitude": 1596.86,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          183
+        ]
+      },
+      "Id": "maguu_kenki",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "perpetual_mechanical_array": {
+      "NormalBossMaterialRewarded": "PerpetualHeart",
+      "AscensionGemsRewarded": 12,
+      "ArtifactsRewarded": 277059012612,
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 4374.45,
+          "Longitude": 3729.49,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          204
+        ]
+      },
+      "Id": "perpetual_mechanical_array",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "thunder_manifestation": {
+      "NormalBossMaterialRewarded": "StormBeads",
+      "AscensionGemsRewarded": "Vajrada",
+      "ArtifactsRewarded": 311401924608,
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 6959.63,
+          "Longitude": 3517.36,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          263
+        ]
+      },
+      "Id": "thunder_manifestation",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "golden_wolflord": {
+      "NormalBossMaterialRewarded": "RiftbornRegalia",
+      "AscensionGemsRewarded": "Prithiva",
+      "ArtifactsRewarded": 311385147392,
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 8908.41,
+          "Longitude": 1922.13,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          318
+        ]
+      },
+      "Id": "golden_wolflord",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "coral_defenders": {
+      "NormalBossMaterialRewarded": "DragonheirsFalseFin",
+      "AscensionGemsRewarded": 24,
+      "ArtifactsRewarded": 277059012612,
+      "EntityId": "enemy",
+      "Element": "Cryo, Electro",
+      "Location": "Enkanomiya",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -67.0,
+          "Longitude": -44.0,
+          "Zoom": 0.5
+        },
+        "Map": "Enkanomiya",
+        "ShownTypes": [
+          333
+        ]
+      },
+      "Id": "coral_defenders",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "ruin_serpent": {
+      "NormalBossMaterialRewarded": "RunicFang",
+      "AscensionGemsRewarded": "Prithiva",
+      "ArtifactsRewarded": 311385147392,
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Chasm",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -132.0,
+          "Longitude": -456.25,
+          "Zoom": 0.5
+        },
+        "Map": "Chasm",
+        "ShownTypes": [
+          352
+        ]
+      },
+      "Id": "ruin_serpent",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "jadeplume_terrorshroom": {
+      "NormalBossMaterialRewarded": "MajesticHookedBeak",
+      "AscensionGemsRewarded": "Nagadus",
+      "ArtifactsRewarded": 311385147392,
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2366.26,
+          "Longitude": -4622.85,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          391
+        ]
+      },
+      "Id": "jadeplume_terrorshroom",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "aeonblight_drake": {
+      "NormalBossMaterialRewarded": "PerpetualCaliber",
+      "AscensionGemsRewarded": 40,
+      "ArtifactsRewarded": 277025458180,
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3593.8,
+          "Longitude": -2843.77,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          432
+        ]
+      },
+      "Id": "aeonblight_drake",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "algorithm_of_semi_intransient_matrix_of_overseer_network": {
+      "NormalBossMaterialRewarded": "LightGuidingTetrahedron",
+      "AscensionGemsRewarded": 65,
+      "ArtifactsRewarded": 274877925381,
+      "EntityId": "enemy",
+      "Element": "Physical",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5036.3,
+          "Longitude": -6017.27,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          433
+        ]
+      },
+      "Id": "algorithm_of_semi_intransient_matrix_of_overseer_network",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "setekh_wenut": {
+      "NormalBossMaterialRewarded": "PseudoStamens",
+      "AscensionGemsRewarded": "Vayuda",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3274.19,
+          "Longitude": -5307.33,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          457
+        ]
+      },
+      "Id": "setekh_wenut",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "iniquitous_baptist": {
+      "NormalBossMaterialRewarded": "EvergloomRing",
+      "AscensionGemsRewarded": 57,
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Cryo, Electro, Hydro, Pyro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3274.19,
+          "Longitude": -5307.33,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          455
+        ]
+      },
+      "Id": "iniquitous_baptist",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "dirge_of_coppelia": {
+      "NormalBossMaterialRewarded": "Coppelia",
+      "AscensionGemsRewarded": "Vayuda",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -1344.63,
+          "Longitude": -4552.14,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          497
+        ]
+      },
+      "Id": "dirge_of_coppelia",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "nemesis_of_coppelius": {
+      "NormalBossMaterialRewarded": "Coppelius",
+      "AscensionGemsRewarded": "Shivada",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Cryo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -1344.63,
+          "Longitude": -4552.14,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          497
+        ]
+      },
+      "Id": "nemesis_of_coppelius",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "emperor_of_fire_and_iron": {
+      "NormalBossMaterialRewarded": "EmperorsResolution",
+      "AscensionGemsRewarded": "Agnidus",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Pyro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 83.72,
+          "Longitude": -5137.62,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          498
+        ]
+      },
+      "Id": "emperor_of_fire_and_iron",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "experimental_field_generator": {
+      "NormalBossMaterialRewarded": "TourbillonDevice",
+      "AscensionGemsRewarded": "Prithiva",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Geo",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -2048.0,
+          "Longitude": -4868.5,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          539
+        ]
+      },
+      "Id": "experimental_field_generator",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "millennial_pearl_seahorse": {
+      "NormalBossMaterialRewarded": "FontemerUnihorn",
+      "AscensionGemsRewarded": "Vajrada",
+      "ArtifactsRewarded": 274877990916,
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Fontaine",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -2532.57,
+          "Longitude": -5508.15,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          540
+        ]
+      },
+      "Id": "millennial_pearl_seahorse",
+      "DateAdded": "2023-09-27T00:00:00"
+    }
+  },
+  "Type": "NormalBossDatabase"
+}

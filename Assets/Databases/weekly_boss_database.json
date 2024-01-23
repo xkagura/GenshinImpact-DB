@@ -1,0 +1,189 @@
+{
+  "Enemies": {
+    "andrius": {
+      "TalentMaterialsRewarded": "TailOfBoreas, RingOfBoreas, SpiritLocketOfBoreas",
+      "AscensionGemsRewarded": 13,
+      "BilletsRewarded": "Northlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Anemo, Cryo",
+      "Location": "Mondstadt",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 297.27,
+          "Longitude": -407.79,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          134
+        ]
+      },
+      "Id": "andrius",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "stormterror_dvalin": {
+      "TalentMaterialsRewarded": "DvalinsPlume, DvalinsClaw, DvalinsSigh",
+      "AscensionGemsRewarded": 112,
+      "BilletsRewarded": "Northlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Anemo",
+      "Location": "Mondstadt",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -368.83,
+          "Longitude": -799.52,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "stormterror_dvalin",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "childe": {
+      "TalentMaterialsRewarded": "TuskOfMonocerosCaeli, ShardOfAFoulLegacy, ShadowOfTheWarrior",
+      "AscensionGemsRewarded": 56,
+      "BilletsRewarded": "Northlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Electro, Hydro",
+      "Location": "Liyue",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3189.34,
+          "Longitude": -929.63,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "childe",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "azhdaha": {
+      "TalentMaterialsRewarded": "DragonLordsCrown, BloodjadeBranch, GildedScale",
+      "AscensionGemsRewarded": 61,
+      "BilletsRewarded": "Northlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Cryo, Electro, Geo, Hydro, Pyro",
+      "Location": "Liyue",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1664.81,
+          "Longitude": -2437.18,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "azhdaha",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "la_signora": {
+      "TalentMaterialsRewarded": "MoltenMoment, HellfireButterfly, AshenHeart",
+      "AscensionGemsRewarded": 9,
+      "BilletsRewarded": "Northlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Cryo, Pyro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5641.58,
+          "Longitude": 3888.59,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "la_signora",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "magatsu_mitake_narukami_no_mikoto": {
+      "TalentMaterialsRewarded": "MudraOfTheMaleficGeneral, TearsOfTheCalamitousGod, TheMeaningOfAeons",
+      "AscensionGemsRewarded": "Vajrada",
+      "BilletsRewarded": "Northlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 4766.18,
+          "Longitude": 3727.37,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "magatsu_mitake_narukami_no_mikoto",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "everlasting_lord_of_arcane_wisdom": {
+      "TalentMaterialsRewarded": "PuppetStrings, MirrorOfMushin, DakasBell",
+      "AscensionGemsRewarded": 112,
+      "BilletsRewarded": "Midlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Electro",
+      "Location": "Inazuma",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 4799.26,
+          "Longitude": 3649.49,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "everlasting_lord_of_arcane_wisdom",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "warden_of_oasis_prime": {
+      "TalentMaterialsRewarded": "WorldspanFern, PrimordialGreenbloom, Everamber",
+      "AscensionGemsRewarded": "Nagadus",
+      "BilletsRewarded": "Midlander",
+      "ArtifactsRewarded": 277025409028,
+      "UnixTimerFactory": {},
+      "EntityId": "enemy",
+      "Element": "Dendro",
+      "Location": "Sumeru",
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 2451.12,
+          "Longitude": -6351.02,
+          "Zoom": 0.5
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          154
+        ]
+      },
+      "Id": "warden_of_oasis_prime",
+      "DateAdded": "2023-04-12T00:00:00"
+    }
+  },
+  "Type": "WeeklyBossDatabase"
+}

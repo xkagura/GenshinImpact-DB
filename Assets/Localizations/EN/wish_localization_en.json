@@ -1,0 +1,81 @@
+{
+  "LangCode": "EN",
+  "Wishes": {
+    "wish_banner_character": {
+      "Name": "Decree of the Deeps",
+      "Descriptions": [
+        "4★ drop guarantee: If a player does not obtain any 4★ (or above) item within 9 wishes in a row, the 10th wish is guaranteed to be a 4★ (or higher) item. (On guarantee, the probability of getting a 4★ item is 99.4%, and the probability of getting a 5★ item is 0.6%.)",
+        "This counter will reset if the player obtains any 4★ item.",
+        "Featured 4★ character guarantee: Every time a player obtains a 4★ item, there is a 50% chance it will be one of the featured 4★ characters.",
+        "If the 4★ item obtained is not one of the featured characters, then the next 4★ item obtained is guaranteed to be one of the featured characters.",
+        "Thus it requires a maximum of 20 wishes to obtain one of the featured 4★ characters.",
+        "5★ drop guarantee: If a player does not obtain any 5★ item after 89 wishes, the 90th wish is guaranteed to be a 5★ item. (On average, a greater proportion of 5★ items are dropped between 74 and 90 pity.)",
+        "This counter will reset if the player obtains any 5★ item.",
+        "Character Event Wishes do not contain 5★ weapons in their item pool, as such each 5★ drop will be a character.",
+        "Promotional 5★ character guarantee: Every time a player obtains a 5★ item, there is a 50% chance it will be the promotional 5★ character.",
+        "If the 5★ item obtained is not the promotional character, the next 5★ item is guaranteed to be the promotional character.",
+        "Thus it requires a maximum of 180 wishes to guarantee obtaining the promotional 5★ character.",
+        "Counter and Guarantee carry-over: Each wish of the same type shares the above counters and guarantees, this means that your counters for the current Character Event Wish are carried over to the next Character Event Wish (but not the Weapon Event Wish or Wanderlust Invocation).",
+        "For example, if one wishes 89 3/4★ items on Character Event Wish A, then the first wish on the following promotional Character Event Wish B will be a guaranteed 5★ character.",
+        "Likewise if one wished a non-promotional 5★ character on Character Event Wish A, then the next 5★ character on Character Event Wish B will be guaranteed to be the promotional character."
+      ]
+    },
+    "wish_banner_character_2": {
+      "Name": "Moment of Bloom",
+      "Descriptions": [
+        "4★ drop guarantee: If a player does not obtain any 4★ (or above) item within 9 wishes in a row, the 10th wish is guaranteed to be a 4★ (or higher) item. (On guarantee, the probability of getting a 4★ item is 99.4%, and the probability of getting a 5★ item is 0.6%.)",
+        "This counter will reset if the player obtains any 4★ item.",
+        "Featured 4★ character guarantee: Every time a player obtains a 4★ item, there is a 50% chance it will be one of the featured 4★ characters.",
+        "If the 4★ item obtained is not one of the featured characters, then the next 4★ item obtained is guaranteed to be one of the featured characters.",
+        "Thus it requires a maximum of 20 wishes to obtain one of the featured 4★ characters.",
+        "5★ drop guarantee: If a player does not obtain any 5★ item after 89 wishes, the 90th wish is guaranteed to be a 5★ item. (On average, a greater proportion of 5★ items are dropped between 74 and 90 pity.)",
+        "This counter will reset if the player obtains any 5★ item.",
+        "Character Event Wishes do not contain 5★ weapons in their item pool, as such each 5★ drop will be a character.",
+        "Promotional 5★ character guarantee: Every time a player obtains a 5★ item, there is a 50% chance it will be the promotional 5★ character.",
+        "If the 5★ item obtained is not the promotional character, the next 5★ item is guaranteed to be the promotional character.",
+        "Thus it requires a maximum of 180 wishes to guarantee obtaining the promotional 5★ character.",
+        "Counter and Guarantee carry-over: Each wish of the same type shares the above counters and guarantees, this means that your counters for the current Character Event Wish are carried over to the next Character Event Wish (but not the Weapon Event Wish or Wanderlust Invocation).",
+        "For example, if one wishes 89 3/4★ items on Character Event Wish A, then the first wish on the following promotional Character Event Wish B will be a guaranteed 5★ character.",
+        "Likewise if one wished a non-promotional 5★ character on Character Event Wish A, then the next 5★ character on Character Event Wish B will be guaranteed to be the promotional character."
+      ]
+    },
+    "wish_banner_weapon": {
+      "Name": "Epitome Invocation",
+      "Descriptions": [
+        "4★ drop guarantee: If a player does not obtain any 4★ or above item after 9 wishes, then the 10th wish is guaranteed to be a 4★ or higher item. (On guarantee, the probability of getting a 4★ item is 99.3%, and the probability of getting a 5★ item is 0.7%.)",
+        "This counter will reset if the player wishes any 4★ or above item.",
+        "Featured 4★ weapon guarantee: Every time a player wins a 4★ item, there is a 75% chance it will be one of the featured 4★ weapons.",
+        "If the 4★ item won is not one of the featured weapons, the next 4★ item won is guaranteed to be one of the featured weapons.",
+        "Thus it requires a maximum of 20 wishes to obtain one of the featured 4★ weapons.",
+        "5★ drop guarantee: If a player does not win a 5★ item 79 wishes in a row, the 80th wish is guaranteed to be a 5★ item. (On average, a greater proportion of 5★ items are dropped between 64 and 78 pity.)",
+        "This counter will reset if the player wishes any 5★ item.",
+        "Promotional 5★ weapon guarantee: Every time a player wins a 5★ item, there is a 75% chance it will be a promotional 5★ weapon.",
+        "If the 5★ item won is not one of the promotional weapons, the next 5★ item is guaranteed to be a promotional weapon.",
+        "Thus it requires a maximum of 160 wishes to guarantee obtaining one of the promotional 5★ weapons.",
+        "Promotional weapon wishes do not contain 5★ characters in their item pool, as such each 5★ drop will be a weapon.",
+        "Counter and Guarantee carry-over: Each wish of the same type shares the above counters and guarantees, this means that your counters for the current Weapon Event Wish are carried over to the next Weapon Event Wish (but not the Character Event Wish or the Standard Wish).",
+        "The weapon selection can be changed or canceled. This will reset your accumulated Fate Points.",
+        "For example, if one wishes 79 3/4★ items on Weapon Event Wish A, then the first wish on the following Weapon Event Wish B will be a guaranteed 5★ weapon.",
+        "Likewise if one wished a non-promotional 5★ weapon on Weapon Event Wish A, then the next 5★ weapon on Weapon Event Wish B will be guaranteed to be a promotional weapon.",
+        "Epitomized Path",
+        "Once the player has charted a course towards their chosen weapon, they will obtain 1 Fate Point upon receiving a 5★ weapon that is not the one that they chose. A maximum of 2 Fate Points can be obtained.",
+        "Once enough Fate Points has been accumulated, the next 5★ weapon will be the one chosen through \"Epitomized Path.\"",
+        "The number of Fate Points will be reset upon obtaining an \"Epitomized Path\" weapon during the current \"Epitome Invocation.\"",
+        "If a weapon is not chosen, wishes will not accumulate Fate Points.",
+        "The weapon selection can be changed or canceled. This will reset your accumulated Fate Points.",
+        "When the current \"Epitome Invocation\" ends, the number of accumulated Fate Points will also be reset.",
+        "herefore, an upper limit of 240 wishes (38,400 Primogems) may be required on one Epitome Invocation wish to guarantee the desired 5★ weapon."
+      ]
+    },
+    "wish_banner_standard": {
+      "Name": "Wanderlust Invocation",
+      "Descriptions": [
+        "4★ drop guarantee: If a player does not obtain any 4★ (or above) item within 9 wishes in a row, the 10th wish is guaranteed to be a 4★ (or higher) item. (On guarantee, the probability of getting a 4★ item is 99.4%, and the probability of getting a 5★ item is 0.6%.)",
+        "This counter will reset if the player obtains any 4★ item.",
+        "5★ drop guarantee: If a player does not obtain any 5★ item after 89 wishes, the 90th wish is guaranteed to be a 5★ item. (On average, a greater proportion of 5★ items are dropped between 74 and 90 pity.)",
+        "This counter will reset if the player obtains any 5★ item."
+      ]
+    }
+  },
+  "Type": "WishLocalization"
+}

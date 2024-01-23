@@ -1,0 +1,320 @@
+{
+  "Materials": {
+    "butterfly_wings": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          91
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "butterfly_wings",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "crystal_core": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          277,
+          281,
+          298,
+          315,
+          393
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "crystal_core",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electro_crystal": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          63
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "electro_crystal",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "flaming_flower_stamen": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          62
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "flaming_flower_stamen",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "frog": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1296.93,
+          "Longitude": -670.01,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          94
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "frog",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lizard_tail": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          115
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "lizard_tail",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "luminescent_spine": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          195
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "luminescent_spine",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mist_flower_corolla": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          61
+        ]
+      },
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "mist_flower_corolla",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "strange_tooth": {
+      "InteractiveMapPoint": null,
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "strange_tooth",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "dust_of_azoth": {
+      "InteractiveMapPoint": null,
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "dust_of_azoth",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "dream_solvent": {
+      "InteractiveMapPoint": null,
+      "LocationIds": null,
+      "UnixTimerFactory": {},
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "dream_solvent",
+      "DateAdded": "2021-04-28T00:00:00"
+    }
+  },
+  "Type": "CraftingMaterialDatabase"
+}

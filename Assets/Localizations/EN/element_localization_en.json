@@ -1,0 +1,137 @@
+{
+  "LangCode": "EN",
+  "Elements": {
+    "anemo": {
+      "Name": "Anemo",
+      "Status": "Anemo is ephemeral and will either react immediately with preapplied elements or disappear instantly after application if no other elements are applied when applied to an enemy",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Cryo, Electro, Hydro or Pyro."
+    },
+    "cryo": {
+      "Name": "Cryo",
+      "Status": "Applies the Cryo status.",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Electro, Hydro or Pyro."
+    },
+    "dendro": {
+      "Name": "Dendro",
+      "Status": "Applies the Dendro status.",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Electro, Hydro or Pyro."
+    },
+    "electro": {
+      "Name": "Electro",
+      "Status": "Applies the Electro status.",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Cryo, Dendro Hydro or Pyro."
+    },
+    "geo": {
+      "Name": "Geo",
+      "Status": "Geo is ephemeral and will either react immediately with preapplied elements or disappear instantly after application if no other elements are applied when applied to an enemy.",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Cryo, Electro, Hydro or Pyro."
+    },
+    "hydro": {
+      "Name": "Hydro",
+      "Status": "Applies the Wet status.",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Cryo, Dendro, Electro or Pyro."
+    },
+    "pyro": {
+      "Name": "Pyro",
+      "Status": "Applies the Pyro status.",
+      "Description": "Causes an Elemental Reaction when used on an opponent that is affected by Cryo, Dendro, Electro or Hydro."
+    }
+  },
+  "Reactions": {
+    "swirl": {
+      "Name": "Swirl",
+      "Description": "Infuses an element and deals that elemental damage while spreading the effect to nearby enemies. It does not deal Anemo DMG (as that elemental damage seen comes from the talent that is dealing the Anemo element). Only one element at a time can be infused with Anemo."
+    },
+    "crystallize": {
+      "Name": "Crystallize",
+      "Description": "Absorbs the element and drops a crystal of that same Reaction. The crystal will give an elemental shield. The shield absorbs all types of damage, but it protects more efficiently against the shield's Reaction."
+    },
+    "bloom": {
+      "Name": "Bloom",
+      "Description": "Creates a Dendro Core that explodes after 6 seconds, dealing AoE Dendro DMG.\nHyperbloom: Triggered when applying Electro to a Dendro Core. Transforms the Dendro Core into a homing Sprawling Shot that deals increased AoE Dendro DMG in a much smaller AoE.\nBurgeon: Triggered when applying Pyro to a Dendro Core. Detonates the Dendro Core immediately, dealing increased AoE Dendro DMG."
+    },
+    "burning": {
+      "Name": "Burning",
+      "Description": "Deals large Pyro DMG over time. Grass is considered a Dendro object and will spread the burn effect around the area."
+    },
+    "electro_charged": {
+      "Name": "Electro-Charged",
+      "Description": "Deals Electro DMG over time until the effect wears off, every tick shocks and interrupts any action. It also creates a lightning bolt that jumps to one nearby Wet target, dealing Electro DMG."
+    },
+    "frozen": {
+      "Name": "Frozen",
+      "Description": "Freezes the target. If the frozen target is hit by a Claymore, a Sword Plunge Attack, or Geo DMG (excluding Catalyst user's Plunge), it will cause Shattered. Shattering a frozen target will deal additional Physical DMG."
+    },
+    "melt": {
+      "Name": "Melt",
+      "Description": "Deals ×1.5 Cryo DMG when a Cryo attack triggers the reaction."
+    },
+    "melt_x2": {
+      "Name": "Melt (×2)",
+      "Description": "Deals ×2 Pyro DMG when a Pyro attack triggers the reaction."
+    },
+    "overloaded": {
+      "Name": "Overloaded",
+      "Description": "Deals AoE Pyro DMG and causes an explosion. The explosion generated is considered as a Heavy Attack."
+    },
+    "quicken": {
+      "Name": "Quicken",
+      "Description": "Applies a Quicken aura.\nAggravate: Triggered when applying Electro to an entity with the Quicken aura. Adds Flat DMG Bonus to the attack that triggers this reaction.\nSpread: Triggered when applying Dendro to an entity with the Quicken aura. Adds Flat DMG Bonus to the attack that triggers this reaction."
+    },
+    "superconduct": {
+      "Name": "Superconduct",
+      "Description": "Deals AoE Cryo DMG and reduces the target's Physical DMG Resistance by -40% for 12 seconds. Each Superconduct reaction deals DMG to targets within its range once, meaning if there are 3 Superconduct reactions, given all 3 targets are within the reactions' AoE, each target will take DMG 3 times."
+    },
+    "vaporize": {
+      "Name": "Vaporize",
+      "Description": "Deals ×1.5 Pyro DMG when a Pyro attack triggers the reaction."
+    },
+    "vaporize_x2": {
+      "Name": "Vaporize (×2)",
+      "Description": "Deals ×2 Hydro DMG when a Hydro attack triggers the reaction."
+    }
+  },
+  "Resonances": {
+    "protective_canopy": {
+      "Name": "Protective Canopy",
+      "Status": null,
+      "Description": "All Elemental RES +15%, Physical RES +15%."
+    },
+    "impetuous_winds": {
+      "Name": "Impetuous Winds",
+      "Status": null,
+      "Description": "Decreases Stamina Consumption by 15%. Increases Movement SPD by 10%. Shortens Skill CD by 5%."
+    },
+    "shattering_ice": {
+      "Name": "Shattering Ice",
+      "Status": null,
+      "Description": "Affected by Electro for 40% less time. Increases CRIT Rate against enemies that are Frozen or affected by Cryo by 15%."
+    },
+    "high_voltage": {
+      "Name": "High Voltage",
+      "Status": null,
+      "Description": "Affected by Hydro for 40% less time. Superconduct, Overloaded, Electro-Charged, Quicken, Aggravate, or Hyperbloom have a 100% chance to generate an Electro Elemental Particle (CD: 5s)."
+    },
+    "enduring_rock": {
+      "Name": "Enduring Rock",
+      "Status": null,
+      "Description": "Increases shield strength by 15%. Additionally, characters protected by a shield will have the following special characteristics: DMG dealt increased by 15%, dealing DMG to enemies will decrease their Geo RES by 20% for 15s."
+    },
+    "soothing_water": {
+      "Name": "Soothing Water",
+      "Status": null,
+      "Description": "Affected by Pyro for 40% less time. Increases Max HP by 25%."
+    },
+    "fervent_flames": {
+      "Name": "Fervent Flames",
+      "Status": null,
+      "Description": "Affected by Cryo for 40% less time. Increases ATK by 25%."
+    },
+    "sprawling_greenery": {
+      "Name": "Sprawling Greenery",
+      "Status": null,
+      "Description": "Elemental Mastery increased by 50. After triggering Burning, Quicken, or Bloom reactions, all nearby party members gain 30 Elemental Mastery for 6s. After triggering Aggravate, Spread, Hyperbloom, or Burgeon reactions, all nearby party members gain 20 Elemental Mastery for 6s. The durations of the aforementioned effects will be counted independently."
+    }
+  },
+  "Type": "ElementLocalization"
+}

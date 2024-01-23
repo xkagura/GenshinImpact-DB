@@ -1,0 +1,469 @@
+{
+  "CharacterNamecards": {
+    "namecard_albedo": {
+      "CharacterId": "albedo",
+      "EntityId": "namecard",
+      "Id": "namecard_albedo",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "namecard_alhaitham": {
+      "CharacterId": "alhaitham",
+      "EntityId": "namecard",
+      "Id": "namecard_alhaitham",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "namecard_aloy": {
+      "CharacterId": "aloy",
+      "EntityId": "namecard",
+      "Id": "namecard_aloy",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "namecard_amber": {
+      "CharacterId": "amber",
+      "EntityId": "namecard",
+      "Id": "namecard_amber",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_baizhu": {
+      "CharacterId": "baizhu",
+      "EntityId": "namecard",
+      "Id": "namecard_baizhu",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "namecard_barbara": {
+      "CharacterId": "barbara",
+      "EntityId": "namecard",
+      "Id": "namecard_barbara",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_beidou": {
+      "CharacterId": "beidou",
+      "EntityId": "namecard",
+      "Id": "namecard_beidou",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_bennett": {
+      "CharacterId": "bennett",
+      "EntityId": "namecard",
+      "Id": "namecard_bennett",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_charlotte": {
+      "CharacterId": "charlotte",
+      "EntityId": "namecard",
+      "Id": "namecard_charlotte",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "namecard_chevreuse": {
+      "CharacterId": "chevreuse",
+      "EntityId": "namecard",
+      "Id": "namecard_chevreuse",
+      "DateAdded": "2023-12-20T00:00:00"
+    },
+    "namecard_chongyun": {
+      "CharacterId": "chongyun",
+      "EntityId": "namecard",
+      "Id": "namecard_chongyun",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_collei": {
+      "CharacterId": "collei",
+      "EntityId": "namecard",
+      "Id": "namecard_collei",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "namecard_diluc": {
+      "CharacterId": "diluc",
+      "EntityId": "namecard",
+      "Id": "namecard_diluc",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_diona": {
+      "CharacterId": "diona",
+      "EntityId": "namecard",
+      "Id": "namecard_diona",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "namecard_dori": {
+      "CharacterId": "dori",
+      "EntityId": "namecard",
+      "Id": "namecard_dori",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "namecard_eula": {
+      "CharacterId": "eula",
+      "EntityId": "namecard",
+      "Id": "namecard_eula",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "namecard_faruzan": {
+      "CharacterId": "faruzan",
+      "EntityId": "namecard",
+      "Id": "namecard_faruzan",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "namecard_fischl": {
+      "CharacterId": "fischl",
+      "EntityId": "namecard",
+      "Id": "namecard_fischl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_freminet": {
+      "CharacterId": "freminet",
+      "EntityId": "namecard",
+      "Id": "namecard_freminet",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "namecard_furina": {
+      "CharacterId": "furina",
+      "EntityId": "namecard",
+      "Id": "namecard_furina",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "namecard_ganyu": {
+      "CharacterId": "ganyu",
+      "EntityId": "namecard",
+      "Id": "namecard_ganyu",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "namecard_gorou": {
+      "CharacterId": "gorou",
+      "EntityId": "namecard",
+      "Id": "namecard_gorou",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "namecard_hu_tao": {
+      "CharacterId": "hu_tao",
+      "EntityId": "namecard",
+      "Id": "namecard_hu_tao",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "namecard_arataki_itto": {
+      "CharacterId": "arataki_itto",
+      "EntityId": "namecard",
+      "Id": "namecard_arataki_itto",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "namecard_jean": {
+      "CharacterId": "jean",
+      "EntityId": "namecard",
+      "Id": "namecard_jean",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_kaedehara_kazuha": {
+      "CharacterId": "kaedehara_kazuha",
+      "EntityId": "namecard",
+      "Id": "namecard_kaedehara_kazuha",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "namecard_kaeya": {
+      "CharacterId": "kaeya",
+      "EntityId": "namecard",
+      "Id": "namecard_kaeya",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_kaveh": {
+      "CharacterId": "kaveh",
+      "EntityId": "namecard",
+      "Id": "namecard_kaveh",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "namecard_kamisato_ayaka": {
+      "CharacterId": "kamisato_ayaka",
+      "EntityId": "namecard",
+      "Id": "namecard_kamisato_ayaka",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "namecard_kamisato_ayato": {
+      "CharacterId": "kamisato_ayato",
+      "EntityId": "namecard",
+      "Id": "namecard_kamisato_ayato",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "namecard_keqing": {
+      "CharacterId": "keqing",
+      "EntityId": "namecard",
+      "Id": "namecard_keqing",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_klee": {
+      "CharacterId": "klee",
+      "EntityId": "namecard",
+      "Id": "namecard_klee",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_kujou_sara": {
+      "CharacterId": "kujou_sara",
+      "EntityId": "namecard",
+      "Id": "namecard_kujou_sara",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "namecard_kuki_shinobu": {
+      "CharacterId": "kuki_shinobu",
+      "EntityId": "namecard",
+      "Id": "namecard_kuki_shinobu",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "namecard_layla": {
+      "CharacterId": "layla",
+      "EntityId": "namecard",
+      "Id": "namecard_layla",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "namecard_lisa": {
+      "CharacterId": "lisa",
+      "EntityId": "namecard",
+      "Id": "namecard_lisa",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_lynette": {
+      "CharacterId": "lynette",
+      "EntityId": "namecard",
+      "Id": "namecard_lynette",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "namecard_lyney": {
+      "CharacterId": "lyney",
+      "EntityId": "namecard",
+      "Id": "namecard_lyney",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "namecard_mika": {
+      "CharacterId": "mika",
+      "EntityId": "namecard",
+      "Id": "namecard_mika",
+      "DateAdded": "2023-03-21T00:00:00"
+    },
+    "namecard_mona": {
+      "CharacterId": "mona",
+      "EntityId": "namecard",
+      "Id": "namecard_mona",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_nahida": {
+      "CharacterId": "nahida",
+      "EntityId": "namecard",
+      "Id": "namecard_nahida",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "namecard_navia": {
+      "CharacterId": "navia",
+      "EntityId": "namecard",
+      "Id": "namecard_navia",
+      "DateAdded": "2023-12-20T00:00:00"
+    },
+    "namecard_neuvillette": {
+      "CharacterId": "neuvillette",
+      "EntityId": "namecard",
+      "Id": "namecard_neuvillette",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "namecard_nilou": {
+      "CharacterId": "nilou",
+      "EntityId": "namecard",
+      "Id": "namecard_nilou",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "namecard_ningguang": {
+      "CharacterId": "ningguang",
+      "EntityId": "namecard",
+      "Id": "namecard_ningguang",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_noelle": {
+      "CharacterId": "noelle",
+      "EntityId": "namecard",
+      "Id": "namecard_noelle",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_qiqi": {
+      "CharacterId": "qiqi",
+      "EntityId": "namecard",
+      "Id": "namecard_qiqi",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_raiden_shogun": {
+      "CharacterId": "raiden_shogun",
+      "EntityId": "namecard",
+      "Id": "namecard_raiden_shogun",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "namecard_razor": {
+      "CharacterId": "razor",
+      "EntityId": "namecard",
+      "Id": "namecard_razor",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_rosaria": {
+      "CharacterId": "rosaria",
+      "EntityId": "namecard",
+      "Id": "namecard_rosaria",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "namecard_sangonomiya_kokomi": {
+      "CharacterId": "sangonomiya_kokomi",
+      "EntityId": "namecard",
+      "Id": "namecard_sangonomiya_kokomi",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "namecard_sayu": {
+      "CharacterId": "sayu",
+      "EntityId": "namecard",
+      "Id": "namecard_sayu",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "namecard_shenhe": {
+      "CharacterId": "shenhe",
+      "EntityId": "namecard",
+      "Id": "namecard_shenhe",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "namecard_shikanoin_heizou": {
+      "CharacterId": "shikanoin_heizou",
+      "EntityId": "namecard",
+      "Id": "namecard_shikanoin_heizou",
+      "DateAdded": "2022-07-13T00:00:00"
+    },
+    "namecard_sucrose": {
+      "CharacterId": "sucrose",
+      "EntityId": "namecard",
+      "Id": "namecard_sucrose",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_tartaglia": {
+      "CharacterId": "tartaglia",
+      "EntityId": "namecard",
+      "Id": "namecard_tartaglia",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "namecard_thoma": {
+      "CharacterId": "thoma",
+      "EntityId": "namecard",
+      "Id": "namecard_thoma",
+      "DateAdded": "2021-10-13T00:00:00"
+    },
+    "namecard_tighnari": {
+      "CharacterId": "tighnari",
+      "EntityId": "namecard",
+      "Id": "namecard_tighnari",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "namecard_venti": {
+      "CharacterId": "venti",
+      "EntityId": "namecard",
+      "Id": "namecard_venti",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_wanderer": {
+      "CharacterId": "wanderer",
+      "EntityId": "namecard",
+      "Id": "namecard_wanderer",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "namecard_wriothesley": {
+      "CharacterId": "wriothesley",
+      "EntityId": "namecard",
+      "Id": "namecard_wriothesley",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "namecard_xiangling": {
+      "CharacterId": "xiangling",
+      "EntityId": "namecard",
+      "Id": "namecard_xiangling",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_xiao": {
+      "CharacterId": "xiao",
+      "EntityId": "namecard",
+      "Id": "namecard_xiao",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "namecard_xingqiu": {
+      "CharacterId": "xingqiu",
+      "EntityId": "namecard",
+      "Id": "namecard_xingqiu",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "namecard_xinyan": {
+      "CharacterId": "xinyan",
+      "EntityId": "namecard",
+      "Id": "namecard_xinyan",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "namecard_yae_miko": {
+      "CharacterId": "yae_miko",
+      "EntityId": "namecard",
+      "Id": "namecard_yae_miko",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "namecard_yanfei": {
+      "CharacterId": "yanfei",
+      "EntityId": "namecard",
+      "Id": "namecard_yanfei",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "namecard_yaoyao": {
+      "CharacterId": "yaoyao",
+      "EntityId": "namecard",
+      "Id": "namecard_yaoyao",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "namecard_yelan": {
+      "CharacterId": "yelan",
+      "EntityId": "namecard",
+      "Id": "namecard_yelan",
+      "DateAdded": "2022-05-31T00:00:00"
+    },
+    "namecard_yoimiya": {
+      "CharacterId": "yoimiya",
+      "EntityId": "namecard",
+      "Id": "namecard_yoimiya",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "namecard_yun_jin": {
+      "CharacterId": "yun_jin",
+      "EntityId": "namecard",
+      "Id": "namecard_yun_jin",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "namecard_zhongli": {
+      "CharacterId": "zhongli",
+      "EntityId": "namecard",
+      "Id": "namecard_zhongli",
+      "DateAdded": "2020-11-11T00:00:00"
+    }
+  },
+  "Namecards": {
+    "namecard_achievement_hero": {
+      "EntityId": "namecard",
+      "Id": "namecard_achievement_hero",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "namecard_reputation_mondstadt": {
+      "EntityId": "namecard",
+      "Id": "namecard_reputation_mondstadt",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "namecard_reputation_liyue": {
+      "EntityId": "namecard",
+      "Id": "namecard_reputation_liyue",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "namecard_reputation_inazuma": {
+      "EntityId": "namecard",
+      "Id": "namecard_reputation_inazuma",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "namecard_reputation_sumeru": {
+      "EntityId": "namecard",
+      "Id": "namecard_reputation_sumeru",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "namecard_reputation_fontaine": {
+      "EntityId": "namecard",
+      "Id": "namecard_reputation_fontaine",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Type": "NamecardDatabase"
+}

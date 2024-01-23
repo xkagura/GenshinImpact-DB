@@ -1,0 +1,3229 @@
+{
+  "Stories": {
+    "traveler": [
+      {
+        "Id": "story_traveler_1",
+        "CharacterId": "traveler",
+        "Number": 1
+      },
+      {
+        "Id": "story_traveler_2",
+        "CharacterId": "traveler",
+        "Number": 2
+      },
+      {
+        "Id": "story_traveler_3",
+        "CharacterId": "traveler",
+        "Number": 3
+      },
+      {
+        "Id": "story_traveler_4",
+        "CharacterId": "traveler",
+        "Number": 4
+      },
+      {
+        "Id": "story_traveler_5",
+        "CharacterId": "traveler",
+        "Number": 5
+      },
+      {
+        "Id": "story_traveler_6",
+        "CharacterId": "traveler",
+        "Number": 6
+      },
+      {
+        "Id": "story_traveler_7",
+        "CharacterId": "traveler",
+        "Number": 7
+      },
+      {
+        "Id": "story_traveler_8",
+        "CharacterId": "traveler",
+        "Number": 8
+      }
+    ],
+    "albedo": [
+      {
+        "Id": "story_albedo_1",
+        "CharacterId": "albedo",
+        "Number": 1
+      },
+      {
+        "Id": "story_albedo_2",
+        "CharacterId": "albedo",
+        "Number": 2
+      },
+      {
+        "Id": "story_albedo_3",
+        "CharacterId": "albedo",
+        "Number": 3
+      },
+      {
+        "Id": "story_albedo_4",
+        "CharacterId": "albedo",
+        "Number": 4
+      },
+      {
+        "Id": "story_albedo_5",
+        "CharacterId": "albedo",
+        "Number": 5
+      },
+      {
+        "Id": "story_albedo_6",
+        "CharacterId": "albedo",
+        "Number": 6
+      },
+      {
+        "Id": "story_albedo_7",
+        "CharacterId": "albedo",
+        "Number": 7
+      },
+      {
+        "Id": "story_albedo_8",
+        "CharacterId": "albedo",
+        "Number": 8
+      }
+    ],
+    "alhaitham": [
+      {
+        "Id": "story_alhaitham_1",
+        "CharacterId": "alhaitham",
+        "Number": 1
+      },
+      {
+        "Id": "story_alhaitham_2",
+        "CharacterId": "alhaitham",
+        "Number": 2
+      },
+      {
+        "Id": "story_alhaitham_3",
+        "CharacterId": "alhaitham",
+        "Number": 3
+      },
+      {
+        "Id": "story_alhaitham_4",
+        "CharacterId": "alhaitham",
+        "Number": 4
+      },
+      {
+        "Id": "story_alhaitham_5",
+        "CharacterId": "alhaitham",
+        "Number": 5
+      },
+      {
+        "Id": "story_alhaitham_6",
+        "CharacterId": "alhaitham",
+        "Number": 6
+      },
+      {
+        "Id": "story_alhaitham_7",
+        "CharacterId": "alhaitham",
+        "Number": 7
+      },
+      {
+        "Id": "story_alhaitham_8",
+        "CharacterId": "alhaitham",
+        "Number": 8
+      }
+    ],
+    "aloy": [
+      {
+        "Id": "story_aloy_1",
+        "CharacterId": "aloy",
+        "Number": 1
+      },
+      {
+        "Id": "story_aloy_2",
+        "CharacterId": "aloy",
+        "Number": 2
+      },
+      {
+        "Id": "story_aloy_3",
+        "CharacterId": "aloy",
+        "Number": 3
+      },
+      {
+        "Id": "story_aloy_4",
+        "CharacterId": "aloy",
+        "Number": 4
+      },
+      {
+        "Id": "story_aloy_5",
+        "CharacterId": "aloy",
+        "Number": 5
+      },
+      {
+        "Id": "story_aloy_6",
+        "CharacterId": "aloy",
+        "Number": 6
+      }
+    ],
+    "amber": [
+      {
+        "Id": "story_amber_1",
+        "CharacterId": "amber",
+        "Number": 1
+      },
+      {
+        "Id": "story_amber_2",
+        "CharacterId": "amber",
+        "Number": 2
+      },
+      {
+        "Id": "story_amber_3",
+        "CharacterId": "amber",
+        "Number": 3
+      },
+      {
+        "Id": "story_amber_4",
+        "CharacterId": "amber",
+        "Number": 4
+      },
+      {
+        "Id": "story_amber_5",
+        "CharacterId": "amber",
+        "Number": 5
+      },
+      {
+        "Id": "story_amber_6",
+        "CharacterId": "amber",
+        "Number": 6
+      },
+      {
+        "Id": "story_amber_7",
+        "CharacterId": "amber",
+        "Number": 7
+      },
+      {
+        "Id": "story_amber_8",
+        "CharacterId": "amber",
+        "Number": 8
+      }
+    ],
+    "arataki_itto": [
+      {
+        "Id": "story_arataki_itto_1",
+        "CharacterId": "arataki_itto",
+        "Number": 1
+      },
+      {
+        "Id": "story_arataki_itto_2",
+        "CharacterId": "arataki_itto",
+        "Number": 2
+      },
+      {
+        "Id": "story_arataki_itto_3",
+        "CharacterId": "arataki_itto",
+        "Number": 3
+      },
+      {
+        "Id": "story_arataki_itto_4",
+        "CharacterId": "arataki_itto",
+        "Number": 4
+      },
+      {
+        "Id": "story_arataki_itto_5",
+        "CharacterId": "arataki_itto",
+        "Number": 5
+      },
+      {
+        "Id": "story_arataki_itto_6",
+        "CharacterId": "arataki_itto",
+        "Number": 6
+      },
+      {
+        "Id": "story_arataki_itto_7",
+        "CharacterId": "arataki_itto",
+        "Number": 7
+      },
+      {
+        "Id": "story_arataki_itto_8",
+        "CharacterId": "arataki_itto",
+        "Number": 8
+      }
+    ],
+    "baizhu": [
+      {
+        "Id": "story_baizhu_1",
+        "CharacterId": "baizhu",
+        "Number": 1
+      },
+      {
+        "Id": "story_baizhu_2",
+        "CharacterId": "baizhu",
+        "Number": 2
+      },
+      {
+        "Id": "story_baizhu_3",
+        "CharacterId": "baizhu",
+        "Number": 3
+      },
+      {
+        "Id": "story_baizhu_4",
+        "CharacterId": "baizhu",
+        "Number": 4
+      },
+      {
+        "Id": "story_baizhu_5",
+        "CharacterId": "baizhu",
+        "Number": 5
+      },
+      {
+        "Id": "story_baizhu_6",
+        "CharacterId": "baizhu",
+        "Number": 6
+      },
+      {
+        "Id": "story_baizhu_7",
+        "CharacterId": "baizhu",
+        "Number": 7
+      },
+      {
+        "Id": "story_baizhu_8",
+        "CharacterId": "baizhu",
+        "Number": 8
+      }
+    ],
+    "barbara": [
+      {
+        "Id": "story_barbara_1",
+        "CharacterId": "barbara",
+        "Number": 1
+      },
+      {
+        "Id": "story_barbara_2",
+        "CharacterId": "barbara",
+        "Number": 2
+      },
+      {
+        "Id": "story_barbara_3",
+        "CharacterId": "barbara",
+        "Number": 3
+      },
+      {
+        "Id": "story_barbara_4",
+        "CharacterId": "barbara",
+        "Number": 4
+      },
+      {
+        "Id": "story_barbara_5",
+        "CharacterId": "barbara",
+        "Number": 5
+      },
+      {
+        "Id": "story_barbara_6",
+        "CharacterId": "barbara",
+        "Number": 6
+      },
+      {
+        "Id": "story_barbara_7",
+        "CharacterId": "barbara",
+        "Number": 7
+      },
+      {
+        "Id": "story_barbara_8",
+        "CharacterId": "barbara",
+        "Number": 8
+      }
+    ],
+    "beidou": [
+      {
+        "Id": "story_beidou_1",
+        "CharacterId": "beidou",
+        "Number": 1
+      },
+      {
+        "Id": "story_beidou_2",
+        "CharacterId": "beidou",
+        "Number": 2
+      },
+      {
+        "Id": "story_beidou_3",
+        "CharacterId": "beidou",
+        "Number": 3
+      },
+      {
+        "Id": "story_beidou_4",
+        "CharacterId": "beidou",
+        "Number": 4
+      },
+      {
+        "Id": "story_beidou_5",
+        "CharacterId": "beidou",
+        "Number": 5
+      },
+      {
+        "Id": "story_beidou_6",
+        "CharacterId": "beidou",
+        "Number": 6
+      },
+      {
+        "Id": "story_beidou_7",
+        "CharacterId": "beidou",
+        "Number": 7
+      },
+      {
+        "Id": "story_beidou_8",
+        "CharacterId": "beidou",
+        "Number": 8
+      }
+    ],
+    "bennett": [
+      {
+        "Id": "story_bennett_1",
+        "CharacterId": "bennett",
+        "Number": 1
+      },
+      {
+        "Id": "story_bennett_2",
+        "CharacterId": "bennett",
+        "Number": 2
+      },
+      {
+        "Id": "story_bennett_3",
+        "CharacterId": "bennett",
+        "Number": 3
+      },
+      {
+        "Id": "story_bennett_4",
+        "CharacterId": "bennett",
+        "Number": 4
+      },
+      {
+        "Id": "story_bennett_5",
+        "CharacterId": "bennett",
+        "Number": 5
+      },
+      {
+        "Id": "story_bennett_6",
+        "CharacterId": "bennett",
+        "Number": 6
+      },
+      {
+        "Id": "story_bennett_7",
+        "CharacterId": "bennett",
+        "Number": 7
+      },
+      {
+        "Id": "story_bennett_8",
+        "CharacterId": "bennett",
+        "Number": 8
+      }
+    ],
+    "candace": [
+      {
+        "Id": "story_candace_1",
+        "CharacterId": "candace",
+        "Number": 1
+      },
+      {
+        "Id": "story_candace_2",
+        "CharacterId": "candace",
+        "Number": 2
+      },
+      {
+        "Id": "story_candace_3",
+        "CharacterId": "candace",
+        "Number": 3
+      },
+      {
+        "Id": "story_candace_4",
+        "CharacterId": "candace",
+        "Number": 4
+      },
+      {
+        "Id": "story_candace_5",
+        "CharacterId": "candace",
+        "Number": 5
+      },
+      {
+        "Id": "story_candace_6",
+        "CharacterId": "candace",
+        "Number": 6
+      },
+      {
+        "Id": "story_candace_7",
+        "CharacterId": "candace",
+        "Number": 7
+      },
+      {
+        "Id": "story_candace_8",
+        "CharacterId": "candace",
+        "Number": 8
+      }
+    ],
+    "charlotte": [
+      {
+        "Id": "story_charlotte_1",
+        "CharacterId": "charlotte",
+        "Number": 1
+      },
+      {
+        "Id": "story_charlotte_2",
+        "CharacterId": "charlotte",
+        "Number": 2
+      },
+      {
+        "Id": "story_charlotte_3",
+        "CharacterId": "charlotte",
+        "Number": 3
+      },
+      {
+        "Id": "story_charlotte_4",
+        "CharacterId": "charlotte",
+        "Number": 4
+      },
+      {
+        "Id": "story_charlotte_5",
+        "CharacterId": "charlotte",
+        "Number": 5
+      },
+      {
+        "Id": "story_charlotte_6",
+        "CharacterId": "charlotte",
+        "Number": 6
+      },
+      {
+        "Id": "story_charlotte_7",
+        "CharacterId": "charlotte",
+        "Number": 7
+      },
+      {
+        "Id": "story_charlotte_8",
+        "CharacterId": "charlotte",
+        "Number": 8
+      }
+    ],
+    "chevreuse": [
+      {
+        "Id": "story_chevreuse_1",
+        "CharacterId": "chevreuse",
+        "Number": 1
+      },
+      {
+        "Id": "story_chevreuse_2",
+        "CharacterId": "chevreuse",
+        "Number": 2
+      },
+      {
+        "Id": "story_chevreuse_3",
+        "CharacterId": "chevreuse",
+        "Number": 3
+      },
+      {
+        "Id": "story_chevreuse_4",
+        "CharacterId": "chevreuse",
+        "Number": 4
+      },
+      {
+        "Id": "story_chevreuse_5",
+        "CharacterId": "chevreuse",
+        "Number": 5
+      },
+      {
+        "Id": "story_chevreuse_6",
+        "CharacterId": "chevreuse",
+        "Number": 6
+      },
+      {
+        "Id": "story_chevreuse_7",
+        "CharacterId": "chevreuse",
+        "Number": 7
+      },
+      {
+        "Id": "story_chevreuse_8",
+        "CharacterId": "chevreuse",
+        "Number": 8
+      }
+    ],
+    "chongyun": [
+      {
+        "Id": "story_chongyun_1",
+        "CharacterId": "chongyun",
+        "Number": 1
+      },
+      {
+        "Id": "story_chongyun_2",
+        "CharacterId": "chongyun",
+        "Number": 2
+      },
+      {
+        "Id": "story_chongyun_3",
+        "CharacterId": "chongyun",
+        "Number": 3
+      },
+      {
+        "Id": "story_chongyun_4",
+        "CharacterId": "chongyun",
+        "Number": 4
+      },
+      {
+        "Id": "story_chongyun_5",
+        "CharacterId": "chongyun",
+        "Number": 5
+      },
+      {
+        "Id": "story_chongyun_6",
+        "CharacterId": "chongyun",
+        "Number": 6
+      },
+      {
+        "Id": "story_chongyun_7",
+        "CharacterId": "chongyun",
+        "Number": 7
+      },
+      {
+        "Id": "story_chongyun_8",
+        "CharacterId": "chongyun",
+        "Number": 8
+      }
+    ],
+    "collei": [
+      {
+        "Id": "story_collei_1",
+        "CharacterId": "collei",
+        "Number": 1
+      },
+      {
+        "Id": "story_collei_2",
+        "CharacterId": "collei",
+        "Number": 2
+      },
+      {
+        "Id": "story_collei_3",
+        "CharacterId": "collei",
+        "Number": 3
+      },
+      {
+        "Id": "story_collei_4",
+        "CharacterId": "collei",
+        "Number": 4
+      },
+      {
+        "Id": "story_collei_5",
+        "CharacterId": "collei",
+        "Number": 5
+      },
+      {
+        "Id": "story_collei_6",
+        "CharacterId": "collei",
+        "Number": 6
+      },
+      {
+        "Id": "story_collei_7",
+        "CharacterId": "collei",
+        "Number": 7
+      },
+      {
+        "Id": "story_collei_8",
+        "CharacterId": "collei",
+        "Number": 8
+      }
+    ],
+    "cyno": [
+      {
+        "Id": "story_cyno_1",
+        "CharacterId": "cyno",
+        "Number": 1
+      },
+      {
+        "Id": "story_cyno_2",
+        "CharacterId": "cyno",
+        "Number": 2
+      },
+      {
+        "Id": "story_cyno_3",
+        "CharacterId": "cyno",
+        "Number": 3
+      },
+      {
+        "Id": "story_cyno_4",
+        "CharacterId": "cyno",
+        "Number": 4
+      },
+      {
+        "Id": "story_cyno_5",
+        "CharacterId": "cyno",
+        "Number": 5
+      },
+      {
+        "Id": "story_cyno_6",
+        "CharacterId": "cyno",
+        "Number": 6
+      },
+      {
+        "Id": "story_cyno_7",
+        "CharacterId": "cyno",
+        "Number": 7
+      },
+      {
+        "Id": "story_cyno_8",
+        "CharacterId": "cyno",
+        "Number": 8
+      }
+    ],
+    "dehya": [
+      {
+        "Id": "story_dehya_1",
+        "CharacterId": "dehya",
+        "Number": 1
+      },
+      {
+        "Id": "story_dehya_2",
+        "CharacterId": "dehya",
+        "Number": 2
+      },
+      {
+        "Id": "story_dehya_3",
+        "CharacterId": "dehya",
+        "Number": 3
+      },
+      {
+        "Id": "story_dehya_4",
+        "CharacterId": "dehya",
+        "Number": 4
+      },
+      {
+        "Id": "story_dehya_5",
+        "CharacterId": "dehya",
+        "Number": 5
+      },
+      {
+        "Id": "story_dehya_6",
+        "CharacterId": "dehya",
+        "Number": 6
+      },
+      {
+        "Id": "story_dehya_7",
+        "CharacterId": "dehya",
+        "Number": 7
+      },
+      {
+        "Id": "story_dehya_8",
+        "CharacterId": "dehya",
+        "Number": 8
+      }
+    ],
+    "diluc": [
+      {
+        "Id": "story_diluc_1",
+        "CharacterId": "diluc",
+        "Number": 1
+      },
+      {
+        "Id": "story_diluc_2",
+        "CharacterId": "diluc",
+        "Number": 2
+      },
+      {
+        "Id": "story_diluc_3",
+        "CharacterId": "diluc",
+        "Number": 3
+      },
+      {
+        "Id": "story_diluc_4",
+        "CharacterId": "diluc",
+        "Number": 4
+      },
+      {
+        "Id": "story_diluc_5",
+        "CharacterId": "diluc",
+        "Number": 5
+      },
+      {
+        "Id": "story_diluc_6",
+        "CharacterId": "diluc",
+        "Number": 6
+      },
+      {
+        "Id": "story_diluc_7",
+        "CharacterId": "diluc",
+        "Number": 7
+      },
+      {
+        "Id": "story_diluc_8",
+        "CharacterId": "diluc",
+        "Number": 8
+      }
+    ],
+    "diona": [
+      {
+        "Id": "story_diona_1",
+        "CharacterId": "diona",
+        "Number": 1
+      },
+      {
+        "Id": "story_diona_2",
+        "CharacterId": "diona",
+        "Number": 2
+      },
+      {
+        "Id": "story_diona_3",
+        "CharacterId": "diona",
+        "Number": 3
+      },
+      {
+        "Id": "story_diona_4",
+        "CharacterId": "diona",
+        "Number": 4
+      },
+      {
+        "Id": "story_diona_5",
+        "CharacterId": "diona",
+        "Number": 5
+      },
+      {
+        "Id": "story_diona_6",
+        "CharacterId": "diona",
+        "Number": 6
+      },
+      {
+        "Id": "story_diona_7",
+        "CharacterId": "diona",
+        "Number": 7
+      },
+      {
+        "Id": "story_diona_8",
+        "CharacterId": "diona",
+        "Number": 8
+      }
+    ],
+    "dori": [
+      {
+        "Id": "story_dori_1",
+        "CharacterId": "dori",
+        "Number": 1
+      },
+      {
+        "Id": "story_dori_2",
+        "CharacterId": "dori",
+        "Number": 2
+      },
+      {
+        "Id": "story_dori_3",
+        "CharacterId": "dori",
+        "Number": 3
+      },
+      {
+        "Id": "story_dori_4",
+        "CharacterId": "dori",
+        "Number": 4
+      },
+      {
+        "Id": "story_dori_5",
+        "CharacterId": "dori",
+        "Number": 5
+      },
+      {
+        "Id": "story_dori_6",
+        "CharacterId": "dori",
+        "Number": 6
+      },
+      {
+        "Id": "story_dori_7",
+        "CharacterId": "dori",
+        "Number": 7
+      },
+      {
+        "Id": "story_dori_8",
+        "CharacterId": "dori",
+        "Number": 8
+      }
+    ],
+    "eula": [
+      {
+        "Id": "story_eula_1",
+        "CharacterId": "eula",
+        "Number": 1
+      },
+      {
+        "Id": "story_eula_2",
+        "CharacterId": "eula",
+        "Number": 2
+      },
+      {
+        "Id": "story_eula_3",
+        "CharacterId": "eula",
+        "Number": 3
+      },
+      {
+        "Id": "story_eula_4",
+        "CharacterId": "eula",
+        "Number": 4
+      },
+      {
+        "Id": "story_eula_5",
+        "CharacterId": "eula",
+        "Number": 5
+      },
+      {
+        "Id": "story_eula_6",
+        "CharacterId": "eula",
+        "Number": 6
+      },
+      {
+        "Id": "story_eula_7",
+        "CharacterId": "eula",
+        "Number": 7
+      },
+      {
+        "Id": "story_eula_8",
+        "CharacterId": "eula",
+        "Number": 8
+      }
+    ],
+    "faruzan": [
+      {
+        "Id": "story_faruzan_1",
+        "CharacterId": "faruzan",
+        "Number": 1
+      },
+      {
+        "Id": "story_faruzan_2",
+        "CharacterId": "faruzan",
+        "Number": 2
+      },
+      {
+        "Id": "story_faruzan_3",
+        "CharacterId": "faruzan",
+        "Number": 3
+      },
+      {
+        "Id": "story_faruzan_4",
+        "CharacterId": "faruzan",
+        "Number": 4
+      },
+      {
+        "Id": "story_faruzan_5",
+        "CharacterId": "faruzan",
+        "Number": 5
+      },
+      {
+        "Id": "story_faruzan_6",
+        "CharacterId": "faruzan",
+        "Number": 6
+      },
+      {
+        "Id": "story_faruzan_7",
+        "CharacterId": "faruzan",
+        "Number": 7
+      },
+      {
+        "Id": "story_faruzan_8",
+        "CharacterId": "faruzan",
+        "Number": 8
+      }
+    ],
+    "fischl": [
+      {
+        "Id": "story_fischl_1",
+        "CharacterId": "fischl",
+        "Number": 1
+      },
+      {
+        "Id": "story_fischl_2",
+        "CharacterId": "fischl",
+        "Number": 2
+      },
+      {
+        "Id": "story_fischl_3",
+        "CharacterId": "fischl",
+        "Number": 3
+      },
+      {
+        "Id": "story_fischl_4",
+        "CharacterId": "fischl",
+        "Number": 4
+      },
+      {
+        "Id": "story_fischl_5",
+        "CharacterId": "fischl",
+        "Number": 5
+      },
+      {
+        "Id": "story_fischl_6",
+        "CharacterId": "fischl",
+        "Number": 6
+      },
+      {
+        "Id": "story_fischl_7",
+        "CharacterId": "fischl",
+        "Number": 7
+      },
+      {
+        "Id": "story_fischl_8",
+        "CharacterId": "fischl",
+        "Number": 8
+      }
+    ],
+    "freminet": [
+      {
+        "Id": "story_freminet_1",
+        "CharacterId": "freminet",
+        "Number": 1
+      },
+      {
+        "Id": "story_freminet_2",
+        "CharacterId": "freminet",
+        "Number": 2
+      },
+      {
+        "Id": "story_freminet_3",
+        "CharacterId": "freminet",
+        "Number": 3
+      },
+      {
+        "Id": "story_freminet_4",
+        "CharacterId": "freminet",
+        "Number": 4
+      },
+      {
+        "Id": "story_freminet_5",
+        "CharacterId": "freminet",
+        "Number": 5
+      },
+      {
+        "Id": "story_freminet_6",
+        "CharacterId": "freminet",
+        "Number": 6
+      },
+      {
+        "Id": "story_freminet_7",
+        "CharacterId": "freminet",
+        "Number": 7
+      },
+      {
+        "Id": "story_freminet_8",
+        "CharacterId": "freminet",
+        "Number": 8
+      }
+    ],
+    "furina": [
+      {
+        "Id": "story_furina_1",
+        "CharacterId": "furina",
+        "Number": 1
+      },
+      {
+        "Id": "story_furina_2",
+        "CharacterId": "furina",
+        "Number": 2
+      },
+      {
+        "Id": "story_furina_3",
+        "CharacterId": "furina",
+        "Number": 3
+      },
+      {
+        "Id": "story_furina_4",
+        "CharacterId": "furina",
+        "Number": 4
+      },
+      {
+        "Id": "story_furina_5",
+        "CharacterId": "furina",
+        "Number": 5
+      },
+      {
+        "Id": "story_furina_6",
+        "CharacterId": "furina",
+        "Number": 6
+      },
+      {
+        "Id": "story_furina_7",
+        "CharacterId": "furina",
+        "Number": 7
+      },
+      {
+        "Id": "story_furina_8",
+        "CharacterId": "furina",
+        "Number": 8
+      }
+    ],
+    "ganyu": [
+      {
+        "Id": "story_ganyu_1",
+        "CharacterId": "ganyu",
+        "Number": 1
+      },
+      {
+        "Id": "story_ganyu_2",
+        "CharacterId": "ganyu",
+        "Number": 2
+      },
+      {
+        "Id": "story_ganyu_3",
+        "CharacterId": "ganyu",
+        "Number": 3
+      },
+      {
+        "Id": "story_ganyu_4",
+        "CharacterId": "ganyu",
+        "Number": 4
+      },
+      {
+        "Id": "story_ganyu_5",
+        "CharacterId": "ganyu",
+        "Number": 5
+      },
+      {
+        "Id": "story_ganyu_6",
+        "CharacterId": "ganyu",
+        "Number": 6
+      },
+      {
+        "Id": "story_ganyu_7",
+        "CharacterId": "ganyu",
+        "Number": 7
+      },
+      {
+        "Id": "story_ganyu_8",
+        "CharacterId": "ganyu",
+        "Number": 8
+      }
+    ],
+    "gorou": [
+      {
+        "Id": "story_gorou_1",
+        "CharacterId": "gorou",
+        "Number": 1
+      },
+      {
+        "Id": "story_gorou_2",
+        "CharacterId": "gorou",
+        "Number": 2
+      },
+      {
+        "Id": "story_gorou_3",
+        "CharacterId": "gorou",
+        "Number": 3
+      },
+      {
+        "Id": "story_gorou_4",
+        "CharacterId": "gorou",
+        "Number": 4
+      },
+      {
+        "Id": "story_gorou_5",
+        "CharacterId": "gorou",
+        "Number": 5
+      },
+      {
+        "Id": "story_gorou_6",
+        "CharacterId": "gorou",
+        "Number": 6
+      },
+      {
+        "Id": "story_gorou_7",
+        "CharacterId": "gorou",
+        "Number": 7
+      },
+      {
+        "Id": "story_gorou_8",
+        "CharacterId": "gorou",
+        "Number": 8
+      }
+    ],
+    "hu_tao": [
+      {
+        "Id": "story_hu_tao_1",
+        "CharacterId": "hu_tao",
+        "Number": 1
+      },
+      {
+        "Id": "story_hu_tao_2",
+        "CharacterId": "hu_tao",
+        "Number": 2
+      },
+      {
+        "Id": "story_hu_tao_3",
+        "CharacterId": "hu_tao",
+        "Number": 3
+      },
+      {
+        "Id": "story_hu_tao_4",
+        "CharacterId": "hu_tao",
+        "Number": 4
+      },
+      {
+        "Id": "story_hu_tao_5",
+        "CharacterId": "hu_tao",
+        "Number": 5
+      },
+      {
+        "Id": "story_hu_tao_6",
+        "CharacterId": "hu_tao",
+        "Number": 6
+      },
+      {
+        "Id": "story_hu_tao_7",
+        "CharacterId": "hu_tao",
+        "Number": 7
+      },
+      {
+        "Id": "story_hu_tao_8",
+        "CharacterId": "hu_tao",
+        "Number": 8
+      }
+    ],
+    "jean": [
+      {
+        "Id": "story_jean_1",
+        "CharacterId": "jean",
+        "Number": 1
+      },
+      {
+        "Id": "story_jean_2",
+        "CharacterId": "jean",
+        "Number": 2
+      },
+      {
+        "Id": "story_jean_3",
+        "CharacterId": "jean",
+        "Number": 3
+      },
+      {
+        "Id": "story_jean_4",
+        "CharacterId": "jean",
+        "Number": 4
+      },
+      {
+        "Id": "story_jean_5",
+        "CharacterId": "jean",
+        "Number": 5
+      },
+      {
+        "Id": "story_jean_6",
+        "CharacterId": "jean",
+        "Number": 6
+      },
+      {
+        "Id": "story_jean_7",
+        "CharacterId": "jean",
+        "Number": 7
+      },
+      {
+        "Id": "story_jean_8",
+        "CharacterId": "jean",
+        "Number": 8
+      }
+    ],
+    "kaedehara_kazuha": [
+      {
+        "Id": "story_kaedehara_kazuha_1",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 1
+      },
+      {
+        "Id": "story_kaedehara_kazuha_2",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 2
+      },
+      {
+        "Id": "story_kaedehara_kazuha_3",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 3
+      },
+      {
+        "Id": "story_kaedehara_kazuha_4",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 4
+      },
+      {
+        "Id": "story_kaedehara_kazuha_5",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 5
+      },
+      {
+        "Id": "story_kaedehara_kazuha_6",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 6
+      },
+      {
+        "Id": "story_kaedehara_kazuha_7",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 7
+      },
+      {
+        "Id": "story_kaedehara_kazuha_8",
+        "CharacterId": "kaedehara_kazuha",
+        "Number": 8
+      }
+    ],
+    "kaveh": [
+      {
+        "Id": "story_kaveh_1",
+        "CharacterId": "kaveh",
+        "Number": 1
+      },
+      {
+        "Id": "story_kaveh_2",
+        "CharacterId": "kaveh",
+        "Number": 2
+      },
+      {
+        "Id": "story_kaveh_3",
+        "CharacterId": "kaveh",
+        "Number": 3
+      },
+      {
+        "Id": "story_kaveh_4",
+        "CharacterId": "kaveh",
+        "Number": 4
+      },
+      {
+        "Id": "story_kaveh_5",
+        "CharacterId": "kaveh",
+        "Number": 5
+      },
+      {
+        "Id": "story_kaveh_6",
+        "CharacterId": "kaveh",
+        "Number": 6
+      },
+      {
+        "Id": "story_kaveh_7",
+        "CharacterId": "kaveh",
+        "Number": 7
+      },
+      {
+        "Id": "story_kaveh_8",
+        "CharacterId": "kaveh",
+        "Number": 8
+      }
+    ],
+    "kaeya": [
+      {
+        "Id": "story_kaeya_1",
+        "CharacterId": "kaeya",
+        "Number": 1
+      },
+      {
+        "Id": "story_kaeya_2",
+        "CharacterId": "kaeya",
+        "Number": 2
+      },
+      {
+        "Id": "story_kaeya_3",
+        "CharacterId": "kaeya",
+        "Number": 3
+      },
+      {
+        "Id": "story_kaeya_4",
+        "CharacterId": "kaeya",
+        "Number": 4
+      },
+      {
+        "Id": "story_kaeya_5",
+        "CharacterId": "kaeya",
+        "Number": 5
+      },
+      {
+        "Id": "story_kaeya_6",
+        "CharacterId": "kaeya",
+        "Number": 6
+      },
+      {
+        "Id": "story_kaeya_7",
+        "CharacterId": "kaeya",
+        "Number": 7
+      },
+      {
+        "Id": "story_kaeya_8",
+        "CharacterId": "kaeya",
+        "Number": 8
+      }
+    ],
+    "kamisato_ayaka": [
+      {
+        "Id": "story_kamisato_ayaka_1",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 1
+      },
+      {
+        "Id": "story_kamisato_ayaka_2",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 2
+      },
+      {
+        "Id": "story_kamisato_ayaka_3",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 3
+      },
+      {
+        "Id": "story_kamisato_ayaka_4",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 4
+      },
+      {
+        "Id": "story_kamisato_ayaka_5",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 5
+      },
+      {
+        "Id": "story_kamisato_ayaka_6",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 6
+      },
+      {
+        "Id": "story_kamisato_ayaka_7",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 7
+      },
+      {
+        "Id": "story_kamisato_ayaka_8",
+        "CharacterId": "kamisato_ayaka",
+        "Number": 8
+      }
+    ],
+    "kamisato_ayato": [
+      {
+        "Id": "story_kamisato_ayato_1",
+        "CharacterId": "kamisato_ayato",
+        "Number": 1
+      },
+      {
+        "Id": "story_kamisato_ayato_2",
+        "CharacterId": "kamisato_ayato",
+        "Number": 2
+      },
+      {
+        "Id": "story_kamisato_ayato_3",
+        "CharacterId": "kamisato_ayato",
+        "Number": 3
+      },
+      {
+        "Id": "story_kamisato_ayato_4",
+        "CharacterId": "kamisato_ayato",
+        "Number": 4
+      },
+      {
+        "Id": "story_kamisato_ayato_5",
+        "CharacterId": "kamisato_ayato",
+        "Number": 5
+      },
+      {
+        "Id": "story_kamisato_ayato_6",
+        "CharacterId": "kamisato_ayato",
+        "Number": 6
+      },
+      {
+        "Id": "story_kamisato_ayato_7",
+        "CharacterId": "kamisato_ayato",
+        "Number": 7
+      },
+      {
+        "Id": "story_kamisato_ayato_8",
+        "CharacterId": "kamisato_ayato",
+        "Number": 8
+      }
+    ],
+    "keqing": [
+      {
+        "Id": "story_keqing_1",
+        "CharacterId": "keqing",
+        "Number": 1
+      },
+      {
+        "Id": "story_keqing_2",
+        "CharacterId": "keqing",
+        "Number": 2
+      },
+      {
+        "Id": "story_keqing_3",
+        "CharacterId": "keqing",
+        "Number": 3
+      },
+      {
+        "Id": "story_keqing_4",
+        "CharacterId": "keqing",
+        "Number": 4
+      },
+      {
+        "Id": "story_keqing_5",
+        "CharacterId": "keqing",
+        "Number": 5
+      },
+      {
+        "Id": "story_keqing_6",
+        "CharacterId": "keqing",
+        "Number": 6
+      },
+      {
+        "Id": "story_keqing_7",
+        "CharacterId": "keqing",
+        "Number": 7
+      },
+      {
+        "Id": "story_keqing_8",
+        "CharacterId": "keqing",
+        "Number": 8
+      }
+    ],
+    "kirara": [
+      {
+        "Id": "story_kirara_1",
+        "CharacterId": "kirara",
+        "Number": 1
+      },
+      {
+        "Id": "story_kirara_2",
+        "CharacterId": "kirara",
+        "Number": 2
+      },
+      {
+        "Id": "story_kirara_3",
+        "CharacterId": "kirara",
+        "Number": 3
+      },
+      {
+        "Id": "story_kirara_4",
+        "CharacterId": "kirara",
+        "Number": 4
+      },
+      {
+        "Id": "story_kirara_5",
+        "CharacterId": "kirara",
+        "Number": 5
+      },
+      {
+        "Id": "story_kirara_6",
+        "CharacterId": "kirara",
+        "Number": 6
+      },
+      {
+        "Id": "story_kirara_7",
+        "CharacterId": "kirara",
+        "Number": 7
+      },
+      {
+        "Id": "story_kirara_8",
+        "CharacterId": "kirara",
+        "Number": 8
+      }
+    ],
+    "klee": [
+      {
+        "Id": "story_klee_1",
+        "CharacterId": "klee",
+        "Number": 1
+      },
+      {
+        "Id": "story_klee_2",
+        "CharacterId": "klee",
+        "Number": 2
+      },
+      {
+        "Id": "story_klee_3",
+        "CharacterId": "klee",
+        "Number": 3
+      },
+      {
+        "Id": "story_klee_4",
+        "CharacterId": "klee",
+        "Number": 4
+      },
+      {
+        "Id": "story_klee_5",
+        "CharacterId": "klee",
+        "Number": 5
+      },
+      {
+        "Id": "story_klee_6",
+        "CharacterId": "klee",
+        "Number": 6
+      },
+      {
+        "Id": "story_klee_7",
+        "CharacterId": "klee",
+        "Number": 7
+      },
+      {
+        "Id": "story_klee_8",
+        "CharacterId": "klee",
+        "Number": 8
+      }
+    ],
+    "kujou_sara": [
+      {
+        "Id": "story_kujou_sara_1",
+        "CharacterId": "kujou_sara",
+        "Number": 1
+      },
+      {
+        "Id": "story_kujou_sara_2",
+        "CharacterId": "kujou_sara",
+        "Number": 2
+      },
+      {
+        "Id": "story_kujou_sara_3",
+        "CharacterId": "kujou_sara",
+        "Number": 3
+      },
+      {
+        "Id": "story_kujou_sara_4",
+        "CharacterId": "kujou_sara",
+        "Number": 4
+      },
+      {
+        "Id": "story_kujou_sara_5",
+        "CharacterId": "kujou_sara",
+        "Number": 5
+      },
+      {
+        "Id": "story_kujou_sara_6",
+        "CharacterId": "kujou_sara",
+        "Number": 6
+      },
+      {
+        "Id": "story_kujou_sara_7",
+        "CharacterId": "kujou_sara",
+        "Number": 7
+      },
+      {
+        "Id": "story_kujou_sara_8",
+        "CharacterId": "kujou_sara",
+        "Number": 8
+      }
+    ],
+    "kuki_shinobu": [
+      {
+        "Id": "story_kuki_shinobu_1",
+        "CharacterId": "kuki_shinobu",
+        "Number": 1
+      },
+      {
+        "Id": "story_kuki_shinobu_2",
+        "CharacterId": "kuki_shinobu",
+        "Number": 2
+      },
+      {
+        "Id": "story_kuki_shinobu_3",
+        "CharacterId": "kuki_shinobu",
+        "Number": 3
+      },
+      {
+        "Id": "story_kuki_shinobu_4",
+        "CharacterId": "kuki_shinobu",
+        "Number": 4
+      },
+      {
+        "Id": "story_kuki_shinobu_5",
+        "CharacterId": "kuki_shinobu",
+        "Number": 5
+      },
+      {
+        "Id": "story_kuki_shinobu_6",
+        "CharacterId": "kuki_shinobu",
+        "Number": 6
+      },
+      {
+        "Id": "story_kuki_shinobu_7",
+        "CharacterId": "kuki_shinobu",
+        "Number": 7
+      },
+      {
+        "Id": "story_kuki_shinobu_8",
+        "CharacterId": "kuki_shinobu",
+        "Number": 8
+      }
+    ],
+    "layla": [
+      {
+        "Id": "story_layla_1",
+        "CharacterId": "layla",
+        "Number": 1
+      },
+      {
+        "Id": "story_layla_2",
+        "CharacterId": "layla",
+        "Number": 2
+      },
+      {
+        "Id": "story_layla_3",
+        "CharacterId": "layla",
+        "Number": 3
+      },
+      {
+        "Id": "story_layla_4",
+        "CharacterId": "layla",
+        "Number": 4
+      },
+      {
+        "Id": "story_layla_5",
+        "CharacterId": "layla",
+        "Number": 5
+      },
+      {
+        "Id": "story_layla_6",
+        "CharacterId": "layla",
+        "Number": 6
+      },
+      {
+        "Id": "story_layla_7",
+        "CharacterId": "layla",
+        "Number": 7
+      },
+      {
+        "Id": "story_layla_8",
+        "CharacterId": "layla",
+        "Number": 8
+      }
+    ],
+    "lisa": [
+      {
+        "Id": "story_lisa_1",
+        "CharacterId": "lisa",
+        "Number": 1
+      },
+      {
+        "Id": "story_lisa_2",
+        "CharacterId": "lisa",
+        "Number": 2
+      },
+      {
+        "Id": "story_lisa_3",
+        "CharacterId": "lisa",
+        "Number": 3
+      },
+      {
+        "Id": "story_lisa_4",
+        "CharacterId": "lisa",
+        "Number": 4
+      },
+      {
+        "Id": "story_lisa_5",
+        "CharacterId": "lisa",
+        "Number": 5
+      },
+      {
+        "Id": "story_lisa_6",
+        "CharacterId": "lisa",
+        "Number": 6
+      },
+      {
+        "Id": "story_lisa_7",
+        "CharacterId": "lisa",
+        "Number": 7
+      },
+      {
+        "Id": "story_lisa_8",
+        "CharacterId": "lisa",
+        "Number": 8
+      }
+    ],
+    "lynette": [
+      {
+        "Id": "story_lynette_1",
+        "CharacterId": "lynette",
+        "Number": 1
+      },
+      {
+        "Id": "story_lynette_2",
+        "CharacterId": "lynette",
+        "Number": 2
+      },
+      {
+        "Id": "story_lynette_3",
+        "CharacterId": "lynette",
+        "Number": 3
+      },
+      {
+        "Id": "story_lynette_4",
+        "CharacterId": "lynette",
+        "Number": 4
+      },
+      {
+        "Id": "story_lynette_5",
+        "CharacterId": "lynette",
+        "Number": 5
+      },
+      {
+        "Id": "story_lynette_6",
+        "CharacterId": "lynette",
+        "Number": 6
+      },
+      {
+        "Id": "story_lynette_7",
+        "CharacterId": "lynette",
+        "Number": 7
+      },
+      {
+        "Id": "story_lynette_8",
+        "CharacterId": "lynette",
+        "Number": 8
+      }
+    ],
+    "lyney": [
+      {
+        "Id": "story_lyney_1",
+        "CharacterId": "lyney",
+        "Number": 1
+      },
+      {
+        "Id": "story_lyney_2",
+        "CharacterId": "lyney",
+        "Number": 2
+      },
+      {
+        "Id": "story_lyney_3",
+        "CharacterId": "lyney",
+        "Number": 3
+      },
+      {
+        "Id": "story_lyney_4",
+        "CharacterId": "lyney",
+        "Number": 4
+      },
+      {
+        "Id": "story_lyney_5",
+        "CharacterId": "lyney",
+        "Number": 5
+      },
+      {
+        "Id": "story_lyney_6",
+        "CharacterId": "lyney",
+        "Number": 6
+      },
+      {
+        "Id": "story_lyney_7",
+        "CharacterId": "lyney",
+        "Number": 7
+      },
+      {
+        "Id": "story_lyney_8",
+        "CharacterId": "lyney",
+        "Number": 8
+      }
+    ],
+    "mika": [
+      {
+        "Id": "story_mika_1",
+        "CharacterId": "mika",
+        "Number": 1
+      },
+      {
+        "Id": "story_mika_2",
+        "CharacterId": "mika",
+        "Number": 2
+      },
+      {
+        "Id": "story_mika_3",
+        "CharacterId": "mika",
+        "Number": 3
+      },
+      {
+        "Id": "story_mika_4",
+        "CharacterId": "mika",
+        "Number": 4
+      },
+      {
+        "Id": "story_mika_5",
+        "CharacterId": "mika",
+        "Number": 5
+      },
+      {
+        "Id": "story_mika_6",
+        "CharacterId": "mika",
+        "Number": 6
+      },
+      {
+        "Id": "story_mika_7",
+        "CharacterId": "mika",
+        "Number": 7
+      },
+      {
+        "Id": "story_mika_8",
+        "CharacterId": "mika",
+        "Number": 8
+      }
+    ],
+    "mona": [
+      {
+        "Id": "story_mona_1",
+        "CharacterId": "mona",
+        "Number": 1
+      },
+      {
+        "Id": "story_mona_2",
+        "CharacterId": "mona",
+        "Number": 2
+      },
+      {
+        "Id": "story_mona_3",
+        "CharacterId": "mona",
+        "Number": 3
+      },
+      {
+        "Id": "story_mona_4",
+        "CharacterId": "mona",
+        "Number": 4
+      },
+      {
+        "Id": "story_mona_5",
+        "CharacterId": "mona",
+        "Number": 5
+      },
+      {
+        "Id": "story_mona_6",
+        "CharacterId": "mona",
+        "Number": 6
+      },
+      {
+        "Id": "story_mona_7",
+        "CharacterId": "mona",
+        "Number": 7
+      },
+      {
+        "Id": "story_mona_8",
+        "CharacterId": "mona",
+        "Number": 8
+      }
+    ],
+    "nahida": [
+      {
+        "Id": "story_nahida_1",
+        "CharacterId": "nahida",
+        "Number": 1
+      },
+      {
+        "Id": "story_nahida_2",
+        "CharacterId": "nahida",
+        "Number": 2
+      },
+      {
+        "Id": "story_nahida_3",
+        "CharacterId": "nahida",
+        "Number": 3
+      },
+      {
+        "Id": "story_nahida_4",
+        "CharacterId": "nahida",
+        "Number": 4
+      },
+      {
+        "Id": "story_nahida_5",
+        "CharacterId": "nahida",
+        "Number": 5
+      },
+      {
+        "Id": "story_nahida_6",
+        "CharacterId": "nahida",
+        "Number": 6
+      },
+      {
+        "Id": "story_nahida_7",
+        "CharacterId": "nahida",
+        "Number": 7
+      },
+      {
+        "Id": "story_nahida_8",
+        "CharacterId": "nahida",
+        "Number": 8
+      }
+    ],
+    "navia": [
+      {
+        "Id": "story_navia_1",
+        "CharacterId": "navia",
+        "Number": 1
+      },
+      {
+        "Id": "story_navia_2",
+        "CharacterId": "navia",
+        "Number": 2
+      },
+      {
+        "Id": "story_navia_3",
+        "CharacterId": "navia",
+        "Number": 3
+      },
+      {
+        "Id": "story_navia_4",
+        "CharacterId": "navia",
+        "Number": 4
+      },
+      {
+        "Id": "story_navia_5",
+        "CharacterId": "navia",
+        "Number": 5
+      },
+      {
+        "Id": "story_navia_6",
+        "CharacterId": "navia",
+        "Number": 6
+      },
+      {
+        "Id": "story_navia_7",
+        "CharacterId": "navia",
+        "Number": 7
+      },
+      {
+        "Id": "story_navia_8",
+        "CharacterId": "navia",
+        "Number": 8
+      }
+    ],
+    "neuvillette": [
+      {
+        "Id": "story_neuvillette_1",
+        "CharacterId": "neuvillette",
+        "Number": 1
+      },
+      {
+        "Id": "story_neuvillette_2",
+        "CharacterId": "neuvillette",
+        "Number": 2
+      },
+      {
+        "Id": "story_neuvillette_3",
+        "CharacterId": "neuvillette",
+        "Number": 3
+      },
+      {
+        "Id": "story_neuvillette_4",
+        "CharacterId": "neuvillette",
+        "Number": 4
+      },
+      {
+        "Id": "story_neuvillette_5",
+        "CharacterId": "neuvillette",
+        "Number": 5
+      },
+      {
+        "Id": "story_neuvillette_6",
+        "CharacterId": "neuvillette",
+        "Number": 6
+      },
+      {
+        "Id": "story_neuvillette_7",
+        "CharacterId": "neuvillette",
+        "Number": 7
+      },
+      {
+        "Id": "story_neuvillette_8",
+        "CharacterId": "neuvillette",
+        "Number": 8
+      }
+    ],
+    "nilou": [
+      {
+        "Id": "story_nilou_1",
+        "CharacterId": "nilou",
+        "Number": 1
+      },
+      {
+        "Id": "story_nilou_2",
+        "CharacterId": "nilou",
+        "Number": 2
+      },
+      {
+        "Id": "story_nilou_3",
+        "CharacterId": "nilou",
+        "Number": 3
+      },
+      {
+        "Id": "story_nilou_4",
+        "CharacterId": "nilou",
+        "Number": 4
+      },
+      {
+        "Id": "story_nilou_5",
+        "CharacterId": "nilou",
+        "Number": 5
+      },
+      {
+        "Id": "story_nilou_6",
+        "CharacterId": "nilou",
+        "Number": 6
+      },
+      {
+        "Id": "story_nilou_7",
+        "CharacterId": "nilou",
+        "Number": 7
+      },
+      {
+        "Id": "story_nilou_8",
+        "CharacterId": "nilou",
+        "Number": 8
+      }
+    ],
+    "ningguang": [
+      {
+        "Id": "story_ningguang_1",
+        "CharacterId": "ningguang",
+        "Number": 1
+      },
+      {
+        "Id": "story_ningguang_2",
+        "CharacterId": "ningguang",
+        "Number": 2
+      },
+      {
+        "Id": "story_ningguang_3",
+        "CharacterId": "ningguang",
+        "Number": 3
+      },
+      {
+        "Id": "story_ningguang_4",
+        "CharacterId": "ningguang",
+        "Number": 4
+      },
+      {
+        "Id": "story_ningguang_5",
+        "CharacterId": "ningguang",
+        "Number": 5
+      },
+      {
+        "Id": "story_ningguang_6",
+        "CharacterId": "ningguang",
+        "Number": 6
+      },
+      {
+        "Id": "story_ningguang_7",
+        "CharacterId": "ningguang",
+        "Number": 7
+      },
+      {
+        "Id": "story_ningguang_8",
+        "CharacterId": "ningguang",
+        "Number": 8
+      }
+    ],
+    "noelle": [
+      {
+        "Id": "story_noelle_1",
+        "CharacterId": "noelle",
+        "Number": 1
+      },
+      {
+        "Id": "story_noelle_2",
+        "CharacterId": "noelle",
+        "Number": 2
+      },
+      {
+        "Id": "story_noelle_3",
+        "CharacterId": "noelle",
+        "Number": 3
+      },
+      {
+        "Id": "story_noelle_4",
+        "CharacterId": "noelle",
+        "Number": 4
+      },
+      {
+        "Id": "story_noelle_5",
+        "CharacterId": "noelle",
+        "Number": 5
+      },
+      {
+        "Id": "story_noelle_6",
+        "CharacterId": "noelle",
+        "Number": 6
+      },
+      {
+        "Id": "story_noelle_7",
+        "CharacterId": "noelle",
+        "Number": 7
+      },
+      {
+        "Id": "story_noelle_8",
+        "CharacterId": "noelle",
+        "Number": 8
+      }
+    ],
+    "qiqi": [
+      {
+        "Id": "story_qiqi_1",
+        "CharacterId": "qiqi",
+        "Number": 1
+      },
+      {
+        "Id": "story_qiqi_2",
+        "CharacterId": "qiqi",
+        "Number": 2
+      },
+      {
+        "Id": "story_qiqi_3",
+        "CharacterId": "qiqi",
+        "Number": 3
+      },
+      {
+        "Id": "story_qiqi_4",
+        "CharacterId": "qiqi",
+        "Number": 4
+      },
+      {
+        "Id": "story_qiqi_5",
+        "CharacterId": "qiqi",
+        "Number": 5
+      },
+      {
+        "Id": "story_qiqi_6",
+        "CharacterId": "qiqi",
+        "Number": 6
+      },
+      {
+        "Id": "story_qiqi_7",
+        "CharacterId": "qiqi",
+        "Number": 7
+      },
+      {
+        "Id": "story_qiqi_8",
+        "CharacterId": "qiqi",
+        "Number": 8
+      }
+    ],
+    "raiden_shogun": [
+      {
+        "Id": "story_raiden_shogun_1",
+        "CharacterId": "raiden_shogun",
+        "Number": 1
+      },
+      {
+        "Id": "story_raiden_shogun_2",
+        "CharacterId": "raiden_shogun",
+        "Number": 2
+      },
+      {
+        "Id": "story_raiden_shogun_3",
+        "CharacterId": "raiden_shogun",
+        "Number": 3
+      },
+      {
+        "Id": "story_raiden_shogun_4",
+        "CharacterId": "raiden_shogun",
+        "Number": 4
+      },
+      {
+        "Id": "story_raiden_shogun_5",
+        "CharacterId": "raiden_shogun",
+        "Number": 5
+      },
+      {
+        "Id": "story_raiden_shogun_6",
+        "CharacterId": "raiden_shogun",
+        "Number": 6
+      },
+      {
+        "Id": "story_raiden_shogun_7",
+        "CharacterId": "raiden_shogun",
+        "Number": 7
+      },
+      {
+        "Id": "story_raiden_shogun_8",
+        "CharacterId": "raiden_shogun",
+        "Number": 8
+      }
+    ],
+    "razor": [
+      {
+        "Id": "story_razor_1",
+        "CharacterId": "razor",
+        "Number": 1
+      },
+      {
+        "Id": "story_razor_2",
+        "CharacterId": "razor",
+        "Number": 2
+      },
+      {
+        "Id": "story_razor_3",
+        "CharacterId": "razor",
+        "Number": 3
+      },
+      {
+        "Id": "story_razor_4",
+        "CharacterId": "razor",
+        "Number": 4
+      },
+      {
+        "Id": "story_razor_5",
+        "CharacterId": "razor",
+        "Number": 5
+      },
+      {
+        "Id": "story_razor_6",
+        "CharacterId": "razor",
+        "Number": 6
+      },
+      {
+        "Id": "story_razor_7",
+        "CharacterId": "razor",
+        "Number": 7
+      },
+      {
+        "Id": "story_razor_8",
+        "CharacterId": "razor",
+        "Number": 8
+      }
+    ],
+    "rosaria": [
+      {
+        "Id": "story_rosaria_1",
+        "CharacterId": "rosaria",
+        "Number": 1
+      },
+      {
+        "Id": "story_rosaria_2",
+        "CharacterId": "rosaria",
+        "Number": 2
+      },
+      {
+        "Id": "story_rosaria_3",
+        "CharacterId": "rosaria",
+        "Number": 3
+      },
+      {
+        "Id": "story_rosaria_4",
+        "CharacterId": "rosaria",
+        "Number": 4
+      },
+      {
+        "Id": "story_rosaria_5",
+        "CharacterId": "rosaria",
+        "Number": 5
+      },
+      {
+        "Id": "story_rosaria_6",
+        "CharacterId": "rosaria",
+        "Number": 6
+      },
+      {
+        "Id": "story_rosaria_7",
+        "CharacterId": "rosaria",
+        "Number": 7
+      },
+      {
+        "Id": "story_rosaria_8",
+        "CharacterId": "rosaria",
+        "Number": 8
+      }
+    ],
+    "sangonomiya_kokomi": [
+      {
+        "Id": "story_sangonomiya_kokomi_1",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 1
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_2",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 2
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_3",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 3
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_4",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 4
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_5",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 5
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_6",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 6
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_7",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 7
+      },
+      {
+        "Id": "story_sangonomiya_kokomi_8",
+        "CharacterId": "sangonomiya_kokomi",
+        "Number": 8
+      }
+    ],
+    "sayu": [
+      {
+        "Id": "story_sayu_1",
+        "CharacterId": "sayu",
+        "Number": 1
+      },
+      {
+        "Id": "story_sayu_2",
+        "CharacterId": "sayu",
+        "Number": 2
+      },
+      {
+        "Id": "story_sayu_3",
+        "CharacterId": "sayu",
+        "Number": 3
+      },
+      {
+        "Id": "story_sayu_4",
+        "CharacterId": "sayu",
+        "Number": 4
+      },
+      {
+        "Id": "story_sayu_5",
+        "CharacterId": "sayu",
+        "Number": 5
+      },
+      {
+        "Id": "story_sayu_6",
+        "CharacterId": "sayu",
+        "Number": 6
+      },
+      {
+        "Id": "story_sayu_7",
+        "CharacterId": "sayu",
+        "Number": 7
+      },
+      {
+        "Id": "story_sayu_8",
+        "CharacterId": "sayu",
+        "Number": 8
+      }
+    ],
+    "shenhe": [
+      {
+        "Id": "story_shenhe_1",
+        "CharacterId": "shenhe",
+        "Number": 1
+      },
+      {
+        "Id": "story_shenhe_2",
+        "CharacterId": "shenhe",
+        "Number": 2
+      },
+      {
+        "Id": "story_shenhe_3",
+        "CharacterId": "shenhe",
+        "Number": 3
+      },
+      {
+        "Id": "story_shenhe_4",
+        "CharacterId": "shenhe",
+        "Number": 4
+      },
+      {
+        "Id": "story_shenhe_5",
+        "CharacterId": "shenhe",
+        "Number": 5
+      },
+      {
+        "Id": "story_shenhe_6",
+        "CharacterId": "shenhe",
+        "Number": 6
+      },
+      {
+        "Id": "story_shenhe_7",
+        "CharacterId": "shenhe",
+        "Number": 7
+      },
+      {
+        "Id": "story_shenhe_8",
+        "CharacterId": "shenhe",
+        "Number": 8
+      }
+    ],
+    "shikanoin_heizou": [
+      {
+        "Id": "story_shikanoin_heizou_1",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 1
+      },
+      {
+        "Id": "story_shikanoin_heizou_2",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 2
+      },
+      {
+        "Id": "story_shikanoin_heizou_3",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 3
+      },
+      {
+        "Id": "story_shikanoin_heizou_4",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 4
+      },
+      {
+        "Id": "story_shikanoin_heizou_5",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 5
+      },
+      {
+        "Id": "story_shikanoin_heizou_6",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 6
+      },
+      {
+        "Id": "story_shikanoin_heizou_7",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 7
+      },
+      {
+        "Id": "story_shikanoin_heizou_8",
+        "CharacterId": "shikanoin_heizou",
+        "Number": 8
+      }
+    ],
+    "sucrose": [
+      {
+        "Id": "story_sucrose_1",
+        "CharacterId": "sucrose",
+        "Number": 1
+      },
+      {
+        "Id": "story_sucrose_2",
+        "CharacterId": "sucrose",
+        "Number": 2
+      },
+      {
+        "Id": "story_sucrose_3",
+        "CharacterId": "sucrose",
+        "Number": 3
+      },
+      {
+        "Id": "story_sucrose_4",
+        "CharacterId": "sucrose",
+        "Number": 4
+      },
+      {
+        "Id": "story_sucrose_5",
+        "CharacterId": "sucrose",
+        "Number": 5
+      },
+      {
+        "Id": "story_sucrose_6",
+        "CharacterId": "sucrose",
+        "Number": 6
+      },
+      {
+        "Id": "story_sucrose_7",
+        "CharacterId": "sucrose",
+        "Number": 7
+      },
+      {
+        "Id": "story_sucrose_8",
+        "CharacterId": "sucrose",
+        "Number": 8
+      }
+    ],
+    "tartaglia": [
+      {
+        "Id": "story_tartaglia_1",
+        "CharacterId": "tartaglia",
+        "Number": 1
+      },
+      {
+        "Id": "story_tartaglia_2",
+        "CharacterId": "tartaglia",
+        "Number": 2
+      },
+      {
+        "Id": "story_tartaglia_3",
+        "CharacterId": "tartaglia",
+        "Number": 3
+      },
+      {
+        "Id": "story_tartaglia_4",
+        "CharacterId": "tartaglia",
+        "Number": 4
+      },
+      {
+        "Id": "story_tartaglia_5",
+        "CharacterId": "tartaglia",
+        "Number": 5
+      },
+      {
+        "Id": "story_tartaglia_6",
+        "CharacterId": "tartaglia",
+        "Number": 6
+      },
+      {
+        "Id": "story_tartaglia_7",
+        "CharacterId": "tartaglia",
+        "Number": 7
+      },
+      {
+        "Id": "story_tartaglia_8",
+        "CharacterId": "tartaglia",
+        "Number": 8
+      }
+    ],
+    "thoma": [
+      {
+        "Id": "story_thoma_1",
+        "CharacterId": "thoma",
+        "Number": 1
+      },
+      {
+        "Id": "story_thoma_2",
+        "CharacterId": "thoma",
+        "Number": 2
+      },
+      {
+        "Id": "story_thoma_3",
+        "CharacterId": "thoma",
+        "Number": 3
+      },
+      {
+        "Id": "story_thoma_4",
+        "CharacterId": "thoma",
+        "Number": 4
+      },
+      {
+        "Id": "story_thoma_5",
+        "CharacterId": "thoma",
+        "Number": 5
+      },
+      {
+        "Id": "story_thoma_6",
+        "CharacterId": "thoma",
+        "Number": 6
+      },
+      {
+        "Id": "story_thoma_7",
+        "CharacterId": "thoma",
+        "Number": 7
+      },
+      {
+        "Id": "story_thoma_8",
+        "CharacterId": "thoma",
+        "Number": 8
+      }
+    ],
+    "tighnari": [
+      {
+        "Id": "story_tighnari_1",
+        "CharacterId": "tighnari",
+        "Number": 1
+      },
+      {
+        "Id": "story_tighnari_2",
+        "CharacterId": "tighnari",
+        "Number": 2
+      },
+      {
+        "Id": "story_tighnari_3",
+        "CharacterId": "tighnari",
+        "Number": 3
+      },
+      {
+        "Id": "story_tighnari_4",
+        "CharacterId": "tighnari",
+        "Number": 4
+      },
+      {
+        "Id": "story_tighnari_5",
+        "CharacterId": "tighnari",
+        "Number": 5
+      },
+      {
+        "Id": "story_tighnari_6",
+        "CharacterId": "tighnari",
+        "Number": 6
+      },
+      {
+        "Id": "story_tighnari_7",
+        "CharacterId": "tighnari",
+        "Number": 7
+      },
+      {
+        "Id": "story_tighnari_8",
+        "CharacterId": "tighnari",
+        "Number": 8
+      }
+    ],
+    "venti": [
+      {
+        "Id": "story_venti_1",
+        "CharacterId": "venti",
+        "Number": 1
+      },
+      {
+        "Id": "story_venti_2",
+        "CharacterId": "venti",
+        "Number": 2
+      },
+      {
+        "Id": "story_venti_3",
+        "CharacterId": "venti",
+        "Number": 3
+      },
+      {
+        "Id": "story_venti_4",
+        "CharacterId": "venti",
+        "Number": 4
+      },
+      {
+        "Id": "story_venti_5",
+        "CharacterId": "venti",
+        "Number": 5
+      },
+      {
+        "Id": "story_venti_6",
+        "CharacterId": "venti",
+        "Number": 6
+      },
+      {
+        "Id": "story_venti_7",
+        "CharacterId": "venti",
+        "Number": 7
+      },
+      {
+        "Id": "story_venti_8",
+        "CharacterId": "venti",
+        "Number": 8
+      }
+    ],
+    "wanderer": [
+      {
+        "Id": "story_wanderer_1",
+        "CharacterId": "wanderer",
+        "Number": 1
+      },
+      {
+        "Id": "story_wanderer_2",
+        "CharacterId": "wanderer",
+        "Number": 2
+      },
+      {
+        "Id": "story_wanderer_3",
+        "CharacterId": "wanderer",
+        "Number": 3
+      },
+      {
+        "Id": "story_wanderer_4",
+        "CharacterId": "wanderer",
+        "Number": 4
+      },
+      {
+        "Id": "story_wanderer_5",
+        "CharacterId": "wanderer",
+        "Number": 5
+      },
+      {
+        "Id": "story_wanderer_6",
+        "CharacterId": "wanderer",
+        "Number": 6
+      },
+      {
+        "Id": "story_wanderer_7",
+        "CharacterId": "wanderer",
+        "Number": 7
+      },
+      {
+        "Id": "story_wanderer_8",
+        "CharacterId": "wanderer",
+        "Number": 8
+      }
+    ],
+    "wriothesley": [
+      {
+        "Id": "story_wriothesley_1",
+        "CharacterId": "wriothesley",
+        "Number": 1
+      },
+      {
+        "Id": "story_wriothesley_2",
+        "CharacterId": "wriothesley",
+        "Number": 2
+      },
+      {
+        "Id": "story_wriothesley_3",
+        "CharacterId": "wriothesley",
+        "Number": 3
+      },
+      {
+        "Id": "story_wriothesley_4",
+        "CharacterId": "wriothesley",
+        "Number": 4
+      },
+      {
+        "Id": "story_wriothesley_5",
+        "CharacterId": "wriothesley",
+        "Number": 5
+      },
+      {
+        "Id": "story_wriothesley_6",
+        "CharacterId": "wriothesley",
+        "Number": 6
+      },
+      {
+        "Id": "story_wriothesley_7",
+        "CharacterId": "wriothesley",
+        "Number": 7
+      },
+      {
+        "Id": "story_wriothesley_8",
+        "CharacterId": "wriothesley",
+        "Number": 8
+      }
+    ],
+    "xiangling": [
+      {
+        "Id": "story_xiangling_1",
+        "CharacterId": "xiangling",
+        "Number": 1
+      },
+      {
+        "Id": "story_xiangling_2",
+        "CharacterId": "xiangling",
+        "Number": 2
+      },
+      {
+        "Id": "story_xiangling_3",
+        "CharacterId": "xiangling",
+        "Number": 3
+      },
+      {
+        "Id": "story_xiangling_4",
+        "CharacterId": "xiangling",
+        "Number": 4
+      },
+      {
+        "Id": "story_xiangling_5",
+        "CharacterId": "xiangling",
+        "Number": 5
+      },
+      {
+        "Id": "story_xiangling_6",
+        "CharacterId": "xiangling",
+        "Number": 6
+      },
+      {
+        "Id": "story_xiangling_7",
+        "CharacterId": "xiangling",
+        "Number": 7
+      },
+      {
+        "Id": "story_xiangling_8",
+        "CharacterId": "xiangling",
+        "Number": 8
+      }
+    ],
+    "xiao": [
+      {
+        "Id": "story_xiao_1",
+        "CharacterId": "xiao",
+        "Number": 1
+      },
+      {
+        "Id": "story_xiao_2",
+        "CharacterId": "xiao",
+        "Number": 2
+      },
+      {
+        "Id": "story_xiao_3",
+        "CharacterId": "xiao",
+        "Number": 3
+      },
+      {
+        "Id": "story_xiao_4",
+        "CharacterId": "xiao",
+        "Number": 4
+      },
+      {
+        "Id": "story_xiao_5",
+        "CharacterId": "xiao",
+        "Number": 5
+      },
+      {
+        "Id": "story_xiao_6",
+        "CharacterId": "xiao",
+        "Number": 6
+      },
+      {
+        "Id": "story_xiao_7",
+        "CharacterId": "xiao",
+        "Number": 7
+      },
+      {
+        "Id": "story_xiao_8",
+        "CharacterId": "xiao",
+        "Number": 8
+      }
+    ],
+    "xingqiu": [
+      {
+        "Id": "story_xingqiu_1",
+        "CharacterId": "xingqiu",
+        "Number": 1
+      },
+      {
+        "Id": "story_xingqiu_2",
+        "CharacterId": "xingqiu",
+        "Number": 2
+      },
+      {
+        "Id": "story_xingqiu_3",
+        "CharacterId": "xingqiu",
+        "Number": 3
+      },
+      {
+        "Id": "story_xingqiu_4",
+        "CharacterId": "xingqiu",
+        "Number": 4
+      },
+      {
+        "Id": "story_xingqiu_5",
+        "CharacterId": "xingqiu",
+        "Number": 5
+      },
+      {
+        "Id": "story_xingqiu_6",
+        "CharacterId": "xingqiu",
+        "Number": 6
+      },
+      {
+        "Id": "story_xingqiu_7",
+        "CharacterId": "xingqiu",
+        "Number": 7
+      },
+      {
+        "Id": "story_xingqiu_8",
+        "CharacterId": "xingqiu",
+        "Number": 8
+      }
+    ],
+    "xinyan": [
+      {
+        "Id": "story_xinyan_1",
+        "CharacterId": "xinyan",
+        "Number": 1
+      },
+      {
+        "Id": "story_xinyan_2",
+        "CharacterId": "xinyan",
+        "Number": 2
+      },
+      {
+        "Id": "story_xinyan_3",
+        "CharacterId": "xinyan",
+        "Number": 3
+      },
+      {
+        "Id": "story_xinyan_4",
+        "CharacterId": "xinyan",
+        "Number": 4
+      },
+      {
+        "Id": "story_xinyan_5",
+        "CharacterId": "xinyan",
+        "Number": 5
+      },
+      {
+        "Id": "story_xinyan_6",
+        "CharacterId": "xinyan",
+        "Number": 6
+      },
+      {
+        "Id": "story_xinyan_7",
+        "CharacterId": "xinyan",
+        "Number": 7
+      },
+      {
+        "Id": "story_xinyan_8",
+        "CharacterId": "xinyan",
+        "Number": 8
+      }
+    ],
+    "yae_miko": [
+      {
+        "Id": "story_yae_miko_1",
+        "CharacterId": "yae_miko",
+        "Number": 1
+      },
+      {
+        "Id": "story_yae_miko_2",
+        "CharacterId": "yae_miko",
+        "Number": 2
+      },
+      {
+        "Id": "story_yae_miko_3",
+        "CharacterId": "yae_miko",
+        "Number": 3
+      },
+      {
+        "Id": "story_yae_miko_4",
+        "CharacterId": "yae_miko",
+        "Number": 4
+      },
+      {
+        "Id": "story_yae_miko_5",
+        "CharacterId": "yae_miko",
+        "Number": 5
+      },
+      {
+        "Id": "story_yae_miko_6",
+        "CharacterId": "yae_miko",
+        "Number": 6
+      },
+      {
+        "Id": "story_yae_miko_7",
+        "CharacterId": "yae_miko",
+        "Number": 7
+      },
+      {
+        "Id": "story_yae_miko_8",
+        "CharacterId": "yae_miko",
+        "Number": 8
+      }
+    ],
+    "yanfei": [
+      {
+        "Id": "story_yanfei_1",
+        "CharacterId": "yanfei",
+        "Number": 1
+      },
+      {
+        "Id": "story_yanfei_2",
+        "CharacterId": "yanfei",
+        "Number": 2
+      },
+      {
+        "Id": "story_yanfei_3",
+        "CharacterId": "yanfei",
+        "Number": 3
+      },
+      {
+        "Id": "story_yanfei_4",
+        "CharacterId": "yanfei",
+        "Number": 4
+      },
+      {
+        "Id": "story_yanfei_5",
+        "CharacterId": "yanfei",
+        "Number": 5
+      },
+      {
+        "Id": "story_yanfei_6",
+        "CharacterId": "yanfei",
+        "Number": 6
+      },
+      {
+        "Id": "story_yanfei_7",
+        "CharacterId": "yanfei",
+        "Number": 7
+      },
+      {
+        "Id": "story_yanfei_8",
+        "CharacterId": "yanfei",
+        "Number": 8
+      }
+    ],
+    "yaoyao": [
+      {
+        "Id": "story_yaoyao_1",
+        "CharacterId": "yaoyao",
+        "Number": 1
+      },
+      {
+        "Id": "story_yaoyao_2",
+        "CharacterId": "yaoyao",
+        "Number": 2
+      },
+      {
+        "Id": "story_yaoyao_3",
+        "CharacterId": "yaoyao",
+        "Number": 3
+      },
+      {
+        "Id": "story_yaoyao_4",
+        "CharacterId": "yaoyao",
+        "Number": 4
+      },
+      {
+        "Id": "story_yaoyao_5",
+        "CharacterId": "yaoyao",
+        "Number": 5
+      },
+      {
+        "Id": "story_yaoyao_6",
+        "CharacterId": "yaoyao",
+        "Number": 6
+      },
+      {
+        "Id": "story_yaoyao_7",
+        "CharacterId": "yaoyao",
+        "Number": 7
+      },
+      {
+        "Id": "story_yaoyao_8",
+        "CharacterId": "yaoyao",
+        "Number": 8
+      }
+    ],
+    "yelan": [
+      {
+        "Id": "story_yelan_1",
+        "CharacterId": "yelan",
+        "Number": 1
+      },
+      {
+        "Id": "story_yelan_2",
+        "CharacterId": "yelan",
+        "Number": 2
+      },
+      {
+        "Id": "story_yelan_3",
+        "CharacterId": "yelan",
+        "Number": 3
+      },
+      {
+        "Id": "story_yelan_4",
+        "CharacterId": "yelan",
+        "Number": 4
+      },
+      {
+        "Id": "story_yelan_5",
+        "CharacterId": "yelan",
+        "Number": 5
+      },
+      {
+        "Id": "story_yelan_6",
+        "CharacterId": "yelan",
+        "Number": 6
+      },
+      {
+        "Id": "story_yelan_7",
+        "CharacterId": "yelan",
+        "Number": 7
+      },
+      {
+        "Id": "story_yelan_8",
+        "CharacterId": "yelan",
+        "Number": 8
+      }
+    ],
+    "yoimiya": [
+      {
+        "Id": "story_yoimiya_1",
+        "CharacterId": "yoimiya",
+        "Number": 1
+      },
+      {
+        "Id": "story_yoimiya_2",
+        "CharacterId": "yoimiya",
+        "Number": 2
+      },
+      {
+        "Id": "story_yoimiya_3",
+        "CharacterId": "yoimiya",
+        "Number": 3
+      },
+      {
+        "Id": "story_yoimiya_4",
+        "CharacterId": "yoimiya",
+        "Number": 4
+      },
+      {
+        "Id": "story_yoimiya_5",
+        "CharacterId": "yoimiya",
+        "Number": 5
+      },
+      {
+        "Id": "story_yoimiya_6",
+        "CharacterId": "yoimiya",
+        "Number": 6
+      },
+      {
+        "Id": "story_yoimiya_7",
+        "CharacterId": "yoimiya",
+        "Number": 7
+      },
+      {
+        "Id": "story_yoimiya_8",
+        "CharacterId": "yoimiya",
+        "Number": 8
+      }
+    ],
+    "yun_jin": [
+      {
+        "Id": "story_yun_jin_1",
+        "CharacterId": "yun_jin",
+        "Number": 1
+      },
+      {
+        "Id": "story_yun_jin_2",
+        "CharacterId": "yun_jin",
+        "Number": 2
+      },
+      {
+        "Id": "story_yun_jin_3",
+        "CharacterId": "yun_jin",
+        "Number": 3
+      },
+      {
+        "Id": "story_yun_jin_4",
+        "CharacterId": "yun_jin",
+        "Number": 4
+      },
+      {
+        "Id": "story_yun_jin_5",
+        "CharacterId": "yun_jin",
+        "Number": 5
+      },
+      {
+        "Id": "story_yun_jin_6",
+        "CharacterId": "yun_jin",
+        "Number": 6
+      },
+      {
+        "Id": "story_yun_jin_7",
+        "CharacterId": "yun_jin",
+        "Number": 7
+      },
+      {
+        "Id": "story_yun_jin_8",
+        "CharacterId": "yun_jin",
+        "Number": 8
+      }
+    ],
+    "zhongli": [
+      {
+        "Id": "story_zhongli_1",
+        "CharacterId": "zhongli",
+        "Number": 1
+      },
+      {
+        "Id": "story_zhongli_2",
+        "CharacterId": "zhongli",
+        "Number": 2
+      },
+      {
+        "Id": "story_zhongli_3",
+        "CharacterId": "zhongli",
+        "Number": 3
+      },
+      {
+        "Id": "story_zhongli_4",
+        "CharacterId": "zhongli",
+        "Number": 4
+      },
+      {
+        "Id": "story_zhongli_5",
+        "CharacterId": "zhongli",
+        "Number": 5
+      },
+      {
+        "Id": "story_zhongli_6",
+        "CharacterId": "zhongli",
+        "Number": 6
+      },
+      {
+        "Id": "story_zhongli_7",
+        "CharacterId": "zhongli",
+        "Number": 7
+      },
+      {
+        "Id": "story_zhongli_8",
+        "CharacterId": "zhongli",
+        "Number": 8
+      }
+    ]
+  },
+  "Type": "StoryDatabase"
+}

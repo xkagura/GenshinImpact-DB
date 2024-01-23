@@ -1,0 +1,325 @@
+{
+  "Outfits": {
+    "amber": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "amber",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "100_percent_outrider",
+        "DateAdded": "2022-01-05T00:00:00"
+      }
+    ],
+    "kamisato_ayaka": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "kamisato_ayaka",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "springbloom_missive",
+        "DateAdded": "2023-01-18T00:00:00"
+      }
+    ],
+    "barbara": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "barbara",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "summertime_sparkle",
+        "DateAdded": "2021-06-09T00:00:00"
+      }
+    ],
+    "diluc": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 5,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 5,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 5
+        },
+        "CharacterId": "diluc",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "red_dead_of_night",
+        "DateAdded": "2022-07-13T00:00:00"
+      }
+    ],
+    "fischl": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "fischl",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "ein_immernachtstraum",
+        "DateAdded": "2022-07-13T00:00:00"
+      }
+    ],
+    "kaeya": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "kaeya",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "sailwind_shadow",
+        "DateAdded": "2023-07-05T00:00:00"
+      }
+    ],
+    "keqing": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "keqing",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "opulent_splendor",
+        "DateAdded": "2022-01-05T00:00:00"
+      }
+    ],
+    "jean": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "jean",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "gunnhildrs_legacy",
+        "DateAdded": "2022-01-05T00:00:00"
+      },
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "jean",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "sea_breeze_dandelion",
+        "DateAdded": "2021-06-09T00:00:00"
+      }
+    ],
+    "klee": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "klee",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "blossoming_starlight",
+        "DateAdded": "2023-07-05T00:00:00"
+      }
+    ],
+    "lisa": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "lisa",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "a_sobriquet_under_shade",
+        "DateAdded": null
+      }
+    ],
+    "mona": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "mona",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "pact_of_stars_and_moon",
+        "DateAdded": "2022-01-05T00:00:00"
+      }
+    ],
+    "ningguang": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "ningguang",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "orchids_evening_gown",
+        "DateAdded": "2022-01-05T00:00:00"
+      }
+    ],
+    "rosaria": [
+      {
+        "EntityId": "outfit",
+        "Rarity": {
+          "Range": {
+            "Start": {
+              "Value": 4,
+              "IsFromEnd": false
+            },
+            "End": {
+              "Value": 4,
+              "IsFromEnd": false
+            }
+          },
+          "Value": 4
+        },
+        "CharacterId": "rosaria",
+        "PortraitUri": null,
+        "WishArtUri": null,
+        "Id": "to_the_churchs_free_spirit",
+        "DateAdded": "2022-01-05T00:00:00"
+      }
+    ]
+  },
+  "Type": "OutfitDatabase"
+}

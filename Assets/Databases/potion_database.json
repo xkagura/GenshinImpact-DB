@@ -1,0 +1,425 @@
+{
+  "Potions": {
+    "gushing_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "lizard_tail": 1,
+          "dandelion_seed": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "AnemoDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "gushing_essential_oil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "windbarrier_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "crystal_core": 1,
+          "dandelion_seed": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "AnemoRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "windbarrier_potion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "frosting_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "lizard_tail": 1,
+          "mist_flower_corolla": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CritDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "frosting_essential_oil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "frostshield_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "crystal_core": 1,
+          "mist_flower_corolla": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "CryoRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "frostshield_potion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shocking_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "frog": 1,
+          "electro_crystal": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ElectroDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "shocking_essential_oil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "insulation_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "butterfly_wings": 1,
+          "electro_crystal": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "ElectroRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "insulation_potion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "unmoving_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "frog": 1,
+          "cor_lapis": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "GeoDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "unmoving_essential_oil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dustproof_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "butterfly_wings": 1,
+          "cor_lapis": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "GeoRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "dustproof_potion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "streaming_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "frog": 1,
+          "lotus_head": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "HydroDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "streaming_essential_oil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "desiccant_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "butterfly_wings": 1,
+          "lotus_head": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "HydroRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "desiccant_potion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "flaming_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "frog": 1,
+          "flaming_flower_stamen": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "PyroDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "flaming_essential_oil",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "heatshield_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "butterfly_wings": 1,
+          "flaming_flower_stamen": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "PyroRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "heatshield_potion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "forest_essential_oil": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "lizard_tail": 1,
+          "sumeru_rose": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DendroDMGUp",
+      "InteractiveMapPoint": null,
+      "Id": "forest_essential_oil",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "dendrocide_potion": {
+      "EntityId": "potion",
+      "RecipeBlueprint": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "crystal_core": 1,
+          "sumeru_rose": 1,
+          "mora": 100
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "StatusEffect": "DendroRESUp",
+      "InteractiveMapPoint": null,
+      "Id": "dendrocide_potion",
+      "DateAdded": "2022-08-24T00:00:00"
+    }
+  },
+  "Type": "PotionDatabase"
+}

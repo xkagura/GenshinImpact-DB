@@ -1,0 +1,585 @@
+{
+  "Materials": {
+    "hurricane_seed": {
+      "MaterialType": "HurricaneSeed",
+      "Element": "Anemo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "hurricane_seed",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lightning_prism": {
+      "MaterialType": "LightningPrism",
+      "Element": "Electro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "lightning_prism",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "basalt_pillar": {
+      "MaterialType": "BasaltPillar",
+      "Element": "Geo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "basalt_pillar",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "hoarfrost_core": {
+      "MaterialType": "HoarfrostCore",
+      "Element": "Cryo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "hoarfrost_core",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "everflame_seed": {
+      "MaterialType": "EverflameSeed",
+      "Element": "Pyro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "everflame_seed",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cleansing_heart": {
+      "MaterialType": "CleansingHeart",
+      "Element": "Hydro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "cleansing_heart",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "juvenile_jade": {
+      "MaterialType": "JuvenileJade",
+      "Element": "Physical",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "juvenile_jade",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "crystalline_bloom": {
+      "MaterialType": "CrystallineBloom",
+      "Element": "Cryo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "crystalline_bloom",
+      "DateAdded": "2021-02-03T00:00:00"
+    },
+    "marionette_core": {
+      "MaterialType": "MarionetteCore",
+      "Element": "Anemo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "marionette_core",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "perpetual_heart": {
+      "MaterialType": "PerpetualHeart",
+      "Element": "Physical",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "perpetual_heart",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "smoldering_pearl": {
+      "MaterialType": "SmolderingPearl",
+      "Element": "Pyro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "smoldering_pearl",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "dew_of_repudiation": {
+      "MaterialType": "DewOfRepudiation",
+      "Element": "Hydro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "dew_of_repudiation",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "storm_beads": {
+      "MaterialType": "StormBeads",
+      "Element": "Electro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "storm_beads",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "riftborn_regalia": {
+      "MaterialType": "RiftbornRegalia",
+      "Element": "Geo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "riftborn_regalia",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "dragonheirs_false_fin": {
+      "MaterialType": "DragonheirsFalseFin",
+      "Element": "Physical",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "dragonheirs_false_fin",
+      "DateAdded": "2022-01-05T00:00:00"
+    },
+    "runic_fang": {
+      "MaterialType": "RunicFang",
+      "Element": "Physical",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "runic_fang",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "majestic_hooked_beak": {
+      "MaterialType": "MajesticHookedBeak",
+      "Element": "Dendro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "majestic_hooked_beak",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "thunderclap_fruitcore": {
+      "MaterialType": "ThunderclapFruitcore",
+      "Element": "Electro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "thunderclap_fruitcore",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "perpetual_caliber": {
+      "MaterialType": "PerpetualCaliber",
+      "Element": "Physical",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "perpetual_caliber",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "light_guiding_tetrahedron": {
+      "MaterialType": "LightGuidingTetrahedron",
+      "Element": "Physical",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "light_guiding_tetrahedron",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "quelled_creeper": {
+      "MaterialType": "QuelledCreeper",
+      "Element": "Dendro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "quelled_creeper",
+      "DateAdded": "2022-11-02T00:00:00"
+    },
+    "pseudo_stamens": {
+      "MaterialType": "PseudoStamens",
+      "Element": "Anemo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "pseudo_stamens",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "evergloom_ring": {
+      "MaterialType": "EvergloomRing",
+      "Element": "Cryo, Electro, Hydro, Pyro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "evergloom_ring",
+      "DateAdded": "2023-04-12T00:00:00"
+    },
+    "artificed_spare_clockwork_component_coppelia": {
+      "MaterialType": "Coppelia",
+      "Element": "Anemo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "artificed_spare_clockwork_component_coppelia",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "artificed_spare_clockwork_component_coppelius": {
+      "MaterialType": "Coppelius",
+      "Element": "Cryo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "artificed_spare_clockwork_component_coppelius",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "emperors_resolution": {
+      "MaterialType": "EmperorsResolution",
+      "Element": "Pyro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "emperors_resolution",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fontemer_unihorn": {
+      "MaterialType": "FontemerUnihorn",
+      "Element": "Electro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "fontemer_unihorn",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "tourbillon_device": {
+      "MaterialType": "TourbillonDevice",
+      "Element": "Geo",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "tourbillon_device",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
+    "water_that_failed_to_transcend": {
+      "MaterialType": "WaterThatFailedToTranscend",
+      "Element": "Hydro",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "EntityId": "material",
+      "Id": "water_that_failed_to_transcend",
+      "DateAdded": "2023-11-08T00:00:00"
+    }
+  },
+  "Type": "NormalBossMaterialDatabase"
+}

@@ -1,0 +1,746 @@
+{
+  "Materials": {
+    "slime_condensate": {
+      "Set": "Slime",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "slime_condensate",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "slime_secretions": {
+      "Set": "Slime",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "slime_secretions",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "slime_concentrate": {
+      "Set": "Slime",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "slime_concentrate",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "damaged_mask": {
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "damaged_mask",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "stained_mask": {
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "stained_mask",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "ominous_mask": {
+      "Set": "Mask",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "ominous_mask",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "divining_scroll": {
+      "Set": "Scroll",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "divining_scroll",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sealed_scroll": {
+      "Set": "Scroll",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "sealed_scroll",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "forbidden_curse_scroll": {
+      "Set": "Scroll",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "forbidden_curse_scroll",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "firm_arrowhead": {
+      "Set": "Arrowhead",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "firm_arrowhead",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sharp_arrowhead": {
+      "Set": "Arrowhead",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "sharp_arrowhead",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "weathered_arrowhead": {
+      "Set": "Arrowhead",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "weathered_arrowhead",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "recruits_insignia": {
+      "Set": "FatuiInsignia",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "recruits_insignia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sergeants_insignia": {
+      "Set": "FatuiInsignia",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "sergeants_insignia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lieutenants_insignia": {
+      "Set": "FatuiInsignia",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "lieutenants_insignia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "treasure_hoarder_insignia": {
+      "Set": "TreasureHoarderInsignia",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "treasure_hoarder_insignia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "silver_raven_insignia": {
+      "Set": "TreasureHoarderInsignia",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "silver_raven_insignia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "golden_raven_insignia": {
+      "Set": "TreasureHoarderInsignia",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "golden_raven_insignia",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "whopperflower_nectar": {
+      "Set": "Nectar",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "whopperflower_nectar",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "shimmering_nectar": {
+      "Set": "Nectar",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "shimmering_nectar",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "energy_nectar": {
+      "Set": "Nectar",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "energy_nectar",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "old_handguard": {
+      "Set": "Handguard",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "old_handguard",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "kageuchi_handguard": {
+      "Set": "Handguard",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "kageuchi_handguard",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "famed_handguard": {
+      "Set": "Handguard",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "famed_handguard",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "spectral_husk": {
+      "Set": "Spectral",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "spectral_husk",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "spectral_heart": {
+      "Set": "Spectral",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "spectral_heart",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "spectral_nucleus": {
+      "Set": "Spectral",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "spectral_nucleus",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "fungal_spores": {
+      "Set": "FungalPowder",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "fungal_spores",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "luminescent_pollen": {
+      "Set": "FungalPowder",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "luminescent_pollen",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "crystalline_cyst_dust": {
+      "Set": "FungalPowder",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "crystalline_cyst_dust",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "faded_red_satin": {
+      "Set": "EremiteCloth",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "faded_red_satin",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "trimmed_red_silk": {
+      "Set": "EremiteCloth",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "trimmed_red_silk",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "rich_red_brocade": {
+      "Set": "EremiteCloth",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "rich_red_brocade",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "transoceanic_pearl": {
+      "Set": "Pearl",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "transoceanic_pearl",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "transoceanic_chunk": {
+      "Set": "Pearl",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "transoceanic_chunk",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "xenochromatic_crystal": {
+      "Set": "Pearl",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "xenochromatic_crystal",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "meshing_gear": {
+      "Set": "Gear",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "meshing_gear",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "mechanical_spur_gear": {
+      "Set": "Gear",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "mechanical_spur_gear",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "artificed_dynamic_gear": {
+      "Set": "Gear",
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "artificed_dynamic_gear",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Type": "CommonEnemyMaterialDatabase"
+}

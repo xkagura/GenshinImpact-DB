@@ -1,0 +1,288 @@
+{
+  "LangCode": "EN",
+  "Gadgets": {
+    "anemo_treasure_compass": {
+      "Name": "Anemo Treasure Compass",
+      "Description": "A compass that can be used in Mondstadt to search for nearby chests.\nThe needle of the Treasure Compass doesn't spin according to the world's magnetic field, but rather follows the energy of ley lines to lead the user to treasure.",
+      "Effect": "A compass that can be used in Mondstadt to search for nearby chests. If a chest is nearby, then it goes on cooldown for 30 seconds, otherwise, 5 seconds."
+    },
+    "anemoculus_resonance_stone": {
+      "Name": "Anemoculus Resonance Stone",
+      "Description": "This man-made stone plate possesses a certain characteristic similar to that of the Anemo Statues of The Seven, giving it the power to resonate with Anemoculi. Oculus Resonance Stones are crude imitations of the Statues of The Seven constructed by the ancients. But it is precisely this crudeness that makes them crave the power of elemental oculi, thus providing devout worshippers and adventurers alike a prime opportunity to collect oculi.",
+      "Effect": "A stone that can be used in Mondstadt to search for nearby Anemoculi."
+    },
+    "dendro_treasure_compass": {
+      "Name": "Dendro Treasure Compass",
+      "Description": "A compass that can be used in Sumeru to search for nearby chests.\nFor some people, the significance of life lies in exploration and discovery. Upon reaching each destination, there is always bountiful treasure awaiting.",
+      "Effect": "A compass that can be used in Sumeru to search for nearby chests. The cooldown between uses is 30 seconds if a chest is detected and 5 seconds if not."
+    },
+    "dendroculus_resonance_stone": {
+      "Name": "Dendroculus Resonance Stone",
+      "Description": "A curious amulet of a similar nature to the Dendro Statues of The Seven. By the same token, it is drawn to Dendroculi.\nIn the world, there are grass and trees, vines and flowers — living beings of Dendro Element that abound in diverse shapes and forms. Though differing in appearance and various other aspects, they were born from the same land and will return to the same land.",
+      "Effect": "A stone that can be used in Sumeru to search for nearby Dendroculi."
+    },
+    "electro_treasure_compass": {
+      "Name": "Electro Treasure Compass",
+      "Description": "A handy tool used to locate nearby chests in Inazuma.\nThe land of th e thundering archipelago has suffered a great many past hurts. The many treasure chests that dot the islands is a symbol of its revival from these wounds.",
+      "Effect": "A compass that can be used in Inazuma to search for nearby chests. If a chest is nearby, then it goes on cooldown for 30 seconds, otherwise, 5 seconds."
+    },
+    "electroculus_resonance_stone": {
+      "Name": "Electroculus Resonance Stone",
+      "Description": "A stone that can be used in Inazuma to search for nearby Electroculi.\nThis strange device can resonate with Electro Statues of The Seven. Due to this trait, it can detect the presence of Electroculi.\nAcross the span of endless years, even the most majestic cities and sculptures would be worn down by wind and rain, and even the power of Statues of The Seven would gradually dissipate. But this faded strength would coalesce once more into the Oculi, which call out wordlessly to their Statues.",
+      "Effect": "A stone that can be used in Inazuma to search for nearby Electroculi."
+    },
+    "geo_treasure_compass": {
+      "Name": "Geo Treasure Compass",
+      "Description": "A compass that can be used in Liyue to search for nearby chests.\nThe land of Ge o is rich with valuable resources, with treasures hidden throughout the mountains and wilderness just waiting to be found.",
+      "Effect": "A compass that can be used in Liyue to search for nearby chests. If a chest is nearby, then it goes on cooldown for 30 seconds, otherwise, 5 seconds."
+    },
+    "geoculus_resonance_stone": {
+      "Name": "Geoculus Resonance Stone",
+      "Description": "This exquisite stone plate imitates a certain mysterious quality of the Geo Statues of The Seven, causing it to lead people to the location of Geoculi. Elemental Oculi represent the lost power of the Statues of The Seven - perhaps offering this power back to the statue also has significance for the lands that the gods watch over.",
+      "Effect": "A stone that can be used in Liyue to search for nearby Geoculi."
+    },
+    "hydro_treasure_compass": {
+      "Name": "Hydro Treasure Compass",
+      "Description": "A convenient tool that can be used to search for nearby chests. These chests scattered across Fontaine are not the lawful property of any individual or organization. In most circumstances, it is legal to claim the contents found within.",
+      "Effect": "A compass that can be used in Fontaine to search for nearby chests. If a chest is nearby, then it goes on cooldown for 30 seconds, otherwise, 5 seconds."
+    },
+    "hydroculus_resonance_stone": {
+      "Name": "Hydroculus Resonance Stone",
+      "Description": "A curious talisman that possesses similar properties to the Hydro Statues of The Seven. No effort was spared during its making to ensure that it exhibited said properties. It seems to be able to detect the Elemental Flow of Hydroculi. Oculi are by nature scattered pieces of power belonging to the Statues of The Seven. Returning them to the Statues is therefore the reasonable, right, and lawful thing to do.",
+      "Effect": "A talisman that can be used in Fontaine to search for nearby Hydroculi. The cooldown between uses is 300 seconds if an oculus is detected and 5 seconds if not."
+    },
+    "kusava": {
+      "Name": "\"Kusava\"",
+      "Description": "\"Fatty fruit, bitter fruit.\"\nA temporary home for Aranara memories. Kusava makes Aranara strong.\n\nAfter Arahaoma Ritual\nNow inside it are stored the cherished memories of Aranakin, Aragaru, and Aranaga. The power within is ready to be unleashed at any minute for the sake of beloved friends.",
+      "Effect": "Equip it to utilize the power of Aranara."
+    },
+    "the_boon_of_the_elder_tree": {
+      "Name": "\"The Boon of the Elder Tree\"",
+      "Description": "Talismans of this kind are often seen in the forests in Sumeru. They possess the ability to gather the power of grass and trees.\nTo prevent the erosion of the forest and, in darker times, to resist the invasion of vicious monsters, trees and vines would form impregnable shelters together. Those who held \"the Boon of the Elder Tree\" were recognized by the forest as its friends and thus gained unfettered access to walk amidst the forest under the guidance of streams and moonlight. But that is archaic lore from a long, long time ago.",
+      "Effect": "Instantly collects all available wood from trees in a certain range, then goes on a cooldown for 15 seconds."
+    },
+    "adepti_seekers_stove": {
+      "Name": "Adepti Seeker's Stove",
+      "Description": "A curious portable stove that can be quickly set up for cooking almost anywhere. Liyue's terrain is vast, varied, and at times even ihospitable — and yet all its inhabitants share a love of good food. These two phenomena would not be able to coexist were it not for portable cooking equipment like this. Whether you are scaling the heights of Jueyun Karst or exploring the islets of Guyun Stone Forest, bringing a portable stove means that a delicious and freshly cooked hot meal is always available at a moment's notice.",
+      "Effect": "A portable stove that can be used to access Cooking when outside of combat."
+    },
+    "crystalfly_trap": {
+      "Name": "Crystalfly Trap",
+      "Description": "A Crystalfly Trap, developed by a senior researcher named Fawitzki from Fontaine Research Institute of Kinetic Energy Engineering.\nAt the time, the Research Institute believed the research to be completely worthless, and so sold the patent to The Steambird for a pittance. The Steambird in turn wished to try to use the Crystal Cores to manufacture flash bulbs for Kameras, but the research failed due to technical challenges.",
+      "Effect": "A device used to passively capture Crystalflies after you insert the specific Minerals."
+    },
+    "fishing_line_stabilizer": {
+      "Name": "Fishing Line Stabilizer",
+      "Description": "The more data it collects, the better the stabilizer works.\n\nThe device's prototype was the pointless invention of a Fontaine inventor that drew little interest for the longest time until the Fontaine Fishing Association discovered it and modified the product into the fishing line stabilizer used today. When the device first came out, it was most warmly received by the Association members, and now it has gradually been promoted in other regions.\nIt is an exceptionally hot commodity in the Snezhnayan market. Word has it that one of the Lord Harbingers is particularly fond of the product, which explains the hype.",
+      "Effect": "A self-adaptive tension stabilizer that can be installed on a fishing rod to facilitate fishing. The device can automatically detect and record how hard different fish struggle."
+    },
+    "kamera": {
+      "Name": "Kamera",
+      "Description": "A convenient tool that records and saves images upon use.\nA special item from Fontaine that can record images. People and places to remember must come aplenty for a Traveler roaming the world.",
+      "Effect": "Allows pictures to be taken anywhere, even while fighting. Has no cooldown period."
+    },
+    "lumenstone_adjuvant": {
+      "Name": "Lumenstone Adjuvant",
+      "Description": "When equipped in The Chasm's Underground Mines, this precious crystal can provide illumination.\n\nIt has many similarities to the Glazed Sand Crystal that may only be found within The Chasm, but it stores even greater power within it.\nMay it be as a sun in your palm, lighting the way through the lightless tunnels and bringing comfort where all is dark.",
+      "Effect": "Illuminates the area and destroys Oozing Concretions"
+    },
+    "memento_lens": {
+      "Name": "Memento Lens",
+      "Description": "A mysterious lens. If you view small fox statues with this lens, you can find things that were not there before.\nThey say that in the distant past, the legendary Kitsune Saiguu left a catalyst for the then-Hiiragi Clan head, Hiroshi, as a tool to be used in exorcisms.\nThe Hiiragis would have a special Kamera made to order from overseas with that catalyst mounted on its lens assembly, before giving it back to the Grand Narukami Shrine as a symbol of their friendship.",
+      "Effect": "Activates Earth Kitsune Statues on Narukami Island."
+    },
+    "narukawa_ukai": {
+      "Name": "Narukawa Ukai",
+      "Description": "A rod created to commemorate the ancient Ukai, or Cormorant, fishing method. The ruby-red gem at the tip of the rod represents the tinder used by the cormorant fishers, and the bird ornaments along the rod's shaft represent the cormorants themselves, who helped the hard-working Inazumans pass through those cataclysmic years. This low-efficiency fishing method has long become obsolete, but the persevering, pioneering spirit has been passed down together with this rod.",
+      "Effect": "If you can stay within the Ideal Tension Zone while fishing, this rod will shorten the time in which fish will struggle by a stable amount and increase your chances of success. This effect only works in Inazuma."
+    },
+    "nre_menu_30": {
+      "Name": "NRE (Menu 30)",
+      "Description": "A handy meal-in-a-pouch that can transform most foods into instantly absorbable nutritional matter. Despite the fact that it can greatly increase the efficiency of nutritional intake, most knights aren't too keen to put their food in it...",
+      "Effect": "A bag with two slots, one for HP recovery food and the other for Revival type food, accessible from hotbar."
+    },
+    "omni_ubiquity_net": {
+      "Name": "Omni-Ubiquity Net",
+      "Description": "A net that has been modified once again by Wakamurasaki using onmyoudou. She claims that it can detain the essence of small creatures before using the net itself as a medium to recreate their forms.",
+      "Effect": "When used, replaces the player's Elemental Skill with the capture ability. It has a cooldown of 10 seconds."
+    },
+    "parametric_transformer": {
+      "Name": "Parametric Transformer",
+      "Description": "This mysterious device, discovered within the ruins, has the power to accelerate cycles and \"transmute\" material objects. generally speaking, everything is undergoing a cycle. Memories and elements surge within the ley lines, rotten fallen fruits return to the soil, and the trees born from the soil will one day bear their crystalline fruit...",
+      "Effect": "A device that can transmute up to 150 materials placed within to convert it into some other material. Use Elemental Attacks to generate energy for the transmutation. It has a cooldown of 7 days."
+    },
+    "peculiar_pinion": {
+      "Name": "Peculiar Pinion",
+      "Description": "A feather left behind by the Thunderbird that once obliterated Tsurumi Island. It is filled with many memories and much power.\nThe people dwelling within the island fog worshiped the being whose light they could see even through the shroud all around them, and the feathers that fell from the Thunderbird also became the basis for the now-lost Tsurumi instrument, the Maushiro.\nDue to a change, the Thunderbird would eventually annihilate all civilization on the island, and it would later itself be slain over Seirai Island.",
+      "Effect": "Activates Mysterious Carvings on Tsurumi Island. It has a cooldown of 3 seconds."
+    },
+    "portable_aerodynamic_gelatinous_bubble_generator": {
+      "Name": "Portable Aerodynamic Gelatinous Bubble Generator",
+      "Description": "The Fontaine Research Institute researcher Givalois developed this prototype machine as part of a research project whose original purpose was to generate a large amount of gelatinous bubbles. Said project aimed to have the bubbles so produced carry some amount of water within them, and move or hover stably in the air, potentially achieving the aim of being able to quickly transport water resources.\nHowever, as they were never able to find a material to make gelatinous bubbles of this type, the project stalled at the prototype stage.\nBut it is said that the researcher Givalois's children loved this prototype bubble machine, so perhaps it would be possible to sell it as a toy?\n\n\"This machine is a product of Daddy's research, and it's called the Portable Aerodynamic Gelatinous Bubble Generator...\"\n\"Bubbles! So pretty! Daddy, you're amazing!\"",
+      "Effect": "It blows bubbles for up to 4 seconds."
+    },
+    "portable_waypoint": {
+      "Name": "Portable Waypoint",
+      "Description": "Use this to create a temporary Teleport Waypoint at your current location. Only one can exist at a time.\nA pocket-sized item that creates a temporary Teleport Waypoint. It is capable of connecting with the ley lines, at least to the extent necessary to bring about teleportation.Although it offers an incredible convenience to Vision bearers, the actual principles behind Teleport Waypoints are not yet fully understood. We can only hope that using them does not cause any undesirable side effects...",
+      "Effect": "Creates a temporary waypoint at current location for 7 days with a limit of 1 in the world."
+    },
+    "red_feather_fan": {
+      "Name": "Red Feather Fan",
+      "Description": "This item possesses some sort of mysterious power. In the hands of the tengu warriors, it can have various effects, but in the hands of an ordinary person, it can still have enough power to \"make one's body lighter\" while in mid-air.",
+      "Effect": "Use this to increase Gliding Movement SPD by 30% for 30s."
+    },
+    "seed_dispensary": {
+      "Name": "Seed Dispensary",
+      "Description": "A special container obtained from Madame Ping. According to her, this dispensary has the power to \"generate seeds\"... That is to say, it can create the seeds of various plants according to their special traits, which can then be planted within the appropriate fields within your Serenitea Pot.",
+      "Effect": "While the gadget is equipped, harvesting certain plants will give the plant and an additional plant seed. Using the gadget opens the seed inventory."
+    },
+    "serendipity": {
+      "Name": "Serendipity",
+      "Description": "This archaic Sumeru fishing rod is carved like white jade, decorated with dark gold patterns, and embellished with green gems. Under its pure aesthetics, it seems to have some meaning related to \"life\" — it is said that the oldest fishing rod of Sumeru was a branch wrapped with vines, and many master anglers achieved miraculous catches with such rods. Today's fishermen also believe that such fishing rods with long histories will bring them good luck.",
+      "Effect": "If you can stay within the Ideal Tension Zone while fishing, this rod will shorten the time in which fish will struggle by a stable amount and increase your chances of success. This effect only works in Sumeru."
+    },
+    "serenitea_pot": {
+      "Name": "Serenitea Pot",
+      "Description": "A teapot obtained from Madame Ping. There seems to be a whole realm within it...",
+      "Effect": "Enter the Serenitea Pot to access player housing."
+    },
+    "special_kamera": {
+      "Name": "Special Kamera",
+      "Description": "A strange device from Fontaine that will not only record sceneries but will also add special colors to the printed images. This design was made in response to \"The Steambird\"'s request for a Kamera that could not only reflect the environment, but also the emotions of the one taking the picture. Unfortunately, the final product could not quite match their specifications.",
+      "Effect": "Allows pictures with a special border to be taken anywhere. Has no cooldown period."
+    },
+    "ultra_hot_burner_lamp_test_model": {
+      "Name": "Ultra-Hot Burner Lamp Test Model",
+      "Description": "Young Akademiya researchers are accustomed to cooking with their experimental instruments. Someone invented an \"Ultra-Hot Burner Lamp\" that utilizes the energy of minerals to juice up the heat, all the better to save time and increase cooking efficiency.\nThe one you have is a test model for civilian use with power constraints and a dimmer flame, which should reduce its fire hazard rating. Even so, this convenient gadget is still perfectly capable of cooking jam and drying sausages with ease.",
+      "Effect": "A gadget that improves the efficiency of food processing by consuming minerals."
+    },
+    "vintage_lyre": {
+      "Name": "Vintage Lyre",
+      "Description": "Use this traditional instrument from Mondstadt to play songs.\nAn instrument of incredible workmanship, it will surely produce moving music when played by able hands.\nMondstadt has a long-standing tradition of poetry and song, and thus also boasts a long history of constructing instruments to that effect. Bards are most proud of their songs and poems, and perhaps the instruments, too, would be proud of their owners and their musical tradition.",
+      "Effect": "Use this traditional instrument from Mondstadt to play songs."
+    },
+    "warming_bottle": {
+      "Name": "Warming Bottle",
+      "Description": "Upon use, emits heat for a short period over a small area, diminishing the effect of Sheer Cold.\nWarming Seelie have evolved in response to the extreme change in temperature to give the comfort of warmth to those who seek it. This convenient gadget was originally crafted by those who struggled to survive in the snowy mountains in imitation of such evolved Seelie.",
+      "Effect": "Emits heat for a short period over a small area to diminish the effect of Sheer Cold."
+    },
+    "wilderness_rod": {
+      "Name": "Wilderness Rod",
+      "Description": "A rather pedestrian-looking fishing rod. Apart from being quite sturdy, even to point where you could use it for self-defense, it lacks any sort of special feature. But the old adage holds true — \"the novice's rod shall be the tent-pole of their veterancy.\" Even the greatest anglers must surely have started with this simple implement.",
+      "Effect": "A basic fishing rod."
+    },
+    "wind_catcher": {
+      "Name": "Wind Catcher",
+      "Description": "This item was designed by Knights of Favonius scholars to help the Knights on their scouting expeditions and travels by affording them the ability to manipulate the blessings of the Anemo God.\nIn order to take advantage of its wind currents with a wind glider, however, you technically need a gliding license - this has prevented it from being widely used, at least legally anyway.",
+      "Effect": "A bottle that is able to hold up to 5 Anemograna and use their energy to create wind currents. Has a cooldown of 100 seconds and cannot be used in combat."
+    },
+    "wind_powered_wind_generator": {
+      "Name": "Wind-Powered Wind Generator",
+      "Description": "A wind generating device developed by Refait, senior researcher from Fontaine Research Institute of Kinetic Energy Engineering.\nIn Mondstadt, it is necessary to pass an exam and obtain a license before using a wind glider for travel. The relevant laws and regulations in Fontaine are quite developed, with even clearer rules, and a much stricter process. It would be even better if someone were to enforce them.",
+      "Effect": "Creates a small Wind Current at the player's position for 3 seconds. Can only be activated while Gliding."
+    },
+    "windtangler": {
+      "Name": "Windtangler",
+      "Description": "A long, bright, transparent rod created by a poet from Mondstadt. To help borrow the power of Anemo to help raise the rod, the poet rather ingeniously designed a fishing reel made from the leaves of Windwheel Asters, which also imparts a certain romanticism of \"lingering in the wind\" to this device. But perhaps there were issues in the handiwork or in the design itself, for the finalized product could not spin as freely as expected. Perhaps this is what they call \"the chasm between professions?\"",
+      "Effect": "If you can stay within the Ideal Tension Zone while fishing, this rod will shorten the time in which fish will struggle by a stable amount and increase your chances of success. This effect only works in Mondstadt."
+    },
+    "wishmaker": {
+      "Name": "Wishmaker",
+      "Description": "A long rod that stands like elegant bamboo. It is said to have been constructed and kept by a skilled hermit from Liyue, and it was first discovered on a stone tablet with the following words carved upon it: \"O you who aspire, take up this rod,\" like a legendary sword waiting for a hero to pull it out. Of course, you only ever hear this glorious origin story from the mouths of merchants, so it may just be some rhetoric used to increase the item's value... But those who know this and still use this rod can only be those who are ready and willing to accept this pact.",
+      "Effect": "If you can stay within the Ideal Tension Zone while fishing, this rod will shorten the time in which fish will struggle by a stable amount and increase your chances of success. This effect only works in Liyue."
+    }
+  },
+  "Mementos": {
+    "aratakis_great_and_glorious_drum": {
+      "Name": "Arataki's Great and Glorious Drum",
+      "Description": "A musical instrument that can be used in performances.\nA small drum that Itto gave you. He bought it from an outlander merchant, and while it does look quite normal, it is said to be a relic left behind by an ancient and powerful onmyouji who used it to drive out calamity and pray for blessings.\nIt would cost an ordinary person a large sum if they were to wish to possess this, but the price may be negotiated if one has some connection to the drum.\nAnd wouldn't you know it? An 8,000,000 Mora treasure was eventually purchased for 80,000. What a steal for Itto, eh?",
+      "Effect": "Allows the player to play music."
+    },
+    "cloud_retainers_damasked_device": {
+      "Name": "Cloud Retainer's Damasked Device",
+      "Description": "Made from stacked paper, this lightweight device has the appearance of a bird, and fittingly, was given to you by Cloud Retainer.\nWhile it may be called a \"device,\" you cannot see any traditional mechanical components here — well, not from the outside, anyway.\nIt seems that this adeptus' skills as a mechanist have improved even further.",
+      "Effect": "Commemorative gadget."
+    },
+    "endora": {
+      "Name": "Endora",
+      "Description": "Just a very curious Lochfolk who only wishes to see the world. Might actually get along very well with Mini Seelie: Dayflower, but please do not meld them together, thank you.",
+      "Effect": "Commemorative gadget."
+    },
+    "floral_zither": {
+      "Name": "Floral Zither",
+      "Description": "A musical instrument that can be used in performances.\nIt is made of rather unique materials, and its craftsmanship is quite different from the designs that are currently in vogue. An unpredictable strength has been woven into the ethereal strings that can even allow it to cause the illusions within the heart of its player to surface.\nThere is an old adage in Liyue: \"the longer one's eye of the flower drinks, the deeper one's heart into the mire sinks.\" It seems that only the strong-willed may use this instrument.",
+      "Effect": "Allows the player to play music."
+    },
+    "itty_bitty_octobaby": {
+      "Name": "Itty Bitty Octobaby",
+      "Description": "A type of tiny octopus that normally lives in the depths of the ocean.\nPerhaps out of an overabundance of curiosity, or a desire to travel, it begins to cruise throughout the seas while still extremely young. If it sees a creature it likes, it will follow it everywhere.\nBut who knows what it will be like when it grows up...",
+      "Effect": "Commemorative gadget."
+    },
+    "jumpy_dumpty_party_popper": {
+      "Name": "Jumpy Dumpty Party Popper",
+      "Description": "A party popper that, when used, unleashes streamers and confetti.\n\"Jumpy Dumpty is Klee's good friend and fish blasting companion! But if Klee brings Jumpy Dumpty to the festival, Master Jean will be angry... Don't you worry, though! Jumpy Dumpty has gained a new ability with Albedo's help! Just pull on its tail, and beautiful colored strips will come flying out!\"",
+      "Effect": "Releases a burst of confetti. It has a cooldown of 10 seconds."
+    },
+    "launch_tube": {
+      "Name": "Launch Tube",
+      "Description": "A special device created by the artisan Pengyi. It comes with functions that allow for the creation and automated launch of fireworks. In the hands of someone creative, it will surely see great use in the creation of unique and radiant fireworks shows.",
+      "Effect": "Modify and Launch Fireworks."
+    },
+    "mini_seelie_curcuma": {
+      "Name": "Mini Seelie: Curcuma",
+      "Description": "A memento from the Lost Riches event. Equip it to obtain a mini Seelie companion.\nA miniature golden Seelie.\nIt gives off a feeling very similar to that of Mora. They say that Seelie of this color represent good fortune.",
+      "Effect": "Commemorative gadget."
+    },
+    "mini_seelie_dayflower": {
+      "Name": "Mini Seelie: Dayflower",
+      "Description": "A memento from the Lost Riches event. Equip it to obtain a mini Seelie companion.\nA miniature sea-blue Seelie.\nUnlike other Seelie, it does not serve to guide others, but to follow them to see the world.",
+      "Effect": "Commemorative gadget."
+    },
+    "mini_seelie_moss": {
+      "Name": "Mini Seelie: Moss",
+      "Description": "A memento from the \"Lost Riches\" event. Equip it to obtain a mini Seelie companion.\nA miniature green Seelie. It becomes most happy indeed when it gets close to a tree.",
+      "Effect": "Commemorative gadget."
+    },
+    "mini_seelie_rose": {
+      "Name": "Mini Seelie: Rosé",
+      "Description": "A memento from the Lost Riches event. Equip it to obtain a mini Seelie companion.\nA miniature powder-pink Seelie.\nThough it cannot say a word, it will silently follow a traveler that strikes its fancy around the world.",
+      "Effect": "Commemorative gadget."
+    },
+    "mini_seelie_viola": {
+      "Name": "Mini Seelie: Viola",
+      "Description": "A memento from the Lost Riches event. Equip it to obtain a mini Seelie companion.\nA miniature purple Seelie. Its color is very similar to that of Electro-infused items. Who knows if you might get a little tingle from poking it...",
+      "Effect": "Commemorative gadget."
+    },
+    "moonstringer": {
+      "Name": "Moonstringer",
+      "Description": "A special fishing rod created for the sake of the Lunar Leviathan. To tackle this legendary fish, the creator of this rod specially added some material with rare functions onto the rod itself and the fishing line, giving it both great malleability and tensile strength. Of course, such a treasure could easily catch ordinary fish, but that seems like overkill to the point where even the rod might feel ashamed to be used thus.",
+      "Effect": "If you can stay within the Ideal Tension Zone while fishing, this rod will shorten the time in which fish will struggle at an accelerating rate and increase your chances of success. If you leave the Ideal Tension Zone, the acceleration will reset."
+    },
+    "shiki_koshou": {
+      "Name": "Shiki Koshou",
+      "Description": "A gift from Shiki Taishou: a replica armed with spiritual power.\nThough Shiki Koshou is incapable of charm magic, it is in contact with Shiki Taishou at all times and can share all that it has seen and heard with him, so it's almost like you've still got Shiki Taishou with you on your journey.",
+      "Effect": "Commemorative gadget."
+    },
+    "waverider_repair_toolbox": {
+      "Name": "Waverider Repair Toolbox",
+      "Description": "A toolbox filled with all manner of items that can be used to repair the damage done to a Waverider.\nRestores 50% of a Waverider's structural integrity.\nHas a 90s cooldown.",
+      "Effect": "Repairs the damage done to a Waverider by restoring 50% of the health on a 90 second cooldown."
+    },
+    "wind_blessed_harpastum": {
+      "Name": "Wind-Blessed Harpastum",
+      "Description": "A harpastum made from pure bird feathers and strong fabric. Perhaps it contains some strange power...",
+      "Effect": "Replaces the current character's Elemental Skill with a throwable ball."
+    },
+    "windblume_festival_commemorative_balloon": {
+      "Name": "Windblume Festival Commemora­tive Balloon",
+      "Description": "Use this to release a balloon that can be popped. Balloons have special significance in the land of the wind, for they represent the freedom to drift with the wind. Of course, air pressure will destroy balloons once they've reached a certain height.",
+      "Effect": "Releases a single balloon every time it is used. It has a cooldown of 5 seconds."
+    },
+    "windsong_lyre": {
+      "Name": "Windsong Lyre",
+      "Description": "Use this traditional instrument from Mondstadt to play songs. An instrument of incredible workmanship, it will surely produce moving music when played by able hands.\nMondstadt has a long-standing tradition of poetry and song, and thus also boasts a long history of constructing instruments to that effect. Bards are most proud of their songs and poems, and perhaps the instruments, too, would be proud of their owners and their musical tradition.",
+      "Effect": "Allows the player to play music."
+    }
+  },
+  "Type": "GadgetLocalization"
+}

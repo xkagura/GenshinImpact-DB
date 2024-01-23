@@ -1,0 +1,109 @@
+{
+  "Reactions": {
+    "swirl": {
+      "EntityId": "reaction",
+      "FirstElement": "Anemo",
+      "Combination": "Cryo, Electro, Hydro, Pyro",
+      "Reversible": true,
+      "Id": "swirl",
+      "DateAdded": null
+    },
+    "crystallize": {
+      "EntityId": "reaction",
+      "FirstElement": "Geo",
+      "Combination": "Cryo, Electro, Hydro, Pyro",
+      "Reversible": true,
+      "Id": "crystallize",
+      "DateAdded": null
+    },
+    "bloom": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Dendro, Hydro",
+      "Reversible": true,
+      "Id": "bloom",
+      "DateAdded": null
+    },
+    "burning": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Dendro, Pyro",
+      "Reversible": true,
+      "Id": "burning",
+      "DateAdded": null
+    },
+    "electro_charged": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Electro, Hydro",
+      "Reversible": true,
+      "Id": "electro_charged",
+      "DateAdded": null
+    },
+    "frozen": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Cryo, Hydro",
+      "Reversible": true,
+      "Id": "frozen",
+      "DateAdded": null
+    },
+    "melt": {
+      "EntityId": "reaction",
+      "FirstElement": "Pyro",
+      "Combination": "Cryo",
+      "Reversible": false,
+      "Id": "melt",
+      "DateAdded": null
+    },
+    "melt_x2": {
+      "EntityId": "reaction",
+      "FirstElement": "Cryo",
+      "Combination": "Pyro",
+      "Reversible": false,
+      "Id": "melt_x2",
+      "DateAdded": null
+    },
+    "overloaded": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Electro, Pyro",
+      "Reversible": true,
+      "Id": "overloaded",
+      "DateAdded": null
+    },
+    "quicken": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Dendro, Electro",
+      "Reversible": true,
+      "Id": "quicken",
+      "DateAdded": null
+    },
+    "superconduct": {
+      "EntityId": "reaction",
+      "FirstElement": null,
+      "Combination": "Cryo, Electro",
+      "Reversible": true,
+      "Id": "superconduct",
+      "DateAdded": null
+    },
+    "vaporize": {
+      "EntityId": "reaction",
+      "FirstElement": "Hydro",
+      "Combination": "Pyro",
+      "Reversible": false,
+      "Id": "vaporize",
+      "DateAdded": null
+    },
+    "vaporize_x2": {
+      "EntityId": "reaction",
+      "FirstElement": "Pyro",
+      "Combination": "Hydro",
+      "Reversible": false,
+      "Id": "vaporize_x2",
+      "DateAdded": null
+    }
+  },
+  "Type": "ReactionDatabase"
+}

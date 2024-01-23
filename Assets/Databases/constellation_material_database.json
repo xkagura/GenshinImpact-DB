@@ -1,0 +1,113 @@
+{
+  "Materials": {
+    "five_star_stella_fortuna": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "five_star_stella_fortuna",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "four_star_stella_fortuna": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Id": "four_star_stella_fortuna",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "memory_of_roving_gales": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "memory_of_roving_gales",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "memory_of_immovable_crystals": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "memory_of_immovable_crystals",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "memory_of_violet_flash": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "memory_of_violet_flash",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "memory_of_flourishing_green": {
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "Id": "memory_of_flourishing_green",
+      "DateAdded": "2022-08-24T00:00:00"
+    }
+  },
+  "Type": "ConstellationMaterialDatabase"
+}

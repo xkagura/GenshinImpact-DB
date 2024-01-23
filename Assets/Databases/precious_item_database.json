@@ -1,0 +1,469 @@
+{
+  "Resins": {
+    "original_resin": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "InteractiveMapPoint": null,
+      "Id": "original_resin",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "condensed_resin": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "InteractiveMapPoint": null,
+      "Id": "condensed_resin",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "fragile_resin": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "InteractiveMapPoint": null,
+      "Id": "fragile_resin",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "transient_resin": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "InteractiveMapPoint": null,
+      "Id": "transient_resin",
+      "DateAdded": "2021-04-28T00:00:00"
+    }
+  },
+  "PreciousItems": {
+    "intertwined_fate": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "InteractiveMapPoint": null,
+      "Id": "intertwined_fate",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "acquaint_fate": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 5,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 5,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 5
+      },
+      "InteractiveMapPoint": null,
+      "Id": "acquaint_fate",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "anemoculus": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          5
+        ]
+      },
+      "Id": "anemoculus",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "dendroculus": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          403
+        ]
+      },
+      "Id": "dendroculus",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "geoculus": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          6
+        ]
+      },
+      "Id": "geoculus",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "electroculus": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          194
+        ]
+      },
+      "Id": "electroculus",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "hydroculus": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          508
+        ]
+      },
+      "Id": "hydroculus",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "crimson_agate": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1186.11,
+          "Longitude": 86.65,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          141
+        ]
+      },
+      "Id": "crimson_agate",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "lumenspar": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -14.58,
+          "Longitude": -91.9,
+          "Zoom": -4.0
+        },
+        "Map": "Chasm",
+        "ShownTypes": [
+          357
+        ]
+      },
+      "Id": "lumenspar",
+      "DateAdded": "2022-03-30T00:00:00"
+    },
+    "mondstadt_shrine_of_depths_key": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 365.8,
+          "Longitude": -68.2,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          8
+        ]
+      },
+      "Id": "mondstadt_shrine_of_depths_key",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "liyue_shrine_of_depths_key": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          9
+        ]
+      },
+      "Id": "liyue_shrine_of_depths_key",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "inazuma_shrine_of_depths_key": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          212
+        ]
+      },
+      "Id": "inazuma_shrine_of_depths_key",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "sumeru_shrine_of_depths_key": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          411
+        ]
+      },
+      "Id": "sumeru_shrine_of_depths_key",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "fontaine_shrine_of_depths_key": {
+      "EntityId": "precious_item",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          509
+        ]
+      },
+      "Id": "fontaine_shrine_of_depths_key",
+      "DateAdded": "2023-08-16T00:00:00"
+    }
+  },
+  "Type": "PreciousItemDatabase"
+}

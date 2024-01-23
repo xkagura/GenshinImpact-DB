@@ -1,0 +1,18 @@
+{
+  "LangCode": "EN",
+  "Challenges": {
+    "blossom_of_wealth": {
+      "Name": "Blossom of Wealth",
+      "Description": "A flower blossom known as \"Wealth\" which grows from the Ley Lines in response to someone's desires. Perhaps the treasures within it can satisfy a person's monetary desires, for now..."
+    },
+    "blossom_of_revelation": {
+      "Name": "Blossom of Revelation",
+      "Description": "A flower blossom known as \"Revelation\" which grows from the Ley Lines in response to someone's desire for battle. Perhaps the treasures within it can help one recall the perils that they have experienced once before..."
+    },
+    "spiral_abyss": {
+      "Name": "Spiral Abyss",
+      "Description": "A massive underground city constructed by an ancient civilization long gone. To this day, the purpose of this underground city remains unknown. It structure is divided into the \"Abyss Corridor,\" which connects worlds, and the \"Abyssal Moon Spire,\" which leads to the unknown. It is now collectively called the \"Spiral Abyss\"... It is said that many secrets and treasures that have been long forgotten by this world lay buried within...\n\nMonsters and humans alike flock to the tower in search of the secrets and treasures it contains. Challenge different floors of the tower and defeat the enemies within to win Abyssal Stars. Do this, and the Spiral Abyss may yet look upon your hard work and bestow rewards upon you."
+    }
+  },
+  "Type": "ChallengeLocalization"
+}

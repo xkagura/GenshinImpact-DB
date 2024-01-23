@@ -1,0 +1,201 @@
+{
+  "FishBaits": {
+    "fake_fly_bait": {
+      "BaitType": "FakeFly",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "sakura_bloom": 1,
+          "horsetail": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "fake_fly_bait",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "false_worm_bait": {
+      "BaitType": "FalseWorm",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "slime_condensate": 1,
+          "berry": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "false_worm_bait",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "flashing_maintenance_mek_bait": {
+      "BaitType": "MekBait",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "marcotte": 1,
+          "iron_chunk": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "flashing_maintenance_mek_bait",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fruit_paste_bait": {
+      "BaitType": "FruitPaste",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "sunsettia": 1,
+          "wheat": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "fruit_paste_bait",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "redrot_bait": {
+      "BaitType": "Redrot",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "dendrobium": 1,
+          "fowl": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "redrot_bait",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "sour_bait": {
+      "BaitType": "SourBait",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "bulle_fruit": 1,
+          "wheat": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "sour_bait",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "sugardew_bait": {
+      "BaitType": "Sugardew",
+      "CraftingRecipe": {
+        "CraftingMethod": "Crafting",
+        "Ingredients": {
+          "harra_fruit": 1,
+          "sumeru_rose": 1
+        },
+        "AmountCrafted": 10,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "sugardew_bait",
+      "DateAdded": "2021-09-01T00:00:00"
+    }
+  },
+  "Type": "FishBaitDatabase"
+}

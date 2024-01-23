@@ -1,0 +1,326 @@
+{
+  "Materials": {
+    "fragments_of_innocence": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "FragmentsOfInnocence",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "fragments_of_innocence",
+      "DateAdded": "2021-06-09T00:00:00"
+    },
+    "the_visible_winds": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "TheVisibleWinds",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "the_visible_winds",
+      "DateAdded": "2021-03-17T00:00:00"
+    },
+    "akos_sake_vessel": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "AkosSakeVessel",
+      "CraftingMethod": "Alchemy",
+      "Recipe": {
+        "CraftingMethod": "Fishing",
+        "Ingredients": {
+          "raimei_angelfish": 3,
+          "pufferfish": 10,
+          "bitter_pufferfish": 10
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Id": "akos_sake_vessel",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "alkahest": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "Alkahest",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "alkahest",
+      "DateAdded": "2021-11-24T00:00:00"
+    },
+    "congealed_pupa_wax": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "CongealedPupaWax",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "congealed_pupa_wax",
+      "DateAdded": "2023-05-24T00:00:00"
+    },
+    "emperors_balsam": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "EmperorsBalsam",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "emperors_balsam",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "festering_dragon_marrow": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "FesteringDragonMarrow",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "festering_dragon_marrow",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "glowing_gem": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "GlowingGem",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "glowing_gem",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "martens_omni_fix": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "MartensOmniFix",
+      "CraftingMethod": "Alchemy",
+      "Recipe": {
+        "CraftingMethod": "Fishing",
+        "Ingredients": {
+          "peach_of_the_deep_waves": 2,
+          "lazurite_axe_marlin": 8,
+          "halcyon_jade_axe_marlin": 8
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Id": "martens_omni_fix",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "ointment_of_sight": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "OintmentOfSight",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "ointment_of_sight",
+      "DateAdded": "2022-02-16T00:00:00"
+    },
+    "original_fish_ointment": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "OriginalFishOintment",
+      "CraftingMethod": "Alchemy",
+      "Recipe": {
+        "CraftingMethod": "Fishing",
+        "Ingredients": {
+          "peach_of_the_deep_waves": 2,
+          "lazurite_axe_marlin": 8,
+          "halcyon_jade_axe_marlin": 8
+        },
+        "AmountCrafted": 1,
+        "CraftingTime": null
+      },
+      "EntityId": "material",
+      "Id": "original_fish_ointment",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "parasol_talcum": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "ParasolTalcum",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "parasol_talcum",
+      "DateAdded": "2022-12-07T00:00:00"
+    },
+    "plume_of_the_changing_winds": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "PlumeOfTheChangingWinds",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "plume_of_the_changing_winds",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "unfading_silky_grace": {
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 4,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 4,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 4
+      },
+      "Set": "UnfadingSilkyGrace",
+      "CraftingMethod": "Alchemy",
+      "Recipe": null,
+      "EntityId": "material",
+      "Id": "unfading_silky_grace",
+      "DateAdded": "2023-03-01T00:00:00"
+    }
+  },
+  "Type": "RefinementMaterialDatabase"
+}

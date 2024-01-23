@@ -1,0 +1,1671 @@
+{
+  "CookingIngredients": {
+    "ajilenakh_nut": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          437
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "ajilenakh_nut",
+      "DateAdded": "2022-09-28T00:00:00"
+    },
+    "almond": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "almond",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "bamboo_shoot": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          81
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "bamboo_shoot",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "berry": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          163
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "berry",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "bird_egg": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          126
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "bird_egg",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cabbage": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "cabbage",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "carrot": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          167
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "carrot",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "chilled_meat": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1186.11,
+          "Longitude": 86.65,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          153
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "chilled_meat",
+      "DateAdded": "2020-12-23T00:00:00"
+    },
+    "coffee_beans": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "coffee_beans",
+      "DateAdded": "2023-03-01T00:00:00"
+    },
+    "crab": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          116,
+          275,
+          282,
+          288,
+          291,
+          307
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "crab",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "eel_meat": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          254
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "eel_meat",
+      "DateAdded": "2021-09-01T00:00:00"
+    },
+    "fermented_juice": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "fermented_juice",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "fowl": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          123
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "fowl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "glabrous_beans": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "glabrous_beans",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "harra_fruit": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          386
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "harra_fruit",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "horsetail": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1955.03,
+          "Longitude": -1838.51,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          93
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "horsetail",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "lavender_melon": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          200
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "lavender_melon",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "lotus_head": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1296.93,
+          "Longitude": -670.01,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          166
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "lotus_head",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "marcotte": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          492
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "marcotte",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "matsutake": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          124
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "matsutake",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "milk": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "milk",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mint": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          161
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "mint",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mushroom": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          162
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "mushroom",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mysterious_meat": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          463
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "mysterious_meat",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "onion": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "onion",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pepper": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "pepper",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "pinecone": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1296.93,
+          "Longitude": -670.01,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          125
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "pinecone",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "potato": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "potato",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "radish": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          168
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "radish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "rice": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "rice",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "salt": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "salt",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "seagrass": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 5514.0,
+          "Longitude": 1788.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          201
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "seagrass",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "shrimp_meat": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "shrimp_meat",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "snapdragon": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 1296.93,
+          "Longitude": -670.01,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          92
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "snapdragon",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sumeru_rose": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          384
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "sumeru_rose",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sweet_flower": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          160
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "sweet_flower",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tidalga": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": -691.0,
+          "Longitude": -5305.5,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          491
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "tidalga",
+      "DateAdded": "2023-08-16T00:00:00"
+    },
+    "tofu": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "tofu",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "tomato": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "tomato",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "wheat": {
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "wheat",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "zaytun_peach": {
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 3370.35,
+          "Longitude": -4762.86,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          385
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 0,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 0,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 0
+      },
+      "Id": "zaytun_peach",
+      "DateAdded": "2022-08-24T00:00:00"
+    }
+  },
+  "ProcessableIngredients": {
+    "bacon": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "raw_meat": 2,
+            "salt": 2
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:15:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "bacon",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "butter": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "milk": 2
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:05:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "butter",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cheese": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "milk": 3
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:10:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "cheese",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "crab_roe": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "crab": 4
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:20:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "crab_roe",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "cream": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "milk": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:03:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "cream",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "fish": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "medaka": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "glaze_medaka": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "sweet_flower_medaka": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "aizen_medaka": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "dawncatcher": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "crystalfish": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "lunged_stickleback": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "betta": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "venomspine_fish": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "akai_maou": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "snowstrider": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "brown_shirakodai": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "tea_colored_shirakodai": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "abiding_angelfish": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "raimei_angelfish": 1
+          },
+          "AmountCrafted": 2,
+          "CraftingTime": "00:02:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "golden_koi": 1
+          },
+          "AmountCrafted": 3,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "rusty_koi": 1
+          },
+          "AmountCrafted": 3,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "bitter_pufferfish": 1
+          },
+          "AmountCrafted": 3,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "pufferfish": 1
+          },
+          "AmountCrafted": 3,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "divda_ray": 1
+          },
+          "AmountCrafted": 3,
+          "CraftingTime": "00:03:00"
+        },
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "formalo_ray": 1
+          },
+          "AmountCrafted": 3,
+          "CraftingTime": "00:03:00"
+        }
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          122
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "fish",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "flour": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "wheat": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "flour",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "ham": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "raw_meat": 2,
+            "salt": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:05:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "ham",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "jam": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "sunsettia": 3,
+            "berry": 2,
+            "sugar": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:10:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "jam",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "mysterious_meat_product": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "mysterious_meat": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "mysterious_meat_product",
+      "DateAdded": "2023-01-18T00:00:00"
+    },
+    "raw_meat": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "chilled_meat": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        }
+      ],
+      "InteractiveMapPoint": {
+        "Coordinate": {
+          "Latitude": 0.0,
+          "Longitude": 0.0,
+          "Zoom": -4.0
+        },
+        "Map": "Teyvat",
+        "ShownTypes": [
+          121
+        ]
+      },
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 1,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 1,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 1
+      },
+      "Id": "raw_meat",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "sausage": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "raw_meat": 3
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:20:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "sausage",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "smoked_fowl": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "fowl": 3,
+            "salt": 1
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:05:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "smoked_fowl",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "spice": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "harra_fruit": 2
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:01:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "spice",
+      "DateAdded": "2022-08-24T00:00:00"
+    },
+    "sugar": {
+      "ProcessingBlueprints": [
+        {
+          "CraftingMethod": "Processing",
+          "Ingredients": {
+            "sweet_flower": 2
+          },
+          "AmountCrafted": 1,
+          "CraftingTime": "00:03:00"
+        }
+      ],
+      "InteractiveMapPoint": null,
+      "EntityId": "material",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 2,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 2,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 2
+      },
+      "Id": "sugar",
+      "DateAdded": "2020-09-28T00:00:00"
+    }
+  },
+  "Type": "CookingIngredientDatabase"
+}

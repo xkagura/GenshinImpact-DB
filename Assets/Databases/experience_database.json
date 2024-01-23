@@ -1,0 +1,185 @@
+{
+  "Experiences": {
+    "exp_adventure": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_adventure",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "exp_trust": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_trust",
+      "DateAdded": "2021-04-28T00:00:00"
+    },
+    "exp_character": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_character",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "exp_weapon": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_weapon",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "exp_companionship": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_companionship",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "exp_battle_pass": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_battle_pass",
+      "DateAdded": "2020-09-28T00:00:00"
+    },
+    "exp_mondstadt_reputation": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_mondstadt_reputation",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "exp_liyue_reputation": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_liyue_reputation",
+      "DateAdded": "2020-11-11T00:00:00"
+    },
+    "exp_inazuma_reputation": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_inazuma_reputation",
+      "DateAdded": "2021-07-21T00:00:00"
+    },
+    "exp_sumeru_reputation": {
+      "EntityId": "experience",
+      "Rarity": {
+        "Range": {
+          "Start": {
+            "Value": 3,
+            "IsFromEnd": false
+          },
+          "End": {
+            "Value": 3,
+            "IsFromEnd": false
+          }
+        },
+        "Value": 3
+      },
+      "Id": "exp_sumeru_reputation",
+      "DateAdded": "2022-08-24T00:00:00"
+    }
+  },
+  "Type": "ExperienceDatabase"
+}

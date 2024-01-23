@@ -1,0 +1,2773 @@
+{
+  "ForgeryChallenges": {
+    "cecilia_garden": [
+      {
+        "DomainId": "cecilia_garden",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 19,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "cecilia_garden",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 12,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "wooden_shield_hilichurl_guard",
+              "Amount": 8,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "cecilia_garden",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 14,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_samachurl",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "cecilia_garden",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 8,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "court_of_flowing_sand": [
+      {
+        "DomainId": "court_of_flowing_sand",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 10,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "court_of_flowing_sand",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 5,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "court_of_flowing_sand",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "court_of_flowing_sand",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_hilichurl_grenadier",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 3,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "hidden_palace_of_lianshan_formula": [
+      {
+        "DomainId": "hidden_palace_of_lianshan_formula",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 15,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "hidden_palace_of_lianshan_formula",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 7,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "hidden_palace_of_lianshan_formula",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "hidden_palace_of_lianshan_formula",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "tower_of_abject_pride": [
+      {
+        "DomainId": "tower_of_abject_pride",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "stretchy_pyro_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "floating_dendro_fungus",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "floating_hydro_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "whirling_electro_fungus",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "tower_of_abject_pride",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "whirling_cryo_fungus",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "stretchy_pyro_fungus",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "stretchy_geo_fungus",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "floating_dendro_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "whirling_electro_fungus",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "tower_of_abject_pride",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "stretchy_pyro_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "whirling_cryo_fungus",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "stretchy_geo_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "whirling_electro_fungus",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "floating_dendro_fungus",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "grounded_hydroshroom",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "winged_dendroshroom",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "tower_of_abject_pride",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "floating_hydro_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "floating_dendro_fungus",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "grounded_hydroshroom",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "floating_hydro_fungus",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "floating_dendro_fungus",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "grounded_hydroshroom",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "winged_dendroshroom",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "echoes_of_the_deep_tides": [
+      {
+        "DomainId": "echoes_of_the_deep_tides",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_scout",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "treasure_hoarder_hydro_potioneer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "echoes_of_the_deep_tides",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_scout",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "geological_survey_mek",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "treasure_hoarder_hydro_potioneer",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "construction_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "echoes_of_the_deep_tides",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "assault_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "echoes_of_the_deep_tides",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_hydro_potioneer",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "assault_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "annihilation_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "MasteryChallenges": {
+    "forsaken_rift": [
+      {
+        "DomainId": "forsaken_rift",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 15,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "forsaken_rift",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hilichurl_fighter",
+              "Amount": 8,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 8,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "forsaken_rift",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "forsaken_rift",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "taishan_mansion": [
+      {
+        "DomainId": "taishan_mansion",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 12,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 4,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "taishan_mansion",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 6,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "taishan_mansion",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 6,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "taishan_mansion",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "violet_court": [
+      {
+        "DomainId": "violet_court",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hilichurl",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_hilichurl_grenadier",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "electro_hilichurl_shooter",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "crackling_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "violet_court",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "nobushi_jintouban",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pyro_potioneer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_electro_potioneer",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "nobushi_hitsukeban",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "nobushi_kikouban",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "violet_court",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "nobushi_hitsukeban",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "nobushi_kikouban",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pyro_potioneer",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "treasure_hoarder_electro_potioneer",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "kairagi_fiery_might",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "violet_court",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_cryo_potioneer",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "kairagi_fiery_might",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "kairagi_dancing_thunder",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "steeple_of_ignorance": [
+      {
+        "DomainId": "steeple_of_ignorance",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_guard",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "ruin_drake_earthguard",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "steeple_of_ignorance",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_destroyer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_scout",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "ruin_drake_earthguard",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "steeple_of_ignorance",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_drake_earthguard",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "ruin_drake_skywatch",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "steeple_of_ignorance",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_drake_earthguard",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_drake_skywatch",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "pale_forgotten_glory": [
+      {
+        "DomainId": "pale_forgotten_glory",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "shatterstone_breacher_primus",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_shatterstone_breacher_primus",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "pale_forgotten_glory",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "overgrown_breacher_primus",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_overgrown_breacher_primus",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "pale_forgotten_glory",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_shatterstone_breacher_primus",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "pale_forgotten_glory",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_overgrown_breacher_primus",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "BlessingChallenges": {
+    "clear_pool_and_mountain_cavern": [
+      {
+        "DomainId": "clear_pool_and_mountain_cavern",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "clear_pool_and_mountain_cavern",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "clear_pool_and_mountain_cavern",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "domain_of_guyun": [
+      {
+        "DomainId": "domain_of_guyun",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 21,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "domain_of_guyun",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 16,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "domain_of_guyun",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 15,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "domain_of_guyun",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_samachurl",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "domain_of_guyun",
+        "Level": 5,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "ruin_guard",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "domain_of_guyun",
+        "Level": 6,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_hunter",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "hidden_palace_of_zhou_formula": [
+      {
+        "DomainId": "hidden_palace_of_zhou_formula",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 8,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 6,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "hidden_palace_of_zhou_formula",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "hidden_palace_of_zhou_formula",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_fighter",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_fighter",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 5,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "hidden_palace_of_zhou_formula",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "midsummer_courtyard": [
+      {
+        "DomainId": "midsummer_courtyard",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "wooden_shield_hilichurl_guard",
+              "Amount": 15,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "midsummer_courtyard",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 7,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "midsummer_courtyard",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 9,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "midsummer_courtyard",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 8,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_samachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "midsummer_courtyard",
+        "Level": 5,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "midsummer_courtyard",
+        "Level": 6,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "momiji_dyed_court": [
+      {
+        "DomainId": "momiji_dyed_court",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "electro_hilichurl_grenadier",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_berserker",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_hilichurl_shooter",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "crackling_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "momiji_dyed_court",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_hilichurl_shooter",
+              "Amount": 3,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "crackling_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "momiji_dyed_court",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "mutant_electro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "electro_abyss_mage",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "momiji_dyed_court",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "thunderhelm_lawachurl",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "peak_of_vindagnyr": [
+      {
+        "DomainId": "peak_of_vindagnyr",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 10,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "ice_shieldwall_mitachurl",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "peak_of_vindagnyr",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_hilichurl_grenadier",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "ice_shieldwall_mitachurl",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "peak_of_vindagnyr",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_hilichurl_grenadier",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "ice_shieldwall_mitachurl",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "peak_of_vindagnyr",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "cryo_abyss_mage",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "frostarm_lawachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "ridge_watch": [
+      {
+        "DomainId": "ridge_watch",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_berserker",
+              "Amount": 4,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "ridge_watch",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hilichurl_berserker",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "ridge_watch",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "rock_shieldwall_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "ridge_watch",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "geovishap",
+              "Amount": 1,
+              "Element": "Hydro"
+            },
+            {
+              "EnemyId": "geovishap",
+              "Amount": 1,
+              "Element": "Electro"
+            }
+          ]
+        ]
+      }
+    ],
+    "slumbering_court": [
+      {
+        "DomainId": "slumbering_court",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "crackling_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 7,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "slumbering_court",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "crackling_axe_mitachurl",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_hilichurl_shooter",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_berserker",
+              "Amount": 3,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "slumbering_court",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "thundercraven_rifthound_whelp",
+              "Amount": 4,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "thundercraven_rifthound",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_hilichurl_shooter",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "slumbering_court",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "thundercraven_rifthound_whelp",
+              "Amount": 7,
+              "Element": null
+            },
+            {
+              "EnemyId": "thundercraven_rifthound",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "crackling_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "spire_of_solitary_enlightenment": [
+      {
+        "DomainId": "spire_of_solitary_enlightenment",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "eremite_sunfrost",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_crossbow",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_sword_dancer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_ravenbeak_halberdier",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "spire_of_solitary_enlightenment",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "eremite_daythunder",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_desert_clearwater",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_crossbow",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_sword_dancer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_axe_vanguard",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "spire_of_solitary_enlightenment",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "eremite_daythunder",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_desert_clearwater",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_sunfrost",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_crossbow",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_linebreaker",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_ravenbeak_halberdier",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "spire_of_solitary_enlightenment",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "eremite_daythunder",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_desert_clearwater",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "eremite_sunfrost",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "the_lost_valley": [
+      {
+        "DomainId": "the_lost_valley",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_guard",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_destroyer",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "the_lost_valley",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_guard",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_scout",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_cruiser",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_destroyer",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "the_lost_valley",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_scout",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_cruiser",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_destroyer",
+              "Amount": 2,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "the_lost_valley",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "ruin_grader",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_cruiser",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "ruin_destroyer",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "valley_of_remembrance": [
+      {
+        "DomainId": "valley_of_remembrance",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_cryo_potioneer",
+              "Amount": 10,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_handyman",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pugilist",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_gravedigger",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_seaman",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "valley_of_remembrance",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_scout",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pyro_potioneer",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_hydro_potioneer",
+              "Amount": 5,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_handyman",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_crusher",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pugilist",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "valley_of_remembrance",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_scout",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pyro_potioneer",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_electro_potioneer",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_handyman",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_crusher",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_pugilist",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_gravedigger",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "valley_of_remembrance",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_pyro_potioneer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_hydro_potioneer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_electro_potioneer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_cryo_potioneer",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "treasure_hoarder_seaman",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "valley_of_remembrance",
+        "Level": 5,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "treasure_hoarder_cryo_potioneer",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_pyro_agent",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "fatui_electro_cicin_mage",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "city_of_gold": [
+      {
+        "DomainId": "city_of_gold",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "stretchy_pyro_fungus",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "city_of_gold",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "whirling_electro_fungus",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "winged_cryoshroom",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "city_of_gold",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "grounded_geoshroom",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "grounded_hydroshroom",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "city_of_gold",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "grounded_hydroshroom",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "grounded_geoshroom",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "winged_cryoshroom",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "molten_iron_fortress": [
+      {
+        "DomainId": "molten_iron_fortress",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hilichurl",
+              "Amount": 6,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_fighter",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_samachurl",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "molten_iron_fortress",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hilichurl",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_fighter",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_samachurl",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "hilichurl_grenadier",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "anemo_hilichurl_rogue",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "molten_iron_fortress",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hilichurl_fighter",
+              "Amount": 3,
+              "Element": null
+            },
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_hilichurl_rogue",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "molten_iron_fortress",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "blazing_axe_mitachurl",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "anemo_hilichurl_rogue",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "hydro_hilichurl_rogue",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "denouement_of_sin": [
+      {
+        "DomainId": "denouement_of_sin",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "arithmetic_enhancer_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "denouement_of_sin",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "arithmetic_enhancer_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "suppression_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "denouement_of_sin",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "construction_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "geological_survey_mek",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "arithmetic_enhancer_mek",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "suppression_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "recon_log_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "denouement_of_sin",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "geological_survey_mek",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "construction_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "suppression_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "annihilation_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "Type": "DomainChallengeDatabase"
+}
