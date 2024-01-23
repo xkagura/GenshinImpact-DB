@@ -479,7 +479,7 @@
     "permission_write_external_storage_explained": "Required to read and write data to the App's Data directory.",
     "permission_wake_lock": "Wake Lock",
     "permission_wake_lock_explained": "A Wake Lock is a permission that the app requests from the Android OS that keeps the CPU running at a limited capacity while your phone's display is off or locked. This is used with Foreground Service to keep a service running or else it would be terminated automatically to save battery.",
-    "about_app": "Genshin Assistant has been developed and maintained by Kagura (Kagura#7442).",
+    "about_app": "Genshin Assistant has been developed and maintained by Kagura (@x_kagura).",
     "discord_explained": "Join us on our Discord Support Server where you can report bugs, get help with using the app, get help from other players and keep track of the development of Genshin Assistant and it's upcoming features.",
     "patreon_explained": "Please consider supporting me on Patreon so that I can continue to put my time into further developing and maintaining this app as well as keeping it ad-free.",
     "app_credits": "All resources including icons and information comes from the Fandom Page \"Genshin Wiki\". Thank you to the community that maintains the wiki for providing up to date and accurate information!"
