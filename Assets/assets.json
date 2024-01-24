@@ -4,343 +4,343 @@
     "FileName": "artifact_database.json",
     "LocalPath": "Databases/artifact_database.json",
     "FileSize": 24592,
-    "UpdatedUnix": 1706055291468
+    "UpdatedUnix": 1706056168786
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/ascension_gem_database.json",
     "FileName": "ascension_gem_database.json",
     "LocalPath": "Databases/ascension_gem_database.json",
     "FileSize": 14257,
-    "UpdatedUnix": 1706055291525
+    "UpdatedUnix": 1706056168847
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/build_database.json",
     "FileName": "build_database.json",
     "LocalPath": "Databases/build_database.json",
     "FileSize": 284281,
-    "UpdatedUnix": 1706055291623
+    "UpdatedUnix": 1706056168946
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/character_database.json",
     "FileName": "character_database.json",
     "LocalPath": "Databases/character_database.json",
     "FileSize": 94600,
-    "UpdatedUnix": 1706055291649
+    "UpdatedUnix": 1706056168968
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/common_enemy_database.json",
     "FileName": "common_enemy_database.json",
     "LocalPath": "Databases/common_enemy_database.json",
     "FileSize": 53498,
-    "UpdatedUnix": 1706055291510
+    "UpdatedUnix": 1706056168832
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/common_enemy_material_database.json",
     "FileName": "common_enemy_material_database.json",
     "LocalPath": "Databases/common_enemy_material_database.json",
     "FileSize": 16973,
-    "UpdatedUnix": 1706055291527
+    "UpdatedUnix": 1706056168849
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/constellation_database.json",
     "FileName": "constellation_database.json",
     "LocalPath": "Databases/constellation_database.json",
     "FileSize": 150541,
-    "UpdatedUnix": 1706055291661
+    "UpdatedUnix": 1706056168981
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/constellation_material_database.json",
     "FileName": "constellation_material_database.json",
     "LocalPath": "Databases/constellation_material_database.json",
     "FileSize": 2602,
-    "UpdatedUnix": 1706055291529
+    "UpdatedUnix": 1706056168851
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/cooking_ingredient_database.json",
     "FileName": "cooking_ingredient_database.json",
     "LocalPath": "Databases/cooking_ingredient_database.json",
     "FileSize": 37719,
-    "UpdatedUnix": 1706055291446
+    "UpdatedUnix": 1706056168761
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/crafting_material_database.json",
     "FileName": "crafting_material_database.json",
     "LocalPath": "Databases/crafting_material_database.json",
     "FileSize": 7194,
-    "UpdatedUnix": 1706055291448
+    "UpdatedUnix": 1706056168764
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/currency_database.json",
     "FileName": "currency_database.json",
     "LocalPath": "Databases/currency_database.json",
     "FileSize": 4786,
-    "UpdatedUnix": 1706055291451
+    "UpdatedUnix": 1706056168768
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/domain_challenge_database.json",
     "FileName": "domain_challenge_database.json",
     "LocalPath": "Databases/domain_challenge_database.json",
     "FileSize": 67497,
-    "UpdatedUnix": 1706055291755
+    "UpdatedUnix": 1706056169075
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/domain_database.json",
     "FileName": "domain_database.json",
     "LocalPath": "Databases/domain_database.json",
     "FileSize": 15332,
-    "UpdatedUnix": 1706055291760
+    "UpdatedUnix": 1706056169080
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/element_database.json",
     "FileName": "element_database.json",
     "LocalPath": "Databases/element_database.json",
     "FileSize": 1687,
-    "UpdatedUnix": 1706055291408
+    "UpdatedUnix": 1706056168715
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/elite_enemy_database.json",
     "FileName": "elite_enemy_database.json",
     "LocalPath": "Databases/elite_enemy_database.json",
     "FileSize": 47051,
-    "UpdatedUnix": 1706055291516
+    "UpdatedUnix": 1706056168838
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/elite_enemy_material_database.json",
     "FileName": "elite_enemy_material_database.json",
     "LocalPath": "Databases/elite_enemy_material_database.json",
     "FileSize": 22172,
-    "UpdatedUnix": 1706055291531
+    "UpdatedUnix": 1706056168853
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/enhancement_material_database.json",
     "FileName": "enhancement_material_database.json",
     "LocalPath": "Databases/enhancement_material_database.json",
     "FileSize": 4354,
-    "UpdatedUnix": 1706055291532
+    "UpdatedUnix": 1706056168855
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/experience_database.json",
     "FileName": "experience_database.json",
     "LocalPath": "Databases/experience_database.json",
     "FileSize": 4139,
-    "UpdatedUnix": 1706055291394
+    "UpdatedUnix": 1706056168701
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/fishing_spot_database.json",
     "FileName": "fishing_spot_database.json",
     "LocalPath": "Databases/fishing_spot_database.json",
     "FileSize": 19833,
-    "UpdatedUnix": 1706055291413
+    "UpdatedUnix": 1706056168720
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/fish_bait_database.json",
     "FileName": "fish_bait_database.json",
     "LocalPath": "Databases/fish_bait_database.json",
     "FileSize": 4685,
-    "UpdatedUnix": 1706055291453
+    "UpdatedUnix": 1706056168772
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/fish_database.json",
     "FileName": "fish_database.json",
     "LocalPath": "Databases/fish_database.json",
     "FileSize": 31527,
-    "UpdatedUnix": 1706055291457
+    "UpdatedUnix": 1706056168776
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/food_database.json",
     "FileName": "food_database.json",
     "LocalPath": "Databases/food_database.json",
     "FileSize": 196626,
-    "UpdatedUnix": 1706055291579
+    "UpdatedUnix": 1706056168902
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/forging_material_database.json",
     "FileName": "forging_material_database.json",
     "LocalPath": "Databases/forging_material_database.json",
     "FileSize": 11029,
-    "UpdatedUnix": 1706055291461
+    "UpdatedUnix": 1706056168779
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/gadget_database.json",
     "FileName": "gadget_database.json",
     "LocalPath": "Databases/gadget_database.json",
     "FileSize": 39441,
-    "UpdatedUnix": 1706055291474
+    "UpdatedUnix": 1706056168792
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/game_activity_database.json",
     "FileName": "game_activity_database.json",
     "LocalPath": "Databases/game_activity_database.json",
     "FileSize": 1315,
-    "UpdatedUnix": 1706055291396
+    "UpdatedUnix": 1706056168703
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/local_speciality_database.json",
     "FileName": "local_speciality_database.json",
     "LocalPath": "Databases/local_speciality_database.json",
     "FileSize": 34218,
-    "UpdatedUnix": 1706055291537
+    "UpdatedUnix": 1706056168859
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/location_database.json",
     "FileName": "location_database.json",
     "LocalPath": "Databases/location_database.json",
     "FileSize": 21805,
-    "UpdatedUnix": 1706055291418
+    "UpdatedUnix": 1706056168723
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/namecard_database.json",
     "FileName": "namecard_database.json",
     "LocalPath": "Databases/namecard_database.json",
     "FileSize": 13621,
-    "UpdatedUnix": 1706055291400
+    "UpdatedUnix": 1706056168707
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/nation_database.json",
     "FileName": "nation_database.json",
     "LocalPath": "Databases/nation_database.json",
     "FileSize": 1404,
-    "UpdatedUnix": 1706055291421
+    "UpdatedUnix": 1706056168726
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/normal_boss_database.json",
     "FileName": "normal_boss_database.json",
     "LocalPath": "Databases/normal_boss_database.json",
     "FileSize": 16460,
-    "UpdatedUnix": 1706055291519
+    "UpdatedUnix": 1706056168842
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/normal_boss_material_database.json",
     "FileName": "normal_boss_material_database.json",
     "LocalPath": "Databases/normal_boss_material_database.json",
     "FileSize": 13983,
-    "UpdatedUnix": 1706055291539
+    "UpdatedUnix": 1706056168862
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/outfit_database.json",
     "FileName": "outfit_database.json",
     "LocalPath": "Databases/outfit_database.json",
     "FileSize": 7567,
-    "UpdatedUnix": 1706055291663
+    "UpdatedUnix": 1706056168983
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/potion_database.json",
     "FileName": "potion_database.json",
     "LocalPath": "Databases/potion_database.json",
     "FileSize": 10412,
-    "UpdatedUnix": 1706055291581
+    "UpdatedUnix": 1706056168904
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/precious_item_database.json",
     "FileName": "precious_item_database.json",
     "LocalPath": "Databases/precious_item_database.json",
     "FileSize": 10619,
-    "UpdatedUnix": 1706055291463
+    "UpdatedUnix": 1706056168782
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/reaction_database.json",
     "FileName": "reaction_database.json",
     "LocalPath": "Databases/reaction_database.json",
     "FileSize": 2712,
-    "UpdatedUnix": 1706055291422
+    "UpdatedUnix": 1706056168728
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/redeem_code_database.json",
     "FileName": "redeem_code_database.json",
     "LocalPath": "Databases/redeem_code_database.json",
     "FileSize": 17981,
-    "UpdatedUnix": 1706055291406
+    "UpdatedUnix": 1706056168711
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/refinement_material_database.json",
     "FileName": "refinement_material_database.json",
     "LocalPath": "Databases/refinement_material_database.json",
     "FileSize": 7837,
-    "UpdatedUnix": 1706055291542
+    "UpdatedUnix": 1706056168864
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/resonance_database.json",
     "FileName": "resonance_database.json",
     "LocalPath": "Databases/resonance_database.json",
     "FileSize": 1422,
-    "UpdatedUnix": 1706055291423
+    "UpdatedUnix": 1706056168730
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/shop_database.json",
     "FileName": "shop_database.json",
     "LocalPath": "Databases/shop_database.json",
     "FileSize": 10089,
-    "UpdatedUnix": 1706055291427
+    "UpdatedUnix": 1706056168735
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/story_database.json",
     "FileName": "story_database.json",
     "LocalPath": "Databases/story_database.json",
     "FileSize": 69000,
-    "UpdatedUnix": 1706055291671
+    "UpdatedUnix": 1706056168989
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/talent_database.json",
     "FileName": "talent_database.json",
     "LocalPath": "Databases/talent_database.json",
     "FileSize": 553171,
-    "UpdatedUnix": 1706055291728
+    "UpdatedUnix": 1706056169048
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/talent_material_database.json",
     "FileName": "talent_material_database.json",
     "LocalPath": "Databases/talent_material_database.json",
     "FileSize": 37373,
-    "UpdatedUnix": 1706055291549
+    "UpdatedUnix": 1706056168871
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/traveler_database.json",
     "FileName": "traveler_database.json",
     "LocalPath": "Databases/traveler_database.json",
     "FileSize": 8688,
-    "UpdatedUnix": 1706055291741
+    "UpdatedUnix": 1706056169061
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/weapon_database.json",
     "FileName": "weapon_database.json",
     "LocalPath": "Databases/weapon_database.json",
     "FileSize": 201565,
-    "UpdatedUnix": 1706055291503
+    "UpdatedUnix": 1706056168824
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/weapon_domain_material_database.json",
     "FileName": "weapon_domain_material_database.json",
     "LocalPath": "Databases/weapon_domain_material_database.json",
     "FileSize": 32673,
-    "UpdatedUnix": 1706055291553
+    "UpdatedUnix": 1706056168875
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/weekly_boss_database.json",
     "FileName": "weekly_boss_database.json",
     "LocalPath": "Databases/weekly_boss_database.json",
     "FileSize": 5538,
-    "UpdatedUnix": 1706055291522
+    "UpdatedUnix": 1706056168844
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/wildlife_database.json",
     "FileName": "wildlife_database.json",
     "LocalPath": "Databases/wildlife_database.json",
     "FileSize": 6857,
-    "UpdatedUnix": 1706055291429
+    "UpdatedUnix": 1706056168737
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/wish_banner_database.json",
     "FileName": "wish_banner_database.json",
     "LocalPath": "Databases/wish_banner_database.json",
     "FileSize": 8096,
-    "UpdatedUnix": 1706055291437
+    "UpdatedUnix": 1706056168749
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases/world_challenge_database.json",
     "FileName": "world_challenge_database.json",
     "LocalPath": "Databases/world_challenge_database.json",
     "FileSize": 985,
-    "UpdatedUnix": 1706055291761
+    "UpdatedUnix": 1706056169082
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/App/icon_original_resin.webp",
@@ -2244,140 +2244,140 @@
     "FileName": "app_localization_en.json",
     "LocalPath": "Localizations/EN/app_localization_en.json",
     "FileSize": 21112,
-    "UpdatedUnix": 1706055291763
+    "UpdatedUnix": 1706056169094
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/artifact_localization_en.json",
     "FileName": "artifact_localization_en.json",
     "LocalPath": "Localizations/EN/artifact_localization_en.json",
     "FileSize": 68026,
-    "UpdatedUnix": 1706055291769
+    "UpdatedUnix": 1706056169099
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/build_localization_en.json",
     "FileName": "build_localization_en.json",
     "LocalPath": "Localizations/EN/build_localization_en.json",
     "FileSize": 156335,
-    "UpdatedUnix": 1706055291774
+    "UpdatedUnix": 1706056169104
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/challenge_localization_en.json",
     "FileName": "challenge_localization_en.json",
     "LocalPath": "Localizations/EN/challenge_localization_en.json",
     "FileSize": 1503,
-    "UpdatedUnix": 1706055291775
+    "UpdatedUnix": 1706056169105
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/character_localization_en.json",
     "FileName": "character_localization_en.json",
     "LocalPath": "Localizations/EN/character_localization_en.json",
     "FileSize": 26154,
-    "UpdatedUnix": 1706055291778
+    "UpdatedUnix": 1706056169108
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/constellation_localization_en.json",
     "FileName": "constellation_localization_en.json",
     "LocalPath": "Localizations/EN/constellation_localization_en.json",
     "FileSize": 146021,
-    "UpdatedUnix": 1706055291790
+    "UpdatedUnix": 1706056169121
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/consumable_localization_en.json",
     "FileName": "consumable_localization_en.json",
     "LocalPath": "Localizations/EN/consumable_localization_en.json",
     "FileSize": 137111,
-    "UpdatedUnix": 1706055291796
+    "UpdatedUnix": 1706056169128
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/domain_localization_en.json",
     "FileName": "domain_localization_en.json",
     "LocalPath": "Localizations/EN/domain_localization_en.json",
     "FileSize": 58517,
-    "UpdatedUnix": 1706055291801
+    "UpdatedUnix": 1706056169133
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/element_localization_en.json",
     "FileName": "element_localization_en.json",
     "LocalPath": "Localizations/EN/element_localization_en.json",
     "FileSize": 7392,
-    "UpdatedUnix": 1706055291804
+    "UpdatedUnix": 1706056169135
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/enemy_localization_en.json",
     "FileName": "enemy_localization_en.json",
     "LocalPath": "Localizations/EN/enemy_localization_en.json",
     "FileSize": 127593,
-    "UpdatedUnix": 1706055291809
+    "UpdatedUnix": 1706056169140
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/gadget_localization_en.json",
     "FileName": "gadget_localization_en.json",
     "LocalPath": "Localizations/EN/gadget_localization_en.json",
     "FileSize": 31977,
-    "UpdatedUnix": 1706055291811
+    "UpdatedUnix": 1706056169142
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/item_localization_en.json",
     "FileName": "item_localization_en.json",
     "LocalPath": "Localizations/EN/item_localization_en.json",
     "FileSize": 13144,
-    "UpdatedUnix": 1706055291814
+    "UpdatedUnix": 1706056169145
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/location_localization_en.json",
     "FileName": "location_localization_en.json",
     "LocalPath": "Localizations/EN/location_localization_en.json",
     "FileSize": 9984,
-    "UpdatedUnix": 1706055291817
+    "UpdatedUnix": 1706056169148
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/material_localization_en.json",
     "FileName": "material_localization_en.json",
     "LocalPath": "Localizations/EN/material_localization_en.json",
     "FileSize": 196643,
-    "UpdatedUnix": 1706055291829
+    "UpdatedUnix": 1706056169159
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/namecard_localization_en.json",
     "FileName": "namecard_localization_en.json",
     "LocalPath": "Localizations/EN/namecard_localization_en.json",
     "FileSize": 18457,
-    "UpdatedUnix": 1706055291831
+    "UpdatedUnix": 1706056169161
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/nation_localization_en.json",
     "FileName": "nation_localization_en.json",
     "LocalPath": "Localizations/EN/nation_localization_en.json",
     "FileSize": 2443,
-    "UpdatedUnix": 1706055291831
+    "UpdatedUnix": 1706056169163
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/story_localization_en.json",
     "FileName": "story_localization_en.json",
     "LocalPath": "Localizations/EN/story_localization_en.json",
     "FileSize": 1084242,
-    "UpdatedUnix": 1706055291847
+    "UpdatedUnix": 1706056169179
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/talent_localization_en.json",
     "FileName": "talent_localization_en.json",
     "LocalPath": "Localizations/EN/talent_localization_en.json",
     "FileSize": 399727,
-    "UpdatedUnix": 1706055291884
+    "UpdatedUnix": 1706056169217
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/weapon_localization_en.json",
     "FileName": "weapon_localization_en.json",
     "LocalPath": "Localizations/EN/weapon_localization_en.json",
     "FileSize": 82727,
-    "UpdatedUnix": 1706055291889
+    "UpdatedUnix": 1706056169222
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN/wish_localization_en.json",
     "FileName": "wish_localization_en.json",
     "LocalPath": "Localizations/EN/wish_localization_en.json",
     "FileSize": 9030,
-    "UpdatedUnix": 1706055291891
+    "UpdatedUnix": 1706056169223
   },
   {
     "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Artifacts/Icons/artifact_adventurer_circlet.webp",
@@ -18802,1129 +18802,1129 @@
     "UpdatedUnix": 1648255714635
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_albedo.webp",
-    "FileName": "namecard_background_albedo.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_albedo.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_albedo_background.webp",
+    "FileName": "namecard_albedo_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_albedo_background.webp",
     "FileSize": 47780,
     "UpdatedUnix": 1706051137603
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_alhaitham.webp",
-    "FileName": "namecard_background_alhaitham.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_alhaitham.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_alhaitham_background.webp",
+    "FileName": "namecard_alhaitham_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_alhaitham_background.webp",
     "FileSize": 49126,
     "UpdatedUnix": 1706051151792
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_aloy.webp",
-    "FileName": "namecard_background_aloy.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_aloy.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_aloy_background.webp",
+    "FileName": "namecard_aloy_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_aloy_background.webp",
     "FileSize": 29108,
     "UpdatedUnix": 1706051165002
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_amber.webp",
-    "FileName": "namecard_background_amber.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_amber.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_amber_background.webp",
+    "FileName": "namecard_amber_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_amber_background.webp",
     "FileSize": 20576,
     "UpdatedUnix": 1706051177064
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_arataki_itto.webp",
-    "FileName": "namecard_background_arataki_itto.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_arataki_itto.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_arataki_itto_background.webp",
+    "FileName": "namecard_arataki_itto_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_arataki_itto_background.webp",
     "FileSize": 83130,
     "UpdatedUnix": 1706052200426
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_baizhu.webp",
-    "FileName": "namecard_background_baizhu.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_baizhu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_baizhu_background.webp",
+    "FileName": "namecard_baizhu_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_baizhu_background.webp",
     "FileSize": 74704,
     "UpdatedUnix": 1706051188312
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_barbara.webp",
-    "FileName": "namecard_background_barbara.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_barbara.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_barbara_background.webp",
+    "FileName": "namecard_barbara_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_barbara_background.webp",
     "FileSize": 33514,
     "UpdatedUnix": 1706051259398
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_beidou.webp",
-    "FileName": "namecard_background_beidou.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_beidou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_beidou_background.webp",
+    "FileName": "namecard_beidou_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_beidou_background.webp",
     "FileSize": 38378,
     "UpdatedUnix": 1706051270786
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_bennett.webp",
-    "FileName": "namecard_background_bennett.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_bennett.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_bennett_background.webp",
+    "FileName": "namecard_bennett_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_bennett_background.webp",
     "FileSize": 22862,
     "UpdatedUnix": 1706051283368
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_candace.webp",
-    "FileName": "namecard_background_candace.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_candace.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_candace_background.webp",
+    "FileName": "namecard_candace_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_candace_background.webp",
     "FileSize": 103942,
     "UpdatedUnix": 1706051295295
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_charlotte.webp",
-    "FileName": "namecard_background_charlotte.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_charlotte.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_charlotte_background.webp",
+    "FileName": "namecard_charlotte_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_charlotte_background.webp",
     "FileSize": 91364,
     "UpdatedUnix": 1706051307755
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_chevreuse.webp",
-    "FileName": "namecard_background_chevreuse.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_chevreuse.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_chevreuse_background.webp",
+    "FileName": "namecard_chevreuse_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_chevreuse_background.webp",
     "FileSize": 112686,
     "UpdatedUnix": 1706051318030
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_childe.webp",
-    "FileName": "namecard_background_childe.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_childe.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_childe_background.webp",
+    "FileName": "namecard_childe_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_childe_background.webp",
     "FileSize": 28064,
     "UpdatedUnix": 1706051327677
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_chongyun.webp",
-    "FileName": "namecard_background_chongyun.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_chongyun.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_chongyun_background.webp",
+    "FileName": "namecard_chongyun_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_chongyun_background.webp",
     "FileSize": 36864,
     "UpdatedUnix": 1706051396858
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_collei.webp",
-    "FileName": "namecard_background_collei.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_collei.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_collei_background.webp",
+    "FileName": "namecard_collei_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_collei_background.webp",
     "FileSize": 49100,
     "UpdatedUnix": 1706051408677
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_cyno.webp",
-    "FileName": "namecard_background_cyno.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_cyno.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_cyno_background.webp",
+    "FileName": "namecard_cyno_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_cyno_background.webp",
     "FileSize": 71688,
     "UpdatedUnix": 1706051419274
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_dehya.webp",
-    "FileName": "namecard_background_dehya.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_dehya.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_dehya_background.webp",
+    "FileName": "namecard_dehya_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_dehya_background.webp",
     "FileSize": 81558,
     "UpdatedUnix": 1706051693604
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_diluc.webp",
-    "FileName": "namecard_background_diluc.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_diluc.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_diluc_background.webp",
+    "FileName": "namecard_diluc_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_diluc_background.webp",
     "FileSize": 32462,
     "UpdatedUnix": 1706051704709
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_diona.webp",
-    "FileName": "namecard_background_diona.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_diona.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_diona_background.webp",
+    "FileName": "namecard_diona_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_diona_background.webp",
     "FileSize": 26650,
     "UpdatedUnix": 1706051715086
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_dori.webp",
-    "FileName": "namecard_background_dori.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_dori.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_dori_background.webp",
+    "FileName": "namecard_dori_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_dori_background.webp",
     "FileSize": 75484,
     "UpdatedUnix": 1706051726485
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_eula.webp",
-    "FileName": "namecard_background_eula.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_eula.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_eula_background.webp",
+    "FileName": "namecard_eula_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_eula_background.webp",
     "FileSize": 32980,
     "UpdatedUnix": 1706051737955
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_faruzan.webp",
-    "FileName": "namecard_background_faruzan.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_faruzan.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_faruzan_background.webp",
+    "FileName": "namecard_faruzan_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_faruzan_background.webp",
     "FileSize": 43482,
     "UpdatedUnix": 1706051750395
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_fischl.webp",
-    "FileName": "namecard_background_fischl.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_fischl.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_fischl_background.webp",
+    "FileName": "namecard_fischl_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_fischl_background.webp",
     "FileSize": 20298,
     "UpdatedUnix": 1706051767033
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_freminet.webp",
-    "FileName": "namecard_background_freminet.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_freminet.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_freminet_background.webp",
+    "FileName": "namecard_freminet_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_freminet_background.webp",
     "FileSize": 70642,
     "UpdatedUnix": 1706051778648
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_furina.webp",
-    "FileName": "namecard_background_furina.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_furina.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_furina_background.webp",
+    "FileName": "namecard_furina_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_furina_background.webp",
     "FileSize": 113008,
     "UpdatedUnix": 1706051789573
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_ganyu.webp",
-    "FileName": "namecard_background_ganyu.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_ganyu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_ganyu_background.webp",
+    "FileName": "namecard_ganyu_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_ganyu_background.webp",
     "FileSize": 41344,
     "UpdatedUnix": 1706051805362
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_gorou.webp",
-    "FileName": "namecard_background_gorou.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_gorou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_gorou_background.webp",
+    "FileName": "namecard_gorou_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_gorou_background.webp",
     "FileSize": 50290,
     "UpdatedUnix": 1706051816488
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_hu_tao.webp",
-    "FileName": "namecard_background_hu_tao.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_hu_tao.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_hu_tao_background.webp",
+    "FileName": "namecard_hu_tao_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_hu_tao_background.webp",
     "FileSize": 77016,
     "UpdatedUnix": 1706052188731
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_jean.webp",
-    "FileName": "namecard_background_jean.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_jean.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_jean_background.webp",
+    "FileName": "namecard_jean_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_jean_background.webp",
     "FileSize": 48208,
     "UpdatedUnix": 1706052406440
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kaedehara_kazuha.webp",
-    "FileName": "namecard_background_kaedehara_kazuha.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kaedehara_kazuha.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kaedehara_kazuha_background.webp",
+    "FileName": "namecard_kaedehara_kazuha_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kaedehara_kazuha_background.webp",
     "FileSize": 55006,
     "UpdatedUnix": 1706052421319
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kaeya.webp",
-    "FileName": "namecard_background_kaeya.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kaeya.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kaeya_background.webp",
+    "FileName": "namecard_kaeya_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kaeya_background.webp",
     "FileSize": 29558,
     "UpdatedUnix": 1706052438102
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kamisato_ayaka.webp",
-    "FileName": "namecard_background_kamisato_ayaka.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kamisato_ayaka.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kamisato_ayaka_background.webp",
+    "FileName": "namecard_kamisato_ayaka_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kamisato_ayaka_background.webp",
     "FileSize": 101324,
     "UpdatedUnix": 1706052452011
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kamisato_ayato.webp",
-    "FileName": "namecard_background_kamisato_ayato.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kamisato_ayato.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kamisato_ayato_background.webp",
+    "FileName": "namecard_kamisato_ayato_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kamisato_ayato_background.webp",
     "FileSize": 50658,
     "UpdatedUnix": 1706052468133
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kaveh.webp",
-    "FileName": "namecard_background_kaveh.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kaveh.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kaveh_background.webp",
+    "FileName": "namecard_kaveh_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kaveh_background.webp",
     "FileSize": 55156,
     "UpdatedUnix": 1706052479554
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_keqing.webp",
-    "FileName": "namecard_background_keqing.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_keqing.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_keqing_background.webp",
+    "FileName": "namecard_keqing_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_keqing_background.webp",
     "FileSize": 25280,
     "UpdatedUnix": 1706052491051
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kirara.webp",
-    "FileName": "namecard_background_kirara.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kirara.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kirara_background.webp",
+    "FileName": "namecard_kirara_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kirara_background.webp",
     "FileSize": 78604,
     "UpdatedUnix": 1706052506584
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_klee.webp",
-    "FileName": "namecard_background_klee.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_klee.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_klee_background.webp",
+    "FileName": "namecard_klee_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_klee_background.webp",
     "FileSize": 29952,
     "UpdatedUnix": 1706052519428
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kujou_sara.webp",
-    "FileName": "namecard_background_kujou_sara.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kujou_sara.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kujou_sara_background.webp",
+    "FileName": "namecard_kujou_sara_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kujou_sara_background.webp",
     "FileSize": 55958,
     "UpdatedUnix": 1706052530538
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_kuki_shinobu.webp",
-    "FileName": "namecard_background_kuki_shinobu.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_kuki_shinobu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_kuki_shinobu_background.webp",
+    "FileName": "namecard_kuki_shinobu_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_kuki_shinobu_background.webp",
     "FileSize": 72734,
     "UpdatedUnix": 1706052545247
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_layla.webp",
-    "FileName": "namecard_background_layla.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_layla.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_layla_background.webp",
+    "FileName": "namecard_layla_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_layla_background.webp",
     "FileSize": 93098,
     "UpdatedUnix": 1706052572432
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_lisa.webp",
-    "FileName": "namecard_background_lisa.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_lisa.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_lisa_background.webp",
+    "FileName": "namecard_lisa_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_lisa_background.webp",
     "FileSize": 28042,
     "UpdatedUnix": 1706052582953
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_lynette.webp",
-    "FileName": "namecard_background_lynette.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_lynette.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_lynette_background.webp",
+    "FileName": "namecard_lynette_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_lynette_background.webp",
     "FileSize": 68136,
     "UpdatedUnix": 1706053337815
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_lyney.webp",
-    "FileName": "namecard_background_lyney.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_lyney.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_lyney_background.webp",
+    "FileName": "namecard_lyney_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_lyney_background.webp",
     "FileSize": 80364,
     "UpdatedUnix": 1706053389397
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_mika.webp",
-    "FileName": "namecard_background_mika.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_mika.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_mika_background.webp",
+    "FileName": "namecard_mika_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_mika_background.webp",
     "FileSize": 93568,
     "UpdatedUnix": 1706053403511
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_mona.webp",
-    "FileName": "namecard_background_mona.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_mona.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_mona_background.webp",
+    "FileName": "namecard_mona_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_mona_background.webp",
     "FileSize": 25194,
     "UpdatedUnix": 1706053413364
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_nahida.webp",
-    "FileName": "namecard_background_nahida.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_nahida.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_nahida_background.webp",
+    "FileName": "namecard_nahida_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_nahida_background.webp",
     "FileSize": 58748,
     "UpdatedUnix": 1706053424216
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_navia.webp",
-    "FileName": "namecard_background_navia.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_navia.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_navia_background.webp",
+    "FileName": "namecard_navia_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_navia_background.webp",
     "FileSize": 80514,
     "UpdatedUnix": 1706053454927
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_neuvillette.webp",
-    "FileName": "namecard_background_neuvillette.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_neuvillette.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_neuvillette_background.webp",
+    "FileName": "namecard_neuvillette_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_neuvillette_background.webp",
     "FileSize": 71570,
     "UpdatedUnix": 1706053464835
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_nilou.webp",
-    "FileName": "namecard_background_nilou.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_nilou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_nilou_background.webp",
+    "FileName": "namecard_nilou_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_nilou_background.webp",
     "FileSize": 48364,
     "UpdatedUnix": 1706053475723
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_ningguang.webp",
-    "FileName": "namecard_background_ningguang.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_ningguang.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_ningguang_background.webp",
+    "FileName": "namecard_ningguang_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_ningguang_background.webp",
     "FileSize": 37498,
     "UpdatedUnix": 1706053485080
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_noelle.webp",
-    "FileName": "namecard_background_noelle.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_noelle.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_noelle_background.webp",
+    "FileName": "namecard_noelle_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_noelle_background.webp",
     "FileSize": 21978,
     "UpdatedUnix": 1706053506257
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_qiqi.webp",
-    "FileName": "namecard_background_qiqi.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_qiqi.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_qiqi_background.webp",
+    "FileName": "namecard_qiqi_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_qiqi_background.webp",
     "FileSize": 23182,
     "UpdatedUnix": 1706053802991
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_raiden_shogun.webp",
-    "FileName": "namecard_background_raiden_shogun.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_raiden_shogun.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_raiden_shogun_background.webp",
+    "FileName": "namecard_raiden_shogun_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_raiden_shogun_background.webp",
     "FileSize": 74110,
     "UpdatedUnix": 1706053813355
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_razor.webp",
-    "FileName": "namecard_background_razor.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_razor.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_razor_background.webp",
+    "FileName": "namecard_razor_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_razor_background.webp",
     "FileSize": 22820,
     "UpdatedUnix": 1706053824440
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_reputation_fontaine.webp",
-    "FileName": "namecard_background_reputation_fontaine.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_reputation_fontaine.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_reputation_fontaine_background.webp",
+    "FileName": "namecard_reputation_fontaine_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_reputation_fontaine_background.webp",
     "FileSize": 91506,
     "UpdatedUnix": 1706054357185
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_reputation_inazuma.webp",
-    "FileName": "namecard_background_reputation_inazuma.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_reputation_inazuma.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_reputation_inazuma_background.webp",
+    "FileName": "namecard_reputation_inazuma_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_reputation_inazuma_background.webp",
     "FileSize": 69704,
     "UpdatedUnix": 1706054326802
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_reputation_liyue.webp",
-    "FileName": "namecard_background_reputation_liyue.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_reputation_liyue.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_reputation_liyue_background.webp",
+    "FileName": "namecard_reputation_liyue_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_reputation_liyue_background.webp",
     "FileSize": 37056,
     "UpdatedUnix": 1706054313222
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_reputation_mondstadt.webp",
-    "FileName": "namecard_background_reputation_mondstadt.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_reputation_mondstadt.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_reputation_mondstadt_background.webp",
+    "FileName": "namecard_reputation_mondstadt_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_reputation_mondstadt_background.webp",
     "FileSize": 46852,
     "UpdatedUnix": 1706054299782
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_reputation_sumeru.webp",
-    "FileName": "namecard_background_reputation_sumeru.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_reputation_sumeru.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_reputation_sumeru_background.webp",
+    "FileName": "namecard_reputation_sumeru_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_reputation_sumeru_background.webp",
     "FileSize": 62272,
     "UpdatedUnix": 1706054339219
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_rosaria.webp",
-    "FileName": "namecard_background_rosaria.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_rosaria.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_rosaria_background.webp",
+    "FileName": "namecard_rosaria_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_rosaria_background.webp",
     "FileSize": 34904,
     "UpdatedUnix": 1706053836995
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_sangonomiya_kokomi.webp",
-    "FileName": "namecard_background_sangonomiya_kokomi.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_sangonomiya_kokomi.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_sangonomiya_kokomi_background.webp",
+    "FileName": "namecard_sangonomiya_kokomi_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_sangonomiya_kokomi_background.webp",
     "FileSize": 103290,
     "UpdatedUnix": 1706053849028
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_sayu.webp",
-    "FileName": "namecard_background_sayu.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_sayu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_sayu_background.webp",
+    "FileName": "namecard_sayu_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_sayu_background.webp",
     "FileSize": 42538,
     "UpdatedUnix": 1706053860682
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_shenhe.webp",
-    "FileName": "namecard_background_shenhe.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_shenhe.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_shenhe_background.webp",
+    "FileName": "namecard_shenhe_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_shenhe_background.webp",
     "FileSize": 63746,
     "UpdatedUnix": 1706053870433
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_shikanoin_heizou.webp",
-    "FileName": "namecard_background_shikanoin_heizou.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_shikanoin_heizou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_shikanoin_heizou_background.webp",
+    "FileName": "namecard_shikanoin_heizou_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_shikanoin_heizou_background.webp",
     "FileSize": 64996,
     "UpdatedUnix": 1706053885721
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_sucrose.webp",
-    "FileName": "namecard_background_sucrose.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_sucrose.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_sucrose_background.webp",
+    "FileName": "namecard_sucrose_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_sucrose_background.webp",
     "FileSize": 33968,
     "UpdatedUnix": 1706053895986
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_thoma.webp",
-    "FileName": "namecard_background_thoma.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_thoma.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_thoma_background.webp",
+    "FileName": "namecard_thoma_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_thoma_background.webp",
     "FileSize": 57766,
     "UpdatedUnix": 1706053905998
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_tighnari.webp",
-    "FileName": "namecard_background_tighnari.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_tighnari.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_tighnari_background.webp",
+    "FileName": "namecard_tighnari_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_tighnari_background.webp",
     "FileSize": 63056,
     "UpdatedUnix": 1706053915492
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_venti.webp",
-    "FileName": "namecard_background_venti.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_venti.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_venti_background.webp",
+    "FileName": "namecard_venti_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_venti_background.webp",
     "FileSize": 31732,
     "UpdatedUnix": 1706053926519
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_wanderer.webp",
-    "FileName": "namecard_background_wanderer.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_wanderer.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_wanderer_background.webp",
+    "FileName": "namecard_wanderer_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_wanderer_background.webp",
     "FileSize": 67684,
     "UpdatedUnix": 1706054055279
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_wriothesley.webp",
-    "FileName": "namecard_background_wriothesley.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_wriothesley.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_wriothesley_background.webp",
+    "FileName": "namecard_wriothesley_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_wriothesley_background.webp",
     "FileSize": 55452,
     "UpdatedUnix": 1706054068239
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_xiangling.webp",
-    "FileName": "namecard_background_xiangling.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_xiangling.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_xiangling_background.webp",
+    "FileName": "namecard_xiangling_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_xiangling_background.webp",
     "FileSize": 37738,
     "UpdatedUnix": 1706054079559
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_xiao.webp",
-    "FileName": "namecard_background_xiao.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_xiao.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_xiao_background.webp",
+    "FileName": "namecard_xiao_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_xiao_background.webp",
     "FileSize": 58218,
     "UpdatedUnix": 1706054089183
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_xinyan.webp",
-    "FileName": "namecard_background_xinyan.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_xinyan.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_xinyan_background.webp",
+    "FileName": "namecard_xinyan_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_xinyan_background.webp",
     "FileSize": 38466,
     "UpdatedUnix": 1706054119688
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_yae_miko.webp",
-    "FileName": "namecard_background_yae_miko.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_yae_miko.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_yae_miko_background.webp",
+    "FileName": "namecard_yae_miko_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_yae_miko_background.webp",
     "FileSize": 52048,
     "UpdatedUnix": 1706054134031
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_yanfei.webp",
-    "FileName": "namecard_background_yanfei.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_yanfei.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_yanfei_background.webp",
+    "FileName": "namecard_yanfei_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_yanfei_background.webp",
     "FileSize": 31550,
     "UpdatedUnix": 1706054145156
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_yaoyao.webp",
-    "FileName": "namecard_background_yaoyao.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_yaoyao.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_yaoyao_background.webp",
+    "FileName": "namecard_yaoyao_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_yaoyao_background.webp",
     "FileSize": 31720,
     "UpdatedUnix": 1706054157476
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_yelan.webp",
-    "FileName": "namecard_background_yelan.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_yelan.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_yelan_background.webp",
+    "FileName": "namecard_yelan_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_yelan_background.webp",
     "FileSize": 75406,
     "UpdatedUnix": 1706054185494
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_yoimiya.webp",
-    "FileName": "namecard_background_yoimiya.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_yoimiya.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_yoimiya_background.webp",
+    "FileName": "namecard_yoimiya_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_yoimiya_background.webp",
     "FileSize": 64620,
     "UpdatedUnix": 1706054219721
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_yun_jin.webp",
-    "FileName": "namecard_background_yun_jin.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_yun_jin.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_yun_jin_background.webp",
+    "FileName": "namecard_yun_jin_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_yun_jin_background.webp",
     "FileSize": 39660,
     "UpdatedUnix": 1706054229664
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_background_zhongli.webp",
-    "FileName": "namecard_background_zhongli.webp",
-    "LocalPath": "Images/Namecards/Backgrounds/namecard_background_zhongli.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Backgrounds/namecard_zhongli_background.webp",
+    "FileName": "namecard_zhongli_background.webp",
+    "LocalPath": "Images/Namecards/Backgrounds/namecard_zhongli_background.webp",
     "FileSize": 36612,
     "UpdatedUnix": 1706054240083
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_albedo.webp",
-    "FileName": "namecard_banner_albedo.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_albedo.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_albedo_banner.webp",
+    "FileName": "namecard_albedo_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_albedo_banner.webp",
     "FileSize": 42130,
     "UpdatedUnix": 1706051143239
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_alhaitham.webp",
-    "FileName": "namecard_banner_alhaitham.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_alhaitham.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_alhaitham_banner.webp",
+    "FileName": "namecard_alhaitham_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_alhaitham_banner.webp",
     "FileSize": 29970,
     "UpdatedUnix": 1706051158398
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_aloy.webp",
-    "FileName": "namecard_banner_aloy.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_aloy.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_aloy_banner.webp",
+    "FileName": "namecard_aloy_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_aloy_banner.webp",
     "FileSize": 36162,
     "UpdatedUnix": 1706051169902
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_amber.webp",
-    "FileName": "namecard_banner_amber.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_amber.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_amber_banner.webp",
+    "FileName": "namecard_amber_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_amber_banner.webp",
     "FileSize": 34966,
     "UpdatedUnix": 1706051182618
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_arataki_itto.webp",
-    "FileName": "namecard_banner_arataki_itto.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_arataki_itto.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_arataki_itto_banner.webp",
+    "FileName": "namecard_arataki_itto_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_arataki_itto_banner.webp",
     "FileSize": 37172,
     "UpdatedUnix": 1706052207505
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_baizhu.webp",
-    "FileName": "namecard_banner_baizhu.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_baizhu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_baizhu_banner.webp",
+    "FileName": "namecard_baizhu_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_baizhu_banner.webp",
     "FileSize": 43344,
     "UpdatedUnix": 1706051222906
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_barbara.webp",
-    "FileName": "namecard_banner_barbara.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_barbara.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_barbara_banner.webp",
+    "FileName": "namecard_barbara_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_barbara_banner.webp",
     "FileSize": 47708,
     "UpdatedUnix": 1706051265200
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_beidou.webp",
-    "FileName": "namecard_banner_beidou.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_beidou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_beidou_banner.webp",
+    "FileName": "namecard_beidou_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_beidou_banner.webp",
     "FileSize": 34852,
     "UpdatedUnix": 1706051276672
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_bennett.webp",
-    "FileName": "namecard_banner_bennett.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_bennett.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_bennett_banner.webp",
+    "FileName": "namecard_bennett_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_bennett_banner.webp",
     "FileSize": 25708,
     "UpdatedUnix": 1706051289707
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_candace.webp",
-    "FileName": "namecard_banner_candace.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_candace.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_candace_banner.webp",
+    "FileName": "namecard_candace_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_candace_banner.webp",
     "FileSize": 37122,
     "UpdatedUnix": 1706051302284
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_charlotte.webp",
-    "FileName": "namecard_banner_charlotte.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_charlotte.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_charlotte_banner.webp",
+    "FileName": "namecard_charlotte_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_charlotte_banner.webp",
     "FileSize": 48796,
     "UpdatedUnix": 1706051312510
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_chevreuse.webp",
-    "FileName": "namecard_banner_chevreuse.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_chevreuse.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_chevreuse_banner.webp",
+    "FileName": "namecard_chevreuse_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_chevreuse_banner.webp",
     "FileSize": 47628,
     "UpdatedUnix": 1706051322717
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_childe.webp",
-    "FileName": "namecard_banner_childe.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_childe.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_childe_banner.webp",
+    "FileName": "namecard_childe_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_childe_banner.webp",
     "FileSize": 26866,
     "UpdatedUnix": 1706051390884
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_chongyun.webp",
-    "FileName": "namecard_banner_chongyun.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_chongyun.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_chongyun_banner.webp",
+    "FileName": "namecard_chongyun_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_chongyun_banner.webp",
     "FileSize": 31488,
     "UpdatedUnix": 1706051403316
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_collei.webp",
-    "FileName": "namecard_banner_collei.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_collei.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_collei_banner.webp",
+    "FileName": "namecard_collei_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_collei_banner.webp",
     "FileSize": 29568,
     "UpdatedUnix": 1706051414127
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_cyno.webp",
-    "FileName": "namecard_banner_cyno.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_cyno.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_cyno_banner.webp",
+    "FileName": "namecard_cyno_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_cyno_banner.webp",
     "FileSize": 25804,
     "UpdatedUnix": 1706051424810
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_dehya.webp",
-    "FileName": "namecard_banner_dehya.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_dehya.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_dehya_banner.webp",
+    "FileName": "namecard_dehya_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_dehya_banner.webp",
     "FileSize": 43094,
     "UpdatedUnix": 1706051699796
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_diluc.webp",
-    "FileName": "namecard_banner_diluc.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_diluc.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_diluc_banner.webp",
+    "FileName": "namecard_diluc_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_diluc_banner.webp",
     "FileSize": 27614,
     "UpdatedUnix": 1706051709651
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_diona.webp",
-    "FileName": "namecard_banner_diona.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_diona.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_diona_banner.webp",
+    "FileName": "namecard_diona_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_diona_banner.webp",
     "FileSize": 26168,
     "UpdatedUnix": 1706051719832
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_dori.webp",
-    "FileName": "namecard_banner_dori.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_dori.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_dori_banner.webp",
+    "FileName": "namecard_dori_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_dori_banner.webp",
     "FileSize": 32446,
     "UpdatedUnix": 1706051731674
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_eula.webp",
-    "FileName": "namecard_banner_eula.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_eula.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_eula_banner.webp",
+    "FileName": "namecard_eula_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_eula_banner.webp",
     "FileSize": 44370,
     "UpdatedUnix": 1706051744268
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_faruzan.webp",
-    "FileName": "namecard_banner_faruzan.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_faruzan.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_faruzan_banner.webp",
+    "FileName": "namecard_faruzan_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_faruzan_banner.webp",
     "FileSize": 31250,
     "UpdatedUnix": 1706051757708
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_fischl.webp",
-    "FileName": "namecard_banner_fischl.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_fischl.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_fischl_banner.webp",
+    "FileName": "namecard_fischl_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_fischl_banner.webp",
     "FileSize": 22142,
     "UpdatedUnix": 1706051771778
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_freminet.webp",
-    "FileName": "namecard_banner_freminet.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_freminet.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_freminet_banner.webp",
+    "FileName": "namecard_freminet_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_freminet_banner.webp",
     "FileSize": 46942,
     "UpdatedUnix": 1706051783321
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_furina.webp",
-    "FileName": "namecard_banner_furina.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_furina.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_furina_banner.webp",
+    "FileName": "namecard_furina_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_furina_banner.webp",
     "FileSize": 46288,
     "UpdatedUnix": 1706051796710
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_ganyu.webp",
-    "FileName": "namecard_banner_ganyu.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_ganyu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_ganyu_banner.webp",
+    "FileName": "namecard_ganyu_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_ganyu_banner.webp",
     "FileSize": 33286,
     "UpdatedUnix": 1706051810650
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_gorou.webp",
-    "FileName": "namecard_banner_gorou.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_gorou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_gorou_banner.webp",
+    "FileName": "namecard_gorou_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_gorou_banner.webp",
     "FileSize": 29110,
     "UpdatedUnix": 1706051821683
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_hu_tao.webp",
-    "FileName": "namecard_banner_hu_tao.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_hu_tao.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_hu_tao_banner.webp",
+    "FileName": "namecard_hu_tao_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_hu_tao_banner.webp",
     "FileSize": 56118,
     "UpdatedUnix": 1706052194672
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_jean.webp",
-    "FileName": "namecard_banner_jean.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_jean.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_jean_banner.webp",
+    "FileName": "namecard_jean_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_jean_banner.webp",
     "FileSize": 45780,
     "UpdatedUnix": 1706052412327
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kaedehara_kazuha.webp",
-    "FileName": "namecard_banner_kaedehara_kazuha.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kaedehara_kazuha.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kaedehara_kazuha_banner.webp",
+    "FileName": "namecard_kaedehara_kazuha_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kaedehara_kazuha_banner.webp",
     "FileSize": 30886,
     "UpdatedUnix": 1706052431530
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kaeya.webp",
-    "FileName": "namecard_banner_kaeya.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kaeya.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kaeya_banner.webp",
+    "FileName": "namecard_kaeya_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kaeya_banner.webp",
     "FileSize": 36190,
     "UpdatedUnix": 1706052444206
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kamisato_ayaka.webp",
-    "FileName": "namecard_banner_kamisato_ayaka.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kamisato_ayaka.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kamisato_ayaka_banner.webp",
+    "FileName": "namecard_kamisato_ayaka_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kamisato_ayaka_banner.webp",
     "FileSize": 64012,
     "UpdatedUnix": 1706052461016
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kamisato_ayato.webp",
-    "FileName": "namecard_banner_kamisato_ayato.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kamisato_ayato.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kamisato_ayato_banner.webp",
+    "FileName": "namecard_kamisato_ayato_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kamisato_ayato_banner.webp",
     "FileSize": 31380,
     "UpdatedUnix": 1706052474096
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kaveh.webp",
-    "FileName": "namecard_banner_kaveh.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kaveh.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kaveh_banner.webp",
+    "FileName": "namecard_kaveh_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kaveh_banner.webp",
     "FileSize": 27498,
     "UpdatedUnix": 1706052485162
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_keqing.webp",
-    "FileName": "namecard_banner_keqing.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_keqing.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_keqing_banner.webp",
+    "FileName": "namecard_keqing_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_keqing_banner.webp",
     "FileSize": 43126,
     "UpdatedUnix": 1706052500769
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kirara.webp",
-    "FileName": "namecard_banner_kirara.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kirara.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kirara_banner.webp",
+    "FileName": "namecard_kirara_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kirara_banner.webp",
     "FileSize": 35582,
     "UpdatedUnix": 1706052512252
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_klee.webp",
-    "FileName": "namecard_banner_klee.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_klee.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_klee_banner.webp",
+    "FileName": "namecard_klee_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_klee_banner.webp",
     "FileSize": 25602,
     "UpdatedUnix": 1706052524826
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kujou_sara.webp",
-    "FileName": "namecard_banner_kujou_sara.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kujou_sara.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kujou_sara_banner.webp",
+    "FileName": "namecard_kujou_sara_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kujou_sara_banner.webp",
     "FileSize": 27256,
     "UpdatedUnix": 1706052539306
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_kuki_shinobu.webp",
-    "FileName": "namecard_banner_kuki_shinobu.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_kuki_shinobu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_kuki_shinobu_banner.webp",
+    "FileName": "namecard_kuki_shinobu_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_kuki_shinobu_banner.webp",
     "FileSize": 38010,
     "UpdatedUnix": 1706052551561
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_layla.webp",
-    "FileName": "namecard_banner_layla.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_layla.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_layla_banner.webp",
+    "FileName": "namecard_layla_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_layla_banner.webp",
     "FileSize": 42110,
     "UpdatedUnix": 1706052577671
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_lisa.webp",
-    "FileName": "namecard_banner_lisa.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_lisa.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_lisa_banner.webp",
+    "FileName": "namecard_lisa_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_lisa_banner.webp",
     "FileSize": 29396,
     "UpdatedUnix": 1706052589671
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_lynette.webp",
-    "FileName": "namecard_banner_lynette.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_lynette.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_lynette_banner.webp",
+    "FileName": "namecard_lynette_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_lynette_banner.webp",
     "FileSize": 42796,
     "UpdatedUnix": 1706053382844
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_lyney.webp",
-    "FileName": "namecard_banner_lyney.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_lyney.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_lyney_banner.webp",
+    "FileName": "namecard_lyney_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_lyney_banner.webp",
     "FileSize": 43486,
     "UpdatedUnix": 1706053397329
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_mika.webp",
-    "FileName": "namecard_banner_mika.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_mika.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_mika_banner.webp",
+    "FileName": "namecard_mika_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_mika_banner.webp",
     "FileSize": 34556,
     "UpdatedUnix": 1706053408144
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_mona.webp",
-    "FileName": "namecard_banner_mona.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_mona.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_mona_banner.webp",
+    "FileName": "namecard_mona_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_mona_banner.webp",
     "FileSize": 29458,
     "UpdatedUnix": 1706053418550
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_nahida.webp",
-    "FileName": "namecard_banner_nahida.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_nahida.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_nahida_banner.webp",
+    "FileName": "namecard_nahida_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_nahida_banner.webp",
     "FileSize": 31858,
     "UpdatedUnix": 1706053450196
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_navia.webp",
-    "FileName": "namecard_banner_navia.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_navia.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_navia_banner.webp",
+    "FileName": "namecard_navia_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_navia_banner.webp",
     "FileSize": 45380,
     "UpdatedUnix": 1706053459780
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_neuvillette.webp",
-    "FileName": "namecard_banner_neuvillette.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_neuvillette.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_neuvillette_banner.webp",
+    "FileName": "namecard_neuvillette_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_neuvillette_banner.webp",
     "FileSize": 41180,
     "UpdatedUnix": 1706053470445
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_nilou.webp",
-    "FileName": "namecard_banner_nilou.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_nilou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_nilou_banner.webp",
+    "FileName": "namecard_nilou_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_nilou_banner.webp",
     "FileSize": 31748,
     "UpdatedUnix": 1706053480318
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_ningguang.webp",
-    "FileName": "namecard_banner_ningguang.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_ningguang.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_ningguang_banner.webp",
+    "FileName": "namecard_ningguang_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_ningguang_banner.webp",
     "FileSize": 47620,
     "UpdatedUnix": 1706053500163
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_noelle.webp",
-    "FileName": "namecard_banner_noelle.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_noelle.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_noelle_banner.webp",
+    "FileName": "namecard_noelle_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_noelle_banner.webp",
     "FileSize": 38072,
     "UpdatedUnix": 1706053517690
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_qiqi.webp",
-    "FileName": "namecard_banner_qiqi.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_qiqi.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_qiqi_banner.webp",
+    "FileName": "namecard_qiqi_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_qiqi_banner.webp",
     "FileSize": 22894,
     "UpdatedUnix": 1706053807851
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_raiden_shogun.webp",
-    "FileName": "namecard_banner_raiden_shogun.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_raiden_shogun.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_raiden_shogun_banner.webp",
+    "FileName": "namecard_raiden_shogun_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_raiden_shogun_banner.webp",
     "FileSize": 38338,
     "UpdatedUnix": 1706053818615
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_razor.webp",
-    "FileName": "namecard_banner_razor.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_razor.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_razor_banner.webp",
+    "FileName": "namecard_razor_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_razor_banner.webp",
     "FileSize": 24482,
     "UpdatedUnix": 1706053830349
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_reputation_fontaine.webp",
-    "FileName": "namecard_banner_reputation_fontaine.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_reputation_fontaine.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_reputation_fontaine_banner.webp",
+    "FileName": "namecard_reputation_fontaine_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_reputation_fontaine_banner.webp",
     "FileSize": 47896,
     "UpdatedUnix": 1706054362525
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_reputation_inazuma.webp",
-    "FileName": "namecard_banner_reputation_inazuma.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_reputation_inazuma.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_reputation_inazuma_banner.webp",
+    "FileName": "namecard_reputation_inazuma_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_reputation_inazuma_banner.webp",
     "FileSize": 42632,
     "UpdatedUnix": 1706054333809
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_reputation_liyue.webp",
-    "FileName": "namecard_banner_reputation_liyue.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_reputation_liyue.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_reputation_liyue_banner.webp",
+    "FileName": "namecard_reputation_liyue_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_reputation_liyue_banner.webp",
     "FileSize": 31978,
     "UpdatedUnix": 1706054318743
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_reputation_mondstadt.webp",
-    "FileName": "namecard_banner_reputation_mondstadt.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_reputation_mondstadt.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_reputation_mondstadt_banner.webp",
+    "FileName": "namecard_reputation_mondstadt_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_reputation_mondstadt_banner.webp",
     "FileSize": 35500,
     "UpdatedUnix": 1706054305660
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_reputation_sumeru.webp",
-    "FileName": "namecard_banner_reputation_sumeru.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_reputation_sumeru.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_reputation_sumeru_banner.webp",
+    "FileName": "namecard_reputation_sumeru_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_reputation_sumeru_banner.webp",
     "FileSize": 34754,
     "UpdatedUnix": 1706054345673
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_rosaria.webp",
-    "FileName": "namecard_banner_rosaria.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_rosaria.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_rosaria_banner.webp",
+    "FileName": "namecard_rosaria_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_rosaria_banner.webp",
     "FileSize": 27746,
     "UpdatedUnix": 1706053842915
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_sangonomiya_kokomi.webp",
-    "FileName": "namecard_banner_sangonomiya_kokomi.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_sangonomiya_kokomi.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_sangonomiya_kokomi_banner.webp",
+    "FileName": "namecard_sangonomiya_kokomi_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_sangonomiya_kokomi_banner.webp",
     "FileSize": 54274,
     "UpdatedUnix": 1706053855050
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_sayu.webp",
-    "FileName": "namecard_banner_sayu.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_sayu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_sayu_banner.webp",
+    "FileName": "namecard_sayu_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_sayu_banner.webp",
     "FileSize": 29580,
     "UpdatedUnix": 1706053865733
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_shenhe.webp",
-    "FileName": "namecard_banner_shenhe.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_shenhe.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_shenhe_banner.webp",
+    "FileName": "namecard_shenhe_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_shenhe_banner.webp",
     "FileSize": 37198,
     "UpdatedUnix": 1706053876160
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_shikanoin_heizou.webp",
-    "FileName": "namecard_banner_shikanoin_heizou.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_shikanoin_heizou.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_shikanoin_heizou_banner.webp",
+    "FileName": "namecard_shikanoin_heizou_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_shikanoin_heizou_banner.webp",
     "FileSize": 31568,
     "UpdatedUnix": 1706053890990
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_sucrose.webp",
-    "FileName": "namecard_banner_sucrose.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_sucrose.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_sucrose_banner.webp",
+    "FileName": "namecard_sucrose_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_sucrose_banner.webp",
     "FileSize": 38440,
     "UpdatedUnix": 1706053901021
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_thoma.webp",
-    "FileName": "namecard_banner_thoma.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_thoma.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_thoma_banner.webp",
+    "FileName": "namecard_thoma_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_thoma_banner.webp",
     "FileSize": 22298,
     "UpdatedUnix": 1706053910682
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_tighnari.webp",
-    "FileName": "namecard_banner_tighnari.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_tighnari.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_tighnari_banner.webp",
+    "FileName": "namecard_tighnari_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_tighnari_banner.webp",
     "FileSize": 27156,
     "UpdatedUnix": 1706053921083
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_venti.webp",
-    "FileName": "namecard_banner_venti.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_venti.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_venti_banner.webp",
+    "FileName": "namecard_venti_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_venti_banner.webp",
     "FileSize": 35174,
     "UpdatedUnix": 1706053932364
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_wanderer.webp",
-    "FileName": "namecard_banner_wanderer.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_wanderer.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_wanderer_banner.webp",
+    "FileName": "namecard_wanderer_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_wanderer_banner.webp",
     "FileSize": 39116,
     "UpdatedUnix": 1706054061320
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_wriothesley.webp",
-    "FileName": "namecard_banner_wriothesley.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_wriothesley.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_wriothesley_banner.webp",
+    "FileName": "namecard_wriothesley_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_wriothesley_banner.webp",
     "FileSize": 36332,
     "UpdatedUnix": 1706054074505
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_xiangling.webp",
-    "FileName": "namecard_banner_xiangling.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_xiangling.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_xiangling_banner.webp",
+    "FileName": "namecard_xiangling_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_xiangling_banner.webp",
     "FileSize": 45358,
     "UpdatedUnix": 1706054084771
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_xiao.webp",
-    "FileName": "namecard_banner_xiao.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_xiao.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_xiao_banner.webp",
+    "FileName": "namecard_xiao_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_xiao_banner.webp",
     "FileSize": 42678,
     "UpdatedUnix": 1706054094428
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_xingqiu.webp",
-    "FileName": "namecard_banner_xingqiu.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_xingqiu.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_xingqiu_banner.webp",
+    "FileName": "namecard_xingqiu_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_xingqiu_banner.webp",
     "FileSize": 38230,
     "UpdatedUnix": 1706054098912
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_xinyan.webp",
-    "FileName": "namecard_banner_xinyan.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_xinyan.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_xinyan_banner.webp",
+    "FileName": "namecard_xinyan_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_xinyan_banner.webp",
     "FileSize": 30700,
     "UpdatedUnix": 1706054125287
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_yae_miko.webp",
-    "FileName": "namecard_banner_yae_miko.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_yae_miko.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_yae_miko_banner.webp",
+    "FileName": "namecard_yae_miko_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_yae_miko_banner.webp",
     "FileSize": 33546,
     "UpdatedUnix": 1706054139847
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_yanfei.webp",
-    "FileName": "namecard_banner_yanfei.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_yanfei.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_yanfei_banner.webp",
+    "FileName": "namecard_yanfei_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_yanfei_banner.webp",
     "FileSize": 37628,
     "UpdatedUnix": 1706054152344
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_yaoyao.webp",
-    "FileName": "namecard_banner_yaoyao.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_yaoyao.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_yaoyao_banner.webp",
+    "FileName": "namecard_yaoyao_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_yaoyao_banner.webp",
     "FileSize": 28354,
     "UpdatedUnix": 1706054163423
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_yelan.webp",
-    "FileName": "namecard_banner_yelan.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_yelan.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_yelan_banner.webp",
+    "FileName": "namecard_yelan_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_yelan_banner.webp",
     "FileSize": 36060,
     "UpdatedUnix": 1706054214511
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_yoimiya.webp",
-    "FileName": "namecard_banner_yoimiya.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_yoimiya.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_yoimiya_banner.webp",
+    "FileName": "namecard_yoimiya_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_yoimiya_banner.webp",
     "FileSize": 31346,
     "UpdatedUnix": 1706054224492
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_yun_jin.webp",
-    "FileName": "namecard_banner_yun_jin.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_yun_jin.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_yun_jin_banner.webp",
+    "FileName": "namecard_yun_jin_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_yun_jin_banner.webp",
     "FileSize": 22980,
     "UpdatedUnix": 1706054234617
   },
   {
-    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_banner_zhongli.webp",
-    "FileName": "namecard_banner_zhongli.webp",
-    "LocalPath": "Images/Namecards/Banners/namecard_banner_zhongli.webp",
+    "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Namecards/Banners/namecard_zhongli_banner.webp",
+    "FileName": "namecard_zhongli_banner.webp",
+    "LocalPath": "Images/Namecards/Banners/namecard_zhongli_banner.webp",
     "FileSize": 38394,
     "UpdatedUnix": 1706054246208
   },
