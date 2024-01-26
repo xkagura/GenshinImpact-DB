@@ -2,7 +2,6 @@
   "Fishies": {
     "medaka": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Medaka",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FruitPaste",
@@ -39,7 +38,6 @@
     },
     "glaze_medaka": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Medaka",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FruitPaste",
@@ -76,7 +74,6 @@
     },
     "sweet_flower_medaka": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Medaka",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FruitPaste",
@@ -113,7 +110,6 @@
     },
     "aizen_medaka": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Medaka",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FruitPaste",
@@ -150,7 +146,6 @@
     },
     "dawncatcher": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Medaka",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FruitPaste",
@@ -187,7 +182,6 @@
     },
     "crystalfish": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Medaka",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FruitPaste",
@@ -224,7 +218,6 @@
     },
     "brown_shirakodai": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Butterflyfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FalseWorm",
@@ -261,7 +254,6 @@
     },
     "purple_shirakodai": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Butterflyfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FalseWorm",
@@ -298,7 +290,6 @@
     },
     "tea_colored_shirakodai": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Butterflyfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FalseWorm",
@@ -335,7 +326,6 @@
     },
     "abiding_angelfish": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Butterflyfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FalseWorm",
@@ -372,7 +362,6 @@
     },
     "raimei_angelfish": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Butterflyfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FalseWorm",
@@ -409,7 +398,6 @@
     },
     "lunged_stickleback": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Stickleback",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Redrot",
@@ -446,7 +434,6 @@
     },
     "betta": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Stickleback",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Redrot",
@@ -483,7 +470,6 @@
     },
     "venomspine_fish": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Stickleback",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Redrot",
@@ -520,7 +506,6 @@
     },
     "akai_maou": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Stickleback",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Redrot",
@@ -557,7 +542,6 @@
     },
     "snowstrider": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Stickleback",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Redrot",
@@ -594,7 +578,6 @@
     },
     "golden_koi": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Koi",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FakeFly",
@@ -631,7 +614,6 @@
     },
     "rusty_koi": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Koi",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FakeFly",
@@ -668,7 +650,6 @@
     },
     "pufferfish": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Pufferfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FakeFly",
@@ -705,7 +686,6 @@
     },
     "bitter_pufferfish": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Pufferfish",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FakeFly",
@@ -742,7 +722,6 @@
     },
     "divda_ray": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Ray",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FakeFly",
@@ -779,7 +758,6 @@
     },
     "formalo_ray": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Ray",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "FakeFly",
@@ -816,7 +794,6 @@
     },
     "halcyon_jade_axe_marlin": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "AxeMarlins",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -853,7 +830,6 @@
     },
     "lazurite_axe_marlin": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "AxeMarlins",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -890,7 +866,6 @@
     },
     "peach_of_the_deep_waves": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Angler",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -927,7 +902,6 @@
     },
     "sandstorm_angler": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Angler",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -964,7 +938,6 @@
     },
     "sunset_cloud_angler": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Angler",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -1001,7 +974,6 @@
     },
     "true_fruit_angler": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Angler",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -1038,7 +1010,6 @@
     },
     "streaming_axe_marlin": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "AxeMarlins",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "Sugardew",
@@ -1075,7 +1046,6 @@
     },
     "rippling_heartfeather_bass": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "HeartfeatherBass",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "SourBait",
@@ -1112,7 +1082,6 @@
     },
     "blazing_heartfeather_bass": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "HeartfeatherBass",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "SourBait",
@@ -1149,7 +1118,6 @@
     },
     "maintenance_mek_initial_configuration": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Mek",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "MekBait",
@@ -1186,7 +1154,6 @@
     },
     "maintenance_mek_water_body_cleaner": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Mek",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "MekBait",
@@ -1223,7 +1190,6 @@
     },
     "maintenance_mek_situation_controller": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Mek",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "MekBait",
@@ -1260,7 +1226,6 @@
     },
     "maintenance_mek_platinum_collection": {
       "EntityId": "fish",
-      "PortraitUri": null,
       "Set": "Mek",
       "CurrencyType": "Fish",
       "BaitTypeRequired": "MekBait",

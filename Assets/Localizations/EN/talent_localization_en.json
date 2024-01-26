@@ -1,6 +1,16 @@
 {
   "LangCode": "EN",
   "Talents": {
+    "unknown": [
+      {
+        "Name": "Unknown Talent",
+        "Type": null,
+        "Descriptions": [
+          "Information about this Talent is coming soon."
+        ],
+        "Stats": []
+      }
+    ],
     "albedo": [
       {
         "Name": "Favonius Bladework - Weiss",

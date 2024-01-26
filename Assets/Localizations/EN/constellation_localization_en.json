@@ -1,6 +1,15 @@
 {
   "LangCode": "EN",
   "Constellations": {
+    "unknown": [
+      {
+        "Name": "Unknown Constellation",
+        "Type": null,
+        "Descriptions": [
+          "Information about this Constellation is coming soon."
+        ]
+      }
+    ],
     "albedo": [
       {
         "Name": "Flower of Eden",
