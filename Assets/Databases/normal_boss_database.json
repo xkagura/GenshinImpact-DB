@@ -3,7 +3,7 @@
     "anemo_hypostasis": {
       "NormalBossMaterialRewarded": "HurricaneSeed",
       "AscensionGemsRewarded": "Vayuda",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Anemo",
       "Location": "Mondstadt",
@@ -24,7 +24,7 @@
     "cryo_hypostasis": {
       "NormalBossMaterialRewarded": "CrystallineBloom",
       "AscensionGemsRewarded": "Shivada",
-      "ArtifactsRewarded": 277059012612,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Cryo",
       "Location": "Dragonspine",
@@ -45,7 +45,7 @@
     "dendro_hypostasis": {
       "NormalBossMaterialRewarded": "QuelledCreeper",
       "AscensionGemsRewarded": "Nagadus",
-      "ArtifactsRewarded": 274877925381,
+      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Dendro",
       "Location": "Sumeru",
@@ -66,7 +66,7 @@
     "electro_hypostasis": {
       "NormalBossMaterialRewarded": "LightningPrism",
       "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": 277042235396,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersForWisdom, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Electro",
       "Location": "Mondstadt",
@@ -87,7 +87,7 @@
     "geo_hypostasis": {
       "NormalBossMaterialRewarded": "BasaltPillar",
       "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": 311385147392,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Geo",
       "Location": "Liyue",
@@ -108,7 +108,7 @@
     "hydro_hypostasis": {
       "NormalBossMaterialRewarded": "DewOfRepudiation",
       "AscensionGemsRewarded": "Varunada",
-      "ArtifactsRewarded": 311389341696,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, PrayersForDestiny, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Hydro",
       "Location": "Inazuma",
@@ -129,7 +129,7 @@
     "pyro_hypostasis": {
       "NormalBossMaterialRewarded": "SmolderingPearl",
       "AscensionGemsRewarded": "Agnidus",
-      "ArtifactsRewarded": 274886313989,
+      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, PrayersForIllumination, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Pyro",
       "Location": "Inazuma",
@@ -150,7 +150,7 @@
     "cryo_regisvine": {
       "NormalBossMaterialRewarded": "HoarfrostCore",
       "AscensionGemsRewarded": "Shivada",
-      "ArtifactsRewarded": 277059012612,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Cryo",
       "Location": "Mondstadt",
@@ -171,7 +171,7 @@
     "electro_regisvine": {
       "NormalBossMaterialRewarded": "ThunderclapFruitcore",
       "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": 311385147392,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Electro",
       "Location": "Sumeru",
@@ -192,7 +192,7 @@
     "pyro_regisvine": {
       "NormalBossMaterialRewarded": "EverflameSeed",
       "AscensionGemsRewarded": "Agnidus",
-      "ArtifactsRewarded": 274886313989,
+      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, PrayersForIllumination, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Pyro",
       "Location": "Liyue",
@@ -213,7 +213,7 @@
     "rhodeia_of_loch": {
       "NormalBossMaterialRewarded": "CleansingHeart",
       "AscensionGemsRewarded": "Varunada",
-      "ArtifactsRewarded": 277029586949,
+      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, PrayersForDestiny, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Hydro",
       "Location": "Liyue",
@@ -234,7 +234,7 @@
     "primo_geovishap": {
       "NormalBossMaterialRewarded": "JuvenileJade",
       "AscensionGemsRewarded": 61,
-      "ArtifactsRewarded": 277088323588,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, Prayers, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Cryo, Electro, Geo, Hydro, Pyro",
       "Location": "Liyue",
@@ -255,7 +255,7 @@
     "maguu_kenki": {
       "NormalBossMaterialRewarded": "MarionetteCore",
       "AscensionGemsRewarded": 72,
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Anemo, Cryo",
       "Location": "Inazuma",
@@ -276,7 +276,7 @@
     "perpetual_mechanical_array": {
       "NormalBossMaterialRewarded": "PerpetualHeart",
       "AscensionGemsRewarded": 12,
-      "ArtifactsRewarded": 277059012612,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Physical",
       "Location": "Inazuma",
@@ -297,7 +297,7 @@
     "thunder_manifestation": {
       "NormalBossMaterialRewarded": "StormBeads",
       "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": 311401924608,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, PrayersForWisdom, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Electro",
       "Location": "Inazuma",
@@ -318,7 +318,7 @@
     "golden_wolflord": {
       "NormalBossMaterialRewarded": "RiftbornRegalia",
       "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": 311385147392,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Geo",
       "Location": "Inazuma",
@@ -339,7 +339,7 @@
     "coral_defenders": {
       "NormalBossMaterialRewarded": "DragonheirsFalseFin",
       "AscensionGemsRewarded": 24,
-      "ArtifactsRewarded": 277059012612,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Cryo, Electro",
       "Location": "Enkanomiya",
@@ -360,7 +360,7 @@
     "ruin_serpent": {
       "NormalBossMaterialRewarded": "RunicFang",
       "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": 311385147392,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Physical",
       "Location": "Chasm",
@@ -381,7 +381,7 @@
     "jadeplume_terrorshroom": {
       "NormalBossMaterialRewarded": "MajesticHookedBeak",
       "AscensionGemsRewarded": "Nagadus",
-      "ArtifactsRewarded": 311385147392,
+      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Dendro",
       "Location": "Sumeru",
@@ -402,7 +402,7 @@
     "aeonblight_drake": {
       "NormalBossMaterialRewarded": "PerpetualCaliber",
       "AscensionGemsRewarded": 40,
-      "ArtifactsRewarded": 277025458180,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, TheExile, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Physical",
       "Location": "Sumeru",
@@ -423,7 +423,7 @@
     "algorithm_of_semi_intransient_matrix_of_overseer_network": {
       "NormalBossMaterialRewarded": "LightGuidingTetrahedron",
       "AscensionGemsRewarded": 65,
-      "ArtifactsRewarded": 274877925381,
+      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Physical",
       "Location": "Sumeru",
@@ -444,7 +444,7 @@
     "setekh_wenut": {
       "NormalBossMaterialRewarded": "PseudoStamens",
       "AscensionGemsRewarded": "Vayuda",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Anemo",
       "Location": "Sumeru",
@@ -465,7 +465,7 @@
     "iniquitous_baptist": {
       "NormalBossMaterialRewarded": "EvergloomRing",
       "AscensionGemsRewarded": 57,
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Cryo, Electro, Hydro, Pyro",
       "Location": "Sumeru",
@@ -486,7 +486,7 @@
     "dirge_of_coppelia": {
       "NormalBossMaterialRewarded": "Coppelia",
       "AscensionGemsRewarded": "Vayuda",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Anemo",
       "Location": "Fontaine",
@@ -507,7 +507,7 @@
     "nemesis_of_coppelius": {
       "NormalBossMaterialRewarded": "Coppelius",
       "AscensionGemsRewarded": "Shivada",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Cryo",
       "Location": "Fontaine",
@@ -528,7 +528,7 @@
     "emperor_of_fire_and_iron": {
       "NormalBossMaterialRewarded": "EmperorsResolution",
       "AscensionGemsRewarded": "Agnidus",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Pyro",
       "Location": "Fontaine",
@@ -549,7 +549,7 @@
     "experimental_field_generator": {
       "NormalBossMaterialRewarded": "TourbillonDevice",
       "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Geo",
       "Location": "Fontaine",
@@ -570,7 +570,7 @@
     "millennial_pearl_seahorse": {
       "NormalBossMaterialRewarded": "FontemerUnihorn",
       "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": 274877990916,
+      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
       "EntityId": "enemy",
       "Element": "Electro",
       "Location": "Fontaine",

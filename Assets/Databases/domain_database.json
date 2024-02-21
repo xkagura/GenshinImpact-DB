@@ -225,7 +225,7 @@
   },
   "DomainsOfBlessing": {
     "domain_of_guyun": {
-      "ArtifactsRewarded": 134283298,
+      "ArtifactsRewarded": "ArchaicPetra, BraveHeart, LuckyDog, RetracingBolide",
       "EntityId": "domain",
       "RecommendedElements": "Electro",
       "InteractiveMapPoint": {
@@ -247,7 +247,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "midsummer_courtyard": {
-      "ArtifactsRewarded": 12952010753,
+      "ArtifactsRewarded": "Adventurer, ResolutionOfSojourner, ThunderingFury, Thundersoother",
       "EntityId": "domain",
       "RecommendedElements": "Pyro",
       "InteractiveMapPoint": {
@@ -269,7 +269,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "valley_of_remembrance": {
-      "ArtifactsRewarded": 188978692096,
+      "ArtifactsRewarded": "MaidenBeloved, TinyMiracle, TravelingDoctor, ViridescentVenerer",
       "EntityId": "domain",
       "RecommendedElements": "Unknown",
       "InteractiveMapPoint": {
@@ -291,7 +291,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hidden_palace_of_zhou_formula": {
-      "ArtifactsRewarded": 295104,
+      "ArtifactsRewarded": "CrimsonWitchOfFlames, DefendersWill, Lavawalker, MartialArtist",
       "EntityId": "domain",
       "RecommendedElements": "Cryo",
       "InteractiveMapPoint": {
@@ -313,7 +313,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "peak_of_vindagnyr": {
-      "ArtifactsRewarded": 5256,
+      "ArtifactsRewarded": "BlizzardStrayer, DefendersWill, Gambler, HeartOfDepth",
       "EntityId": "domain",
       "RecommendedElements": "Anemo, Electro, Geo, Pyro",
       "InteractiveMapPoint": {
@@ -335,7 +335,7 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "ridge_watch": {
-      "ArtifactsRewarded": 1076101152,
+      "ArtifactsRewarded": "BraveHeart, MartialArtist, PaleFlame, TenacityOfTheMillelith",
       "EntityId": "domain",
       "RecommendedElements": "Cryo, Geo, Hydro",
       "InteractiveMapPoint": {
@@ -357,7 +357,7 @@
       "DateAdded": "2021-04-28T00:00:00"
     },
     "momiji_dyed_court": {
-      "ArtifactsRewarded": 17783849472,
+      "ArtifactsRewarded": "EmblemOfSeveredFate, ResolutionOfSojourner, ShimenawasReminiscence, TinyMiracle",
       "EntityId": "domain",
       "RecommendedElements": "Cryo, Pyro",
       "InteractiveMapPoint": {
@@ -379,7 +379,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "slumbering_court": {
-      "ArtifactsRewarded": 1056928,
+      "ArtifactsRewarded": "BraveHeart, DefendersWill, HuskOfOpulentDreams, OceanHuedClam",
       "EntityId": "domain",
       "RecommendedElements": "Electro, Hydro",
       "InteractiveMapPoint": {
@@ -401,7 +401,7 @@
       "DateAdded": "2021-11-24T00:00:00"
     },
     "clear_pool_and_mountain_cavern": {
-      "ArtifactsRewarded": 268960784,
+      "ArtifactsRewarded": "BloodstainedChivalry, Gambler, NoblesseOblige, Scholar",
       "EntityId": "domain",
       "RecommendedElements": "Geo",
       "InteractiveMapPoint": {
@@ -423,7 +423,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "the_lost_valley": {
-      "ArtifactsRewarded": 68719740160,
+      "ArtifactsRewarded": "EchoesOfAnOffering, Gambler, MartialArtist, VermillionHereafter",
       "EntityId": "domain",
       "RecommendedElements": "Anemo, Electro, Geo, Pyro",
       "InteractiveMapPoint": {
@@ -445,7 +445,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "spire_of_solitary_enlightenment": {
-      "ArtifactsRewarded": 1666447311872,
+      "ArtifactsRewarded": "Gambler, TinyMiracle, DeepwoodMemories, GildedDreams",
       "EntityId": "domain",
       "RecommendedElements": "Cryo, Electro, Hydro",
       "InteractiveMapPoint": {
@@ -467,7 +467,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "city_of_gold": {
-      "ArtifactsRewarded": 6597136875552,
+      "ArtifactsRewarded": "BraveHeart, ResolutionOfSojourner, DesertPavilionChronicle, FlowerOfParadiseLost",
       "EntityId": "domain",
       "RecommendedElements": "Anemo",
       "InteractiveMapPoint": {
@@ -489,7 +489,7 @@
       "DateAdded": "2022-12-07T00:00:00"
     },
     "molten_iron_fortress": {
-      "ArtifactsRewarded": 26388547764224,
+      "ArtifactsRewarded": "MartialArtist, Scholar, NymphsDream, VourukashasGlow",
       "EntityId": "domain",
       "RecommendedElements": "Dendro",
       "InteractiveMapPoint": {
@@ -511,7 +511,7 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "denouement_of_sin": {
-      "ArtifactsRewarded": 105553183375488,
+      "ArtifactsRewarded": "DefendersWill, ResolutionOfSojourner, GoldenTroupe, MarechausseeHunter",
       "EntityId": "domain",
       "RecommendedElements": "Anemo, Cryo, Hydro, Pyro",
       "InteractiveMapPoint": {

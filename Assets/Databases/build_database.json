@@ -199,7 +199,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 6322191876608,
+            "Primary": "EmblemOfSeveredFate, DeepwoodMemories, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -333,7 +333,7 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 5841760045864,
+            "Primary": "BlizzardStrayer, EmblemOfSeveredFate, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -659,7 +659,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 8706,
+            "Primary": "ArchaicPetra, EmblemOfSeveredFate, HuskOfOpulentDreams",
             "Secondary": "Unknown"
           }
         ],
@@ -748,7 +748,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 1074921472,
+            "Primary": "HealingSets, TenacityOfTheMillelith",
             "Secondary": "Unknown"
           },
           {
@@ -963,7 +963,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 73618950944,
+            "Primary": "EmblemOfSeveredFate, NoblesseOblige, ThunderingFury, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -1110,7 +1110,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841760045408,
+            "Primary": "CrimsonWitchOfFlames, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -1235,7 +1235,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841760045920,
+            "Primary": "CrimsonWitchOfFlames, EmblemOfSeveredFate, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           }
         ],
@@ -1569,7 +1569,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841760045864,
+            "Primary": "BlizzardStrayer, EmblemOfSeveredFate, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -1802,7 +1802,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5776731029504,
+            "Primary": "ThunderingFury, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -1930,7 +1930,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5846054488864,
+            "Primary": "EmblemOfSeveredFate, ThunderingFury, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -2147,7 +2147,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841759521120,
+            "Primary": "CrimsonWitchOfFlames, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -2843,7 +2843,7 @@
           {
             "Strategy": "Combo",
             "Primary": "ThunderingFury",
-            "Secondary": 5841759521056
+            "Secondary": "ATKSets, ElementalMasterySets"
           },
           {
             "Strategy": "ChooseOne",
@@ -2957,7 +2957,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841759521064,
+            "Primary": "BlizzardStrayer, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           }
         ],
@@ -3173,7 +3173,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 69323983656,
+            "Primary": "BlizzardStrayer, EmblemOfSeveredFate, NoblesseOblige, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -3381,7 +3381,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5773509804096,
+            "Primary": "CrimsonWitchOfFlames, TenacityOfTheMillelith, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -3540,7 +3540,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 2405786192160,
+            "Primary": "NoblesseOblige, ATKSets, AnemoSets",
             "Secondary": "Unknown"
           }
         ],
@@ -4174,7 +4174,7 @@
         "Artifacts": [
           {
             "Strategy": "ChooseOne",
-            "Primary": 6144,
+            "Primary": "GladiatorsFinale, HeartOfDepth",
             "Secondary": "Unknown"
           },
           {
@@ -4555,7 +4555,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5846054488352,
+            "Primary": "ThunderingFury, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -5065,7 +5065,7 @@
           {
             "Strategy": "ChooseOne",
             "Primary": "GildedDreams",
-            "Secondary": 5776731553792
+            "Secondary": "NoblesseOblige, ThunderingFury, ElementalMasterySets"
           },
           {
             "Strategy": "Single",
@@ -5163,7 +5163,7 @@
           },
           {
             "Strategy": "ChooseOne",
-            "Primary": 2147500032,
+            "Primary": "Instructor, TheExile",
             "Secondary": "Unknown"
           },
           {
@@ -5260,7 +5260,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 1073742344,
+            "Primary": "BlizzardStrayer, EmblemOfSeveredFate, TenacityOfTheMillelith",
             "Secondary": "Unknown"
           },
           {
@@ -5401,7 +5401,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5846054488352,
+            "Primary": "ThunderingFury, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           }
         ],
@@ -5506,7 +5506,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 73618950944,
+            "Primary": "EmblemOfSeveredFate, NoblesseOblige, ThunderingFury, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -5630,7 +5630,7 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 5772436062720,
+            "Primary": "EmblemOfSeveredFate, ElementalMasterySets",
             "Secondary": "ElementalMasterySets"
           },
           {
@@ -5846,7 +5846,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841760049440,
+            "Primary": "HeartOfDepth, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -5947,7 +5947,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 5841760049952,
+            "Primary": "EmblemOfSeveredFate, HeartOfDepth, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -6384,7 +6384,7 @@
           {
             "Strategy": "Combo",
             "Primary": "HPSets",
-            "Secondary": 14568529612800
+            "Secondary": "NoblesseOblige, ElementalMasterySets, HydroSets"
           },
           {
             "Strategy": "Single",
@@ -6514,7 +6514,7 @@
           {
             "Strategy": "Combo",
             "Primary": "ArchaicPetra",
-            "Secondary": 69323983648
+            "Secondary": "EmblemOfSeveredFate, NoblesseOblige, ATKSets"
           },
           {
             "Strategy": "ChooseOne",
@@ -6979,7 +6979,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 73618950944,
+            "Primary": "EmblemOfSeveredFate, NoblesseOblige, ThunderingFury, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -7579,7 +7579,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 1074921472,
+            "Primary": "HealingSets, TenacityOfTheMillelith",
             "Secondary": "Unknown"
           }
         ],
@@ -7664,7 +7664,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 1074925568,
+            "Primary": "HeartOfDepth, HealingSets, TenacityOfTheMillelith",
             "Secondary": "Unknown"
           },
           {
@@ -7978,7 +7978,7 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 69323459360,
+            "Primary": "EmblemOfSeveredFate, ATKSets",
             "Secondary": "ATKSets"
           }
         ],
@@ -8082,7 +8082,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 8178221730080,
+            "Primary": "ATKSets, AnemoSets, ElementalMasterySets",
             "Secondary": "Unknown"
           }
         ],
@@ -8482,7 +8482,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 69323987232,
+            "Primary": "HeartOfDepth, NoblesseOblige, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -8820,7 +8820,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 6391515334944,
+            "Primary": "ATKSets, DeepwoodMemories, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -9056,8 +9056,8 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 2405785667872,
-            "Secondary": 2405785667872
+            "Primary": "ATKSets, AnemoSets",
+            "Secondary": "ATKSets, AnemoSets"
           },
           {
             "Strategy": "Single",
@@ -9197,8 +9197,8 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 2405785667872,
-            "Secondary": 2405785667872
+            "Primary": "ATKSets, AnemoSets",
+            "Secondary": "ATKSets, AnemoSets"
           },
           {
             "Strategy": "Single",
@@ -9357,7 +9357,7 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 5841760045920,
+            "Primary": "CrimsonWitchOfFlames, EmblemOfSeveredFate, NoblesseOblige, ATKSets, ElementalMasterySets",
             "Secondary": "Unknown"
           },
           {
@@ -9506,7 +9506,7 @@
           },
           {
             "Strategy": "Combo",
-            "Primary": 2405785667872,
+            "Primary": "ATKSets, AnemoSets",
             "Secondary": "ATKSets"
           }
         ],
@@ -9647,7 +9647,7 @@
           {
             "Strategy": "ChooseOne",
             "Primary": "NymphsDream",
-            "Secondary": 8865417009952
+            "Secondary": "EmblemOfSeveredFate, NoblesseOblige, ATKSets, HydroSets"
           },
           {
             "Strategy": "Single",
@@ -9783,7 +9783,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 69323987744,
+            "Primary": "EmblemOfSeveredFate, HeartOfDepth, NoblesseOblige, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -9915,7 +9915,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 69326088496,
+            "Primary": "HuskOfOpulentDreams, NoblesseOblige, PhysicalDMGSets, ATKSets",
             "Secondary": "Unknown"
           }
         ],
@@ -10053,7 +10053,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 69323983200,
+            "Primary": "CrimsonWitchOfFlames, NoblesseOblige, ATKSets",
             "Secondary": "Unknown"
           },
           {
@@ -10245,7 +10245,7 @@
           {
             "Strategy": "ChooseOne",
             "Primary": "EmblemOfSeveredFate",
-            "Secondary": 73618426656
+            "Secondary": "EmblemOfSeveredFate, ThunderingFury, ATKSets"
           },
           {
             "Strategy": "Single",
@@ -10381,7 +10381,7 @@
           {
             "Strategy": "Combo",
             "Primary": "CrimsonWitchOfFlames",
-            "Secondary": 5841759521056
+            "Secondary": "ATKSets, ElementalMasterySets"
           },
           {
             "Strategy": "Single",
@@ -10628,7 +10628,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 1074270720,
+            "Primary": "EmblemOfSeveredFate, HeartOfDepth, NoblesseOblige, TenacityOfTheMillelith",
             "Secondary": "Unknown"
           }
         ],
@@ -10732,7 +10732,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 1074270720,
+            "Primary": "EmblemOfSeveredFate, HeartOfDepth, NoblesseOblige, TenacityOfTheMillelith",
             "Secondary": "Unknown"
           }
         ],
@@ -11394,7 +11394,7 @@
           },
           {
             "Strategy": "ChooseTwo",
-            "Primary": 8178222254368,
+            "Primary": "NoblesseOblige, ATKSets, AnemoSets, ElementalMasterySets",
             "Secondary": "Unknown"
           }
         ],
