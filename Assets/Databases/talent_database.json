@@ -100,9 +100,23 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": [
-          "albedo_normal_attack_1",
-          "albedo_normal_attack_2",
-          "albedo_normal_attack_3"
+          "talent_albedo_1_preview_1",
+          "talent_albedo_1_preview_2",
+          "talent_albedo_1_preview_3"
+        ],
+        "GIFz": [
+          {
+            "TalentId": "talent_albedo_1",
+            "Number": 1
+          },
+          {
+            "TalentId": "talent_albedo_1",
+            "Number": 2
+          },
+          {
+            "TalentId": "talent_albedo_1",
+            "Number": 3
+          }
         ],
         "Id": "talent_albedo_1",
         "DateAdded": null
@@ -157,7 +171,12 @@
         ],
         "StatCount": 4,
         "GIFs": null,
-        "GIFIds": null,
+        "GIFIds": [
+          "talent_albedo_2_preview_1",
+          "talent_albedo_2_preview_2",
+          "talent_albedo_2_preview_3"
+        ],
+        "GIFz": null,
         "Id": "talent_albedo_2",
         "DateAdded": null
       },
@@ -206,7 +225,11 @@
         ],
         "StatCount": 4,
         "GIFs": null,
-        "GIFIds": null,
+        "GIFIds": [
+          "talent_albedo_3_preview_1",
+          "talent_albedo_3_preview_2"
+        ],
+        "GIFz": null,
         "Id": "talent_albedo_3",
         "DateAdded": null
       },
@@ -223,6 +246,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_albedo_4",
         "DateAdded": null
       },
@@ -238,7 +262,10 @@
         "Attributes": [],
         "StatCount": 0,
         "GIFs": null,
-        "GIFIds": null,
+        "GIFIds": [
+          "talent_albedo_5_preview_1"
+        ],
+        "GIFz": null,
         "Id": "talent_albedo_5",
         "DateAdded": null
       },
@@ -255,6 +282,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_albedo_6",
         "DateAdded": null
       }
@@ -360,6 +388,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_alhaitham_1",
         "DateAdded": null
       },
@@ -443,6 +472,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_alhaitham_2",
         "DateAdded": null
       },
@@ -513,6 +543,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_alhaitham_3",
         "DateAdded": null
       },
@@ -529,6 +560,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_alhaitham_4",
         "DateAdded": null
       },
@@ -546,6 +578,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_alhaitham_5",
         "DateAdded": null
       },
@@ -562,6 +595,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_alhaitham_6",
         "DateAdded": null
       }
@@ -660,6 +694,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_aloy_1",
         "DateAdded": null
       },
@@ -747,6 +782,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_aloy_2",
         "DateAdded": null
       },
@@ -786,6 +822,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_aloy_3",
         "DateAdded": null
       },
@@ -802,6 +839,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_aloy_4",
         "DateAdded": null
       },
@@ -818,6 +856,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_aloy_5",
         "DateAdded": null
       },
@@ -834,6 +873,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_aloy_6",
         "DateAdded": null
       }
@@ -939,6 +979,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_amber_1",
         "DateAdded": null
       },
@@ -986,6 +1027,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_amber_2",
         "DateAdded": null
       },
@@ -1040,6 +1082,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_amber_3",
         "DateAdded": null
       },
@@ -1056,6 +1099,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_amber_4",
         "DateAdded": null
       },
@@ -1072,6 +1116,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_amber_5",
         "DateAdded": null
       },
@@ -1089,6 +1134,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_amber_6",
         "DateAdded": null
       }
@@ -1192,6 +1238,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_1",
         "DateAdded": null
       },
@@ -1224,6 +1271,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_2",
         "DateAdded": null
       },
@@ -1281,6 +1329,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_3",
         "DateAdded": null
       },
@@ -1324,6 +1373,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_4",
         "DateAdded": null
       },
@@ -1340,6 +1390,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_5",
         "DateAdded": null
       },
@@ -1358,6 +1409,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_6",
         "DateAdded": null
       },
@@ -1374,6 +1426,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayaka_7",
         "DateAdded": null
       }
@@ -1477,6 +1530,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayato_1",
         "DateAdded": null
       },
@@ -1562,6 +1616,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayato_2",
         "DateAdded": null
       },
@@ -1616,6 +1671,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayato_3",
         "DateAdded": null
       },
@@ -1634,6 +1690,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayato_4",
         "DateAdded": null
       },
@@ -1650,6 +1707,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayato_5",
         "DateAdded": null
       },
@@ -1666,6 +1724,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kamisato_ayato_6",
         "DateAdded": null
       }
@@ -1761,6 +1820,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_baizhu_1",
         "DateAdded": null
       },
@@ -1803,6 +1863,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_baizhu_2",
         "DateAdded": null
       },
@@ -1878,6 +1939,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_baizhu_3",
         "DateAdded": null
       },
@@ -1896,6 +1958,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_baizhu_4",
         "DateAdded": null
       },
@@ -1912,6 +1975,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_baizhu_5",
         "DateAdded": null
       },
@@ -1928,6 +1992,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_baizhu_6",
         "DateAdded": null
       }
@@ -2023,6 +2088,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_barbara_1",
         "DateAdded": null
       },
@@ -2085,6 +2151,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_barbara_2",
         "DateAdded": null
       },
@@ -2125,6 +2192,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_barbara_3",
         "DateAdded": null
       },
@@ -2141,6 +2209,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_barbara_4",
         "DateAdded": null
       },
@@ -2158,6 +2227,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_barbara_5",
         "DateAdded": null
       },
@@ -2174,6 +2244,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_barbara_6",
         "DateAdded": null
       }
@@ -2293,6 +2364,7 @@
         "StatCount": 12,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_beidou_1",
         "DateAdded": null
       },
@@ -2350,6 +2422,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_beidou_2",
         "DateAdded": null
       },
@@ -2416,6 +2489,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_beidou_3",
         "DateAdded": null
       },
@@ -2432,6 +2506,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_beidou_4",
         "DateAdded": null
       },
@@ -2450,6 +2525,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_beidou_5",
         "DateAdded": null
       },
@@ -2467,6 +2543,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_beidou_6",
         "DateAdded": null
       }
@@ -2571,6 +2648,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_bennett_1",
         "DateAdded": null
       },
@@ -2639,6 +2717,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_bennett_2",
         "DateAdded": null
       },
@@ -2706,6 +2785,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_bennett_3",
         "DateAdded": null
       },
@@ -2722,6 +2802,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_bennett_4",
         "DateAdded": null
       },
@@ -2738,6 +2819,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_bennett_5",
         "DateAdded": null
       },
@@ -2754,6 +2836,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_bennett_6",
         "DateAdded": null
       }
@@ -2850,6 +2933,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_candace_1",
         "DateAdded": null
       },
@@ -2911,6 +2995,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_candace_2",
         "DateAdded": null
       },
@@ -2984,6 +3069,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_candace_3",
         "DateAdded": null
       },
@@ -3000,6 +3086,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_candace_4",
         "DateAdded": null
       },
@@ -3016,6 +3103,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_candace_5",
         "DateAdded": null
       },
@@ -3033,6 +3121,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_candace_6",
         "DateAdded": null
       }
@@ -3137,6 +3226,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_charlotte_1",
         "DateAdded": null
       },
@@ -3234,6 +3324,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_charlotte_2",
         "DateAdded": null
       },
@@ -3309,6 +3400,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_charlotte_3",
         "DateAdded": null
       },
@@ -3325,6 +3417,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_charlotte_4",
         "DateAdded": null
       },
@@ -3341,6 +3434,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_charlotte_5",
         "DateAdded": null
       },
@@ -3357,6 +3451,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_charlotte_6",
         "DateAdded": null
       }
@@ -3453,6 +3548,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chevreuse_1",
         "DateAdded": null
       },
@@ -3539,6 +3635,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chevreuse_2",
         "DateAdded": null
       },
@@ -3587,6 +3684,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chevreuse_3",
         "DateAdded": null
       },
@@ -3605,6 +3703,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chevreuse_4",
         "DateAdded": null
       },
@@ -3621,6 +3720,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chevreuse_5",
         "DateAdded": null
       },
@@ -3638,6 +3738,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chevreuse_6",
         "DateAdded": null
       }
@@ -3749,6 +3850,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chongyun_1",
         "DateAdded": null
       },
@@ -3797,6 +3899,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chongyun_2",
         "DateAdded": null
       },
@@ -3837,6 +3940,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chongyun_3",
         "DateAdded": null
       },
@@ -3853,6 +3957,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chongyun_4",
         "DateAdded": null
       },
@@ -3870,6 +3975,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chongyun_5",
         "DateAdded": null
       },
@@ -3886,6 +3992,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_chongyun_6",
         "DateAdded": null
       }
@@ -3983,6 +4090,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_collei_1",
         "DateAdded": null
       },
@@ -4016,6 +4124,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_collei_2",
         "DateAdded": null
       },
@@ -4072,6 +4181,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_collei_3",
         "DateAdded": null
       },
@@ -4089,6 +4199,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_collei_4",
         "DateAdded": null
       },
@@ -4106,6 +4217,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_collei_5",
         "DateAdded": null
       },
@@ -4123,6 +4235,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_collei_6",
         "DateAdded": null
       }
@@ -4219,6 +4332,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_cyno_1",
         "DateAdded": null
       },
@@ -4274,6 +4388,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_cyno_2",
         "DateAdded": null
       },
@@ -4401,6 +4516,7 @@
         "StatCount": 14,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_cyno_3",
         "DateAdded": null
       },
@@ -4418,6 +4534,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_cyno_4",
         "DateAdded": null
       },
@@ -4436,6 +4553,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_cyno_5",
         "DateAdded": null
       },
@@ -4452,6 +4570,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_cyno_6",
         "DateAdded": null
       }
@@ -4563,6 +4682,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dehya_1",
         "DateAdded": null
       },
@@ -4646,6 +4766,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dehya_2",
         "DateAdded": null
       },
@@ -4707,6 +4828,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dehya_3",
         "DateAdded": null
       },
@@ -4724,6 +4846,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dehya_4",
         "DateAdded": null
       },
@@ -4740,6 +4863,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dehya_5",
         "DateAdded": null
       },
@@ -4757,6 +4881,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dehya_6",
         "DateAdded": null
       }
@@ -4868,6 +4993,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diluc_1",
         "DateAdded": null
       },
@@ -4917,6 +5043,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diluc_2",
         "DateAdded": null
       },
@@ -4981,6 +5108,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diluc_3",
         "DateAdded": null
       },
@@ -4997,6 +5125,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diluc_4",
         "DateAdded": null
       },
@@ -5013,6 +5142,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diluc_5",
         "DateAdded": null
       },
@@ -5029,6 +5159,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diluc_6",
         "DateAdded": null
       }
@@ -5134,6 +5265,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diona_1",
         "DateAdded": null
       },
@@ -5197,6 +5329,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diona_2",
         "DateAdded": null
       },
@@ -5263,6 +5396,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diona_3",
         "DateAdded": null
       },
@@ -5279,6 +5413,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diona_4",
         "DateAdded": null
       },
@@ -5295,6 +5430,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diona_5",
         "DateAdded": null
       },
@@ -5311,6 +5447,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_diona_6",
         "DateAdded": null
       }
@@ -5414,6 +5551,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dori_1",
         "DateAdded": null
       },
@@ -5455,6 +5593,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dori_2",
         "DateAdded": null
       },
@@ -5525,6 +5664,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dori_3",
         "DateAdded": null
       },
@@ -5542,6 +5682,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dori_4",
         "DateAdded": null
       },
@@ -5559,6 +5700,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dori_5",
         "DateAdded": null
       },
@@ -5575,6 +5717,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_dori_6",
         "DateAdded": null
       }
@@ -5696,6 +5839,7 @@
         "StatCount": 12,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_eula_1",
         "DateAdded": null
       },
@@ -5797,6 +5941,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_eula_2",
         "DateAdded": null
       },
@@ -5863,6 +6008,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_eula_3",
         "DateAdded": null
       },
@@ -5879,6 +6025,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_eula_4",
         "DateAdded": null
       },
@@ -5895,6 +6042,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_eula_5",
         "DateAdded": null
       },
@@ -5911,6 +6059,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_eula_6",
         "DateAdded": null
       }
@@ -6008,6 +6157,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_faruzan_1",
         "DateAdded": null
       },
@@ -6059,6 +6209,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_faruzan_2",
         "DateAdded": null
       },
@@ -6138,6 +6289,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_faruzan_3",
         "DateAdded": null
       },
@@ -6154,6 +6306,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_faruzan_4",
         "DateAdded": null
       },
@@ -6171,6 +6324,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_faruzan_5",
         "DateAdded": null
       },
@@ -6187,6 +6341,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_faruzan_6",
         "DateAdded": null
       }
@@ -6292,6 +6447,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_fischl_1",
         "DateAdded": null
       },
@@ -6342,6 +6498,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_fischl_2",
         "DateAdded": null
       },
@@ -6385,6 +6542,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_fischl_3",
         "DateAdded": null
       },
@@ -6401,6 +6559,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_fischl_4",
         "DateAdded": null
       },
@@ -6417,6 +6576,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_fischl_5",
         "DateAdded": null
       },
@@ -6433,6 +6593,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_fischl_6",
         "DateAdded": null
       }
@@ -6544,6 +6705,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_freminet_1",
         "DateAdded": null
       },
@@ -6653,6 +6815,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_freminet_2",
         "DateAdded": null
       },
@@ -6703,6 +6866,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_freminet_3",
         "DateAdded": null
       },
@@ -6719,6 +6883,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_freminet_4",
         "DateAdded": null
       },
@@ -6735,6 +6900,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_freminet_5",
         "DateAdded": null
       },
@@ -6752,6 +6918,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_freminet_6",
         "DateAdded": null
       }
@@ -6866,6 +7033,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_furina_1",
         "DateAdded": null
       },
@@ -6967,6 +7135,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_furina_2",
         "DateAdded": null
       },
@@ -7038,6 +7207,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_furina_3",
         "DateAdded": null
       },
@@ -7054,6 +7224,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_furina_4",
         "DateAdded": null
       },
@@ -7072,6 +7243,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_furina_5",
         "DateAdded": null
       },
@@ -7088,6 +7260,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_furina_6",
         "DateAdded": null
       }
@@ -7219,6 +7392,7 @@
         "StatCount": 13,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ganyu_1",
         "DateAdded": null
       },
@@ -7270,6 +7444,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ganyu_2",
         "DateAdded": null
       },
@@ -7317,6 +7492,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ganyu_3",
         "DateAdded": null
       },
@@ -7333,6 +7509,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ganyu_4",
         "DateAdded": null
       },
@@ -7349,6 +7526,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ganyu_5",
         "DateAdded": null
       },
@@ -7365,6 +7543,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ganyu_6",
         "DateAdded": null
       }
@@ -7462,6 +7641,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_gorou_1",
         "DateAdded": null
       },
@@ -7525,6 +7705,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_gorou_2",
         "DateAdded": null
       },
@@ -7586,6 +7767,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_gorou_3",
         "DateAdded": null
       },
@@ -7602,6 +7784,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_gorou_4",
         "DateAdded": null
       },
@@ -7620,6 +7803,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_gorou_5",
         "DateAdded": null
       },
@@ -7636,6 +7820,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_gorou_6",
         "DateAdded": null
       }
@@ -7741,6 +7926,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shikanoin_heizou_1",
         "DateAdded": null
       },
@@ -7801,6 +7987,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shikanoin_heizou_2",
         "DateAdded": null
       },
@@ -7850,6 +8037,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shikanoin_heizou_3",
         "DateAdded": null
       },
@@ -7866,6 +8054,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shikanoin_heizou_4",
         "DateAdded": null
       },
@@ -7882,6 +8071,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shikanoin_heizou_5",
         "DateAdded": null
       },
@@ -7899,6 +8089,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shikanoin_heizou_6",
         "DateAdded": null
       }
@@ -8011,6 +8202,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_hu_tao_1",
         "DateAdded": null
       },
@@ -8082,6 +8274,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_hu_tao_2",
         "DateAdded": null
       },
@@ -8147,6 +8340,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_hu_tao_3",
         "DateAdded": null
       },
@@ -8163,6 +8357,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_hu_tao_4",
         "DateAdded": null
       },
@@ -8179,6 +8374,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_hu_tao_5",
         "DateAdded": null
       },
@@ -8195,6 +8391,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_hu_tao_6",
         "DateAdded": null
       }
@@ -8317,6 +8514,7 @@
         "StatCount": 12,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_arataki_itto_1",
         "DateAdded": null
       },
@@ -8372,6 +8570,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_arataki_itto_2",
         "DateAdded": null
       },
@@ -8431,6 +8630,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_arataki_itto_3",
         "DateAdded": null
       },
@@ -8450,6 +8650,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_arataki_itto_4",
         "DateAdded": null
       },
@@ -8466,6 +8667,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_arataki_itto_5",
         "DateAdded": null
       },
@@ -8482,6 +8684,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_arataki_itto_6",
         "DateAdded": null
       }
@@ -8586,6 +8789,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_jean_1",
         "DateAdded": null
       },
@@ -8636,6 +8840,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_jean_2",
         "DateAdded": null
       },
@@ -8705,6 +8910,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_jean_3",
         "DateAdded": null
       },
@@ -8721,6 +8927,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_jean_4",
         "DateAdded": null
       },
@@ -8737,6 +8944,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_jean_5",
         "DateAdded": null
       },
@@ -8753,6 +8961,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_jean_6",
         "DateAdded": null
       }
@@ -8857,6 +9066,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaeya_1",
         "DateAdded": null
       },
@@ -8889,6 +9099,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaeya_2",
         "DateAdded": null
       },
@@ -8936,6 +9147,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaeya_3",
         "DateAdded": null
       },
@@ -8952,6 +9164,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaeya_4",
         "DateAdded": null
       },
@@ -8969,6 +9182,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaeya_5",
         "DateAdded": null
       },
@@ -8986,6 +9200,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaeya_6",
         "DateAdded": null
       }
@@ -9097,6 +9312,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaveh_1",
         "DateAdded": null
       },
@@ -9129,6 +9345,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaveh_2",
         "DateAdded": null
       },
@@ -9187,6 +9404,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaveh_3",
         "DateAdded": null
       },
@@ -9203,6 +9421,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaveh_4",
         "DateAdded": null
       },
@@ -9220,6 +9439,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaveh_5",
         "DateAdded": null
       },
@@ -9236,6 +9456,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaveh_6",
         "DateAdded": null
       }
@@ -9343,6 +9564,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaedehara_kazuha_1",
         "DateAdded": null
       },
@@ -9398,6 +9620,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaedehara_kazuha_2",
         "DateAdded": null
       },
@@ -9464,6 +9687,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaedehara_kazuha_3",
         "DateAdded": null
       },
@@ -9482,6 +9706,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaedehara_kazuha_4",
         "DateAdded": null
       },
@@ -9498,6 +9723,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaedehara_kazuha_5",
         "DateAdded": null
       },
@@ -9515,6 +9741,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kaedehara_kazuha_6",
         "DateAdded": null
       }
@@ -9620,6 +9847,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_keqing_1",
         "DateAdded": null
       },
@@ -9676,6 +9904,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_keqing_2",
         "DateAdded": null
       },
@@ -9733,6 +9962,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_keqing_3",
         "DateAdded": null
       },
@@ -9749,6 +9979,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_keqing_4",
         "DateAdded": null
       },
@@ -9765,6 +9996,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_keqing_5",
         "DateAdded": null
       },
@@ -9781,6 +10013,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_keqing_6",
         "DateAdded": null
       }
@@ -9879,6 +10112,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kirara_1",
         "DateAdded": null
       },
@@ -9970,6 +10204,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kirara_2",
         "DateAdded": null
       },
@@ -10024,6 +10259,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kirara_3",
         "DateAdded": null
       },
@@ -10040,6 +10276,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kirara_4",
         "DateAdded": null
       },
@@ -10056,6 +10293,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kirara_5",
         "DateAdded": null
       },
@@ -10072,6 +10310,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kirara_6",
         "DateAdded": null
       }
@@ -10159,6 +10398,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_klee_1",
         "DateAdded": null
       },
@@ -10210,6 +10450,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_klee_2",
         "DateAdded": null
       },
@@ -10256,6 +10497,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_klee_3",
         "DateAdded": null
       },
@@ -10272,6 +10514,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_klee_4",
         "DateAdded": null
       },
@@ -10288,6 +10531,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_klee_5",
         "DateAdded": null
       },
@@ -10304,6 +10548,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_klee_6",
         "DateAdded": null
       }
@@ -10391,6 +10636,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_1",
         "DateAdded": null
       },
@@ -10442,6 +10688,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_2",
         "DateAdded": null
       },
@@ -10526,6 +10773,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_3",
         "DateAdded": null
       },
@@ -10542,6 +10790,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_4",
         "DateAdded": null
       },
@@ -10558,6 +10807,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_5",
         "DateAdded": null
       },
@@ -10575,6 +10825,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_6",
         "DateAdded": null
       },
@@ -10591,6 +10842,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sangonomiya_kokomi_7",
         "DateAdded": null
       }
@@ -10679,6 +10931,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_layla_1",
         "DateAdded": null
       },
@@ -10741,6 +10994,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_layla_2",
         "DateAdded": null
       },
@@ -10788,6 +11042,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_layla_3",
         "DateAdded": null
       },
@@ -10806,6 +11061,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_layla_4",
         "DateAdded": null
       },
@@ -10822,6 +11078,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_layla_5",
         "DateAdded": null
       },
@@ -10838,6 +11095,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_layla_6",
         "DateAdded": null
       }
@@ -10933,6 +11191,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lisa_1",
         "DateAdded": null
       },
@@ -11010,6 +11269,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lisa_2",
         "DateAdded": null
       },
@@ -11057,6 +11317,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lisa_3",
         "DateAdded": null
       },
@@ -11073,6 +11334,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lisa_4",
         "DateAdded": null
       },
@@ -11089,6 +11351,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lisa_5",
         "DateAdded": null
       },
@@ -11105,6 +11368,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lisa_6",
         "DateAdded": null
       }
@@ -11202,6 +11466,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lynette_1",
         "DateAdded": null
       },
@@ -11280,6 +11545,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lynette_2",
         "DateAdded": null
       },
@@ -11347,6 +11613,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lynette_3",
         "DateAdded": null
       },
@@ -11363,6 +11630,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lynette_4",
         "DateAdded": null
       },
@@ -11379,6 +11647,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lynette_5",
         "DateAdded": null
       },
@@ -11395,6 +11664,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lynette_6",
         "DateAdded": null
       }
@@ -11557,6 +11827,7 @@
         "StatCount": 16,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lyney_1",
         "DateAdded": null
       },
@@ -11607,6 +11878,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lyney_2",
         "DateAdded": null
       },
@@ -11663,6 +11935,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lyney_3",
         "DateAdded": null
       },
@@ -11679,6 +11952,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lyney_4",
         "DateAdded": null
       },
@@ -11698,6 +11972,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lyney_5",
         "DateAdded": null
       },
@@ -11714,6 +11989,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_lyney_6",
         "DateAdded": null
       }
@@ -11818,6 +12094,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mika_1",
         "DateAdded": null
       },
@@ -11886,6 +12163,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mika_2",
         "DateAdded": null
       },
@@ -11952,6 +12230,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mika_3",
         "DateAdded": null
       },
@@ -11971,6 +12250,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mika_4",
         "DateAdded": null
       },
@@ -11989,6 +12269,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mika_5",
         "DateAdded": null
       },
@@ -12005,6 +12286,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mika_6",
         "DateAdded": null
       }
@@ -12100,6 +12382,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_1",
         "DateAdded": null
       },
@@ -12147,6 +12430,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_2",
         "DateAdded": null
       },
@@ -12217,6 +12501,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_3",
         "DateAdded": null
       },
@@ -12251,6 +12536,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_4",
         "DateAdded": null
       },
@@ -12268,6 +12554,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_5",
         "DateAdded": null
       },
@@ -12284,6 +12571,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_6",
         "DateAdded": null
       },
@@ -12300,6 +12588,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_mona_7",
         "DateAdded": null
       }
@@ -12395,6 +12684,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nahida_1",
         "DateAdded": null
       },
@@ -12472,6 +12762,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nahida_2",
         "DateAdded": null
       },
@@ -12564,6 +12855,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nahida_3",
         "DateAdded": null
       },
@@ -12582,6 +12874,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nahida_4",
         "DateAdded": null
       },
@@ -12599,6 +12892,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nahida_5",
         "DateAdded": null
       },
@@ -12615,6 +12909,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nahida_6",
         "DateAdded": null
       }
@@ -12726,6 +13021,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_navia_1",
         "DateAdded": null
       },
@@ -12788,6 +13084,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_navia_2",
         "DateAdded": null
       },
@@ -12843,6 +13140,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_navia_3",
         "DateAdded": null
       },
@@ -12859,6 +13157,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_navia_4",
         "DateAdded": null
       },
@@ -12875,6 +13174,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_navia_5",
         "DateAdded": null
       },
@@ -12891,6 +13191,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_navia_6",
         "DateAdded": null
       }
@@ -13009,6 +13310,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_neuvillette_1",
         "DateAdded": null
       },
@@ -13065,6 +13367,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_neuvillette_2",
         "DateAdded": null
       },
@@ -13112,6 +13415,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_neuvillette_3",
         "DateAdded": null
       },
@@ -13129,6 +13433,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_neuvillette_4",
         "DateAdded": null
       },
@@ -13145,6 +13450,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_neuvillette_5",
         "DateAdded": null
       },
@@ -13162,6 +13468,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_neuvillette_6",
         "DateAdded": null
       }
@@ -13250,6 +13557,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nilou_1",
         "DateAdded": null
       },
@@ -13335,6 +13643,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nilou_2",
         "DateAdded": null
       },
@@ -13382,6 +13691,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nilou_3",
         "DateAdded": null
       },
@@ -13404,6 +13714,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nilou_4",
         "DateAdded": null
       },
@@ -13421,6 +13732,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nilou_5",
         "DateAdded": null
       },
@@ -13437,6 +13749,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_nilou_6",
         "DateAdded": null
       }
@@ -13518,6 +13831,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ningguang_1",
         "DateAdded": null
       },
@@ -13562,6 +13876,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ningguang_2",
         "DateAdded": null
       },
@@ -13602,6 +13917,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ningguang_3",
         "DateAdded": null
       },
@@ -13618,6 +13934,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ningguang_4",
         "DateAdded": null
       },
@@ -13634,6 +13951,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ningguang_5",
         "DateAdded": null
       },
@@ -13650,6 +13968,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_ningguang_6",
         "DateAdded": null
       }
@@ -13761,6 +14080,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_noelle_1",
         "DateAdded": null
       },
@@ -13830,6 +14150,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_noelle_2",
         "DateAdded": null
       },
@@ -13896,6 +14217,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_noelle_3",
         "DateAdded": null
       },
@@ -13915,6 +14237,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_noelle_4",
         "DateAdded": null
       },
@@ -13932,6 +14255,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_noelle_5",
         "DateAdded": null
       },
@@ -13948,6 +14272,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_noelle_6",
         "DateAdded": null
       }
@@ -14054,6 +14379,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_qiqi_1",
         "DateAdded": null
       },
@@ -14123,6 +14449,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_qiqi_2",
         "DateAdded": null
       },
@@ -14180,6 +14507,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_qiqi_3",
         "DateAdded": null
       },
@@ -14196,6 +14524,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_qiqi_4",
         "DateAdded": null
       },
@@ -14212,6 +14541,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_qiqi_5",
         "DateAdded": null
       },
@@ -14228,6 +14558,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_qiqi_6",
         "DateAdded": null
       }
@@ -14332,6 +14663,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_raiden_shogun_1",
         "DateAdded": null
       },
@@ -14392,6 +14724,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_raiden_shogun_2",
         "DateAdded": null
       },
@@ -14553,6 +14886,7 @@
         "StatCount": 17,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_raiden_shogun_3",
         "DateAdded": null
       },
@@ -14570,6 +14904,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_raiden_shogun_4",
         "DateAdded": null
       },
@@ -14588,6 +14923,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_raiden_shogun_5",
         "DateAdded": null
       },
@@ -14604,6 +14940,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_raiden_shogun_6",
         "DateAdded": null
       }
@@ -14715,6 +15052,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_razor_1",
         "DateAdded": null
       },
@@ -14790,6 +15128,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_razor_2",
         "DateAdded": null
       },
@@ -14868,6 +15207,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_razor_3",
         "DateAdded": null
       },
@@ -14884,6 +15224,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_razor_4",
         "DateAdded": null
       },
@@ -14900,6 +15241,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_razor_5",
         "DateAdded": null
       },
@@ -14917,6 +15259,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_razor_6",
         "DateAdded": null
       }
@@ -15021,6 +15364,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_rosaria_1",
         "DateAdded": null
       },
@@ -15055,6 +15399,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_rosaria_2",
         "DateAdded": null
       },
@@ -15111,6 +15456,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_rosaria_3",
         "DateAdded": null
       },
@@ -15127,6 +15473,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_rosaria_4",
         "DateAdded": null
       },
@@ -15144,6 +15491,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_rosaria_5",
         "DateAdded": null
       },
@@ -15161,6 +15509,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_rosaria_6",
         "DateAdded": null
       }
@@ -15267,6 +15616,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kujou_sara_1",
         "DateAdded": null
       },
@@ -15323,6 +15673,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kujou_sara_2",
         "DateAdded": null
       },
@@ -15372,6 +15723,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kujou_sara_3",
         "DateAdded": null
       },
@@ -15388,6 +15740,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kujou_sara_4",
         "DateAdded": null
       },
@@ -15404,6 +15757,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kujou_sara_5",
         "DateAdded": null
       },
@@ -15420,6 +15774,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kujou_sara_6",
         "DateAdded": null
       }
@@ -15532,6 +15887,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sayu_1",
         "DateAdded": null
       },
@@ -15616,6 +15972,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sayu_2",
         "DateAdded": null
       },
@@ -15693,6 +16050,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sayu_3",
         "DateAdded": null
       },
@@ -15710,6 +16068,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sayu_4",
         "DateAdded": null
       },
@@ -15728,6 +16087,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sayu_5",
         "DateAdded": null
       },
@@ -15745,6 +16105,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sayu_6",
         "DateAdded": null
       }
@@ -15849,6 +16210,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shenhe_1",
         "DateAdded": null
       },
@@ -15930,6 +16292,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shenhe_2",
         "DateAdded": null
       },
@@ -15993,6 +16356,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shenhe_3",
         "DateAdded": null
       },
@@ -16009,6 +16373,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shenhe_4",
         "DateAdded": null
       },
@@ -16027,6 +16392,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shenhe_5",
         "DateAdded": null
       },
@@ -16043,6 +16409,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_shenhe_6",
         "DateAdded": null
       }
@@ -16139,6 +16506,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kuki_shinobu_1",
         "DateAdded": null
       },
@@ -16205,6 +16573,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kuki_shinobu_2",
         "DateAdded": null
       },
@@ -16262,6 +16631,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kuki_shinobu_3",
         "DateAdded": null
       },
@@ -16278,6 +16648,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kuki_shinobu_4",
         "DateAdded": null
       },
@@ -16296,6 +16667,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kuki_shinobu_5",
         "DateAdded": null
       },
@@ -16312,6 +16684,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_kuki_shinobu_6",
         "DateAdded": null
       }
@@ -16407,6 +16780,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sucrose_1",
         "DateAdded": null
       },
@@ -16439,6 +16813,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sucrose_2",
         "DateAdded": null
       },
@@ -16497,6 +16872,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sucrose_3",
         "DateAdded": null
       },
@@ -16513,6 +16889,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sucrose_4",
         "DateAdded": null
       },
@@ -16529,6 +16906,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sucrose_5",
         "DateAdded": null
       },
@@ -16545,6 +16923,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_sucrose_6",
         "DateAdded": null
       }
@@ -16686,6 +17065,7 @@
         "StatCount": 14,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tartaglia_1",
         "DateAdded": null
       },
@@ -16816,6 +17196,7 @@
         "StatCount": 13,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tartaglia_2",
         "DateAdded": null
       },
@@ -16886,6 +17267,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tartaglia_3",
         "DateAdded": null
       },
@@ -16902,6 +17284,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tartaglia_4",
         "DateAdded": null
       },
@@ -16918,6 +17301,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tartaglia_5",
         "DateAdded": null
       },
@@ -16934,6 +17318,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tartaglia_6",
         "DateAdded": null
       }
@@ -17029,6 +17414,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_thoma_1",
         "DateAdded": null
       },
@@ -17092,6 +17478,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_thoma_2",
         "DateAdded": null
       },
@@ -17170,6 +17557,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_thoma_3",
         "DateAdded": null
       },
@@ -17187,6 +17575,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_thoma_4",
         "DateAdded": null
       },
@@ -17203,6 +17592,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_thoma_5",
         "DateAdded": null
       },
@@ -17219,6 +17609,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_thoma_6",
         "DateAdded": null
       }
@@ -17334,6 +17725,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tighnari_1",
         "DateAdded": null
       },
@@ -17381,6 +17773,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tighnari_2",
         "DateAdded": null
       },
@@ -17429,6 +17822,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tighnari_3",
         "DateAdded": null
       },
@@ -17445,6 +17839,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tighnari_4",
         "DateAdded": null
       },
@@ -17462,6 +17857,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tighnari_5",
         "DateAdded": null
       },
@@ -17478,6 +17874,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_tighnari_6",
         "DateAdded": null
       }
@@ -17593,6 +17990,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_venti_1",
         "DateAdded": null
       },
@@ -17646,6 +18044,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_venti_2",
         "DateAdded": null
       },
@@ -17703,6 +18102,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_venti_3",
         "DateAdded": null
       },
@@ -17719,6 +18119,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_venti_4",
         "DateAdded": null
       },
@@ -17735,6 +18136,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_venti_5",
         "DateAdded": null
       },
@@ -17752,6 +18154,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_venti_6",
         "DateAdded": null
       }
@@ -17840,6 +18243,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wanderer_1",
         "DateAdded": null
       },
@@ -17903,6 +18307,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wanderer_2",
         "DateAdded": null
       },
@@ -17942,6 +18347,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wanderer_3",
         "DateAdded": null
       },
@@ -17963,6 +18369,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wanderer_4",
         "DateAdded": null
       },
@@ -17980,6 +18387,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wanderer_5",
         "DateAdded": null
       },
@@ -17996,6 +18404,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wanderer_6",
         "DateAdded": null
       }
@@ -18101,6 +18510,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wriothesley_1",
         "DateAdded": null
       },
@@ -18151,6 +18561,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wriothesley_2",
         "DateAdded": null
       },
@@ -18207,6 +18618,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wriothesley_3",
         "DateAdded": null
       },
@@ -18224,6 +18636,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wriothesley_4",
         "DateAdded": null
       },
@@ -18240,6 +18653,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wriothesley_5",
         "DateAdded": null
       },
@@ -18256,6 +18670,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_wriothesley_6",
         "DateAdded": null
       }
@@ -18360,6 +18775,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiangling_1",
         "DateAdded": null
       },
@@ -18392,6 +18808,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiangling_2",
         "DateAdded": null
       },
@@ -18463,6 +18880,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiangling_3",
         "DateAdded": null
       },
@@ -18479,6 +18897,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiangling_4",
         "DateAdded": null
       },
@@ -18495,6 +18914,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiangling_5",
         "DateAdded": null
       },
@@ -18511,6 +18931,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiangling_6",
         "DateAdded": null
       }
@@ -18625,6 +19046,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiao_1",
         "DateAdded": null
       },
@@ -18659,6 +19081,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiao_2",
         "DateAdded": null
       },
@@ -18719,6 +19142,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiao_3",
         "DateAdded": null
       },
@@ -18735,6 +19159,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiao_4",
         "DateAdded": null
       },
@@ -18751,6 +19176,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiao_5",
         "DateAdded": null
       },
@@ -18768,6 +19194,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xiao_6",
         "DateAdded": null
       }
@@ -18874,6 +19301,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xingqiu_1",
         "DateAdded": null
       },
@@ -18929,6 +19357,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xingqiu_2",
         "DateAdded": null
       },
@@ -18978,6 +19407,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xingqiu_3",
         "DateAdded": null
       },
@@ -18994,6 +19424,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xingqiu_4",
         "DateAdded": null
       },
@@ -19010,6 +19441,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xingqiu_5",
         "DateAdded": null
       },
@@ -19026,6 +19458,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xingqiu_6",
         "DateAdded": null
       }
@@ -19137,6 +19570,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xinyan_1",
         "DateAdded": null
       },
@@ -19218,6 +19652,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xinyan_2",
         "DateAdded": null
       },
@@ -19272,6 +19707,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xinyan_3",
         "DateAdded": null
       },
@@ -19290,6 +19726,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xinyan_4",
         "DateAdded": null
       },
@@ -19306,6 +19743,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xinyan_5",
         "DateAdded": null
       },
@@ -19322,6 +19760,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_xinyan_6",
         "DateAdded": null
       }
@@ -19409,6 +19848,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yae_miko_1",
         "DateAdded": null
       },
@@ -19479,6 +19919,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yae_miko_2",
         "DateAdded": null
       },
@@ -19527,6 +19968,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yae_miko_3",
         "DateAdded": null
       },
@@ -19543,6 +19985,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yae_miko_4",
         "DateAdded": null
       },
@@ -19559,6 +20002,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yae_miko_5",
         "DateAdded": null
       },
@@ -19575,6 +20019,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yae_miko_6",
         "DateAdded": null
       }
@@ -19683,6 +20128,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yanfei_1",
         "DateAdded": null
       },
@@ -19716,6 +20162,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yanfei_2",
         "DateAdded": null
       },
@@ -19782,6 +20229,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yanfei_3",
         "DateAdded": null
       },
@@ -19798,6 +20246,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yanfei_4",
         "DateAdded": null
       },
@@ -19814,6 +20263,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yanfei_5",
         "DateAdded": null
       },
@@ -19830,6 +20280,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yanfei_6",
         "DateAdded": null
       }
@@ -19926,6 +20377,7 @@
         "StatCount": 9,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yaoyao_1",
         "DateAdded": null
       },
@@ -19989,6 +20441,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yaoyao_2",
         "DateAdded": null
       },
@@ -20065,6 +20518,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yaoyao_3",
         "DateAdded": null
       },
@@ -20081,6 +20535,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yaoyao_4",
         "DateAdded": null
       },
@@ -20097,6 +20552,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yaoyao_5",
         "DateAdded": null
       },
@@ -20114,6 +20570,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yaoyao_6",
         "DateAdded": null
       }
@@ -20222,6 +20679,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yelan_1",
         "DateAdded": null
       },
@@ -20268,6 +20726,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yelan_2",
         "DateAdded": null
       },
@@ -20326,6 +20785,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yelan_3",
         "DateAdded": null
       },
@@ -20342,6 +20802,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yelan_4",
         "DateAdded": null
       },
@@ -20359,6 +20820,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yelan_5",
         "DateAdded": null
       },
@@ -20375,6 +20837,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yelan_6",
         "DateAdded": null
       }
@@ -20490,6 +20953,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yoimiya_1",
         "DateAdded": null
       },
@@ -20533,6 +20997,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yoimiya_2",
         "DateAdded": null
       },
@@ -20591,6 +21056,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yoimiya_3",
         "DateAdded": null
       },
@@ -20607,6 +21073,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yoimiya_4",
         "DateAdded": null
       },
@@ -20624,6 +21091,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yoimiya_5",
         "DateAdded": null
       },
@@ -20640,6 +21108,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yoimiya_6",
         "DateAdded": null
       }
@@ -20745,6 +21214,7 @@
         "StatCount": 10,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yun_jin_1",
         "DateAdded": null
       },
@@ -20808,6 +21278,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yun_jin_2",
         "DateAdded": null
       },
@@ -20873,6 +21344,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yun_jin_3",
         "DateAdded": null
       },
@@ -20889,6 +21361,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yun_jin_4",
         "DateAdded": null
       },
@@ -20905,6 +21378,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yun_jin_5",
         "DateAdded": null
       },
@@ -20921,6 +21395,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_yun_jin_6",
         "DateAdded": null
       }
@@ -21032,6 +21507,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_zhongli_1",
         "DateAdded": null
       },
@@ -21119,6 +21595,7 @@
         "StatCount": 7,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_zhongli_2",
         "DateAdded": null
       },
@@ -21168,6 +21645,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_zhongli_3",
         "DateAdded": null
       },
@@ -21186,6 +21664,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_zhongli_4",
         "DateAdded": null
       },
@@ -21205,6 +21684,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_zhongli_5",
         "DateAdded": null
       },
@@ -21221,6 +21701,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_zhongli_6",
         "DateAdded": null
       }
@@ -21334,6 +21815,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_anemo_1",
         "DateAdded": null
       },
@@ -21403,6 +21885,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_anemo_2",
         "DateAdded": null
       },
@@ -21460,6 +21943,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_anemo_3",
         "DateAdded": null
       },
@@ -21476,6 +21960,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_anemo_4",
         "DateAdded": null
       },
@@ -21492,6 +21977,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_anemo_5",
         "DateAdded": null
       }
@@ -21605,6 +22091,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_geo_1",
         "DateAdded": null
       },
@@ -21647,6 +22134,7 @@
         "StatCount": 3,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_geo_2",
         "DateAdded": null
       },
@@ -21696,6 +22184,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_geo_3",
         "DateAdded": null
       },
@@ -21712,6 +22201,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_geo_4",
         "DateAdded": null
       },
@@ -21728,6 +22218,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_geo_5",
         "DateAdded": null
       }
@@ -21841,6 +22332,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_electro_1",
         "DateAdded": null
       },
@@ -21907,6 +22399,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_electro_2",
         "DateAdded": null
       },
@@ -21973,6 +22466,7 @@
         "StatCount": 6,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_electro_3",
         "DateAdded": null
       },
@@ -21989,6 +22483,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_electro_4",
         "DateAdded": null
       },
@@ -22005,6 +22500,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_electro_5",
         "DateAdded": null
       }
@@ -22118,6 +22614,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_dendro_1",
         "DateAdded": null
       },
@@ -22150,6 +22647,7 @@
         "StatCount": 2,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_dendro_2",
         "DateAdded": null
       },
@@ -22211,6 +22709,7 @@
         "StatCount": 5,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_dendro_3",
         "DateAdded": null
       },
@@ -22227,6 +22726,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_dendro_4",
         "DateAdded": null
       },
@@ -22243,6 +22743,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_dendro_5",
         "DateAdded": null
       }
@@ -22356,6 +22857,7 @@
         "StatCount": 11,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_hydro_1",
         "DateAdded": null
       },
@@ -22441,6 +22943,7 @@
         "StatCount": 8,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_hydro_2",
         "DateAdded": null
       },
@@ -22487,6 +22990,7 @@
         "StatCount": 4,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_hydro_3",
         "DateAdded": null
       },
@@ -22504,6 +23008,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_hydro_4",
         "DateAdded": null
       },
@@ -22521,6 +23026,7 @@
         "StatCount": 0,
         "GIFs": null,
         "GIFIds": null,
+        "GIFz": null,
         "Id": "talent_traveler_hydro_5",
         "DateAdded": null
       }
