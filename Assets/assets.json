@@ -1,5 +1,5 @@
 {
-  "UpdatedUnix": 1711744109332,
+  "UpdatedUnix": 1711746229660,
   "TotalSize": 230311878,
   "Assets": [
     {
@@ -7,343 +7,343 @@
       "FileName": "artifact_database.json",
       "LocalPath": "Databases",
       "FileSize": 24592,
-      "UpdatedUnix": 1711744108733
+      "UpdatedUnix": 1711746229063
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "ascension_gem_database.json",
       "LocalPath": "Databases",
       "FileSize": 14257,
-      "UpdatedUnix": 1711744108804
+      "UpdatedUnix": 1711746229135
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "build_database.json",
       "LocalPath": "Databases",
       "FileSize": 286260,
-      "UpdatedUnix": 1711744108915
+      "UpdatedUnix": 1711746229247
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "character_database.json",
       "LocalPath": "Databases",
       "FileSize": 94600,
-      "UpdatedUnix": 1711744108943
+      "UpdatedUnix": 1711746229276
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "common_enemy_database.json",
       "LocalPath": "Databases",
       "FileSize": 53498,
-      "UpdatedUnix": 1711744108785
+      "UpdatedUnix": 1711746229115
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "common_enemy_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 16973,
-      "UpdatedUnix": 1711744108811
+      "UpdatedUnix": 1711746229142
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "constellation_database.json",
       "LocalPath": "Databases",
       "FileSize": 150541,
-      "UpdatedUnix": 1711744108958
+      "UpdatedUnix": 1711746229292
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "constellation_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 2602,
-      "UpdatedUnix": 1711744108813
+      "UpdatedUnix": 1711746229144
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "cooking_ingredient_database.json",
       "LocalPath": "Databases",
       "FileSize": 37719,
-      "UpdatedUnix": 1711744108707
+      "UpdatedUnix": 1711746229033
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "crafting_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 7194,
-      "UpdatedUnix": 1711744108710
+      "UpdatedUnix": 1711746229038
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "currency_database.json",
       "LocalPath": "Databases",
       "FileSize": 4786,
-      "UpdatedUnix": 1711744108714
+      "UpdatedUnix": 1711746229041
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "domain_challenge_database.json",
       "LocalPath": "Databases",
       "FileSize": 67497,
-      "UpdatedUnix": 1711744109095
+      "UpdatedUnix": 1711746229400
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "domain_database.json",
       "LocalPath": "Databases",
       "FileSize": 16080,
-      "UpdatedUnix": 1711744109102
+      "UpdatedUnix": 1711746229409
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "element_database.json",
       "LocalPath": "Databases",
       "FileSize": 1687,
-      "UpdatedUnix": 1711744108665
+      "UpdatedUnix": 1711746228987
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "elite_enemy_database.json",
       "LocalPath": "Databases",
       "FileSize": 49547,
-      "UpdatedUnix": 1711744108792
+      "UpdatedUnix": 1711746229123
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "elite_enemy_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 22172,
-      "UpdatedUnix": 1711744108816
+      "UpdatedUnix": 1711746229147
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "enhancement_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 4354,
-      "UpdatedUnix": 1711744108819
+      "UpdatedUnix": 1711746229149
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "experience_database.json",
       "LocalPath": "Databases",
       "FileSize": 4139,
-      "UpdatedUnix": 1711744108650
+      "UpdatedUnix": 1711746228970
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "fishing_spot_database.json",
       "LocalPath": "Databases",
       "FileSize": 19833,
-      "UpdatedUnix": 1711744108670
+      "UpdatedUnix": 1711746228992
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "fish_bait_database.json",
       "LocalPath": "Databases",
       "FileSize": 4685,
-      "UpdatedUnix": 1711744108716
+      "UpdatedUnix": 1711746229044
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "fish_database.json",
       "LocalPath": "Databases",
       "FileSize": 30547,
-      "UpdatedUnix": 1711744108720
+      "UpdatedUnix": 1711746229049
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "food_database.json",
       "LocalPath": "Databases",
       "FileSize": 196626,
-      "UpdatedUnix": 1711744108867
+      "UpdatedUnix": 1711746229198
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "forging_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 11029,
-      "UpdatedUnix": 1711744108725
+      "UpdatedUnix": 1711746229054
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "gadget_database.json",
       "LocalPath": "Databases",
       "FileSize": 39441,
-      "UpdatedUnix": 1711744108740
+      "UpdatedUnix": 1711746229071
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "game_activity_database.json",
       "LocalPath": "Databases",
       "FileSize": 1315,
-      "UpdatedUnix": 1711744108652
+      "UpdatedUnix": 1711746228972
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "local_speciality_database.json",
       "LocalPath": "Databases",
       "FileSize": 34218,
-      "UpdatedUnix": 1711744108823
+      "UpdatedUnix": 1711746229154
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "location_database.json",
       "LocalPath": "Databases",
       "FileSize": 21805,
-      "UpdatedUnix": 1711744108675
+      "UpdatedUnix": 1711746228998
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "namecard_database.json",
       "LocalPath": "Databases",
       "FileSize": 13621,
-      "UpdatedUnix": 1711744108656
+      "UpdatedUnix": 1711746228977
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "nation_database.json",
       "LocalPath": "Databases",
       "FileSize": 1404,
-      "UpdatedUnix": 1711744108679
+      "UpdatedUnix": 1711746229002
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "normal_boss_database.json",
       "LocalPath": "Databases",
       "FileSize": 18281,
-      "UpdatedUnix": 1711744108798
+      "UpdatedUnix": 1711746229128
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "normal_boss_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 13983,
-      "UpdatedUnix": 1711744108827
+      "UpdatedUnix": 1711746229158
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "outfit_database.json",
       "LocalPath": "Databases",
       "FileSize": 7567,
-      "UpdatedUnix": 1711744108965
+      "UpdatedUnix": 1711746229298
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "potion_database.json",
       "LocalPath": "Databases",
       "FileSize": 10412,
-      "UpdatedUnix": 1711744108874
+      "UpdatedUnix": 1711746229207
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "precious_item_database.json",
       "LocalPath": "Databases",
       "FileSize": 10619,
-      "UpdatedUnix": 1711744108728
+      "UpdatedUnix": 1711746229058
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "reaction_database.json",
       "LocalPath": "Databases",
       "FileSize": 2712,
-      "UpdatedUnix": 1711744108681
+      "UpdatedUnix": 1711746229005
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "redeem_code_database.json",
       "LocalPath": "Databases",
       "FileSize": 17981,
-      "UpdatedUnix": 1711744108662
+      "UpdatedUnix": 1711746228983
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "refinement_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 7837,
-      "UpdatedUnix": 1711744108830
+      "UpdatedUnix": 1711746229160
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "resonance_database.json",
       "LocalPath": "Databases",
       "FileSize": 1422,
-      "UpdatedUnix": 1711744108683
+      "UpdatedUnix": 1711746229007
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "shop_database.json",
       "LocalPath": "Databases",
       "FileSize": 10089,
-      "UpdatedUnix": 1711744108687
+      "UpdatedUnix": 1711746229012
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "story_database.json",
       "LocalPath": "Databases",
       "FileSize": 69000,
-      "UpdatedUnix": 1711744108971
+      "UpdatedUnix": 1711746229306
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "talent_database.json",
       "LocalPath": "Databases",
       "FileSize": 577086,
-      "UpdatedUnix": 1711744109051
+      "UpdatedUnix": 1711746229364
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "talent_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 37373,
-      "UpdatedUnix": 1711744108837
+      "UpdatedUnix": 1711746229167
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "traveler_database.json",
       "LocalPath": "Databases",
       "FileSize": 8688,
-      "UpdatedUnix": 1711744109086
+      "UpdatedUnix": 1711746229393
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "weapon_database.json",
       "LocalPath": "Databases",
       "FileSize": 201565,
-      "UpdatedUnix": 1711744108770
+      "UpdatedUnix": 1711746229100
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "weapon_domain_material_database.json",
       "LocalPath": "Databases",
       "FileSize": 32673,
-      "UpdatedUnix": 1711744108842
+      "UpdatedUnix": 1711746229173
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "weekly_boss_database.json",
       "LocalPath": "Databases",
       "FileSize": 5986,
-      "UpdatedUnix": 1711744108801
+      "UpdatedUnix": 1711746229132
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "wildlife_database.json",
       "LocalPath": "Databases",
       "FileSize": 6857,
-      "UpdatedUnix": 1711744108690
+      "UpdatedUnix": 1711746229015
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "wish_banner_database.json",
       "LocalPath": "Databases",
       "FileSize": 8096,
-      "UpdatedUnix": 1711744108697
+      "UpdatedUnix": 1711746229022
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Databases",
       "FileName": "world_challenge_database.json",
       "LocalPath": "Databases",
       "FileSize": 985,
-      "UpdatedUnix": 1711744109104
+      "UpdatedUnix": 1711746229412
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/New",
@@ -2422,140 +2422,140 @@
       "FileName": "app_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 21112,
-      "UpdatedUnix": 1711744109107
+      "UpdatedUnix": 1711746229425
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "artifact_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 68026,
-      "UpdatedUnix": 1711744109113
+      "UpdatedUnix": 1711746229433
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "build_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 156335,
-      "UpdatedUnix": 1711744109122
+      "UpdatedUnix": 1711746229440
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "challenge_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 1503,
-      "UpdatedUnix": 1711744109129
+      "UpdatedUnix": 1711746229446
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "character_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 26154,
-      "UpdatedUnix": 1711744109131
+      "UpdatedUnix": 1711746229449
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "constellation_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 146234,
-      "UpdatedUnix": 1711744109143
+      "UpdatedUnix": 1711746229462
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "consumable_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 137111,
-      "UpdatedUnix": 1711744109156
+      "UpdatedUnix": 1711746229476
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "domain_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 58517,
-      "UpdatedUnix": 1711744109163
+      "UpdatedUnix": 1711746229484
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "element_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 7392,
-      "UpdatedUnix": 1711744109166
+      "UpdatedUnix": 1711746229488
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "enemy_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 127593,
-      "UpdatedUnix": 1711744109172
+      "UpdatedUnix": 1711746229493
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "gadget_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 31977,
-      "UpdatedUnix": 1711744109176
+      "UpdatedUnix": 1711746229498
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "item_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 13144,
-      "UpdatedUnix": 1711744109180
+      "UpdatedUnix": 1711746229501
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "location_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 9984,
-      "UpdatedUnix": 1711744109183
+      "UpdatedUnix": 1711746229505
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "material_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 196643,
-      "UpdatedUnix": 1711744109191
+      "UpdatedUnix": 1711746229513
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "namecard_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 18457,
-      "UpdatedUnix": 1711744109196
+      "UpdatedUnix": 1711746229519
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "nation_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 2443,
-      "UpdatedUnix": 1711744109197
+      "UpdatedUnix": 1711746229520
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "story_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 1084242,
-      "UpdatedUnix": 1711744109212
+      "UpdatedUnix": 1711746229537
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "talent_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 410229,
-      "UpdatedUnix": 1711744109256
+      "UpdatedUnix": 1711746229582
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "weapon_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 82727,
-      "UpdatedUnix": 1711744109268
+      "UpdatedUnix": 1711746229595
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Localizations/EN",
       "FileName": "wish_localization_en.json",
       "LocalPath": "Localizations/EN",
       "FileSize": 9030,
-      "UpdatedUnix": 1711744109273
+      "UpdatedUnix": 1711746229600
     },
     {
       "Url": "https://raw.githubusercontent.com/xkagura/GenshinImpact-DB/main/Assets/Images/Artifacts/Icons",
