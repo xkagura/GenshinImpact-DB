@@ -5,7 +5,11 @@
       "AscensionGemsRewarded": 13,
       "BilletsRewarded": "Northlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Anemo, Cryo",
       "Location": "Mondstadt",
@@ -28,7 +32,11 @@
       "AscensionGemsRewarded": 112,
       "BilletsRewarded": "Northlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Anemo",
       "Location": "Mondstadt",
@@ -51,7 +59,11 @@
       "AscensionGemsRewarded": 56,
       "BilletsRewarded": "Northlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Electro, Hydro",
       "Location": "Liyue",
@@ -74,7 +86,11 @@
       "AscensionGemsRewarded": 61,
       "BilletsRewarded": "Northlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Cryo, Electro, Geo, Hydro, Pyro",
       "Location": "Liyue",
@@ -97,7 +113,11 @@
       "AscensionGemsRewarded": 9,
       "BilletsRewarded": "Northlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Cryo, Pyro",
       "Location": "Inazuma",
@@ -120,7 +140,11 @@
       "AscensionGemsRewarded": "Vajrada",
       "BilletsRewarded": "Northlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Electro",
       "Location": "Inazuma",
@@ -143,7 +167,11 @@
       "AscensionGemsRewarded": 112,
       "BilletsRewarded": "Midlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Electro",
       "Location": "Inazuma",
@@ -166,7 +194,11 @@
       "AscensionGemsRewarded": "Nagadus",
       "BilletsRewarded": "Midlander",
       "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, TheExile, WanderersTroupe",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "enemy",
       "Element": "Dendro",
       "Location": "Sumeru",

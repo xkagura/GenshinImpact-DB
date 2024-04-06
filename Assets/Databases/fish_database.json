@@ -8,7 +8,11 @@
       "Location": 14,
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -44,7 +48,11 @@
       "Location": "Inazuma",
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
@@ -80,7 +88,11 @@
       "Location": "Liyue",
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1955.03,
@@ -116,7 +128,11 @@
       "Location": "Mondstadt",
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 365.8,
@@ -152,7 +168,11 @@
       "Location": 14,
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -188,7 +208,11 @@
       "Location": 14,
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -224,7 +248,11 @@
       "Location": "Liyue",
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1955.03,
@@ -260,7 +288,11 @@
       "Location": "Inazuma",
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
@@ -296,7 +328,11 @@
       "Location": "Mondstadt",
       "CatchingDifficulty": "VeryEasy",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 365.8,
@@ -332,7 +368,11 @@
       "Location": "Liyue",
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1955.03,
@@ -368,7 +408,11 @@
       "Location": "Inazuma",
       "CatchingDifficulty": "VeryHard",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
@@ -404,7 +448,11 @@
       "Location": "Inazuma",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
@@ -440,7 +488,11 @@
       "Location": "Liyue",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1955.03,
@@ -476,7 +528,11 @@
       "Location": "Mondstadt",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 365.8,
@@ -512,7 +568,11 @@
       "Location": 14,
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -548,7 +608,11 @@
       "Location": "Mondstadt",
       "CatchingDifficulty": "VeryHard",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 365.8,
@@ -584,7 +648,11 @@
       "Location": 14,
       "CatchingDifficulty": "Medium",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -620,7 +688,11 @@
       "Location": 14,
       "CatchingDifficulty": "Medium",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -656,7 +728,11 @@
       "Location": 14,
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -692,7 +768,11 @@
       "Location": 14,
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -728,7 +808,11 @@
       "Location": "Enkanomiya",
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -269.0,
@@ -764,7 +848,11 @@
       "Location": "Enkanomiya",
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -269.0,
@@ -800,7 +888,11 @@
       "Location": "Sumeru",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
@@ -836,7 +928,11 @@
       "Location": "Sumeru",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
@@ -872,7 +968,11 @@
       "Location": "Sumeru",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
@@ -908,7 +1008,11 @@
       "Location": "Sumeru",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
@@ -944,7 +1048,11 @@
       "Location": "Sumeru",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
@@ -980,7 +1088,11 @@
       "Location": "Sumeru",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Unknown",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
@@ -1016,7 +1128,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
@@ -1052,7 +1168,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
@@ -1088,7 +1208,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
@@ -1124,7 +1248,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "Anytime",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
@@ -1160,7 +1288,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllDay",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
@@ -1196,7 +1328,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Easy",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
@@ -1232,7 +1368,11 @@
       "Location": "Fontaine",
       "CatchingDifficulty": "Hard",
       "TimeOfDay": "AllNight",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,

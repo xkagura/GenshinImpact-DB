@@ -13,7 +13,11 @@
         ]
       },
       "LocationIds": null,
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "1.00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -44,7 +48,11 @@
         ]
       },
       "LocationIds": null,
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "2.00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -75,7 +83,11 @@
         ]
       },
       "LocationIds": null,
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -106,7 +118,11 @@
         ]
       },
       "LocationIds": null,
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "3.00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -168,7 +184,11 @@
         ]
       },
       "LocationIds": null,
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "2.00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -199,7 +219,11 @@
         ]
       },
       "LocationIds": null,
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "1.00:00:00",
+        "Offset": "00:00:00"
+      },
       "EntityId": "material",
       "Rarity": {
         "Range": {

@@ -3,42 +3,66 @@
     "commissions": {
       "EntityId": "game_activity",
       "IconFileName": "icon_commission",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Daily",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "Id": "commissions",
       "DateAdded": null
     },
     "battle_pass_daily": {
       "EntityId": "game_activity",
       "IconFileName": "icon_battle_pass",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Daily",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "Id": "battle_pass_daily",
       "DateAdded": null
     },
     "battle_pass_weekly": {
       "EntityId": "game_activity",
       "IconFileName": "icon_battle_pass",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "Id": "battle_pass_weekly",
       "DateAdded": null
     },
     "reputation_bounties": {
       "EntityId": "game_activity",
       "IconFileName": "icon_reputation",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "Id": "reputation_bounties",
       "DateAdded": null
     },
     "reputation_requests": {
       "EntityId": "game_activity",
       "IconFileName": "icon_reputation",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Weekly",
+        "Duration": "00:00:00",
+        "Offset": "00:00:00"
+      },
       "Id": "reputation_requests",
       "DateAdded": null
     },
     "parametric_transformer": {
       "EntityId": "game_activity",
       "IconFileName": "gadgets_parametric_transformer",
-      "UnixTimerFactory": {},
+      "UnixTimerFactory": {
+        "ResetType": "Time",
+        "Duration": "6.22:00:00",
+        "Offset": "00:00:00"
+      },
       "Id": "parametric_transformer",
       "DateAdded": null
     }
