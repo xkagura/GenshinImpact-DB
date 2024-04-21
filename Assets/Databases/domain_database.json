@@ -15,7 +15,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfMastery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Mondstadt",
@@ -37,7 +37,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfMastery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Liyue",
@@ -59,7 +59,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfMastery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Inazuma",
@@ -81,7 +81,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfMastery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Sumeru",
@@ -103,7 +103,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfMastery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Fontaine",
@@ -127,7 +127,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfForgery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Mondstadt",
@@ -149,7 +149,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfForgery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Liyue",
@@ -171,7 +171,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfForgery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Inazuma",
@@ -193,7 +193,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfForgery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Sumeru",
@@ -215,7 +215,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfForgery",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Fontaine",
@@ -239,7 +239,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Liyue",
@@ -261,7 +261,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Mondstadt",
@@ -283,7 +283,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Mondstadt",
@@ -305,7 +305,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Liyue",
@@ -327,7 +327,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Dragonspine",
@@ -349,7 +349,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Liyue",
@@ -371,7 +371,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Inazuma",
@@ -393,7 +393,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Inazuma",
@@ -415,7 +415,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Liyue",
@@ -437,7 +437,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Chasm",
@@ -459,7 +459,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Sumeru",
@@ -481,7 +481,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Sumeru",
@@ -503,7 +503,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Sumeru",
@@ -525,7 +525,7 @@
           154
         ]
       },
-      "WorldChallengeType": "Unknown",
+      "WorldChallengeType": "DomainOfBlessing",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": 0,
       "Location": "Fontaine",

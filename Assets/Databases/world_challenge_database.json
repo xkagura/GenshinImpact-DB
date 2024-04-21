@@ -11,7 +11,7 @@
     },
     "blossom_of_revelation": {
       "EntityId": "world_challenge",
-      "WorldChallengeType": "BlossomOfRelevation",
+      "WorldChallengeType": "BlossomOfRevelation",
       "CurrencyRewarded": "Unknown",
       "EnhancementMaterialsRewarded": "Character",
       "Location": "Teyvat",
