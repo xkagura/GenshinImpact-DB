@@ -1,20 +1,25 @@
 {
   "Enemies": {
     "wooden_shieldwall_mitachurl": {
-      "Group": "Mitachurl",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 1,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Teyvat",
+      "Element": 8,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           149
         ]
@@ -23,12 +28,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "rock_shieldwall_mitachurl": {
-      "Group": "Mitachurl",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 1,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
+      "Element": 32,
       "Location": 12,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -36,7 +46,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           149
         ]
@@ -45,20 +55,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ice_shieldwall_mitachurl": {
-      "Group": "Mitachurl",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 1,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Dragonspine",
+      "Element": 4,
+      "Location": 512,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           149
         ]
@@ -67,20 +82,25 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "blazing_axe_mitachurl": {
-      "Group": "Mitachurl",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 1,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           149
         ]
@@ -89,20 +109,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "crackling_axe_mitachurl": {
-      "Group": "Mitachurl",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 1,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           149
         ]
@@ -111,20 +136,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "stonehide_lawachurl": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Teyvat",
+      "Element": 32,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           53
         ]
@@ -133,20 +163,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "frostarm_lawachurl": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Dragonspine",
+      "Element": 4,
+      "Location": 512,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           53
         ]
@@ -155,20 +190,25 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "thunderhelm_lawachurl": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Horn",
-      "CommonAscensionMaterialsRewarded": "Mask",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 1,
+      "CommonAscensionMaterialsRewarded": 2,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           53
         ]
@@ -177,20 +217,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "anemo_hilichurl_rogue": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Flower",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 8192,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Sumeru",
+      "Element": 2,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           456
         ]
@@ -199,20 +244,25 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "hydro_hilichurl_rogue": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Flower",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 8192,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Sumeru",
+      "Element": 64,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           456
         ]
@@ -221,20 +271,25 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "cryo_abyss_mage": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Flower",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 8192,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           24
         ]
@@ -243,20 +298,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro_abyss_mage": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "LeyLine",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           24
         ]
@@ -265,20 +325,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "hydro_abyss_mage": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "LeyLine",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           24
         ]
@@ -287,20 +352,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "pyro_abyss_mage": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "LeyLine",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           24
         ]
@@ -309,12 +379,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "abyss_herald_wicked_torrents": {
-      "Group": "Unknown",
+      "Group": 0,
       "WeaponAscensionMaterialRewarded": 514,
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
+      "Element": 64,
       "Location": 1280,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -322,7 +397,7 @@
           "Longitude": 1922.13,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           0
         ]
@@ -331,20 +406,25 @@
       "DateAdded": "2021-03-17T00:00:00"
     },
     "abyss_lector_fathomless_flames": {
-      "Group": "Unknown",
+      "Group": 0,
       "WeaponAscensionMaterialRewarded": 514,
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Unknown",
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "SpiralAbyss",
+      "Element": 128,
+      "Location": 256,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 672.04,
           "Longitude": 1922.13,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           0
         ]
@@ -353,12 +433,17 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "abyss_lector_violet_lightning": {
-      "Group": "Unknown",
+      "Group": 0,
       "WeaponAscensionMaterialRewarded": 514,
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
+      "Element": 16,
       "Location": 1280,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -366,7 +451,7 @@
           "Longitude": 1922.13,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           0
         ]
@@ -375,12 +460,17 @@
       "DateAdded": "2021-04-28T00:00:00"
     },
     "rockfond_rifthound_whelp": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Concealed",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 256,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
+      "Element": 32,
       "Location": 10,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -388,7 +478,7 @@
           "Longitude": 1938.39,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           265
         ]
@@ -397,20 +487,25 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "thundercraven_rifthound_whelp": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Concealed",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 256,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 8624.16,
           "Longitude": 1938.39,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           265
         ]
@@ -419,20 +514,25 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "rockfond_rifthound": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Concealed",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 256,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Inazuma",
+      "Element": 32,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 8624.16,
           "Longitude": 1938.39,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           265
         ]
@@ -441,20 +541,25 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "thundercraven_rifthound": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Concealed",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 256,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 8624.16,
           "Longitude": 1938.39,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           265
         ]
@@ -463,20 +568,25 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "shadowy_husk_defender": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Statuette",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 512,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Chasm",
+      "Element": 4,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           344
         ]
@@ -485,20 +595,25 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "shadowy_husk_line_breaker": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Statuette",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 512,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Chasm",
+      "Element": 64,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           344
         ]
@@ -507,20 +622,25 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "shadowy_husk_standard_bearer": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Statuette",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 512,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Chasm",
+      "Element": 128,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           344
         ]
@@ -529,20 +649,25 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "black_serpent_knight_windcutter": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Statuette",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 512,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Chasm",
+      "Element": 2,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           344
         ]
@@ -551,20 +676,25 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "black_serpent_knight_rockbreaker_ax": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Statuette",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 512,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Chasm",
+      "Element": 32,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           344
         ]
@@ -573,20 +703,25 @@
       "DateAdded": "2023-03-01T00:00:00"
     },
     "overgrown_breacher_primus": {
-      "Group": "BreacherPrimuses",
-      "WeaponAscensionMaterialRewarded": "Core",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 5,
+      "WeaponAscensionMaterialRewarded": 16384,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Fontaine",
+      "Element": 8,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           496
         ]
@@ -595,20 +730,25 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "shatterstone_breacher_primus": {
-      "Group": "BreacherPrimuses",
-      "WeaponAscensionMaterialRewarded": "Core",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 5,
+      "WeaponAscensionMaterialRewarded": 16384,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Fontaine",
+      "Element": 32,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           496
         ]
@@ -617,20 +757,25 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "large_overgrown_breacher_primus": {
-      "Group": "BreacherPrimuses",
-      "WeaponAscensionMaterialRewarded": "Core",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 5,
+      "WeaponAscensionMaterialRewarded": 16384,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Fontaine",
+      "Element": 8,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           496
         ]
@@ -639,20 +784,25 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "large_shatterstone_breacher_primus": {
-      "Group": "BreacherPrimuses",
-      "WeaponAscensionMaterialRewarded": "Core",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 5,
+      "WeaponAscensionMaterialRewarded": 16384,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Fontaine",
+      "Element": 32,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           496
         ]
@@ -661,20 +811,25 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "ruin_guard": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "RuinChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 32,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           27
         ]
@@ -683,12 +838,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ruin_hunter": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "RuinChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 32,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
+      "Element": 128,
       "Location": 12,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -696,7 +856,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           28
         ]
@@ -705,12 +865,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ruin_grader": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "RuinChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 32,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
+      "Element": 1,
       "Location": 520,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -718,7 +883,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           150
         ]
@@ -727,20 +892,25 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "ruin_cruiser": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "SentinelChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 64,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Inazuma",
+      "Element": 1,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           215
         ]
@@ -749,20 +919,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "ruin_destroyer": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "SentinelChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 64,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Inazuma",
+      "Element": 1,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           215
         ]
@@ -771,20 +946,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "ruin_defender": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "SentinelChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 64,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Inazuma",
+      "Element": 1,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           215
         ]
@@ -793,20 +973,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "ruin_scout": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "SentinelChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 64,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Inazuma",
+      "Element": 1,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           215
         ]
@@ -815,20 +1000,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "ruin_drake_earthguard": {
-      "Group": "RuinDrake",
-      "WeaponAscensionMaterialRewarded": "DrakeChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 3,
+      "WeaponAscensionMaterialRewarded": 1024,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           388
         ]
@@ -837,20 +1027,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "ruin_drake_skywatch": {
-      "Group": "RuinDrake",
-      "WeaponAscensionMaterialRewarded": "DrakeChaos",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 3,
+      "WeaponAscensionMaterialRewarded": 1024,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           388
         ]
@@ -859,20 +1054,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "primal_construct_prospector": {
-      "Group": "PrimalConstructs",
-      "WeaponAscensionMaterialRewarded": "Prism",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 4,
+      "WeaponAscensionMaterialRewarded": 128,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           434
         ]
@@ -881,20 +1081,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "primal_construct_repulsor": {
-      "Group": "PrimalConstructs",
-      "WeaponAscensionMaterialRewarded": "Prism",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 4,
+      "WeaponAscensionMaterialRewarded": 128,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           434
         ]
@@ -903,20 +1108,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "primal_construct_reshaper": {
-      "Group": "PrimalConstructs",
-      "WeaponAscensionMaterialRewarded": "Prism",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 4,
+      "WeaponAscensionMaterialRewarded": 128,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           434
         ]
@@ -925,20 +1135,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "fatui_electro_cicin_mage": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "MistGrass",
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 8,
+      "CommonAscensionMaterialsRewarded": 32,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Teyvat",
+      "Element": 16,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           26
         ]
@@ -947,12 +1162,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_cryo_cicin_mage": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "MistGrass",
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 8,
+      "CommonAscensionMaterialsRewarded": 32,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
+      "Element": 4,
       "Location": 520,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -960,7 +1180,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           26
         ]
@@ -969,20 +1189,25 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "fatui_pyro_agent": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Sacrificial",
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 16,
+      "CommonAscensionMaterialsRewarded": 32,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           25
         ]
@@ -991,20 +1216,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_mirror_maiden": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Prism",
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 128,
+      "CommonAscensionMaterialsRewarded": 32,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Inazuma",
+      "Element": 64,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           210
         ]
@@ -1013,20 +1243,25 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "frost_operative": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Operatives",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 65536,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Fontaine",
+      "Element": 4,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           541
         ]
@@ -1035,20 +1270,25 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "wind_operative": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Operatives",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 65536,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Fontaine",
+      "Element": 2,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           541
         ]
@@ -1057,20 +1297,25 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "geovishap_hatchling": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Bone",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Liyue",
+      "Element": 32,
+      "Location": 4,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1296.93,
           "Longitude": -670.01,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           49
         ]
@@ -1079,20 +1324,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "geovishap": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Bone",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo, Electro, Geo, Hydro, Pyro",
-      "Location": "Liyue",
+      "Element": 244,
+      "Location": 4,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1955.03,
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           169
         ]
@@ -1101,20 +1351,25 @@
       "DateAdded": "2021-02-03T00:00:00"
     },
     "bolteater_bathysmal_vishap_hatchling": {
-      "Group": "BathysmalVishapHatchling",
-      "WeaponAscensionMaterialRewarded": "Bone",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 2,
+      "WeaponAscensionMaterialRewarded": 4,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Enkanomiya",
+      "Element": 16,
+      "Location": 1024,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -269.0,
           "Longitude": 198.64,
           "Zoom": -4.0
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           214
         ]
@@ -1123,20 +1378,25 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "primordial_bathysmal_vishap_hatchling": {
-      "Group": "BathysmalVishapHatchling",
-      "WeaponAscensionMaterialRewarded": "Bone",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 2,
+      "WeaponAscensionMaterialRewarded": 4,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Enkanomiya",
+      "Element": 64,
+      "Location": 1024,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -269.0,
           "Longitude": 198.64,
           "Zoom": -4.0
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           214
         ]
@@ -1145,20 +1405,25 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "rimebiter_bathysmal_vishap_hatchling": {
-      "Group": "BathysmalVishapHatchling",
-      "WeaponAscensionMaterialRewarded": "Bone",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 2,
+      "WeaponAscensionMaterialRewarded": 4,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Enkanomiya",
+      "Element": 4,
+      "Location": 1024,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -269.0,
           "Longitude": 198.64,
           "Zoom": -4.0
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           214
         ]
@@ -1167,20 +1432,25 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "primordial_bathysmal_vishap": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Bone",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Enkanomiya",
+      "Element": 64,
+      "Location": 1024,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -269.0,
           "Longitude": 198.64,
           "Zoom": -4.0
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           214
         ]
@@ -1189,20 +1459,25 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "floating_anemo_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Chasm",
+      "Element": 2,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1211,20 +1486,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "floating_dendro_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Chasm",
+      "Element": 8,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1233,20 +1513,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "floating_hydro_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Chasm",
+      "Element": 64,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1255,20 +1540,25 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "stretchy_anemo_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Chasm",
+      "Element": 2,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1277,20 +1567,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "stretchy_electro_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Chasm",
+      "Element": 16,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1299,20 +1594,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "stretchy_geo_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Chasm",
+      "Element": 32,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1321,20 +1621,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "stretchy_pyro_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Chasm",
+      "Element": 128,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1343,20 +1648,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "whirling_cryo_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Chasm",
+      "Element": 4,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1365,20 +1675,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "whirling_electro_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Chasm",
+      "Element": 16,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1387,20 +1702,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "whirling_pyro_fungus": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Unknown",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Chasm",
+      "Element": 128,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1409,20 +1729,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "grounded_geoshroom": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Sumeru",
+      "Element": 32,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1431,20 +1756,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "grounded_hydroshroom": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Sumeru",
+      "Element": 64,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1453,20 +1783,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "winged_cryoshroom": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Sumeru",
+      "Element": 4,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1475,20 +1810,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "winged_dendroshroom": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "FungalNucleus",
-      "CommonAscensionMaterialsRewarded": "FungalPowder",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 2048,
+      "CommonAscensionMaterialsRewarded": 512,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -14.58,
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           221
         ]
@@ -1497,20 +1837,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "consecrated_fanged_beast": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Shell",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4096,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Teyvat",
+      "Element": 8,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           454
         ]
@@ -1519,20 +1864,25 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "consecrated_flying_serpent": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Shell",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4096,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Sumeru",
+      "Element": 2,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           454
         ]
@@ -1541,20 +1891,25 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "consecrated_horned_crocodile": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Shell",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4096,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Sumeru",
+      "Element": 64,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           454
         ]
@@ -1563,20 +1918,25 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "consecrated_red_vulture": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Shell",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4096,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Sumeru",
+      "Element": 128,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           454
         ]
@@ -1585,20 +1945,25 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "consecrated_scorpion": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "Shell",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 4096,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Sumeru",
+      "Element": 16,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           454
         ]
@@ -1607,20 +1972,25 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "tainted_water_splitting_phantasm": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "TaintedWater",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 32768,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           495
         ]
@@ -1629,20 +1999,25 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "tainted_water_spouting_phantasm": {
-      "Group": "Unknown",
-      "WeaponAscensionMaterialRewarded": "TaintedWater",
-      "CommonAscensionMaterialsRewarded": "Unknown",
-      "ArtifactsRewarded": "Berserker, Instructor, TheExile, TravelingDoctor",
+      "Group": 0,
+      "WeaponAscensionMaterialRewarded": 32768,
+      "CommonAscensionMaterialsRewarded": 0,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "berserker",
+        "instructor",
+        "the_exile"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           495
         ]

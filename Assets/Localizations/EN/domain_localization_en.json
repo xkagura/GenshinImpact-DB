@@ -1,10 +1,8 @@
 {
-  "LangCode": "EN",
+  "LangCode": 0,
   "DomainsOfMastery": {
     "cecilia_garden": {
-      "Name": "Cecilia Garden",
-      "Description": "The Cecilia flowers that only grow on high cliffs once bloomed in the greenhouses here. The ancient civilization that once enjoyed the scent of the Cecilia was lost, and so too was the sea of white flowers.",
-      "ChallengeNames": [
+      "ChallengeTitles": [
         "City of Reflections",
         "Submerged Valley",
         "Ruins of Thirsting Capital"
@@ -47,12 +45,12 @@
           "Defeat 8 enemies. Time between kills cannot exceed 40 seconds.",
           "Defeat 2 enemies. Time between kills cannot exceed 80 seconds."
         ]
-      }
+      },
+      "Name": "Cecilia Garden",
+      "Description": "The Cecilia flowers that only grow on high cliffs once bloomed in the greenhouses here. The ancient civilization that once enjoyed the scent of the Cecilia was lost, and so too was the sea of white flowers."
     },
     "hidden_palace_of_lianshan_formula": {
-      "Name": "Hidden Palace of Lianshan Formula",
-      "Description": "The operation of the Lianshan Formula created endless thunderstorms within the bowels of the mountain. It is said that the rumbling sounds of thunder that one hears outside the domain's gates call out to the curious souls.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Your character will be periodically inflicted with Engulfing Storm, continuously draining your Energy until the inflicted Electro element is removed."
@@ -90,12 +88,12 @@
         "4": [
           "Defeat 8 opponents within 480 seconds."
         ]
-      }
+      },
+      "Name": "Hidden Palace of Lianshan Formula",
+      "Description": "The operation of the Lianshan Formula created endless thunderstorms within the bowels of the mountain. It is said that the rumbling sounds of thunder that one hears outside the domain's gates call out to the curious souls."
     },
     "court_of_flowing_sand": {
-      "Name": "Court of Flowing Sand",
-      "Description": "They say that in antediluvian times now lost to history, there was once a foolish ruler who dreamed of building a high garden in honor of the white sacred tree over the primordial sands. Now, dead silence fills the kingdom built on sand, but the obsessions of the past remain.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "All party members' Shield Strength increased by 40%.",
@@ -135,12 +133,12 @@
         "4": [
           "Defeat 12 enemies in less than 6:00 minutes."
         ]
-      }
+      },
+      "Name": "Court of Flowing Sand",
+      "Description": "They say that in antediluvian times now lost to history, there was once a foolish ruler who dreamed of building a high garden in honor of the white sacred tree over the primordial sands. Now, dead silence fills the kingdom built on sand, but the obsessions of the past remain."
     },
     "tower_of_abject_pride": {
-      "Name": "Tower of Abject Pride",
-      "Description": "It is said that the deserts were once home to three sage-kings, one of whom remained lovely and wise till the very end. They parted ways eventually for the sake of the paradise they sought in their hearts. This place is called a \"tower,\" but in truth was the temporary residence of one of these people when they were building that earthly paradise. If one stretches the past back even further, it was once a small shrine built to avoid the wind and the sand.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "When affected by Quicken, the opponent's All Elemental RES will be decreased by 20%. This effect will be removed 5s after the opponent exits Quicken."
@@ -176,12 +174,12 @@
         "4": [
           "Defeat 9 opponent(s) within 300 second(s)."
         ]
-      }
+      },
+      "Name": "Tower of Abject Pride",
+      "Description": "It is said that the deserts were once home to three sage-kings, one of whom remained lovely and wise till the very end. They parted ways eventually for the sake of the paradise they sought in their hearts. This place is called a \"tower,\" but in truth was the temporary residence of one of these people when they were building that earthly paradise. If one stretches the past back even further, it was once a small shrine built to avoid the wind and the sand."
     },
     "echoes_of_the_deep_tides": {
-      "Name": "Echoes of the Deep Tides",
-      "Description": "Legend speaks of a time in the distant past, when the Sovereign of the Waters had not yet returned from confinement, there was another God King who dreamed of building a prosperous empire out of harmonious music atop the waves. But the great ambition of building a utopia failed to come to fruition, and the arrogance of humanity sunk into their depths along with their pride. The golden melodies long silent, only the cold music of the tides still echoes upon the remains of their grand altars.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "After triggering Hydro-related reactions on opponents, all party members receive a 10% Hydro DMG bonus that lasts 10s. This effect can be triggered every 2s. Max 5 stacks. Characters' resistance to interruption will be increased when 5 stacks are reached."
@@ -217,14 +215,14 @@
         "4": [
           "Defeat 5 opponent(s) within 300 second(s)"
         ]
-      }
+      },
+      "Name": "Echoes of the Deep Tides",
+      "Description": "Legend speaks of a time in the distant past, when the Sovereign of the Waters had not yet returned from confinement, there was another God King who dreamed of building a prosperous empire out of harmonious music atop the waves. But the great ambition of building a utopia failed to come to fruition, and the arrogance of humanity sunk into their depths along with their pride. The golden melodies long silent, only the cold music of the tides still echoes upon the remains of their grand altars."
     }
   },
   "DomainsOfForgery": {
     "forsaken_rift": {
-      "Name": "Forsaken Rift",
-      "Description": "It is said in ancient times, people would venture into the valley to seek out the ancient tree on the altar. They would whisper their secrets into the tree hole, relieving themselves of the burden of keeping the secrets to themselves. The Forsaken Rift is filled with long-forgotten secrets.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Your character will be periodically inflicted with Condensed Ice, greatly increasing your Stamina Consumption until the inflicted Cryo element is removed."
@@ -262,12 +260,12 @@
         "4": [
           "Defeat 8 opponents within 480 seconds."
         ]
-      }
+      },
+      "Name": "Forsaken Rift",
+      "Description": "It is said in ancient times, people would venture into the valley to seek out the ancient tree on the altar. They would whisper their secrets into the tree hole, relieving themselves of the burden of keeping the secrets to themselves. The Forsaken Rift is filled with long-forgotten secrets."
     },
     "taishan_mansion": {
-      "Name": "Taishan Mansion",
-      "Description": "Once, people who sought the path of the adepti had to pass the trials of heavens and earth. Taishan Mansion served as the trial of \"earth.\" Now that the adepti have long departed from this realm, Taishan Mansion has also turned into a common treasure trove.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Your character will be periodically inflicted with Smoldering Flames, causing you to take Pyro DMG until the inflicted Pyro element is removed."
@@ -303,12 +301,12 @@
         "4": [
           "Defeat 4 opponents within 480 seconds."
         ]
-      }
+      },
+      "Name": "Taishan Mansion",
+      "Description": "Once, people who sought the path of the adepti had to pass the trials of heavens and earth. Taishan Mansion served as the trial of \"earth.\" Now that the adepti have long departed from this realm, Taishan Mansion has also turned into a common treasure trove."
     },
     "violet_court": {
-      "Name": "Violet Court",
-      "Description": "Sometime in the ancient past, the mountains rose higher than the skies, and the earth was larger than heaven's dome. But one day, the mirror shattered, and the oceans arose. In these legends, this caused the court of the primeval sakura to become sundered from the other islands.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "All characters in the party gain a 25% Electro DMG Bonus",
@@ -349,12 +347,12 @@
         "4": [
           "Defeat 8 enemies in less than 6:00 minutes."
         ]
-      }
+      },
+      "Name": "Violet Court",
+      "Description": "Sometime in the ancient past, the mountains rose higher than the skies, and the earth was larger than heaven's dome. But one day, the mirror shattered, and the oceans arose. In these legends, this caused the court of the primeval sakura to become sundered from the other islands."
     },
     "steeple_of_ignorance": {
-      "Name": "Steeple of Ignorance",
-      "Description": "In the ancient past, man-made towers that could touch the skies were built all across the land. Though human hearts flowed downward, their souls aspired toward the high heavens. These towers would always fall, or collapse under their own weight and plummet into the depths. However, if one were to look at things at a grander scale, the heavens and earth are as one — no direction is truly different from another.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Dealing Elemental DMG increases the DMG dealt by all party members by 10% for 10s. Stacks triggered by different types of Elemental DMG are counted independently. Max 4 stacks."
@@ -390,12 +388,12 @@
         "4": [
           "Defeat 2 opponent(s) within 300 second(s)."
         ]
-      }
+      },
+      "Name": "Steeple of Ignorance",
+      "Description": "In the ancient past, man-made towers that could touch the skies were built all across the land. Though human hearts flowed downward, their souls aspired toward the high heavens. These towers would always fall, or collapse under their own weight and plummet into the depths. However, if one were to look at things at a grander scale, the heavens and earth are as one — no direction is truly different from another."
     },
     "pale_forgotten_glory": {
-      "Name": "Pale Forgotten Glory",
-      "Description": "In the past, the great white armada that traversed the seas was Fontaine's supreme pride and glory, for the Mistress of Rivers and Oceans blessed her people with the authority and wish to conquer all the waters of the world. However, this lofty ambition was insufficient to overcome the laws of fate.\nTo this day, on the brass masts are inscribed the words: \"I have conquered the waves of the four seas.\"",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "When a character recovers or loses HP, your active character's Normal, Charged, and Plunging Attack DMG increases by 10% for 10s. This effect can be triggered once every 0.1s. Max 7 stacks. Each stack's duration is counted independently. This effect will be canceled when the character leaves the field."
@@ -431,14 +429,14 @@
         "4": [
           "Defeat 2 enemies in 300 seconds."
         ]
-      }
+      },
+      "Name": "Pale Forgotten Glory",
+      "Description": "In the past, the great white armada that traversed the seas was Fontaine's supreme pride and glory, for the Mistress of Rivers and Oceans blessed her people with the authority and wish to conquer all the waters of the world. However, this lofty ambition was insufficient to overcome the laws of fate.\nTo this day, on the brass masts are inscribed the words: \"I have conquered the waves of the four seas.\""
     }
   },
   "DomainsOfBlessing": {
     "domain_of_guyun": {
-      "Name": "Domain of Guyun",
-      "Description": "Delusions and disappointments of an ancient ambition to lead humanity are gathered here. It refuses to give up on its lofty ambitions, though it is for now consigned to fester in the cavernous depths of Guyun.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Electro-Charged DMG increased by 150%, and its AoE is increased by 100%."
@@ -490,12 +488,12 @@
         "6": [
           "Defeat all enemies in less than 7:00 minutes."
         ]
-      }
+      },
+      "Name": "Domain of Guyun",
+      "Description": "Delusions and disappointments of an ancient ambition to lead humanity are gathered here. It refuses to give up on its lofty ambitions, though it is for now consigned to fester in the cavernous depths of Guyun."
     },
     "midsummer_courtyard": {
-      "Name": "Midsummer Courtyard",
-      "Description": "With the fall of the ancient lost civilization, the once prosperous and magnificent Sommernachtgarten was also buried underground, leaving only its ancient trees and stones to remember its past glory.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "When Melt is triggered, an Energy Blast will occur, dealing DMG to surrounding enemies."
@@ -550,12 +548,12 @@
         "6": [
           "Defeat 7 opponents within 360 seconds."
         ]
-      }
+      },
+      "Name": "Midsummer Courtyard",
+      "Description": "With the fall of the ancient lost civilization, the once prosperous and magnificent Sommernachtgarten was also buried underground, leaving only its ancient trees and stones to remember its past glory."
     },
     "valley_of_remembrance": {
-      "Name": "Valley of Remembrance",
-      "Description": "After a period of time, the people of the continent lost track of the past. They attempt to explore downwards, searching for the things that they had forgotten. On the other side of the ancient tree's hollow, the secrets of yesterday have become today's treasures.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Physical DMG dealt by all party members increased by 75%."
@@ -597,12 +595,12 @@
         "5": [
           "Defeat 5 opponents within 360 seconds."
         ]
-      }
+      },
+      "Name": "Valley of Remembrance",
+      "Description": "After a period of time, the people of the continent lost track of the past. They attempt to explore downwards, searching for the things that they had forgotten. On the other side of the ancient tree's hollow, the secrets of yesterday have become today's treasures."
     },
     "hidden_palace_of_zhou_formula": {
-      "Name": "Hidden Palace of Zhou Formula",
-      "Description": "There is a secret ritual that can conceal one gate out of eight, cutting off the route for evil to escape. This ritual was performed here long ago, sealing demons within this labyrinth. Rumor has it that the Method to fit Pillars with Zhou Formula presently seals an evil Chi.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "The duration of the Frozen status effect is greatly increased.",
@@ -647,12 +645,12 @@
         "4": [
           "Defeat 6 opponents within 60 seconds (time is added after each kill)."
         ]
-      }
+      },
+      "Name": "Hidden Palace of Zhou Formula",
+      "Description": "There is a secret ritual that can conceal one gate out of eight, cutting off the route for evil to escape. This ritual was performed here long ago, sealing demons within this labyrinth. Rumor has it that the Method to fit Pillars with Zhou Formula presently seals an evil Chi."
     },
     "peak_of_vindagnyr": {
-      "Name": "Peak of Vindagnyr",
-      "Description": "This city entombed in snow once had a proud, romantic name to call its own, just as the mountain itself was once lush and verdant in the ancient past. But after the nail that froze the skies over descended upon this mountain, the festive site where priests ascended to face the heavens can no longer hear its voice, nor will those priests ever return again.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Characters in the challenge will continuously accumulate Sheer Cold, and will lose HP after Sheer Cold reaches its limit.",
@@ -696,12 +694,12 @@
         "4": [
           "Defeat all enemies in less than 10:00 minutes."
         ]
-      }
+      },
+      "Name": "Peak of Vindagnyr",
+      "Description": "This city entombed in snow once had a proud, romantic name to call its own, just as the mountain itself was once lush and verdant in the ancient past. But after the nail that froze the skies over descended upon this mountain, the festive site where priests ascended to face the heavens can no longer hear its voice, nor will those priests ever return again."
     },
     "ridge_watch": {
-      "Name": "Ridge Watch",
-      "Description": "Standing proudly over the start of the ridge, these ancient city ruins overlook both north and south, both mountain and river, like a boundary marker. Legend has it that its gates and blessings are only open to those whose hearts are lit with an eternal blaze.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "A backlash will occur when opponents hit a character protected by a shield, unleashing a shockwave originating at the attacking opponent's position that deals one instance of AoE DMG. Can occur once every 2s."
@@ -737,12 +735,12 @@
         "4": [
           "Defeat 2 enemies in less than 5:00 minutes."
         ]
-      }
+      },
+      "Name": "Ridge Watch",
+      "Description": "Standing proudly over the start of the ridge, these ancient city ruins overlook both north and south, both mountain and river, like a boundary marker. Legend has it that its gates and blessings are only open to those whose hearts are lit with an eternal blaze."
     },
     "momiji_dyed_court": {
-      "Name": "Momiji-Dyed Court",
-      "Description": "This court is ever a silent scene of falling red leaves. Perhaps lost causes and unforgettable loves may follow the veins of the earth and coalesce into the fruits of the court's white tree.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "The platforms in this challenge will intermittently switch between the Flame Boon and Frost Boon statuses. Characters will obtain different effects depending on the status of the platform they are on.",
@@ -786,12 +784,12 @@
         "4": [
           "Defeat 4 enemies in less than 6:00 minutes."
         ]
-      }
+      },
+      "Name": "Momiji-Dyed Court",
+      "Description": "This court is ever a silent scene of falling red leaves. Perhaps lost causes and unforgettable loves may follow the veins of the earth and coalesce into the fruits of the court's white tree."
     },
     "slumbering_court": {
-      "Name": "Slumbering Court",
-      "Description": "This great hall stood when Seirai Island neither had the name it has now, nor had it yet been stained with the color of thunder. The scenery within will probably never change, either.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "All characters in the party gain a 40% Electro DMG Bonus.",
@@ -831,12 +829,12 @@
         "4": [
           "Defeat 9 enemies in less than 6:00 minutes."
         ]
-      }
+      },
+      "Name": "Slumbering Court",
+      "Description": "This great hall stood when Seirai Island neither had the name it has now, nor had it yet been stained with the color of thunder. The scenery within will probably never change, either."
     },
     "clear_pool_and_mountain_cavern": {
-      "Name": "Clear Pool and Mountain Cavern",
-      "Description": "Mt. Aocang is a place of secret wonders. What at first merely seems like beautiful scenery in fact conceals a stone cave that connects to the heavens and breathes out clouds. Nonetheless, this is not how the saying \"where the clouds emerge\" was derived.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "Geo DMG dealt by all party members increased by 75%."
@@ -868,12 +866,12 @@
         "3": [
           "Defeat 3 opponents within 360 sec"
         ]
-      }
+      },
+      "Name": "Clear Pool and Mountain Cavern",
+      "Description": "Mt. Aocang is a place of secret wonders. What at first merely seems like beautiful scenery in fact conceals a stone cave that connects to the heavens and breathes out clouds. Nonetheless, this is not how the saying \"where the clouds emerge\" was derived."
     },
     "the_lost_valley": {
-      "Name": "The Lost Valley",
-      "Description": "The ancient ritual grounds were buried beneath the earth amidst a cataclysm that tore heaven and earth asunder before being uplifted by the descent of an alien object, and finally unveiled by a destructive battle that resulted from a betrayal. Nonetheless, those who once frequented this place are no more.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "When characters use Elemental Skills, a shockwave will be unleashed, dealing True Damage."
@@ -909,12 +907,12 @@
         "4": [
           "Defeat 3 opponents within 360 seconds."
         ]
-      }
+      },
+      "Name": "The Lost Valley",
+      "Description": "The ancient ritual grounds were buried beneath the earth amidst a cataclysm that tore heaven and earth asunder before being uplifted by the descent of an alien object, and finally unveiled by a destructive battle that resulted from a betrayal. Nonetheless, those who once frequented this place are no more."
     },
     "spire_of_solitary_enlightenment": {
-      "Name": "Spire of Solitary Enlightenment",
-      "Description": "In ancient times, this was a great and beautiful place, seemingly made to bless the children of humanity. But the arrow of heaven would descend, making mountains out of flat land and burying the ancient capitol beneath the hills.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "All party members' Elemental Mastery is increased based on 10% of the entire party's combined Elemental Mastery. This effect will be refreshed every 20s after recalculation."
@@ -950,12 +948,12 @@
         "4": [
           "Defeat all enemies in less than 6:00 minutes."
         ]
-      }
+      },
+      "Name": "Spire of Solitary Enlightenment",
+      "Description": "In ancient times, this was a great and beautiful place, seemingly made to bless the children of humanity. But the arrow of heaven would descend, making mountains out of flat land and burying the ancient capitol beneath the hills."
     },
     "city_of_gold": {
-      "Name": "City of Gold",
-      "Description": "This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "After a character triggers a Swirl reaction, all party members gain a 50% Anemo DMG Bonus for 10s."
@@ -991,12 +989,12 @@
         "4": [
           "Defeat all enemies in less than 5:00 minutes"
         ]
-      }
+      },
+      "Name": "City of Gold",
+      "Description": "This stronghold, once protected by seven mighty battlements, crumbled overnight when King Deshret fell and an age of chaos ensued. Where gold-eyed warriors once stood guard over watchtowers of gilded luster, now, only a desiccated temple built upon sundered rocks remains, more akin to a tomb for an age of radiance long lost."
     },
     "molten_iron_fortress": {
-      "Name": "Molten Iron Fortress",
-      "Description": "Legend has it that the territory of the red desert was marked by an ancient barrier of iron and bronze. The Lord of the Blazing Sun used to set out from here on his chariot to drive away the evil spirits wandering among the grim mountains. However, the gilded nations later sank into the sand and towering parapets of iron and bronze thus faded into oblivion along with their parent nations, leaving only unrecognizable ruins.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "When a party member triggers a Dendro-related Elemental Reaction, the Elemental Mastery of all party members is increased by 150 for 8s. This effect can be triggered at most every 1s."
@@ -1025,12 +1023,12 @@
         "4": [
           "Defeat 4 enemies in 300 seconds."
         ]
-      }
+      },
+      "Name": "Molten Iron Fortress",
+      "Description": "Legend has it that the territory of the red desert was marked by an ancient barrier of iron and bronze. The Lord of the Blazing Sun used to set out from here on his chariot to drive away the evil spirits wandering among the grim mountains. However, the gilded nations later sank into the sand and towering parapets of iron and bronze thus faded into oblivion along with their parent nations, leaving only unrecognizable ruins."
     },
     "denouement_of_sin": {
-      "Name": "Denouement of Sin",
-      "Description": "Legends say that the first Lochknight concealed themselves in the remote wilderness with the Lochfolk, intending to use self-exile and rigorous training in an attempt to repay a sin fated to be beyond redemption. Now, the land has long returned to deathly silence, with the long chill winds still blowing through the deserted valley.",
-      "ChallengeNames": null,
+      "ChallengeTitles": null,
       "LeyLineDisorders": {
         "1": [
           "When a character recovers or loses HP, all your party members' CRIT DMG increases by 7% for 10s. This effect can be triggered once every 0.1s. Max 10 stacks. Each stack's duration is counted independently."
@@ -1066,7 +1064,101 @@
         "4": [
           "Defeat 5 opponent(s) within 300 second(s)"
         ]
-      }
+      },
+      "Name": "Denouement of Sin",
+      "Description": "Legends say that the first Lochknight concealed themselves in the remote wilderness with the Lochfolk, intending to use self-exile and rigorous training in an attempt to repay a sin fated to be beyond redemption. Now, the land has long returned to deathly silence, with the long chill winds still blowing through the deserted valley."
+    },
+    "waterfall_wen": {
+      "ChallengeTitles": [
+        "Crumbling Assembly I",
+        "Crumbling Assembly II",
+        "Crumbling Assembly III",
+        "Crumbling Assembly IV"
+      ],
+      "LeyLineDisorders": {
+        "1": [
+          "After a character obtains an Elemental Shard created by the Crystallize reaction, they will gain the Crystal Empowerment state. The ATK of active characters in this state is increased by 20% for 10s. This state can stack up to 3 times, with the duration of each stack counted independently. If another Elemental Shard is obtained while you already have 3 stacks, release a Geo shockwave that deals Geo DMG to nearby opponents. 1 such shockwave can be triggered every 10s."
+        ],
+        "2": [
+          "After a character obtains an Elemental Shard created by the Crystallize reaction, they will gain the Crystal Empowerment state. The ATK of active characters in this state is increased by 20% for 10s. This state can stack up to 3 times, with the duration of each stack counted independently. If another Elemental Shard is obtained while you already have 3 stacks, release a Geo shockwave that deals Geo DMG to nearby opponents. 1 such shockwave can be triggered every 10s."
+        ],
+        "3": [
+          "After a character obtains an Elemental Shard created by the Crystallize reaction, they will gain the Crystal Empowerment state. The ATK of active characters in this state is increased by 20% for 10s. This state can stack up to 3 times, with the duration of each stack counted independently. If another Elemental Shard is obtained while you already have 3 stacks, release a Geo shockwave that deals Geo DMG to nearby opponents. 1 such shockwave can be triggered every 10s."
+        ],
+        "4": [
+          "After a character obtains an Elemental Shard created by the Crystallize reaction, they will gain the Crystal Empowerment state. The ATK of active characters in this state is increased by 20% for 10s. This state can stack up to 3 times, with the duration of each stack counted independently. If another Elemental Shard is obtained while you already have 3 stacks, release a Geo shockwave that deals Geo DMG to nearby opponents. 1 such shockwave can be triggered every 10s."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "After a character obtains an Elemental Shard created by the Crystallize reaction, they will gain a buff that will increase the active character's ATK. When 3 stacks of the buff are gained, gaining another Shard will unleash a shockwave that will deal DMG to nearby opponents. As such, put Geo characters into the party to more effectively oppose your foes."
+        ],
+        "4": [
+          "After a character obtains an Elemental Shard created by the Crystallize reaction, they will gain a buff that will increase the active character's ATK. When 3 stacks of the buff are gained, gaining another Shard will unleash a shockwave that will deal DMG to nearby opponents. As such, put Geo characters into the party to more effectively oppose your foes."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 15 opponent(s) within 300 second(s)"
+        ],
+        "2": [
+          "Defeat 15 opponent(s) within 300 second(s)"
+        ],
+        "3": [
+          "Defeat 6 opponent(s) within 300 second(s)"
+        ],
+        "4": [
+          "Defeat 6 opponent(s) within 300 second(s)"
+        ]
+      },
+      "Name": "Waterfall Wen",
+      "Description": "A sunken underground ruin that was dug up by a secret order in the past. Though this place was not what they thought, it still proved to be of use."
+    },
+    "faded_theater": {
+      "ChallengeTitles": [
+        "Variation I",
+        "Variation II",
+        "Variation III",
+        "Variation IV"
+      ],
+      "LeyLineDisorders": {
+        "1": [
+          "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+        ],
+        "2": [
+          "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+        ],
+        "3": [
+          "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+        ],
+        "4": [
+          "When a Bond of Life gains or loses value, the character gains a 15% All Elemental and Physical DMG Bonus for 10s. This effect can stack 4 times. The duration of each stack is counted independently."
+        ]
+      },
+      "ChallengeFeatures": {
+        "3": [
+          "When a Bond of Life increases or decreases in value, this character will gain a buff. You can use this effect to resist the foe more effectively."
+        ],
+        "4": [
+          "When a Bond of Life increases or decreases in value, this character will gain a buff. You can use this effect to resist the foe more effectively."
+        ]
+      },
+      "Objectives": {
+        "1": [
+          "Defeat 15 opponent(s) within 300 second(s)"
+        ],
+        "2": [
+          "Defeat 10 opponent(s) within 300 second(s)"
+        ],
+        "3": [
+          "Defeat 5 opponent(s) within 300 second(s)"
+        ],
+        "4": [
+          "Defeat 5 opponent(s) within 300 second(s)"
+        ]
+      },
+      "Name": "Faded Theater",
+      "Description": "The prophet and the ruler, heroes and fell dragons, the grand opera of the golden age once played out here.\nNow, the only players left on the stage are monsters of unknown provenance. You shall earn priceless Artifacts, if — and only if — you can defeat them."
     }
   },
   "Type": "DomainLocalization"

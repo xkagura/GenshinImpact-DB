@@ -1,9 +1,9 @@
 {
   "FishBaits": {
     "fake_fly_bait": {
-      "BaitType": "FakeFly",
+      "BaitType": 8,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "sakura_bloom": 1,
           "horsetail": 1
@@ -29,9 +29,9 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "false_worm_bait": {
-      "BaitType": "FalseWorm",
+      "BaitType": 2,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "slime_condensate": 1,
           "berry": 1
@@ -57,9 +57,9 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "flashing_maintenance_mek_bait": {
-      "BaitType": "MekBait",
+      "BaitType": 32,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "marcotte": 1,
           "iron_chunk": 1
@@ -85,9 +85,9 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "fruit_paste_bait": {
-      "BaitType": "FruitPaste",
+      "BaitType": 1,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "sunsettia": 1,
           "wheat": 1
@@ -113,9 +113,9 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "redrot_bait": {
-      "BaitType": "Redrot",
+      "BaitType": 4,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "dendrobium": 1,
           "fowl": 1
@@ -141,9 +141,9 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "sour_bait": {
-      "BaitType": "SourBait",
+      "BaitType": 64,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "bulle_fruit": 1,
           "wheat": 1
@@ -169,9 +169,9 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "sugardew_bait": {
-      "BaitType": "Sugardew",
+      "BaitType": 16,
       "CraftingRecipe": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "harra_fruit": 1,
           "sumeru_rose": 1

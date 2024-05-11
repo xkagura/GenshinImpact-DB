@@ -1,19 +1,25 @@
 {
   "Enemies": {
     "anemo_hypostasis": {
-      "NormalBossMaterialRewarded": "HurricaneSeed",
-      "AscensionGemsRewarded": "Vayuda",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 1,
+      "AscensionGemsRewarded": 8,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "instructor",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Mondstadt",
+      "Element": 2,
+      "Location": 2,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -660.15,
           "Longitude": 561.66,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           132
         ]
@@ -22,19 +28,26 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cryo_hypostasis": {
-      "NormalBossMaterialRewarded": "CrystallineBloom",
-      "AscensionGemsRewarded": "Shivada",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 2,
+      "AscensionGemsRewarded": 32,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "the_exile",
+        "prayers_to_springtime",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Dragonspine",
+      "Element": 4,
+      "Location": 512,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1079.33,
           "Longitude": -193.53,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           181
         ]
@@ -43,19 +56,25 @@
       "DateAdded": "2021-04-28T00:00:00"
     },
     "dendro_hypostasis": {
-      "NormalBossMaterialRewarded": "QuelledCreeper",
-      "AscensionGemsRewarded": "Nagadus",
-      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 1048576,
+      "AscensionGemsRewarded": 64,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "adventurer",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 4688.4,
           "Longitude": -4639.82,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           452
         ]
@@ -64,19 +83,26 @@
       "DateAdded": "2022-11-02T00:00:00"
     },
     "electro_hypostasis": {
-      "NormalBossMaterialRewarded": "LightningPrism",
-      "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersForWisdom, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 8,
+      "AscensionGemsRewarded": 16,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "prayers_for_wisdom",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Mondstadt",
+      "Element": 16,
+      "Location": 2,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 940.74,
           "Longitude": 1200.88,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           135
         ]
@@ -85,19 +111,25 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "geo_hypostasis": {
-      "NormalBossMaterialRewarded": "BasaltPillar",
-      "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 16,
+      "AscensionGemsRewarded": 128,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Liyue",
+      "Element": 32,
+      "Location": 4,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 2202.21,
           "Longitude": 114.76,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           138
         ]
@@ -106,19 +138,26 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hydro_hypostasis": {
-      "NormalBossMaterialRewarded": "DewOfRepudiation",
-      "AscensionGemsRewarded": "Varunada",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, PrayersForDestiny, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 4096,
+      "AscensionGemsRewarded": 4,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "the_exile",
+        "prayers_for_destiny",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Inazuma",
+      "Element": 64,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5808.46,
           "Longitude": 219.42,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           262
         ]
@@ -127,19 +166,26 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "pyro_hypostasis": {
-      "NormalBossMaterialRewarded": "SmolderingPearl",
-      "AscensionGemsRewarded": "Agnidus",
-      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, PrayersForIllumination, WanderersTroupe",
+      "NormalBossMaterialRewarded": 1024,
+      "AscensionGemsRewarded": 2,
+      "ArtifactsRewarded": [
+        "adventurer",
+        "instructor",
+        "berserker",
+        "prayers_for_illumination",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Inazuma",
+      "Element": 128,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5290.86,
           "Longitude": 2434.07,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           203
         ]
@@ -148,19 +194,26 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "cryo_regisvine": {
-      "NormalBossMaterialRewarded": "HoarfrostCore",
-      "AscensionGemsRewarded": "Shivada",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 4,
+      "AscensionGemsRewarded": 32,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "the_exile",
+        "prayers_to_springtime",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Mondstadt",
+      "Element": 4,
+      "Location": 2,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 1076.5,
           "Longitude": -190.71,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           181
         ]
@@ -169,19 +222,26 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro_regisvine": {
-      "NormalBossMaterialRewarded": "ThunderclapFruitcore",
-      "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 131072,
+      "AscensionGemsRewarded": 16,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "prayers_for_wisdom",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Sumeru",
+      "Element": 16,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 2205.04,
           "Longitude": -2872.05,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           390
         ]
@@ -190,19 +250,26 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "pyro_regisvine": {
-      "NormalBossMaterialRewarded": "EverflameSeed",
-      "AscensionGemsRewarded": "Agnidus",
-      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, PrayersForIllumination, WanderersTroupe",
+      "NormalBossMaterialRewarded": 64,
+      "AscensionGemsRewarded": 2,
+      "ArtifactsRewarded": [
+        "adventurer",
+        "berserker",
+        "instructor",
+        "prayers_for_illumination",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Liyue",
+      "Element": 128,
+      "Location": 4,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 2100.39,
           "Longitude": -1692.6,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           137
         ]
@@ -211,19 +278,26 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "rhodeia_of_loch": {
-      "NormalBossMaterialRewarded": "CleansingHeart",
-      "AscensionGemsRewarded": "Varunada",
-      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, PrayersForDestiny, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 32,
+      "AscensionGemsRewarded": 4,
+      "ArtifactsRewarded": [
+        "adventurer",
+        "berserker",
+        "the_exile",
+        "prayers_for_destiny",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Liyue",
+      "Element": 64,
+      "Location": 4,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 471.22,
           "Longitude": -1019.43,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           136
         ]
@@ -232,19 +306,29 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "primo_geovishap": {
-      "NormalBossMaterialRewarded": "JuvenileJade",
-      "AscensionGemsRewarded": 61,
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, Prayers, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 128,
+      "AscensionGemsRewarded": 182,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "the_exile",
+        "prayers_for_wisdom",
+        "prayers_to_springtime",
+        "prayers_for_illumination",
+        "prayers_for_destiny",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo, Electro, Geo, Hydro, Pyro",
-      "Location": "Liyue",
+      "Element": 244,
+      "Location": 4,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 2055.14,
           "Longitude": -2227.17,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           157
         ]
@@ -253,19 +337,25 @@
       "DateAdded": "2021-02-03T00:00:00"
     },
     "maguu_kenki": {
-      "NormalBossMaterialRewarded": "MarionetteCore",
-      "AscensionGemsRewarded": 72,
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 256,
+      "AscensionGemsRewarded": 40,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "instructor",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo, Cryo",
-      "Location": "Inazuma",
+      "Element": 6,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 6201.61,
           "Longitude": 1596.86,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           183
         ]
@@ -274,19 +364,26 @@
       "DateAdded": "2021-06-09T00:00:00"
     },
     "perpetual_mechanical_array": {
-      "NormalBossMaterialRewarded": "PerpetualHeart",
-      "AscensionGemsRewarded": 12,
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 512,
+      "AscensionGemsRewarded": 160,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "the_exile",
+        "prayers_to_springtime",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Inazuma",
+      "Element": 1,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 4374.45,
           "Longitude": 3729.49,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           204
         ]
@@ -295,19 +392,26 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "thunder_manifestation": {
-      "NormalBossMaterialRewarded": "StormBeads",
-      "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, PrayersForWisdom, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 2048,
+      "AscensionGemsRewarded": 16,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "prayers_for_wisdom",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 6959.63,
           "Longitude": 3517.36,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           263
         ]
@@ -316,19 +420,25 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "golden_wolflord": {
-      "NormalBossMaterialRewarded": "RiftbornRegalia",
-      "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 8192,
+      "AscensionGemsRewarded": 128,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Inazuma",
+      "Element": 32,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 8908.41,
           "Longitude": 1922.13,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           318
         ]
@@ -337,19 +447,26 @@
       "DateAdded": "2021-11-24T00:00:00"
     },
     "coral_defenders": {
-      "NormalBossMaterialRewarded": "DragonheirsFalseFin",
-      "AscensionGemsRewarded": 24,
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, PrayersToSpringtime, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 16384,
+      "AscensionGemsRewarded": 48,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "the_exile",
+        "prayers_to_springtime",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo, Electro",
-      "Location": "Enkanomiya",
+      "Element": 20,
+      "Location": 1024,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -67.0,
           "Longitude": -44.0,
           "Zoom": 0.5
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           333
         ]
@@ -358,19 +475,25 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "ruin_serpent": {
-      "NormalBossMaterialRewarded": "RunicFang",
-      "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 32768,
+      "AscensionGemsRewarded": 128,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Chasm",
+      "Element": 1,
+      "Location": 2048,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -132.0,
           "Longitude": -456.25,
           "Zoom": 0.5
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           352
         ]
@@ -379,19 +502,25 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "jadeplume_terrorshroom": {
-      "NormalBossMaterialRewarded": "MajesticHookedBeak",
-      "AscensionGemsRewarded": "Nagadus",
-      "ArtifactsRewarded": "GladiatorsFinale, Instructor, TheExile, TravelingDoctor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 65536,
+      "AscensionGemsRewarded": 64,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "adventurer",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 2366.26,
           "Longitude": -4622.85,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           391
         ]
@@ -400,19 +529,25 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "aeonblight_drake": {
-      "NormalBossMaterialRewarded": "PerpetualCaliber",
-      "AscensionGemsRewarded": 40,
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, LuckyDog, TheExile, WanderersTroupe",
+      "NormalBossMaterialRewarded": 262144,
+      "AscensionGemsRewarded": 36,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3593.8,
           "Longitude": -2843.77,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           432
         ]
@@ -421,19 +556,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "algorithm_of_semi_intransient_matrix_of_overseer_network": {
-      "NormalBossMaterialRewarded": "LightGuidingTetrahedron",
-      "AscensionGemsRewarded": 65,
-      "ArtifactsRewarded": "Adventurer, Berserker, GladiatorsFinale, Instructor, WanderersTroupe",
+      "NormalBossMaterialRewarded": 524288,
+      "AscensionGemsRewarded": 10,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "adventurer",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5036.3,
           "Longitude": -6017.27,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           433
         ]
@@ -442,19 +583,25 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "setekh_wenut": {
-      "NormalBossMaterialRewarded": "PseudoStamens",
-      "AscensionGemsRewarded": "Vayuda",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 2097152,
+      "AscensionGemsRewarded": 8,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "instructor",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Sumeru",
+      "Element": 2,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3274.19,
           "Longitude": -5307.33,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           457
         ]
@@ -463,19 +610,29 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "iniquitous_baptist": {
-      "NormalBossMaterialRewarded": "EvergloomRing",
-      "AscensionGemsRewarded": 57,
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 4194304,
+      "AscensionGemsRewarded": 54,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "the_exile",
+        "prayers_for_wisdom",
+        "prayers_to_springtime",
+        "prayers_for_illumination",
+        "prayers_for_destiny",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo, Electro, Hydro, Pyro",
-      "Location": "Sumeru",
+      "Element": 212,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3274.19,
           "Longitude": -5307.33,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           455
         ]
@@ -484,19 +641,26 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "dirge_of_coppelia": {
-      "NormalBossMaterialRewarded": "Coppelia",
-      "AscensionGemsRewarded": "Vayuda",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 8388608,
+      "AscensionGemsRewarded": 8,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "the_exile",
+        "lucky_dog",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Fontaine",
+      "Element": 2,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -1344.63,
           "Longitude": -4552.14,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           497
         ]
@@ -505,19 +669,26 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "nemesis_of_coppelius": {
-      "NormalBossMaterialRewarded": "Coppelius",
-      "AscensionGemsRewarded": "Shivada",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 16777216,
+      "AscensionGemsRewarded": 32,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "the_exile",
+        "lucky_dog",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Fontaine",
+      "Element": 4,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -1344.63,
           "Longitude": -4552.14,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           497
         ]
@@ -526,19 +697,25 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "emperor_of_fire_and_iron": {
-      "NormalBossMaterialRewarded": "EmperorsResolution",
-      "AscensionGemsRewarded": "Agnidus",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 33554432,
+      "AscensionGemsRewarded": 2,
+      "ArtifactsRewarded": [
+        "berserker",
+        "instructor",
+        "adventurer",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Fontaine",
+      "Element": 128,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 83.72,
           "Longitude": -5137.62,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           498
         ]
@@ -546,47 +723,111 @@
       "Id": "emperor_of_fire_and_iron",
       "DateAdded": "2023-08-16T00:00:00"
     },
-    "experimental_field_generator": {
-      "NormalBossMaterialRewarded": "TourbillonDevice",
-      "AscensionGemsRewarded": "Prithiva",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+    "prototype_cal_breguet": {
+      "NormalBossMaterialRewarded": 134217728,
+      "AscensionGemsRewarded": 128,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Fontaine",
+      "Element": 32,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -2048.0,
           "Longitude": -4868.5,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           539
         ]
       },
-      "Id": "experimental_field_generator",
+      "Id": "prototype_cal_breguet",
       "DateAdded": "2023-09-27T00:00:00"
     },
     "millennial_pearl_seahorse": {
-      "NormalBossMaterialRewarded": "FontemerUnihorn",
-      "AscensionGemsRewarded": "Vajrada",
-      "ArtifactsRewarded": "Berserker, GladiatorsFinale, Instructor, LuckyDog, WanderersTroupe",
+      "NormalBossMaterialRewarded": 67108864,
+      "AscensionGemsRewarded": 16,
+      "ArtifactsRewarded": [
+        "traveling_doctor",
+        "instructor",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Fontaine",
+      "Element": 16,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -2532.57,
           "Longitude": -5508.15,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           540
         ]
       },
       "Id": "millennial_pearl_seahorse",
       "DateAdded": "2023-09-27T00:00:00"
+    },
+    "hydro_tulpa": {
+      "NormalBossMaterialRewarded": 268435456,
+      "AscensionGemsRewarded": 4,
+      "ArtifactsRewarded": [
+        "adventurer",
+        "berserker",
+        "the_exile",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
+      "EntityId": "enemy",
+      "Element": 64,
+      "Location": 32,
+      "InteractiveMapPoint": null,
+      "Id": "hydro_tulpa",
+      "DateAdded": "2023-11-08T00:00:00"
+    },
+    "solitary_suanni": {
+      "NormalBossMaterialRewarded": 536870912,
+      "AscensionGemsRewarded": 12,
+      "ArtifactsRewarded": [
+        "lucky_dog",
+        "berserker",
+        "instructor",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
+      "EntityId": "enemy",
+      "Element": 66,
+      "Location": 4,
+      "InteractiveMapPoint": null,
+      "Id": "solitary_suanni",
+      "DateAdded": "2024-01-31T00:00:00"
+    },
+    "statue_of_marble_and_brass": {
+      "NormalBossMaterialRewarded": 1073741824,
+      "AscensionGemsRewarded": 130,
+      "ArtifactsRewarded": [
+        "adventurer",
+        "berserker",
+        "instructor",
+        "prayers_for_illumination",
+        "gladiators_finale",
+        "wanderers_troupe"
+      ],
+      "EntityId": "enemy",
+      "Element": 161,
+      "Location": 32,
+      "InteractiveMapPoint": null,
+      "Id": "statue_of_marble_and_brass",
+      "DateAdded": "2024-04-24T00:00:00"
     }
   },
   "Type": "NormalBossDatabase"

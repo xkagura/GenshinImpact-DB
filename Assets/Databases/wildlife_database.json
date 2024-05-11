@@ -2,8 +2,8 @@
   "WildLives": {
     "anemo_crystalfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Mondstadt",
+      "Group": 0,
+      "Location": 2,
       "Rewards": [
         "crystal_core"
       ],
@@ -12,8 +12,8 @@
     },
     "cryo_crystalfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Dragonspine",
+      "Group": 0,
+      "Location": 512,
       "Rewards": [
         "crystal_core"
       ],
@@ -22,8 +22,8 @@
     },
     "electro_crystalfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Inazuma",
+      "Group": 0,
+      "Location": 8,
       "Rewards": [
         "crystal_core"
       ],
@@ -32,8 +32,8 @@
     },
     "geo_crystalfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Liyue",
+      "Group": 0,
+      "Location": 4,
       "Rewards": [
         "crystal_core"
       ],
@@ -42,8 +42,8 @@
     },
     "coral_crystalfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Enkanomiya",
+      "Group": 0,
+      "Location": 1024,
       "Rewards": [
         "crystal_core"
       ],
@@ -52,8 +52,8 @@
     },
     "golden_loach": {
       "EntityId": "wildlife",
-      "Group": "Loach",
-      "Location": "Liyue",
+      "Group": 1,
+      "Location": 4,
       "Rewards": [
         "loach_pearl"
       ],
@@ -62,8 +62,8 @@
     },
     "sunny_loach": {
       "EntityId": "wildlife",
-      "Group": "Loach",
-      "Location": "Inazuma",
+      "Group": 1,
+      "Location": 8,
       "Rewards": [
         "loach_pearl"
       ],
@@ -72,8 +72,8 @@
     },
     "sunset_loach": {
       "EntityId": "wildlife",
-      "Group": "Loach",
-      "Location": "Inazuma",
+      "Group": 1,
+      "Location": 8,
       "Rewards": [
         "loach_pearl"
       ],
@@ -82,7 +82,7 @@
     },
     "green_frog": {
       "EntityId": "wildlife",
-      "Group": "Frog",
+      "Group": 2,
       "Location": 6,
       "Rewards": [
         "frog"
@@ -92,7 +92,7 @@
     },
     "mud_frog": {
       "EntityId": "wildlife",
-      "Group": "Frog",
+      "Group": 2,
       "Location": 6,
       "Rewards": [
         "frog"
@@ -102,8 +102,8 @@
     },
     "blue_frog": {
       "EntityId": "wildlife",
-      "Group": "Frog",
-      "Location": "Mondstadt",
+      "Group": 2,
+      "Location": 2,
       "Rewards": [
         "frog"
       ],
@@ -112,8 +112,8 @@
     },
     "golden_crab": {
       "EntityId": "wildlife",
-      "Group": "Crab",
-      "Location": "Teyvat",
+      "Group": 3,
+      "Location": 1,
       "Rewards": [
         "crab"
       ],
@@ -122,7 +122,7 @@
     },
     "sun_crab": {
       "EntityId": "wildlife",
-      "Group": "Crab",
+      "Group": 3,
       "Location": 6,
       "Rewards": [
         "crab"
@@ -132,8 +132,8 @@
     },
     "ocean_crab": {
       "EntityId": "wildlife",
-      "Group": "Crab",
-      "Location": "Teyvat",
+      "Group": 3,
+      "Location": 1,
       "Rewards": [
         "crab"
       ],
@@ -142,8 +142,8 @@
     },
     "general_crab": {
       "EntityId": "wildlife",
-      "Group": "Crab",
-      "Location": "Inazuma",
+      "Group": 3,
+      "Location": 8,
       "Rewards": [
         "crab"
       ],
@@ -152,8 +152,8 @@
     },
     "pale_red_crab": {
       "EntityId": "wildlife",
-      "Group": "Crab",
-      "Location": "Inazuma",
+      "Group": 3,
+      "Location": 8,
       "Rewards": [
         "crab"
       ],
@@ -162,8 +162,8 @@
     },
     "blue_horned_lizard": {
       "EntityId": "wildlife",
-      "Group": "Lizard",
-      "Location": "Teyvat",
+      "Group": 4,
+      "Location": 1,
       "Rewards": [
         "lizard_tail"
       ],
@@ -172,8 +172,8 @@
     },
     "red_horned_lizard": {
       "EntityId": "wildlife",
-      "Group": "Lizard",
-      "Location": "Teyvat",
+      "Group": 4,
+      "Location": 1,
       "Rewards": [
         "lizard_tail"
       ],
@@ -182,7 +182,7 @@
     },
     "green_horned_lizard": {
       "EntityId": "wildlife",
-      "Group": "Lizard",
+      "Group": 4,
       "Location": 10,
       "Rewards": [
         "lizard_tail"
@@ -192,8 +192,8 @@
     },
     "pith_lizard": {
       "EntityId": "wildlife",
-      "Group": "Lizard",
-      "Location": "Inazuma",
+      "Group": 4,
+      "Location": 8,
       "Rewards": [
         "lizard_tail"
       ],
@@ -202,8 +202,8 @@
     },
     "adorned_unagi": {
       "EntityId": "wildlife",
-      "Group": "Unagi",
-      "Location": "Inazuma",
+      "Group": 5,
+      "Location": 8,
       "Rewards": [
         "eel_meat"
       ],
@@ -212,8 +212,8 @@
     },
     "red_finned_unagi": {
       "EntityId": "wildlife",
-      "Group": "Unagi",
-      "Location": "Inazuma",
+      "Group": 5,
+      "Location": 8,
       "Rewards": [
         "eel_meat"
       ],
@@ -222,8 +222,8 @@
     },
     "deep_sea_unagi": {
       "EntityId": "wildlife",
-      "Group": "Unagi",
-      "Location": "Inazuma",
+      "Group": 5,
+      "Location": 8,
       "Rewards": [
         "eel_meat"
       ],
@@ -232,8 +232,8 @@
     },
     "blue_butterfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Unknown",
+      "Group": 0,
+      "Location": 0,
       "Rewards": [
         "butterfly_wings"
       ],
@@ -242,8 +242,8 @@
     },
     "yellow_butterfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Teyvat",
+      "Group": 0,
+      "Location": 1,
       "Rewards": [
         "butterfly_wings"
       ],
@@ -252,8 +252,8 @@
     },
     "pink_butterfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Teyvat",
+      "Group": 0,
+      "Location": 1,
       "Rewards": [
         "butterfly_wings"
       ],
@@ -262,8 +262,8 @@
     },
     "light_blue_butterfly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Teyvat",
+      "Group": 0,
+      "Location": 1,
       "Rewards": [
         "butterfly_wings"
       ],
@@ -272,8 +272,8 @@
     },
     "firefly": {
       "EntityId": "wildlife",
-      "Group": "Crystalfly",
-      "Location": "Teyvat",
+      "Group": 0,
+      "Location": 1,
       "Rewards": [
         "luminescent_spine"
       ],

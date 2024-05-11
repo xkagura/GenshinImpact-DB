@@ -1,7 +1,7 @@
 {
   "Materials": {
     "heavy_horn": {
-      "Set": "Horn",
+      "Set": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -20,7 +20,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "black_bronze_horn": {
-      "Set": "Horn",
+      "Set": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -39,7 +39,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "black_crystal_horn": {
-      "Set": "Horn",
+      "Set": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -58,7 +58,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dead_ley_line_branch": {
-      "Set": "LeyLine",
+      "Set": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -77,7 +77,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dead_ley_line_leaves": {
-      "Set": "LeyLine",
+      "Set": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -96,7 +96,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ley_line_sprout": {
-      "Set": "LeyLine",
+      "Set": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -115,7 +115,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "chaos_device": {
-      "Set": "RuinChaos",
+      "Set": 32,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -134,7 +134,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "chaos_circuit": {
-      "Set": "RuinChaos",
+      "Set": 32,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -153,7 +153,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "chaos_core": {
-      "Set": "RuinChaos",
+      "Set": 32,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -172,7 +172,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "mist_grass_pollen": {
-      "Set": "MistGrass",
+      "Set": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -191,7 +191,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "mist_grass": {
-      "Set": "MistGrass",
+      "Set": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -210,7 +210,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "mist_grass_wick": {
-      "Set": "MistGrass",
+      "Set": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -229,7 +229,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hunters_sacrificial_knife": {
-      "Set": "Sacrificial",
+      "Set": 16,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -248,7 +248,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "agents_sacrificial_knife": {
-      "Set": "Sacrificial",
+      "Set": 16,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -267,7 +267,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "inspectors_sacrificial_knife": {
-      "Set": "Sacrificial",
+      "Set": 16,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -286,7 +286,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fragile_bone_shard": {
-      "Set": "Bone",
+      "Set": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -305,7 +305,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "sturdy_bone_shard": {
-      "Set": "Bone",
+      "Set": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -324,7 +324,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fossilized_bone_shard": {
-      "Set": "Bone",
+      "Set": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -343,7 +343,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "chaos_gear": {
-      "Set": "SentinelChaos",
+      "Set": 64,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -362,7 +362,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "chaos_axis": {
-      "Set": "SentinelChaos",
+      "Set": 64,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -381,7 +381,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "chaos_oculus": {
-      "Set": "SentinelChaos",
+      "Set": 64,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -400,7 +400,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "dismal_prism": {
-      "Set": "Prism",
+      "Set": 128,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -419,7 +419,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "crystal_prism": {
-      "Set": "Prism",
+      "Set": 128,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -438,7 +438,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "polarizing_prism": {
-      "Set": "Prism",
+      "Set": 128,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -457,7 +457,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "concealed_claw": {
-      "Set": "Concealed",
+      "Set": 256,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -476,7 +476,7 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "concealed_unguis": {
-      "Set": "Concealed",
+      "Set": 256,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -495,7 +495,7 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "concealed_talon": {
-      "Set": "Concealed",
+      "Set": 256,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -514,7 +514,7 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "gloomy_statuette": {
-      "Set": "Statuette",
+      "Set": 512,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -533,7 +533,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "dark_statuette": {
-      "Set": "Statuette",
+      "Set": 512,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -552,7 +552,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "deathly_statuette": {
-      "Set": "Statuette",
+      "Set": 512,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -571,7 +571,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "chaos_storage": {
-      "Set": "DrakeChaos",
+      "Set": 1024,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -590,7 +590,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "chaos_module": {
-      "Set": "DrakeChaos",
+      "Set": 1024,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -609,7 +609,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "chaos_bolt": {
-      "Set": "DrakeChaos",
+      "Set": 1024,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -628,7 +628,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "inactivated_fungal_nucleus": {
-      "Set": "FungalNucleus",
+      "Set": 2048,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -647,7 +647,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "dormant_fungal_nucleus": {
-      "Set": "FungalNucleus",
+      "Set": 2048,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -666,7 +666,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "robust_fungal_nucleus": {
-      "Set": "FungalNucleus",
+      "Set": 2048,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -685,7 +685,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "desiccated_shell": {
-      "Set": "Shell",
+      "Set": 4096,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -704,7 +704,7 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "sturdy_shell": {
-      "Set": "Shell",
+      "Set": 4096,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -723,7 +723,7 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "marked_shell": {
-      "Set": "Shell",
+      "Set": 4096,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -742,7 +742,7 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "a_flower_yet_to_bloom": {
-      "Set": "Flower",
+      "Set": 8192,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -761,7 +761,7 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "treasured_flower": {
-      "Set": "Flower",
+      "Set": 8192,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -780,7 +780,7 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "wanderers_blooming_flower": {
-      "Set": "Flower",
+      "Set": 8192,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -799,7 +799,7 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "rift_core": {
-      "Set": "Core",
+      "Set": 16384,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -818,7 +818,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "foreign_synapse": {
-      "Set": "Core",
+      "Set": 16384,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -837,7 +837,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "alien_life_core": {
-      "Set": "Core",
+      "Set": 16384,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -856,7 +856,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "drop_of_tainted_water": {
-      "Set": "TaintedWater",
+      "Set": 32768,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -875,7 +875,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "scoop_of_tainted_water": {
-      "Set": "TaintedWater",
+      "Set": 32768,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -894,7 +894,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "newborn_tainted_hydro_phantasm": {
-      "Set": "TaintedWater",
+      "Set": 32768,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -913,7 +913,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "old_operatives_pocket_watch": {
-      "Set": "Operatives",
+      "Set": 65536,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -932,7 +932,7 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "operatives_standard_pocket_watch": {
-      "Set": "Operatives",
+      "Set": 65536,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -951,7 +951,7 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "operatives_constancy": {
-      "Set": "Operatives",
+      "Set": 65536,
       "EntityId": "material",
       "Rarity": {
         "Range": {

@@ -3,45 +3,45 @@
     "mondstadt": {
       "EntityId": "nation",
       "PortraitUri": null,
-      "LocalSpecialitiesRewarded": "LocalSpecialityOfMondstadt",
-      "Element": "Anemo",
-      "Location": "Mondstadt",
+      "LocalSpecialitiesRewarded": 255,
+      "Element": 2,
+      "Location": 2,
       "Id": "mondstadt",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "liyue": {
       "EntityId": "nation",
       "PortraitUri": null,
-      "LocalSpecialitiesRewarded": "LocalSpecialityOfLiyue",
-      "Element": "Geo",
-      "Location": "Liyue",
+      "LocalSpecialitiesRewarded": 65280,
+      "Element": 32,
+      "Location": 4,
       "Id": "liyue",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "inazuma": {
       "EntityId": "nation",
       "PortraitUri": null,
-      "LocalSpecialitiesRewarded": "LocalSpecialityOfInazuma",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "LocalSpecialitiesRewarded": 33488896,
+      "Element": 16,
+      "Location": 8,
       "Id": "inazuma",
       "DateAdded": "2021-07-21T00:00:00"
     },
     "sumeru": {
       "EntityId": "nation",
       "PortraitUri": null,
-      "LocalSpecialitiesRewarded": "LocalSpecialityOfSumeru",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "LocalSpecialitiesRewarded": 17146314752,
+      "Element": 8,
+      "Location": 16,
       "Id": "sumeru",
       "DateAdded": "2022-08-24T00:00:00"
     },
     "fontaine": {
       "EntityId": "nation",
       "PortraitUri": null,
-      "LocalSpecialitiesRewarded": "LocalSpecialityOfFontaine",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "LocalSpecialitiesRewarded": 6579889897472,
+      "Element": 64,
+      "Location": 32,
       "Id": "fontaine",
       "DateAdded": "2023-08-16T00:00:00"
     }

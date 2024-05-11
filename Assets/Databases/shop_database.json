@@ -3,12 +3,12 @@
     "Id": "paimons_bargains",
     "CurrencyType": 49152,
     "Products": null,
-    "Location": "Unknown"
+    "Location": 0
   },
   "Shops": {
     "mondstadt_general_goods": {
       "Id": "mondstadt_general_goods",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "cabbage": 120,
         "milk": 100,
@@ -19,11 +19,11 @@
         "tomato": 120,
         "wheat": 100
       },
-      "Location": "Mondstadt"
+      "Location": 2
     },
     "second_life": {
       "Id": "second_life",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "almond": 120,
         "cabbage": 120,
@@ -38,11 +38,11 @@
         "tomato": 120,
         "wheat": 100
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "tsukumomono_groceries": {
       "Id": "tsukumomono_groceries",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "cabbage": 120,
         "milk": 100,
@@ -57,11 +57,11 @@
         "tomato": 120,
         "wheat": 100
       },
-      "Location": "Inazuma"
+      "Location": 8
     },
     "good_hunter": {
       "Id": "good_hunter",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "bacon": 720,
         "butter": 270,
@@ -78,11 +78,11 @@
         "sugar": 450,
         "teyvat_fried_egg": 200
       },
-      "Location": "Mondstadt"
+      "Location": 2
     },
     "wanmin_restaurant": {
       "Id": "wanmin_restaurant",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "bamboo_shoot": 240,
         "carrot": 260,
@@ -101,11 +101,11 @@
         "sugar": 450,
         "teyvat_fried_egg": 200
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "shimuras": {
       "Id": "shimuras",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "bacon": 720,
         "chicken_mushroom_skewer": 450,
@@ -120,11 +120,11 @@
         "sugar": 450,
         "teyvat_fried_egg": 200
       },
-      "Location": "Inazuma"
+      "Location": 8
     },
     "with_wind_comes_glory": {
       "Id": "with_wind_comes_glory",
-      "CurrencyType": "AnemoSigil",
+      "CurrencyType": 64,
       "Products": {
         "agnidus_agate_sliver": 10,
         "boreal_wolfs_milk_tooth": 4,
@@ -139,11 +139,11 @@
         "varunada_lazurite_sliver": 10,
         "vayuda_turquoise_sliver": 10
       },
-      "Location": "Mondstadt"
+      "Location": 2
     },
     "mingxing_jewelry": {
       "Id": "mingxing_jewelry",
-      "CurrencyType": "GeoSigil",
+      "CurrencyType": 1024,
       "Products": {
         "agnidus_agate_sliver": 10,
         "grain_of_aerosiderite": 4,
@@ -161,22 +161,22 @@
         "varunada_lazurite_sliver": 10,
         "vayuda_turquoise_sliver": 10
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "netsuke_no_gen_crafts": {
       "Id": "netsuke_no_gen_crafts",
-      "CurrencyType": "ElectroSigil",
+      "CurrencyType": 512,
       "Products": {
         "coral_branch_of_a_distant_sea": 2,
         "mask_of_the_wicked_lieutenant": 2,
         "mora": 2,
         "narukamis_wisdom": 2
       },
-      "Location": "Inazuma"
+      "Location": 8
     },
     "floral_whisper": {
       "Id": "floral_whisper",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "sweet_flower": 200,
         "windwheel_aster": 1000,
@@ -184,11 +184,11 @@
         "small_lamp_grass": 1000,
         "calla_lily": 1000
       },
-      "Location": "Mondstadt"
+      "Location": 2
     },
     "botanist_chloris": {
       "Id": "botanist_chloris",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "snapdragon": 280,
         "mint": 150,
@@ -196,11 +196,11 @@
         "valberry": 1000,
         "philanemo_mushroom": 1000
       },
-      "Location": "Mondstadt"
+      "Location": 2
     },
     "miller_ms_bai": {
       "Id": "miller_ms_bai",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "qingce_stir_fry": 6150,
         "tofu": 120,
@@ -208,11 +208,11 @@
         "silk_flower": 1000,
         "glaze_lily": 50000
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "wangshu_inn_shop": {
       "Id": "wangshu_inn_shop",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "almond_tofu": 1550,
         "matsutake_meat_rolls": 1775,
@@ -225,11 +225,11 @@
         "silk_flower": 1000,
         "violetgrass": 1000
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "bubu_pharmacy": {
       "Id": "bubu_pharmacy",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "qingxin": 600,
         "horsetail": 240,
@@ -238,32 +238,32 @@
         "flaming_flower_stamen": 1000,
         "violetgrass": 1000
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "jade_mystery": {
       "Id": "jade_mystery",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "iron_chunk": 120,
         "white_iron_chunk": 400,
         "noctilucous_jade": 1000
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "wanyou_boutique": {
       "Id": "wanyou_boutique",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "apple": 240,
         "sunsettia": 170,
         "fish": 240,
         "starconch": 1000
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "merchant_changshun": {
       "Id": "merchant_changshun",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "potato": 150,
         "sugar": 450,
@@ -271,11 +271,11 @@
         "cor_lapis": 1500,
         "electro_crystal": 1500
       },
-      "Location": "Liyue"
+      "Location": 4
     },
     "chuyu_trading_company": {
       "Id": "chuyu_trading_company",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "iron_chunk": 120,
         "white_iron_chunk": 400,
@@ -285,7 +285,7 @@
     },
     "sailing_breeze": {
       "Id": "sailing_breeze",
-      "CurrencyType": "Mora",
+      "CurrencyType": 1,
       "Products": {
         "dandelion_seed": 60000
       },
@@ -306,9 +306,9 @@
         }
       },
       "Id": "mondstadt_fishing_association",
-      "CurrencyType": "Fish",
+      "CurrencyType": 65536,
       "Products": null,
-      "Location": "Mondstadt"
+      "Location": 2
     },
     "liyue_fishing_association": {
       "TradeMenu": {
@@ -323,9 +323,9 @@
         }
       },
       "Id": "liyue_fishing_association",
-      "CurrencyType": "Fish",
+      "CurrencyType": 65536,
       "Products": null,
-      "Location": "Liyue"
+      "Location": 4
     },
     "inazuma_fishing_association": {
       "TradeMenu": {
@@ -350,9 +350,9 @@
         }
       },
       "Id": "inazuma_fishing_association",
-      "CurrencyType": "Fish",
+      "CurrencyType": 65536,
       "Products": null,
-      "Location": "Inazuma"
+      "Location": 8
     },
     "sumeru_fishing_association": {
       "TradeMenu": {
@@ -377,9 +377,9 @@
         }
       },
       "Id": "sumeru_fishing_association",
-      "CurrencyType": "Fish",
+      "CurrencyType": 65536,
       "Products": null,
-      "Location": "Sumeru"
+      "Location": 16
     }
   },
   "Type": "ShopDatabase"

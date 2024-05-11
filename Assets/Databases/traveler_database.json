@@ -2,7 +2,7 @@
   "Travelers": {
     "traveler_anemo": {
       "Id": "traveler_anemo",
-      "ElementType": "Anemo",
+      "ElementType": 2,
       "Rarity": {
         "Range": {
           "Start": {
@@ -16,19 +16,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "None",
-      "C3TalentLevelBonus": "ElementalBurst",
-      "C5TalentLevelBonus": "ElementalSkill",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask, Scroll",
-      "TalentDomainMaterialType": "Ballad, Freedom, Resistance",
-      "WeeklyBossMaterialType": "DvalinsSigh",
+      "WeaponType": 16,
+      "ArkheType": 0,
+      "C3TalentLevelBonus": 3,
+      "C5TalentLevelBonus": 2,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 10,
+      "TalentDomainMaterialType": 37,
+      "WeeklyBossMaterialType": 256,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -38,13 +38,13 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     },
     "traveler_cryo": {
       "Id": "traveler_cryo",
-      "ElementType": "Cryo",
+      "ElementType": 4,
       "Rarity": {
         "Range": {
           "Start": {
@@ -58,19 +58,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "None",
-      "C3TalentLevelBonus": "Unknown",
-      "C5TalentLevelBonus": "Unknown",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask",
-      "TalentDomainMaterialType": "Unknown",
-      "WeeklyBossMaterialType": "Unknown",
+      "WeaponType": 16,
+      "ArkheType": 0,
+      "C3TalentLevelBonus": 0,
+      "C5TalentLevelBonus": 0,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 2,
+      "TalentDomainMaterialType": 0,
+      "WeeklyBossMaterialType": 0,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -80,13 +80,13 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     },
     "traveler_dendro": {
       "Id": "traveler_dendro",
-      "ElementType": "Dendro",
+      "ElementType": 8,
       "Rarity": {
         "Range": {
           "Start": {
@@ -100,19 +100,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "None",
-      "C3TalentLevelBonus": "ElementalSkill",
-      "C5TalentLevelBonus": "ElementalBurst",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask, FungalPowder",
-      "TalentDomainMaterialType": "Admonition, Ingenuity, Praxis",
-      "WeeklyBossMaterialType": "MudraOfTheMaleficGeneral",
+      "WeaponType": 16,
+      "ArkheType": 0,
+      "C3TalentLevelBonus": 2,
+      "C5TalentLevelBonus": 3,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 514,
+      "TalentDomainMaterialType": 3584,
+      "WeeklyBossMaterialType": 32768,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -122,13 +122,13 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     },
     "traveler_electro": {
       "Id": "traveler_electro",
-      "ElementType": "Electro",
+      "ElementType": 16,
       "Rarity": {
         "Range": {
           "Start": {
@@ -142,19 +142,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "None",
-      "C3TalentLevelBonus": "ElementalBurst",
-      "C5TalentLevelBonus": "ElementalSkill",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask, Handguard",
-      "TalentDomainMaterialType": "Transience, Elegance, Light",
-      "WeeklyBossMaterialType": "DragonLordsCrown",
+      "WeaponType": 16,
+      "ArkheType": 0,
+      "C3TalentLevelBonus": 3,
+      "C5TalentLevelBonus": 2,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 130,
+      "TalentDomainMaterialType": 448,
+      "WeeklyBossMaterialType": 1,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -164,13 +164,13 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     },
     "traveler_geo": {
       "Id": "traveler_geo",
-      "ElementType": "Geo",
+      "ElementType": 32,
       "Rarity": {
         "Range": {
           "Start": {
@@ -184,19 +184,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "None",
-      "C3TalentLevelBonus": "ElementalBurst",
-      "C5TalentLevelBonus": "ElementalSkill",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask, Arrowhead, Scroll",
-      "TalentDomainMaterialType": "Ballad, Diligence, Freedom, Gold, Prosperity, Resistance",
-      "WeeklyBossMaterialType": "TailOfBoreas, DvalinsSigh",
+      "WeaponType": 16,
+      "ArkheType": 0,
+      "C3TalentLevelBonus": 3,
+      "C5TalentLevelBonus": 2,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 14,
+      "TalentDomainMaterialType": 63,
+      "WeeklyBossMaterialType": 264,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -206,13 +206,13 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     },
     "traveler_hydro": {
       "Id": "traveler_hydro",
-      "ElementType": "Hydro",
+      "ElementType": 64,
       "Rarity": {
         "Range": {
           "Start": {
@@ -226,19 +226,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "Pneuma",
-      "C3TalentLevelBonus": "ElementalSkill",
-      "C5TalentLevelBonus": "ElementalBurst",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask, Pearl",
-      "TalentDomainMaterialType": "Equity, Justice, Order",
-      "WeeklyBossMaterialType": "WorldspanFern",
+      "WeaponType": 16,
+      "ArkheType": 1,
+      "C3TalentLevelBonus": 2,
+      "C5TalentLevelBonus": 3,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 2050,
+      "TalentDomainMaterialType": 28672,
+      "WeeklyBossMaterialType": 2097152,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -248,13 +248,13 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     },
     "traveler_pyro": {
       "Id": "traveler_pyro",
-      "ElementType": "Pyro",
+      "ElementType": 128,
       "Rarity": {
         "Range": {
           "Start": {
@@ -268,19 +268,19 @@
         },
         "Value": 5
       },
-      "WeaponType": "Sword",
-      "ArkheType": "None",
-      "C3TalentLevelBonus": "Unknown",
-      "C5TalentLevelBonus": "Unknown",
-      "AscensionGemType": "Diamond",
-      "LocalSpecialityType": "WindwheelAster",
-      "CommonEnemyMaterialType": "Mask",
-      "TalentDomainMaterialType": "Unknown",
-      "WeeklyBossMaterialType": "Unknown",
+      "WeaponType": 16,
+      "ArkheType": 0,
+      "C3TalentLevelBonus": 0,
+      "C5TalentLevelBonus": 0,
+      "AscensionGemType": 1,
+      "LocalSpecialityType": 64,
+      "CommonEnemyMaterialType": 2,
+      "TalentDomainMaterialType": 0,
+      "WeeklyBossMaterialType": 0,
       "EntityId": "character",
       "Birthday": null,
-      "Gender": "Unknown",
-      "Region": "Unknown",
+      "Gender": 0,
+      "Region": 0,
       "Stats": {
         "BaseHP": 911.791,
         "BaseATK": 17.808,
@@ -290,8 +290,8 @@
         "AscensionATK": 63.7182,
         "AscensionDEF": 204.75
       },
-      "Stat": "ATK_Percentage",
-      "NormalBossMaterialType": "Unknown",
+      "Stat": 6,
+      "NormalBossMaterialType": 0,
       "DateAdded": "2020-09-28T00:00:00"
     }
   },

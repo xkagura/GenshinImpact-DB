@@ -11,8 +11,8 @@
         "bitter_pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_cider_lake_1",
       "DateAdded": null
     },
@@ -26,8 +26,8 @@
         "rusty_koi"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_cider_lake_2",
       "DateAdded": null
     },
@@ -42,8 +42,8 @@
         "bitter_pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_dawn_winery",
       "DateAdded": null
     },
@@ -59,8 +59,8 @@
         "golden_koi"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_stormbearer_mountains",
       "DateAdded": null
     },
@@ -73,8 +73,8 @@
         "tea_colored_shirakodai"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_stormterrors_lair_1",
       "DateAdded": null
     },
@@ -87,8 +87,8 @@
         "crystalfish"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_stormterrors_lair_2",
       "DateAdded": null
     },
@@ -100,8 +100,8 @@
         "venomspine_fish"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Mondstadt",
+      "Nation": 2,
+      "Location": 2,
       "Id": "fishing_spot_windrise",
       "DateAdded": null
     },
@@ -114,8 +114,8 @@
         "snowstrider"
       ],
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Dragonspine",
+      "Nation": 2,
+      "Location": 512,
       "Id": "fishing_spot_dragonspine",
       "DateAdded": null
     }
@@ -129,8 +129,8 @@
         "betta"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_bishui_plain_1",
       "DateAdded": null
     },
@@ -142,8 +142,8 @@
         "brown_shirakodai"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_bishui_plain_2",
       "DateAdded": null
     },
@@ -156,8 +156,8 @@
         "brown_shirakodai"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_dihua_marsh",
       "DateAdded": null
     },
@@ -172,8 +172,8 @@
         "rusty_koi"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_guili_plains",
       "DateAdded": null
     },
@@ -187,8 +187,8 @@
         "pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_liyue_harbor",
       "DateAdded": null
     },
@@ -203,8 +203,8 @@
         "rusty_koi"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_luhua_pool",
       "DateAdded": null
     },
@@ -218,8 +218,8 @@
         "abiding_angelfish"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_mt_aocang",
       "DateAdded": null
     },
@@ -234,8 +234,8 @@
         "betta"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_mt_hulao",
       "DateAdded": null
     },
@@ -250,8 +250,8 @@
         "bitter_pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_qingce_village",
       "DateAdded": null
     },
@@ -263,8 +263,8 @@
         "betta"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_tianqiu_valley",
       "DateAdded": null
     },
@@ -279,8 +279,8 @@
         "rusty_koi"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Liyue",
+      "Nation": 4,
+      "Location": 4,
       "Id": "fishing_spot_wangshu_inn",
       "DateAdded": null
     },
@@ -294,8 +294,8 @@
         "pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Chasm",
+      "Nation": 4,
+      "Location": 2048,
       "Id": "fishing_spot_nameless_ruins",
       "DateAdded": null
     },
@@ -309,8 +309,8 @@
         "bitter_pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Liyue",
-      "Location": "Chasm",
+      "Nation": 4,
+      "Location": 2048,
       "Id": "fishing_spot_underground_waterway",
       "DateAdded": null
     }
@@ -324,8 +324,8 @@
         "lunged_stickleback"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_amakane_island",
       "DateAdded": null
     },
@@ -338,8 +338,8 @@
         "akai_maou"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_autake_plains",
       "DateAdded": null
     },
@@ -351,8 +351,8 @@
         "crystalfish"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_chirai_shrine",
       "DateAdded": null
     },
@@ -367,8 +367,8 @@
         "rusty_koi"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_koseki_village_1",
       "DateAdded": null
     },
@@ -381,8 +381,8 @@
         "pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_koseki_village_2",
       "DateAdded": null
     },
@@ -395,8 +395,8 @@
         "bitter_pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_nazuchi_beach",
       "DateAdded": null
     },
@@ -410,8 +410,8 @@
         "bitter_pufferfish"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_ritou",
       "DateAdded": null
     },
@@ -425,8 +425,8 @@
         "lunged_stickleback"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_sangonomiya_shrine",
       "DateAdded": null
     },
@@ -440,8 +440,8 @@
         "lunged_stickleback"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_suigetsu_pool",
       "DateAdded": null
     },
@@ -451,8 +451,8 @@
         "raimei_angelfish"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Inazuma",
+      "Nation": 8,
+      "Location": 8,
       "Id": "fishing_spot_tatarasuna",
       "DateAdded": null
     },
@@ -463,8 +463,8 @@
         "formalo_ray"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Enkanomiya",
+      "Nation": 8,
+      "Location": 1024,
       "Id": "fishing_spot_the_serpents_bowels",
       "DateAdded": null
     },
@@ -475,8 +475,8 @@
         "formalo_ray"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Enkanomiya",
+      "Nation": 8,
+      "Location": 1024,
       "Id": "fishing_spot_the_serpents_heart_altar_1",
       "DateAdded": null
     },
@@ -487,8 +487,8 @@
         "formalo_ray"
       ],
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Enkanomiya",
+      "Nation": 8,
+      "Location": 1024,
       "Id": "fishing_spot_the_serpents_heart_altar_2",
       "DateAdded": null
     }
@@ -503,8 +503,8 @@
         "lazurite_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_sumeru_city",
       "DateAdded": null
     },
@@ -519,8 +519,8 @@
         "halcyon_jade_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_yazadaha_pool",
       "DateAdded": null
     },
@@ -535,8 +535,8 @@
         "halcyon_jade_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_vimara_village",
       "DateAdded": null
     },
@@ -551,8 +551,8 @@
         "halcyon_jade_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_port_ormos",
       "DateAdded": null
     },
@@ -565,8 +565,8 @@
         "halcyon_jade_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_devantaka_mountain",
       "DateAdded": null
     },
@@ -579,8 +579,8 @@
         "halcyon_jade_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_mawtiyima_forest",
       "DateAdded": null
     },
@@ -595,8 +595,8 @@
         "halcyon_jade_axe_marlin"
       ],
       "EntityId": "area",
-      "Nation": "Sumeru",
-      "Location": "Sumeru",
+      "Nation": 16,
+      "Location": 16,
       "Id": "fishing_spot_vanarana",
       "DateAdded": null
     }
@@ -612,8 +612,8 @@
         "maintenance_mek_situation_controller"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_salacia_plain_western_shoal",
       "DateAdded": null
     },
@@ -626,8 +626,8 @@
         "maintenance_mek_initial_configuration"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_fishing_boat_at_sea",
       "DateAdded": null
     },
@@ -641,8 +641,8 @@
         "maintenance_mek_platinum_collection"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_west_slopes_of_mont_automnequi",
       "DateAdded": null
     },
@@ -655,8 +655,8 @@
         "maintenance_mek_situation_controller"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_fountain_of_lucine_western_shoal",
       "DateAdded": null
     },
@@ -670,8 +670,8 @@
         "maintenance_mek_situation_controller"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_elynas_southern_mountains",
       "DateAdded": null
     },
@@ -684,8 +684,8 @@
         "maintenance_mek_initial_configuration"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_elynas_eastern_shoal",
       "DateAdded": null
     },
@@ -698,8 +698,8 @@
         "maintenance_mek_situation_controller"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_court_of_fontaine_city_wall_southern_arc",
       "DateAdded": null
     },
@@ -712,8 +712,8 @@
         "maintenance_mek_water_body_cleaner"
       ],
       "EntityId": "area",
-      "Nation": "Fontaine",
-      "Location": "Fontaine",
+      "Nation": 32,
+      "Location": 32,
       "Id": "fishing_spot_elynas_northeast_beach",
       "DateAdded": null
     }

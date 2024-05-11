@@ -7,14 +7,14 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           91
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "12:00:00",
         "Offset": "00:00:00"
       },
@@ -42,7 +42,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           277,
           281,
@@ -53,7 +53,7 @@
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "12:00:00",
         "Offset": "00:00:00"
       },
@@ -81,14 +81,14 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           63
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -116,14 +116,14 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           62
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -151,14 +151,14 @@
           "Longitude": -670.01,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           94
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "12:00:00",
         "Offset": "00:00:00"
       },
@@ -186,14 +186,14 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           115
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "12:00:00",
         "Offset": "00:00:00"
       },
@@ -221,14 +221,14 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           195
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "12:00:00",
         "Offset": "00:00:00"
       },
@@ -256,14 +256,14 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           61
         ]
       },
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -288,7 +288,7 @@
       "InteractiveMapPoint": null,
       "LocationIds": null,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },

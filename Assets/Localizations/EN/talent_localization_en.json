@@ -1,5 +1,5 @@
 {
-  "LangCode": "EN",
+  "LangCode": 0,
   "Talents": {
     "unknown": [
       {
@@ -3903,7 +3903,7 @@
         "Name": "Salon Solitaire",
         "Type": "Elemental Skill",
         "Descriptions": [
-          "Invites the guests of the Salon Solitaire to come forth and aid in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current Arkhe alignment.\r\n",
+          "Invites the guests of the Salon Solitaire to come forth and aid in Furina's performance. Will summon either the Salon Members or the Singer of Many Waters based on Furina's current Arkhe alignment.\n",
           "Ousia",
           "Foaming bubbles like celebrants shall dance, dealing AoE Hydro DMG based on Furina's Max HP and summoning 3 Salon Members: the Ball Octopus-shaped Gentilhomme Usher, the Bubbly Seahorse-shaped Surintendante Chevalmarin, and the Armored Crab-shaped Mademoiselle Crabaletta.",
           "They will attack nearby opponents at intervals, prioritizing the target of the active character, dealing Hydro DMG based on Max HP.",

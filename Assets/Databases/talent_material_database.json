@@ -1,11 +1,11 @@
 {
   "TalentDomainMaterials": {
     "teachings_of_freedom": {
-      "Set": "Freedom",
+      "Set": 4,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -25,11 +25,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "guide_to_freedom": {
-      "Set": "Freedom",
+      "Set": 4,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -49,11 +49,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philosophies_of_freedom": {
-      "Set": "Freedom",
+      "Set": 4,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -73,11 +73,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "teachings_of_resistance": {
-      "Set": "Resistance",
+      "Set": 32,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -97,11 +97,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "guide_to_resistance": {
-      "Set": "Resistance",
+      "Set": 32,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -121,11 +121,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philosophies_of_resistance": {
-      "Set": "Resistance",
+      "Set": 32,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -145,11 +145,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "teachings_of_ballad": {
-      "Set": "Ballad",
+      "Set": 1,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -169,11 +169,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "guide_to_ballad": {
-      "Set": "Ballad",
+      "Set": 1,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -193,11 +193,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philosophies_of_ballad": {
-      "Set": "Ballad",
+      "Set": 1,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -217,11 +217,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "teachings_of_prosperity": {
-      "Set": "Prosperity",
+      "Set": 16,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -241,11 +241,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "guide_to_prosperity": {
-      "Set": "Prosperity",
+      "Set": 16,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -265,11 +265,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philosophies_of_prosperity": {
-      "Set": "Prosperity",
+      "Set": 16,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -289,11 +289,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "teachings_of_diligence": {
-      "Set": "Diligence",
+      "Set": 2,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -313,11 +313,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "guide_to_diligence": {
-      "Set": "Diligence",
+      "Set": 2,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -337,11 +337,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philosophies_of_diligence": {
-      "Set": "Diligence",
+      "Set": 2,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -361,11 +361,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "teachings_of_gold": {
-      "Set": "Gold",
+      "Set": 8,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -385,11 +385,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "guide_to_gold": {
-      "Set": "Gold",
+      "Set": 8,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -409,11 +409,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philosophies_of_gold": {
-      "Set": "Gold",
+      "Set": 8,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -433,11 +433,11 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "teachings_of_transience": {
-      "Set": "Transience",
+      "Set": 64,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -457,11 +457,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "guide_to_transience": {
-      "Set": "Transience",
+      "Set": 64,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -481,11 +481,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "philosophies_of_transience": {
-      "Set": "Transience",
+      "Set": 64,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -505,11 +505,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "teachings_of_elegance": {
-      "Set": "Elegance",
+      "Set": 128,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -529,11 +529,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "guide_to_elegance": {
-      "Set": "Elegance",
+      "Set": 128,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -553,11 +553,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "philosophies_of_elegance": {
-      "Set": "Elegance",
+      "Set": 128,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -577,11 +577,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "teachings_of_light": {
-      "Set": "Light",
+      "Set": 256,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -601,11 +601,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "guide_to_light": {
-      "Set": "Light",
+      "Set": 256,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -625,11 +625,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "philosophies_of_light": {
-      "Set": "Light",
+      "Set": 256,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -649,11 +649,11 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "teachings_of_admonition": {
-      "Set": "Admonition",
+      "Set": 512,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -673,11 +673,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "guide_to_admonition": {
-      "Set": "Admonition",
+      "Set": 512,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -697,11 +697,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "philosophies_of_admonition": {
-      "Set": "Admonition",
+      "Set": 512,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -721,11 +721,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "teachings_of_ingenuity": {
-      "Set": "Ingenuity",
+      "Set": 1024,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -745,11 +745,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "guide_to_ingenuity": {
-      "Set": "Ingenuity",
+      "Set": 1024,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -769,11 +769,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "philosophies_of_ingenuity": {
-      "Set": "Ingenuity",
+      "Set": 1024,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -793,11 +793,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "teachings_of_praxis": {
-      "Set": "Praxis",
+      "Set": 2048,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -817,11 +817,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "guide_to_praxis": {
-      "Set": "Praxis",
+      "Set": 2048,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -841,11 +841,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "philosophies_of_praxis": {
-      "Set": "Praxis",
+      "Set": 2048,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -865,11 +865,11 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "teachings_of_equity": {
-      "Set": "Equity",
+      "Set": 4096,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -889,11 +889,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "guide_to_equity": {
-      "Set": "Equity",
+      "Set": 4096,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -913,11 +913,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "philosophies_of_equity": {
-      "Set": "Equity",
+      "Set": 4096,
       "DaysOfWeek": [
-        "Monday",
-        "Thursday",
-        "Sunday"
+        1,
+        4,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -937,11 +937,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "teachings_of_justice": {
-      "Set": "Justice",
+      "Set": 8192,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -961,11 +961,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "guide_to_justice": {
-      "Set": "Justice",
+      "Set": 8192,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -985,11 +985,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "philosophies_of_justice": {
-      "Set": "Justice",
+      "Set": 8192,
       "DaysOfWeek": [
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        2,
+        5,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -1009,11 +1009,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "teachings_of_order": {
-      "Set": "Order",
+      "Set": 16384,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -1033,11 +1033,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "guide_to_order": {
-      "Set": "Order",
+      "Set": 16384,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -1057,11 +1057,11 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "philosophies_of_order": {
-      "Set": "Order",
+      "Set": 16384,
       "DaysOfWeek": [
-        "Wednesday",
-        "Saturday",
-        "Sunday"
+        3,
+        6,
+        0
       ],
       "EntityId": "material",
       "Rarity": {
@@ -1083,8 +1083,8 @@
   },
   "WeeklyBossMaterials": {
     "dvalins_plume": {
-      "MaterialType": "DvalinsPlume",
-      "BossType": "Dvalin",
+      "MaterialType": 64,
+      "BossType": 0,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1103,8 +1103,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dvalins_claw": {
-      "MaterialType": "DvalinsClaw",
-      "BossType": "Dvalin",
+      "MaterialType": 128,
+      "BossType": 0,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1123,8 +1123,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dvalins_sigh": {
-      "MaterialType": "DvalinsSigh",
-      "BossType": "Dvalin",
+      "MaterialType": 256,
+      "BossType": 0,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1143,8 +1143,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "tail_of_boreas": {
-      "MaterialType": "TailOfBoreas",
-      "BossType": "Andrius",
+      "MaterialType": 8,
+      "BossType": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1163,8 +1163,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ring_of_boreas": {
-      "MaterialType": "RingOfBoreas",
-      "BossType": "Andrius",
+      "MaterialType": 16,
+      "BossType": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1183,8 +1183,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "spirit_locket_of_boreas": {
-      "MaterialType": "SpiritLocketOfBoreas",
-      "BossType": "Andrius",
+      "MaterialType": 32,
+      "BossType": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1203,8 +1203,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "tusk_of_monoceros_caeli": {
-      "MaterialType": "TuskOfMonocerosCaeli",
-      "BossType": "Childe",
+      "MaterialType": 512,
+      "BossType": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1223,8 +1223,8 @@
       "DateAdded": "2020-11-11T00:00:00"
     },
     "shard_of_a_foul_legacy": {
-      "MaterialType": "ShardOfAFoulLegacy",
-      "BossType": "Childe",
+      "MaterialType": 1024,
+      "BossType": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1243,8 +1243,8 @@
       "DateAdded": "2020-11-11T00:00:00"
     },
     "shadow_of_the_warrior": {
-      "MaterialType": "ShadowOfTheWarrior",
-      "BossType": "Childe",
+      "MaterialType": 2048,
+      "BossType": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1263,8 +1263,8 @@
       "DateAdded": "2020-11-11T00:00:00"
     },
     "dragon_lords_crown": {
-      "MaterialType": "DragonLordsCrown",
-      "BossType": "Azhdaha",
+      "MaterialType": 1,
+      "BossType": 3,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1283,8 +1283,8 @@
       "DateAdded": "2021-04-28T00:00:00"
     },
     "bloodjade_branch": {
-      "MaterialType": "BloodjadeBranch",
-      "BossType": "Azhdaha",
+      "MaterialType": 2,
+      "BossType": 3,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1303,8 +1303,8 @@
       "DateAdded": "2021-04-28T00:00:00"
     },
     "gilded_scale": {
-      "MaterialType": "GildedScale",
-      "BossType": "Azhdaha",
+      "MaterialType": 4,
+      "BossType": 3,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1323,8 +1323,8 @@
       "DateAdded": "2021-04-28T00:00:00"
     },
     "molten_moment": {
-      "MaterialType": "MoltenMoment",
-      "BossType": "LaSignora",
+      "MaterialType": 4096,
+      "BossType": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1343,8 +1343,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "hellfire_butterfly": {
-      "MaterialType": "HellfireButterfly",
-      "BossType": "LaSignora",
+      "MaterialType": 8192,
+      "BossType": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1363,8 +1363,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "ashen_heart": {
-      "MaterialType": "AshenHeart",
-      "BossType": "LaSignora",
+      "MaterialType": 16384,
+      "BossType": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1383,8 +1383,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "mudra_of_the_malefic_general": {
-      "MaterialType": "MudraOfTheMaleficGeneral",
-      "BossType": "Mikoto",
+      "MaterialType": 32768,
+      "BossType": 5,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1403,8 +1403,8 @@
       "DateAdded": "2022-02-16T00:00:00"
     },
     "tears_of_the_calamitous_god": {
-      "MaterialType": "TearsOfTheCalamitousGod",
-      "BossType": "Mikoto",
+      "MaterialType": 65536,
+      "BossType": 5,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1423,8 +1423,8 @@
       "DateAdded": "2022-02-16T00:00:00"
     },
     "the_meaning_of_aeons": {
-      "MaterialType": "TheMeaningOfAeons",
-      "BossType": "Mikoto",
+      "MaterialType": 131072,
+      "BossType": 5,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1443,8 +1443,8 @@
       "DateAdded": "2022-02-16T00:00:00"
     },
     "puppet_strings": {
-      "MaterialType": "PuppetStrings",
-      "BossType": "Joururi",
+      "MaterialType": 262144,
+      "BossType": 6,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1463,8 +1463,8 @@
       "DateAdded": "2022-11-02T00:00:00"
     },
     "mirror_of_mushin": {
-      "MaterialType": "MirrorOfMushin",
-      "BossType": "Joururi",
+      "MaterialType": 524288,
+      "BossType": 6,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1483,8 +1483,8 @@
       "DateAdded": "2022-11-02T00:00:00"
     },
     "dakas_bell": {
-      "MaterialType": "DakasBell",
-      "BossType": "Joururi",
+      "MaterialType": 1048576,
+      "BossType": 6,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1503,8 +1503,8 @@
       "DateAdded": "2022-11-02T00:00:00"
     },
     "worldspan_fern": {
-      "MaterialType": "WorldspanFern",
-      "BossType": "OasisPrime",
+      "MaterialType": 2097152,
+      "BossType": 7,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1523,8 +1523,8 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "primordial_greenbloom": {
-      "MaterialType": "PrimordialGreenbloom",
-      "BossType": "OasisPrime",
+      "MaterialType": 4194304,
+      "BossType": 7,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1543,8 +1543,8 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "everamber": {
-      "MaterialType": "Everamber",
-      "BossType": "OasisPrime",
+      "MaterialType": 8388608,
+      "BossType": 7,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1563,8 +1563,8 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "lightless_silk_string": {
-      "MaterialType": "LightlessSilkString",
-      "BossType": "Narwhal",
+      "MaterialType": 16777216,
+      "BossType": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1583,8 +1583,8 @@
       "DateAdded": "2023-11-08T00:00:00"
     },
     "lightless_eye_of_the_maelstrom": {
-      "MaterialType": "LightlessEyeOfTheMaelstrom",
-      "BossType": "Narwhal",
+      "MaterialType": 33554432,
+      "BossType": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -1603,8 +1603,8 @@
       "DateAdded": "2023-11-08T00:00:00"
     },
     "lightless_mass": {
-      "MaterialType": "LightlessMass",
-      "BossType": "Narwhal",
+      "MaterialType": 67108864,
+      "BossType": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {

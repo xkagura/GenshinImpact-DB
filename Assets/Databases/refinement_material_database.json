@@ -14,8 +14,8 @@
         },
         "Value": 4
       },
-      "Set": "FragmentsOfInnocence",
-      "CraftingMethod": "Alchemy",
+      "Set": 6,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "fragments_of_innocence",
@@ -35,8 +35,8 @@
         },
         "Value": 4
       },
-      "Set": "TheVisibleWinds",
-      "CraftingMethod": "Alchemy",
+      "Set": 7,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "the_visible_winds",
@@ -56,10 +56,10 @@
         },
         "Value": 4
       },
-      "Set": "AkosSakeVessel",
-      "CraftingMethod": "Alchemy",
+      "Set": 1,
+      "CraftingMethod": 0,
       "Recipe": {
-        "CraftingMethod": "Fishing",
+        "CraftingMethod": 6,
         "Ingredients": {
           "raimei_angelfish": 3,
           "pufferfish": 10,
@@ -86,8 +86,8 @@
         },
         "Value": 4
       },
-      "Set": "Alkahest",
-      "CraftingMethod": "Alchemy",
+      "Set": 5,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "alkahest",
@@ -107,8 +107,8 @@
         },
         "Value": 4
       },
-      "Set": "CongealedPupaWax",
-      "CraftingMethod": "Alchemy",
+      "Set": 13,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "congealed_pupa_wax",
@@ -128,8 +128,8 @@
         },
         "Value": 4
       },
-      "Set": "EmperorsBalsam",
-      "CraftingMethod": "Alchemy",
+      "Set": 3,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "emperors_balsam",
@@ -149,8 +149,8 @@
         },
         "Value": 4
       },
-      "Set": "FesteringDragonMarrow",
-      "CraftingMethod": "Alchemy",
+      "Set": 4,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "festering_dragon_marrow",
@@ -170,8 +170,8 @@
         },
         "Value": 4
       },
-      "Set": "GlowingGem",
-      "CraftingMethod": "Alchemy",
+      "Set": 8,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "glowing_gem",
@@ -191,10 +191,10 @@
         },
         "Value": 4
       },
-      "Set": "MartensOmniFix",
-      "CraftingMethod": "Alchemy",
+      "Set": 14,
+      "CraftingMethod": 0,
       "Recipe": {
-        "CraftingMethod": "Fishing",
+        "CraftingMethod": 6,
         "Ingredients": {
           "peach_of_the_deep_waves": 2,
           "lazurite_axe_marlin": 8,
@@ -221,8 +221,8 @@
         },
         "Value": 4
       },
-      "Set": "OintmentOfSight",
-      "CraftingMethod": "Alchemy",
+      "Set": 2,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "ointment_of_sight",
@@ -242,10 +242,10 @@
         },
         "Value": 4
       },
-      "Set": "OriginalFishOintment",
-      "CraftingMethod": "Alchemy",
+      "Set": 9,
+      "CraftingMethod": 0,
       "Recipe": {
-        "CraftingMethod": "Fishing",
+        "CraftingMethod": 6,
         "Ingredients": {
           "peach_of_the_deep_waves": 2,
           "lazurite_axe_marlin": 8,
@@ -272,8 +272,8 @@
         },
         "Value": 4
       },
-      "Set": "ParasolTalcum",
-      "CraftingMethod": "Alchemy",
+      "Set": 11,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "parasol_talcum",
@@ -293,8 +293,8 @@
         },
         "Value": 4
       },
-      "Set": "PlumeOfTheChangingWinds",
-      "CraftingMethod": "Alchemy",
+      "Set": 10,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "plume_of_the_changing_winds",
@@ -314,8 +314,8 @@
         },
         "Value": 4
       },
-      "Set": "UnfadingSilkyGrace",
-      "CraftingMethod": "Alchemy",
+      "Set": 12,
+      "CraftingMethod": 0,
       "Recipe": null,
       "EntityId": "material",
       "Id": "unfading_silky_grace",

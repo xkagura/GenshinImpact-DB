@@ -1,5 +1,5 @@
 {
-  "LangCode": "EN",
+  "LangCode": 0,
   "WeeklyBosses": {
     "andrius": {
       "Name": "Andrius",
@@ -248,12 +248,33 @@
       "Title": null,
       "Family": "Mystical Beasts"
     },
-    "experimental_field_generator": {
-      "Name": "Experimental Field Generator",
+    "prototype_cal_breguet": {
+      "Name": "Prototype Cal. Breguet",
       "Description": "A large device designed by the late Edwin Eastinghouse. It has the ability to \"counteract\" the effects of gravity. According to the original design intentions, this was the first step in a plan to turn Fontaine into a city in the sky, so never again would the people have to worry about the waves that once swept over the land. Even if all seven nations were to be swallowed by the deeps, the elegant Court of Fontaine would float above it all, just like Celestia. Even the secrets of the universe would no longer seem so distant.\nThe Arkhium in the device's core has the characteristics of \"splitting\" or \"precipitation,\" and can take matter, or certain things outside of matter, and separate them. It is said that this process can be reversed, but the Fontaine Research Institute is infatuated only with the physical effects it can produce.",
       "DomainTitle": null,
       "Title": null,
       "Family": "Automatons"
+    },
+    "hydro_tulpa": {
+      "Name": "Hydro Tulpa",
+      "Description": "A humanoid monster formed from the agglomeration of water.\nCountless wills dissolved in the water, which, like the universe, was full of souls that wished to be born. Are the newborn Hydro Tulpas from the former or the latter? They're not as different as we'd like to think, anyway. The sun can't distinguish them, and neither can time, the surging tides, or even the darkness that permeates everything.",
+      "DomainTitle": null,
+      "Title": null,
+      "Family": "Elemental Lifeforms"
+    },
+    "solitary_suanni": {
+      "Name": "Solitary Suanni",
+      "Description": "These elegant and proud mystical beasts only live in mountains shrouded in adeptal energy.\nSince ancient times, they have been considered a symbol of good fortune, and their preference for living aloof from the material world has been admired by intellectuals for generations. In ancient legends from Chenyu Vale, the leader of the suanni was called the Mountain Lord and was considered to be of the same standing as the adepti.\nAnother theory claims that the Xuanwen Beasts that roam the mountains these days are the descendants of the suanni, but that the thinning of their blood over the years has caused them to devolve into violent creatures. Although this contradicts another theory regarding the origin of Xuanwen Beasts, the few records of the suanni often show them attended by a large number of Xuanwen Beasts.\nThese days, the well-known Wushou Dance in Chenyu Vale came from the movements of the suanni. But since only a handful of people have actually seen such creatures, most can only imagine what they look like. After thousands of years of changes and different artistic interpretations, the Wushou Dance costume head has developed into its current style.",
+      "DomainTitle": null,
+      "Title": null,
+      "Family": "Mystical Beasts"
+    },
+    "statue_of_marble_and_brass": {
+      "Name": "\"Statue of Marble and Brass\"",
+      "Description": "A centaur-shaped golem forged of marble and brass. Under the hard stone exterior flows Ichor blood. Towering as one who commands a legion, it is ready to trample any foe that might transgress against its honor.\nThe now sunken civilization believed that war was as music, an art of rhythms to be followed. Therefore, one who marshals a legion must be like a conductor, whose shield and sword are like the strings and bow of a violin, performing a blazing melody like the raging flames upon the merciless battlefield.\n\"War is a necessary evil on the path to all-encompassing peace.\" Thus spake a Harmost, one who once led the golem legions to conquest over the entire high sea.",
+      "DomainTitle": null,
+      "Title": null,
+      "Family": "Mystical Beasts"
     }
   },
   "EliteEnemies": {

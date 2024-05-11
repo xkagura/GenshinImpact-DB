@@ -1,7 +1,7 @@
 {
   "Materials": {
     "slime_condensate": {
-      "Set": "Slime",
+      "Set": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -20,7 +20,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "slime_secretions": {
-      "Set": "Slime",
+      "Set": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -39,7 +39,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "slime_concentrate": {
-      "Set": "Slime",
+      "Set": 1,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -58,7 +58,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "damaged_mask": {
-      "Set": "Mask",
+      "Set": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -77,7 +77,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "stained_mask": {
-      "Set": "Mask",
+      "Set": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -96,7 +96,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ominous_mask": {
-      "Set": "Mask",
+      "Set": 2,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -115,7 +115,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "divining_scroll": {
-      "Set": "Scroll",
+      "Set": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -134,7 +134,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "sealed_scroll": {
-      "Set": "Scroll",
+      "Set": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -153,7 +153,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "forbidden_curse_scroll": {
-      "Set": "Scroll",
+      "Set": 8,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -172,7 +172,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "firm_arrowhead": {
-      "Set": "Arrowhead",
+      "Set": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -191,7 +191,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "sharp_arrowhead": {
-      "Set": "Arrowhead",
+      "Set": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -210,7 +210,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "weathered_arrowhead": {
-      "Set": "Arrowhead",
+      "Set": 4,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -229,7 +229,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "recruits_insignia": {
-      "Set": "FatuiInsignia",
+      "Set": 32,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -248,7 +248,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "sergeants_insignia": {
-      "Set": "FatuiInsignia",
+      "Set": 32,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -267,7 +267,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "lieutenants_insignia": {
-      "Set": "FatuiInsignia",
+      "Set": 32,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -286,7 +286,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_insignia": {
-      "Set": "TreasureHoarderInsignia",
+      "Set": 16,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -305,7 +305,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "silver_raven_insignia": {
-      "Set": "TreasureHoarderInsignia",
+      "Set": 16,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -324,7 +324,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "golden_raven_insignia": {
-      "Set": "TreasureHoarderInsignia",
+      "Set": 16,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -343,7 +343,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "whopperflower_nectar": {
-      "Set": "Nectar",
+      "Set": 64,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -362,7 +362,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "shimmering_nectar": {
-      "Set": "Nectar",
+      "Set": 64,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -381,7 +381,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "energy_nectar": {
-      "Set": "Nectar",
+      "Set": 64,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -400,7 +400,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "old_handguard": {
-      "Set": "Handguard",
+      "Set": 128,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -419,7 +419,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "kageuchi_handguard": {
-      "Set": "Handguard",
+      "Set": 128,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -438,7 +438,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "famed_handguard": {
-      "Set": "Handguard",
+      "Set": 128,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -457,7 +457,7 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "spectral_husk": {
-      "Set": "Spectral",
+      "Set": 256,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -476,7 +476,7 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "spectral_heart": {
-      "Set": "Spectral",
+      "Set": 256,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -495,7 +495,7 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "spectral_nucleus": {
-      "Set": "Spectral",
+      "Set": 256,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -514,7 +514,7 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "fungal_spores": {
-      "Set": "FungalPowder",
+      "Set": 512,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -533,7 +533,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "luminescent_pollen": {
-      "Set": "FungalPowder",
+      "Set": 512,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -552,7 +552,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "crystalline_cyst_dust": {
-      "Set": "FungalPowder",
+      "Set": 512,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -571,7 +571,7 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "faded_red_satin": {
-      "Set": "EremiteCloth",
+      "Set": 1024,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -590,7 +590,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "trimmed_red_silk": {
-      "Set": "EremiteCloth",
+      "Set": 1024,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -609,7 +609,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "rich_red_brocade": {
-      "Set": "EremiteCloth",
+      "Set": 1024,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -628,7 +628,7 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "transoceanic_pearl": {
-      "Set": "Pearl",
+      "Set": 2048,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -647,7 +647,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "transoceanic_chunk": {
-      "Set": "Pearl",
+      "Set": 2048,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -666,7 +666,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "xenochromatic_crystal": {
-      "Set": "Pearl",
+      "Set": 2048,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -685,7 +685,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "meshing_gear": {
-      "Set": "Gear",
+      "Set": 4096,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -704,7 +704,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "mechanical_spur_gear": {
-      "Set": "Gear",
+      "Set": 4096,
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -723,7 +723,7 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "artificed_dynamic_gear": {
-      "Set": "Gear",
+      "Set": 4096,
       "EntityId": "material",
       "Rarity": {
         "Range": {

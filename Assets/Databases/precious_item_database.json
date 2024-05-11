@@ -137,7 +137,7 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           5
         ]
@@ -166,7 +166,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           403
         ]
@@ -195,7 +195,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           6
         ]
@@ -224,7 +224,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           194
         ]
@@ -253,7 +253,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           508
         ]
@@ -282,7 +282,7 @@
           "Longitude": 86.65,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           141
         ]
@@ -311,7 +311,7 @@
           "Longitude": -91.9,
           "Zoom": -4.0
         },
-        "Map": "Chasm",
+        "Map": 9,
         "ShownTypes": [
           357
         ]
@@ -340,7 +340,7 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           8
         ]
@@ -369,7 +369,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           9
         ]
@@ -398,7 +398,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           212
         ]
@@ -427,7 +427,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           411
         ]
@@ -456,7 +456,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           509
         ]

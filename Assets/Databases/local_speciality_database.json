@@ -1,8 +1,8 @@
 {
   "LocalSpecialityOfMondstadt": {
     "calla_lily": {
-      "MaterialType": "CallaLily",
-      "Nation": "Mondstadt",
+      "MaterialType": 1,
+      "Nation": 2,
       "Locations": [
         "springvale"
       ],
@@ -12,13 +12,13 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           31
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -40,8 +40,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cecilia": {
-      "MaterialType": "Cecilia",
-      "Nation": "Mondstadt",
+      "MaterialType": 2,
+      "Nation": 2,
       "Locations": [
         "starsnatch_cliff"
       ],
@@ -51,13 +51,13 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           35
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -79,8 +79,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dandelion_seed": {
-      "MaterialType": "DandelionSeed",
-      "Nation": "Mondstadt",
+      "MaterialType": 4,
+      "Nation": 2,
       "Locations": [
         "city_of_mondstadt"
       ],
@@ -90,13 +90,13 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           37
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -118,8 +118,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "philanemo_mushroom": {
-      "MaterialType": "PhilanemoMushroom",
-      "Nation": "Mondstadt",
+      "MaterialType": 8,
+      "Nation": 2,
       "Locations": [
         "city_of_mondstadt",
         "springvale",
@@ -131,13 +131,13 @@
           "Longitude": 24.43,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           39
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -159,8 +159,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "small_lamp_grass": {
-      "MaterialType": "SmallLampGrass",
-      "Nation": "Mondstadt",
+      "MaterialType": 16,
+      "Nation": 2,
       "Locations": [
         "whispering_woods"
       ],
@@ -170,13 +170,13 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           33
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -198,8 +198,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "valberry": {
-      "MaterialType": "Valberry",
-      "Nation": "Mondstadt",
+      "MaterialType": 32,
+      "Nation": 2,
       "Locations": [
         "stormbearer_mountains",
         "stormbearer_point"
@@ -210,13 +210,13 @@
           "Longitude": 640.69,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           29
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -238,8 +238,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "windwheel_aster": {
-      "MaterialType": "WindwheelAster",
-      "Nation": "Mondstadt",
+      "MaterialType": 64,
+      "Nation": 2,
       "Locations": [
         "windrise",
         "dawn_winery",
@@ -251,13 +251,13 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           43
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -279,8 +279,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "wolfhook": {
-      "MaterialType": "Wolfhook",
-      "Nation": "Mondstadt",
+      "MaterialType": 128,
+      "Nation": 2,
       "Locations": [
         "wolvendom"
       ],
@@ -290,13 +290,13 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           41
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -320,8 +320,8 @@
   },
   "LocalSpecialityOfLiyue": {
     "cor_lapis": {
-      "MaterialType": "CorLapis",
-      "Nation": "Liyue",
+      "MaterialType": 256,
+      "Nation": 4,
       "Locations": [
         "mt_hulao"
       ],
@@ -331,13 +331,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           40
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -359,8 +359,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "glaze_lily": {
-      "MaterialType": "GlazeLily",
-      "Nation": "Liyue",
+      "MaterialType": 512,
+      "Nation": 4,
       "Locations": [
         "liyue_harbor",
         "qingce_village"
@@ -371,13 +371,13 @@
           "Longitude": -1263.96,
           "Zoom": -0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           38
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -399,8 +399,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "jueyun_chili": {
-      "MaterialType": "JueyunChili",
-      "Nation": "Liyue",
+      "MaterialType": 1024,
+      "Nation": 4,
       "Locations": [
         "minlin",
         "qingce_village",
@@ -412,13 +412,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           30
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -440,8 +440,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "noctilucous_jade": {
-      "MaterialType": "NoctilucousJade",
-      "Nation": "Liyue",
+      "MaterialType": 2048,
+      "Nation": 4,
       "Locations": [
         "mingyun_village"
       ],
@@ -451,13 +451,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           42
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -479,8 +479,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "qingxin": {
-      "MaterialType": "Qingxin",
-      "Nation": "Liyue",
+      "MaterialType": 4096,
+      "Nation": 4,
       "Locations": [
         "minlin",
         "wuwang_hill"
@@ -491,13 +491,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           32
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -519,8 +519,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "silk_flower": {
-      "MaterialType": "SilkFlower",
-      "Nation": "Liyue",
+      "MaterialType": 8192,
+      "Nation": 4,
       "Locations": [
         "liyue_harbor",
         "wangshu_inn"
@@ -531,13 +531,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           36
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -559,8 +559,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "starconch": {
-      "MaterialType": "Starconch",
-      "Nation": "Liyue",
+      "MaterialType": 16384,
+      "Nation": 4,
       "Locations": [
         "liyue",
         "dragonspine"
@@ -571,13 +571,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           78
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -599,8 +599,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "violetgrass": {
-      "MaterialType": "Violetgrass",
-      "Nation": "Liyue",
+      "MaterialType": 32768,
+      "Nation": 4,
       "Locations": [
         "liyue"
       ],
@@ -610,13 +610,13 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           34
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -640,8 +640,8 @@
   },
   "LocalSpecialityOfInazuma": {
     "amakumo_fruit": {
-      "MaterialType": "AmakumoFruit",
-      "Nation": "Inazuma",
+      "MaterialType": 65536,
+      "Nation": 8,
       "Locations": [
         "seirai_island"
       ],
@@ -651,13 +651,13 @@
           "Longitude": 3476.51,
           "Zoom": -0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           228
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -679,8 +679,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "crystal_marrow": {
-      "MaterialType": "CrystalMarrow",
-      "Nation": "Inazuma",
+      "MaterialType": 131072,
+      "Nation": 8,
       "Locations": [
         "yashiori_island",
         "tatarasuna"
@@ -691,13 +691,13 @@
           "Longitude": 1813.4,
           "Zoom": -0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           211
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -719,8 +719,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "dendrobium": {
-      "MaterialType": "Dendrobium",
-      "Nation": "Inazuma",
+      "MaterialType": 262144,
+      "Nation": 8,
       "Locations": [
         "kannazuka",
         "yashiori_island"
@@ -731,13 +731,13 @@
           "Longitude": 2066.58,
           "Zoom": -0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           198
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -759,8 +759,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "fluorescent_fungus": {
-      "MaterialType": "FluorescentFungus",
-      "Nation": "Inazuma",
+      "MaterialType": 524288,
+      "Nation": 8,
       "Locations": [
         "tsurumi_island"
       ],
@@ -770,13 +770,13 @@
           "Longitude": 2001.01,
           "Zoom": -0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           266
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -798,8 +798,8 @@
       "DateAdded": "2021-10-13T00:00:00"
     },
     "naku_weed": {
-      "MaterialType": "NakuWeed",
-      "Nation": "Inazuma",
+      "MaterialType": 1048576,
+      "Nation": 8,
       "Locations": [
         "seirai_island"
       ],
@@ -809,13 +809,13 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           197
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -837,8 +837,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "onikabuto": {
-      "MaterialType": "Onikabuto",
-      "Nation": "Inazuma",
+      "MaterialType": 2097152,
+      "Nation": 8,
       "Locations": [
         "mikage_furnace",
         "mt_yougou"
@@ -849,13 +849,13 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           196
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -877,8 +877,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "sakura_bloom": {
-      "MaterialType": "SakuraBloom",
-      "Nation": "Inazuma",
+      "MaterialType": 4194304,
+      "Nation": 8,
       "Locations": [
         "narukami_island"
       ],
@@ -888,13 +888,13 @@
           "Longitude": 3637.72,
           "Zoom": -0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           199
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -916,8 +916,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "sango_pearl": {
-      "MaterialType": "SangoPearl",
-      "Nation": "Inazuma",
+      "MaterialType": 8388608,
+      "Nation": 8,
       "Locations": [
         "watatsumi_island",
         "enkanomiya"
@@ -928,13 +928,13 @@
           "Longitude": 229.82,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           227
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -956,8 +956,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "sea_ganoderma": {
-      "MaterialType": "SeaGanoderma",
-      "Nation": "Inazuma",
+      "MaterialType": 16777216,
+      "Nation": 8,
       "Locations": [
         "inazuma"
       ],
@@ -967,13 +967,13 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           185
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -997,8 +997,8 @@
   },
   "LocalSpecialityOfSumeru": {
     "henna_berry": {
-      "MaterialType": "HennaBerry",
-      "Nation": "Sumeru",
+      "MaterialType": 33554432,
+      "Nation": 16,
       "Locations": [
         "sumeru_wild"
       ],
@@ -1008,13 +1008,13 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           431
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1036,8 +1036,8 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "kalpalata_lotus": {
-      "MaterialType": "KalpalataLotus",
-      "Nation": "Sumeru",
+      "MaterialType": 67108864,
+      "Nation": 16,
       "Locations": [
         "mountains_of_sumeru"
       ],
@@ -1047,13 +1047,13 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           401
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1075,8 +1075,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "mourning_flower": {
-      "MaterialType": "MourningFlower",
-      "Nation": "Sumeru",
+      "MaterialType": 4294967296,
+      "Nation": 16,
       "Locations": [
         "deserts_of_sumeru"
       ],
@@ -1086,13 +1086,13 @@
           "Longitude": -6898.759765625,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           469
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1114,8 +1114,8 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "nilotpala_lotus": {
-      "MaterialType": "NilotpalaLotus",
-      "Nation": "Sumeru",
+      "MaterialType": 134217728,
+      "Nation": 16,
       "Locations": [
         "lakes_and_river_banks_in_sumeru"
       ],
@@ -1125,13 +1125,13 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           400
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1153,8 +1153,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "padisarah": {
-      "MaterialType": "Padisarah",
-      "Nation": "Sumeru",
+      "MaterialType": 268435456,
+      "Nation": 16,
       "Locations": [
         "sumeru_city"
       ],
@@ -1164,13 +1164,13 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           413
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1192,8 +1192,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "rukkhashava_mushrooms": {
-      "MaterialType": "RukkhashavaMushrooms",
-      "Nation": "Sumeru",
+      "MaterialType": 536870912,
+      "Nation": 16,
       "Locations": [
         "lokapala_jungle"
       ],
@@ -1203,13 +1203,13 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           402
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1231,8 +1231,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "sand_grease_pupa": {
-      "MaterialType": "SandGreasePupa",
-      "Nation": "Sumeru",
+      "MaterialType": 1073741824,
+      "Nation": 16,
       "Locations": [
         "deserts_of_sumeru"
       ],
@@ -1242,13 +1242,13 @@
           "Longitude": -5778.0,
           "Zoom": 1.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           462
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1270,8 +1270,8 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "scarab": {
-      "MaterialType": "Scarab",
-      "Nation": "Sumeru",
+      "MaterialType": 2147483648,
+      "Nation": 16,
       "Locations": [
         "sumeru_wild"
       ],
@@ -1281,13 +1281,13 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           430
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1309,8 +1309,8 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "trishiraite": {
-      "MaterialType": "Trishiraite",
-      "Nation": "Sumeru",
+      "MaterialType": 8589934592,
+      "Nation": 16,
       "Locations": [
         "deserts_of_sumeru",
         "temir_mountains"
@@ -1321,13 +1321,13 @@
           "Longitude": -6905.83,
           "Zoom": 0.5
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           468
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1351,8 +1351,8 @@
   },
   "LocalSpecialityOfFontaine": {
     "beryl_conch": {
-      "MaterialType": "BerylConch",
-      "Nation": "Fontaine",
+      "MaterialType": 17179869184,
+      "Nation": 32,
       "Locations": [
         "diving"
       ],
@@ -1362,13 +1362,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           500
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1390,8 +1390,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "lakelight_lily": {
-      "MaterialType": "LakelightLily",
-      "Nation": "Fontaine",
+      "MaterialType": 34359738368,
+      "Nation": 32,
       "Locations": [
         "fontaine_wild",
         "erinnyes_forest"
@@ -1402,13 +1402,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           548
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1430,8 +1430,8 @@
       "DateAdded": "2023-11-08T00:00:00"
     },
     "lumidouce_bell": {
-      "MaterialType": "LumidouceBell",
-      "Nation": "Fontaine",
+      "MaterialType": 68719476736,
+      "Nation": 32,
       "Locations": [
         "fontaine_wild",
         "court_of_fontaine"
@@ -1442,13 +1442,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           502
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1470,8 +1470,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "lumitoile": {
-      "MaterialType": "Lumitoile",
-      "Nation": "Fontaine",
+      "MaterialType": 137438953472,
+      "Nation": 32,
       "Locations": [
         "fontaine_wild"
       ],
@@ -1481,13 +1481,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           545
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1509,8 +1509,8 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "rainbow_rose": {
-      "MaterialType": "RainbowRose",
-      "Nation": "Fontaine",
+      "MaterialType": 274877906944,
+      "Nation": 32,
       "Locations": [
         "gardening"
       ],
@@ -1520,13 +1520,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           503
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1548,8 +1548,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "romaritime_flower": {
-      "MaterialType": "RomaritimeFlower",
-      "Nation": "Fontaine",
+      "MaterialType": 549755813888,
+      "Nation": 32,
       "Locations": [
         "diving"
       ],
@@ -1559,13 +1559,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           501
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1587,8 +1587,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "spring_of_the_first_dewdrop": {
-      "MaterialType": "SpringOfTheFirstDewdrop",
-      "Nation": "Fontaine",
+      "MaterialType": 1099511627776,
+      "Nation": 32,
       "Locations": [
         ""
       ],
@@ -1598,13 +1598,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           549
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1623,11 +1623,11 @@
         "Value": 0
       },
       "Id": "spring_of_the_first_dewdrop",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "subdetection_unit": {
-      "MaterialType": "SubdetectionUnit",
-      "Nation": "Sumeru",
+      "MaterialType": 4398046511104,
+      "Nation": 16,
       "Locations": [
         "fontaine_wild"
       ],
@@ -1637,13 +1637,13 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           546
         ]
       },
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "2.00:00:00",
         "Offset": "00:00:00"
       },

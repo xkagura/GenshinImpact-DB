@@ -1,7 +1,7 @@
 {
   "Materials": {
     "wanderers_advice": {
-      "Set": "Character",
+      "Set": 1,
       "CraftingRecipeBlueprints": null,
       "EntityId": "material",
       "Rarity": {
@@ -21,7 +21,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "adventurers_experience": {
-      "Set": "Character",
+      "Set": 1,
       "CraftingRecipeBlueprints": null,
       "EntityId": "material",
       "Rarity": {
@@ -41,7 +41,7 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "heros_wit": {
-      "Set": "Character",
+      "Set": 1,
       "CraftingRecipeBlueprints": null,
       "EntityId": "material",
       "Rarity": {
@@ -61,10 +61,10 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "enhancement_ore": {
-      "Set": "Weapon",
+      "Set": 2,
       "CraftingRecipeBlueprints": [
         {
-          "CraftingMethod": "Forging",
+          "CraftingMethod": 4,
           "Ingredients": {
             "iron_chunk": 2,
             "mora": 5
@@ -91,10 +91,10 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fine_enhancement_ore": {
-      "Set": "Weapon",
+      "Set": 2,
       "CraftingRecipeBlueprints": [
         {
-          "CraftingMethod": "Forging",
+          "CraftingMethod": 4,
           "Ingredients": {
             "white_iron_chunk": 3,
             "mora": 10
@@ -103,7 +103,7 @@
           "CraftingTime": "00:00:06"
         },
         {
-          "CraftingMethod": "Forging",
+          "CraftingMethod": 4,
           "Ingredients": {
             "starsilver": 3,
             "mora": 10
@@ -130,10 +130,10 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "mystic_enhancement_ore": {
-      "Set": "Weapon",
+      "Set": 2,
       "CraftingRecipeBlueprints": [
         {
-          "CraftingMethod": "Forging",
+          "CraftingMethod": 4,
           "Ingredients": {
             "crystal_chunk": 4,
             "mora": 50
@@ -142,7 +142,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Forging",
+          "CraftingMethod": 4,
           "Ingredients": {
             "amethyst_lump": 4,
             "mora": 50
@@ -151,7 +151,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Forging",
+          "CraftingMethod": 4,
           "Ingredients": {
             "magical_crystal_chunk": 3,
             "original_resin": 10,

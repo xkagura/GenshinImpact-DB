@@ -7,7 +7,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           437
         ]
@@ -55,7 +55,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           81
         ]
@@ -84,7 +84,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           163
         ]
@@ -113,7 +113,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           126
         ]
@@ -161,7 +161,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           167
         ]
@@ -190,7 +190,7 @@
           "Longitude": 86.65,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           153
         ]
@@ -238,7 +238,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           116,
           275,
@@ -272,7 +272,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           254
         ]
@@ -320,7 +320,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           123
         ]
@@ -368,7 +368,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           386
         ]
@@ -397,7 +397,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           93
         ]
@@ -426,7 +426,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           200
         ]
@@ -455,7 +455,7 @@
           "Longitude": -670.01,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           166
         ]
@@ -484,7 +484,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           492
         ]
@@ -513,7 +513,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           124
         ]
@@ -561,7 +561,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           161
         ]
@@ -590,7 +590,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           162
         ]
@@ -619,7 +619,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           463
         ]
@@ -686,7 +686,7 @@
           "Longitude": -670.01,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           125
         ]
@@ -734,7 +734,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           168
         ]
@@ -801,7 +801,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           201
         ]
@@ -849,7 +849,7 @@
           "Longitude": -670.01,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           92
         ]
@@ -878,7 +878,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           384
         ]
@@ -907,7 +907,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           160
         ]
@@ -936,7 +936,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           491
         ]
@@ -1022,7 +1022,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           385
         ]
@@ -1049,7 +1049,7 @@
     "bacon": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "raw_meat": 2,
             "salt": 2
@@ -1079,7 +1079,7 @@
     "butter": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "milk": 2
           },
@@ -1108,7 +1108,7 @@
     "cheese": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "milk": 3
           },
@@ -1137,7 +1137,7 @@
     "crab_roe": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "crab": 4
           },
@@ -1166,7 +1166,7 @@
     "cream": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "milk": 1
           },
@@ -1195,7 +1195,7 @@
     "fish": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "medaka": 1
           },
@@ -1203,7 +1203,7 @@
           "CraftingTime": "00:01:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "glaze_medaka": 1
           },
@@ -1211,7 +1211,7 @@
           "CraftingTime": "00:01:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "sweet_flower_medaka": 1
           },
@@ -1219,7 +1219,7 @@
           "CraftingTime": "00:01:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "aizen_medaka": 1
           },
@@ -1227,7 +1227,7 @@
           "CraftingTime": "00:01:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "dawncatcher": 1
           },
@@ -1235,7 +1235,7 @@
           "CraftingTime": "00:01:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "crystalfish": 1
           },
@@ -1243,7 +1243,7 @@
           "CraftingTime": "00:01:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "lunged_stickleback": 1
           },
@@ -1251,7 +1251,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "betta": 1
           },
@@ -1259,7 +1259,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "venomspine_fish": 1
           },
@@ -1267,7 +1267,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "akai_maou": 1
           },
@@ -1275,7 +1275,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "snowstrider": 1
           },
@@ -1283,7 +1283,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "brown_shirakodai": 1
           },
@@ -1291,7 +1291,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "tea_colored_shirakodai": 1
           },
@@ -1299,7 +1299,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "abiding_angelfish": 1
           },
@@ -1307,7 +1307,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "raimei_angelfish": 1
           },
@@ -1315,7 +1315,7 @@
           "CraftingTime": "00:02:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "golden_koi": 1
           },
@@ -1323,7 +1323,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "rusty_koi": 1
           },
@@ -1331,7 +1331,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "bitter_pufferfish": 1
           },
@@ -1339,7 +1339,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "pufferfish": 1
           },
@@ -1347,7 +1347,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "divda_ray": 1
           },
@@ -1355,7 +1355,7 @@
           "CraftingTime": "00:03:00"
         },
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "formalo_ray": 1
           },
@@ -1369,7 +1369,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           122
         ]
@@ -1394,7 +1394,7 @@
     "flour": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "wheat": 1
           },
@@ -1423,7 +1423,7 @@
     "ham": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "raw_meat": 2,
             "salt": 1
@@ -1453,7 +1453,7 @@
     "jam": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "sunsettia": 3,
             "berry": 2,
@@ -1484,7 +1484,7 @@
     "mysterious_meat_product": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "mysterious_meat": 1
           },
@@ -1513,7 +1513,7 @@
     "raw_meat": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "chilled_meat": 1
           },
@@ -1527,7 +1527,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           121
         ]
@@ -1552,7 +1552,7 @@
     "sausage": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "raw_meat": 3
           },
@@ -1581,7 +1581,7 @@
     "smoked_fowl": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "fowl": 3,
             "salt": 1
@@ -1611,7 +1611,7 @@
     "spice": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "harra_fruit": 2
           },
@@ -1640,7 +1640,7 @@
     "sugar": {
       "ProcessingBlueprints": [
         {
-          "CraftingMethod": "Processing",
+          "CraftingMethod": 5,
           "Ingredients": {
             "sweet_flower": 2
           },

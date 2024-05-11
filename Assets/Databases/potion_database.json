@@ -3,7 +3,7 @@
     "gushing_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "lizard_tail": 1,
           "dandelion_seed": 1,
@@ -25,7 +25,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "AnemoDMGUp",
+      "StatusEffect": 12,
       "InteractiveMapPoint": null,
       "Id": "gushing_essential_oil",
       "DateAdded": "2020-09-28T00:00:00"
@@ -33,7 +33,7 @@
     "windbarrier_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "crystal_core": 1,
           "dandelion_seed": 1,
@@ -55,7 +55,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "AnemoRESUp",
+      "StatusEffect": 19,
       "InteractiveMapPoint": null,
       "Id": "windbarrier_potion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -63,7 +63,7 @@
     "frosting_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "lizard_tail": 1,
           "mist_flower_corolla": 1,
@@ -85,7 +85,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "CritDMGUp",
+      "StatusEffect": 3,
       "InteractiveMapPoint": null,
       "Id": "frosting_essential_oil",
       "DateAdded": "2020-09-28T00:00:00"
@@ -93,7 +93,7 @@
     "frostshield_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "crystal_core": 1,
           "mist_flower_corolla": 1,
@@ -115,7 +115,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "CryoRESUp",
+      "StatusEffect": 20,
       "InteractiveMapPoint": null,
       "Id": "frostshield_potion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -123,7 +123,7 @@
     "shocking_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "frog": 1,
           "electro_crystal": 1,
@@ -145,7 +145,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "ElectroDMGUp",
+      "StatusEffect": 15,
       "InteractiveMapPoint": null,
       "Id": "shocking_essential_oil",
       "DateAdded": "2020-09-28T00:00:00"
@@ -153,7 +153,7 @@
     "insulation_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "butterfly_wings": 1,
           "electro_crystal": 1,
@@ -175,7 +175,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "ElectroRESUp",
+      "StatusEffect": 22,
       "InteractiveMapPoint": null,
       "Id": "insulation_potion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -183,7 +183,7 @@
     "unmoving_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "frog": 1,
           "cor_lapis": 1,
@@ -205,7 +205,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "GeoDMGUp",
+      "StatusEffect": 16,
       "InteractiveMapPoint": null,
       "Id": "unmoving_essential_oil",
       "DateAdded": "2020-09-28T00:00:00"
@@ -213,7 +213,7 @@
     "dustproof_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "butterfly_wings": 1,
           "cor_lapis": 1,
@@ -235,7 +235,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "GeoRESUp",
+      "StatusEffect": 23,
       "InteractiveMapPoint": null,
       "Id": "dustproof_potion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -243,7 +243,7 @@
     "streaming_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "frog": 1,
           "lotus_head": 1,
@@ -265,7 +265,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "HydroDMGUp",
+      "StatusEffect": 17,
       "InteractiveMapPoint": null,
       "Id": "streaming_essential_oil",
       "DateAdded": "2020-09-28T00:00:00"
@@ -273,7 +273,7 @@
     "desiccant_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "butterfly_wings": 1,
           "lotus_head": 1,
@@ -295,7 +295,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "HydroRESUp",
+      "StatusEffect": 24,
       "InteractiveMapPoint": null,
       "Id": "desiccant_potion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -303,7 +303,7 @@
     "flaming_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "frog": 1,
           "flaming_flower_stamen": 1,
@@ -325,7 +325,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "PyroDMGUp",
+      "StatusEffect": 18,
       "InteractiveMapPoint": null,
       "Id": "flaming_essential_oil",
       "DateAdded": "2020-09-28T00:00:00"
@@ -333,7 +333,7 @@
     "heatshield_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "butterfly_wings": 1,
           "flaming_flower_stamen": 1,
@@ -355,7 +355,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "PyroRESUp",
+      "StatusEffect": 25,
       "InteractiveMapPoint": null,
       "Id": "heatshield_potion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -363,7 +363,7 @@
     "forest_essential_oil": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "lizard_tail": 1,
           "sumeru_rose": 1,
@@ -385,7 +385,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "DendroDMGUp",
+      "StatusEffect": 14,
       "InteractiveMapPoint": null,
       "Id": "forest_essential_oil",
       "DateAdded": "2022-08-24T00:00:00"
@@ -393,7 +393,7 @@
     "dendrocide_potion": {
       "EntityId": "potion",
       "RecipeBlueprint": {
-        "CraftingMethod": "Crafting",
+        "CraftingMethod": 1,
         "Ingredients": {
           "crystal_core": 1,
           "sumeru_rose": 1,
@@ -415,7 +415,7 @@
         },
         "Value": 3
       },
-      "StatusEffect": "DendroRESUp",
+      "StatusEffect": 21,
       "InteractiveMapPoint": null,
       "Id": "dendrocide_potion",
       "DateAdded": "2022-08-24T00:00:00"

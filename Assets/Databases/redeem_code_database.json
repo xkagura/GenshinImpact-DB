@@ -2,7 +2,7 @@
   "RedeemCodes": {
     "GENSHINGIFT": {
       "Code": "GENSHINGIFT",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 50,
         "heros_wit": 3
@@ -11,7 +11,7 @@
     },
     "MA6RPW8GGJAM": {
       "Code": "MA6RPW8GGJAM",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -20,7 +20,7 @@
     },
     "GS6RLKGKWUER": {
       "Code": "GS6RLKGKWUER",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -29,7 +29,7 @@
     },
     "KS6QL3YJFCWM": {
       "Code": "KS6QL3YJFCWM",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -38,7 +38,7 @@
     },
     "6SP942Z3XVWH": {
       "Code": "6SP942Z3XVWH",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -47,7 +47,7 @@
     },
     "6A6VJTWGCPYV": {
       "Code": "6A6VJTWGCPYV",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -56,7 +56,7 @@
     },
     "2BP9HY6BYFR5": {
       "Code": "2BP9HY6BYFR5",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -65,7 +65,7 @@
     },
     "JT78YH7SGWRZ": {
       "Code": "JT78YH7SGWRZ",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -74,7 +74,7 @@
     },
     "3B6RYY7AHX9D": {
       "Code": "3B6RYY7AHX9D",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -83,7 +83,7 @@
     },
     "XTNDKTEBWA59": {
       "Code": "XTNDKTEBWA59",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -92,7 +92,7 @@
     },
     "KT7DKSFGCRWD": {
       "Code": "KT7DKSFGCRWD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -101,7 +101,7 @@
     },
     "EA7VKTFHU9VR": {
       "Code": "EA7VKTFHU9VR",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -110,7 +110,7 @@
     },
     "8ANCKTWYVRD5": {
       "Code": "8ANCKTWYVRD5",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -119,7 +119,7 @@
     },
     "MTNUJBXDD72R": {
       "Code": "MTNUJBXDD72R",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -128,7 +128,7 @@
     },
     "HA6C2AFBXSZV": {
       "Code": "HA6C2AFBXSZV",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -137,7 +137,7 @@
     },
     "WANVJAFAXTER": {
       "Code": "WANVJAFAXTER",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -146,7 +146,7 @@
     },
     "DTNVKAWBWSF5": {
       "Code": "DTNVKAWBWSF5",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -155,7 +155,7 @@
     },
     "MS7C3SV8DMZH": {
       "Code": "MS7C3SV8DMZH",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -164,7 +164,7 @@
     },
     "HSNUKTXCCPWV": {
       "Code": "HSNUKTXCCPWV",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -173,7 +173,7 @@
     },
     "DTNUKTWCC6D9": {
       "Code": "DTNUKTWCC6D9",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -182,7 +182,7 @@
     },
     "LANVJSFUD6CM": {
       "Code": "LANVJSFUD6CM",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -191,7 +191,7 @@
     },
     "ZSPDKSC3V8V5": {
       "Code": "ZSPDKSC3V8V5",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -200,7 +200,7 @@
     },
     "AB7CKBVQULE5": {
       "Code": "AB7CKBVQULE5",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -209,7 +209,7 @@
     },
     "3TPUKSV8C5X9": {
       "Code": "3TPUKSV8C5X9",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -218,7 +218,7 @@
     },
     "UT7C2TD8C5ZD": {
       "Code": "UT7C2TD8C5ZD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -227,7 +227,7 @@
     },
     "9BPCJCQGHAWZ": {
       "Code": "9BPCJCQGHAWZ",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 5
@@ -236,7 +236,7 @@
     },
     "VTPU3CQWYCSD": {
       "Code": "VTPU3CQWYCSD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -245,7 +245,7 @@
     },
     "AB7VJC9EGDAZ": {
       "Code": "AB7VJC9EGDAZ",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -254,7 +254,7 @@
     },
     "WT7D3CQEHVBM": {
       "Code": "WT7D3CQEHVBM",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -263,7 +263,7 @@
     },
     "FANRONGCHANGSHENG": {
       "Code": "FANRONGCHANGSHENG",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "mora": 18000,
         "adventurers_experience": 8,
@@ -273,7 +273,7 @@
     },
     "ETNU2DN5NZRR": {
       "Code": "ETNU2DN5NZRR",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "adventurers_experience": 4
@@ -282,7 +282,7 @@
     },
     "5SPDKV8ZHBFV": {
       "Code": "5SPDKV8ZHBFV",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -291,7 +291,7 @@
     },
     "PSNVJURZZSD9": {
       "Code": "PSNVJURZZSD9",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -300,7 +300,7 @@
     },
     "SA7V2DRZGAU5": {
       "Code": "SA7V2DRZGAU5",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -309,7 +309,7 @@
     },
     "BSPD3ZRXU985": {
       "Code": "BSPD3ZRXU985",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "mora": 10000
@@ -318,7 +318,7 @@
     },
     "KB6DKDNM7H49": {
       "Code": "KB6DKDNM7H49",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -327,7 +327,7 @@
     },
     "BSNDJC747Z7D": {
       "Code": "BSNDJC747Z7D",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -336,7 +336,7 @@
     },
     "AS7CJDP4NG7H": {
       "Code": "AS7CJDP4NG7H",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -345,7 +345,7 @@
     },
     "BSNUJGQFUTPM": {
       "Code": "BSNUJGQFUTPM",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -354,7 +354,7 @@
     },
     "NB6VKHQWVANZ": {
       "Code": "NB6VKHQWVANZ",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -363,7 +363,7 @@
     },
     "LBNDKG8XDTND": {
       "Code": "LBNDKG8XDTND",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -372,7 +372,7 @@
     },
     "NTPVU7JTJYPD": {
       "Code": "NTPVU7JTJYPD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -381,7 +381,7 @@
     },
     "CB7UU6KT2H59": {
       "Code": "CB7UU6KT2H59",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -390,7 +390,7 @@
     },
     "DSPVUN2BKH5M": {
       "Code": "DSPVUN2BKH5M",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -399,7 +399,7 @@
     },
     "GENSHINGALAXY": {
       "Code": "GENSHINGALAXY",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "mora": 10000,
         "mondstadt_hash_brown": 3,
@@ -411,7 +411,7 @@
     },
     "GENSHINEPIC": {
       "Code": "GENSHINEPIC",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "mora": 10000,
         "squirrel_fish": 3,
@@ -423,7 +423,7 @@
     },
     "LS6T4L9ZZ7TH": {
       "Code": "LS6T4L9ZZ7TH",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -432,7 +432,7 @@
     },
     "GBNA9J5H9Y4H": {
       "Code": "GBNA9J5H9Y4H",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -441,7 +441,7 @@
     },
     "AS6BQKLY9GLD": {
       "Code": "AS6BQKLY9GLD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -450,7 +450,7 @@
     },
     "SBNBUK67M37Z": {
       "Code": "SBNBUK67M37Z",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 30,
         "adventurers_experience": 5
@@ -459,7 +459,7 @@
     },
     "GS6ACJ775KNV": {
       "Code": "GS6ACJ775KNV",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "mora": 10000
@@ -468,7 +468,7 @@
     },
     "UTNBBGSZ3NQM": {
       "Code": "UTNBBGSZ3NQM",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -477,7 +477,7 @@
     },
     "8A6ABHTH2N9Z": {
       "Code": "8A6ABHTH2N9Z",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -486,7 +486,7 @@
     },
     "WTNTBYSZJNRD": {
       "Code": "WTNTBYSZJNRD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -495,7 +495,7 @@
     },
     "FS6SU367M279": {
       "Code": "FS6SU367M279",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -504,7 +504,7 @@
     },
     "4BNSD3675J8D": {
       "Code": "4BNSD3675J8D",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -513,7 +513,7 @@
     },
     "ATPTUJPP53QH": {
       "Code": "ATPTUJPP53QH",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -522,7 +522,7 @@
     },
     "2T7E9CPA7YJE": {
       "Code": "2T7E9CPA7YJE",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -531,7 +531,7 @@
     },
     "EBPWQU6SNZ22": {
       "Code": "EBPWQU6SNZ22",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -540,7 +540,7 @@
     },
     "CBNXRD6S7H3N": {
       "Code": "CBNXRD6S7H3N",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -549,7 +549,7 @@
     },
     "TT7BVJNPL249": {
       "Code": "TT7BVJNPL249",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60
       },
@@ -557,7 +557,7 @@
     },
     "PSNTC8FEQK4D": {
       "Code": "PSNTC8FEQK4D",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -566,7 +566,7 @@
     },
     "ET7ADQFF8KJR": {
       "Code": "ET7ADQFF8KJR",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -575,7 +575,7 @@
     },
     "KTNSCQWW922M": {
       "Code": "KTNSCQWW922M",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -584,7 +584,7 @@
     },
     "JSSK8N23JZR": {
       "Code": "JSSK8N23JZR",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -593,7 +593,7 @@
     },
     "DU2MHJQL1ZT": {
       "Code": "DU2MHJQL1ZT",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -602,7 +602,7 @@
     },
     "CUUPMBJSVD": {
       "Code": "CUUPMBJSVD",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 50
       },
@@ -610,7 +610,7 @@
     },
     "NBEM3MYAL2B": {
       "Code": "NBEM3MYAL2B",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 10000
@@ -619,7 +619,7 @@
     },
     "153YUSAENH": {
       "Code": "153YUSAENH",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 10,
         "adventurers_experience": 5
@@ -628,7 +628,7 @@
     },
     "GSIMPTQ125": {
       "Code": "GSIMPTQ125",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "mora": 10000
@@ -637,7 +637,7 @@
     },
     "G3TQQ6TOQME": {
       "Code": "G3TQQ6TOQME",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "heros_wit": 5
@@ -646,7 +646,7 @@
     },
     "5KVEIBSXDUU": {
       "Code": "5KVEIBSXDUU",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mystic_enhancement_ore": 10
@@ -655,7 +655,7 @@
     },
     "EATDGIXLD56": {
       "Code": "EATDGIXLD56",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 100,
         "mora": 50000
@@ -664,7 +664,7 @@
     },
     "GOLNXLAKC58": {
       "Code": "GOLNXLAKC58",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 50
       },
@@ -672,7 +672,7 @@
     },
     "GENSHIN1111": {
       "Code": "GENSHIN1111",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 60,
         "mora": 10000
@@ -681,7 +681,7 @@
     },
     "GENSHINZHB30": {
       "Code": "GENSHINZHB30",
-      "Server": "All",
+      "Server": 4,
       "Rewards": {
         "primogem": 160
       },
@@ -689,7 +689,7 @@
     },
     "GENSHINMHY0M": {
       "Code": "GENSHINMHY0M",
-      "Server": "NA",
+      "Server": 2,
       "Rewards": {
         "primogem": 30
       },
@@ -697,7 +697,7 @@
     },
     "GENSHINMHY0I": {
       "Code": "GENSHINMHY0I",
-      "Server": "AS",
+      "Server": 3,
       "Rewards": {
         "primogem": 30
       },
@@ -705,7 +705,7 @@
     },
     "GENSHINMHY0O": {
       "Code": "GENSHINMHY0O",
-      "Server": "EU",
+      "Server": 1,
       "Rewards": {
         "primogem": 30
       },
@@ -713,7 +713,7 @@
     },
     "GENSHIN1006A": {
       "Code": "GENSHIN1006A",
-      "Server": "NA",
+      "Server": 2,
       "Rewards": {
         "primogem": 30,
         "adventurers_experience": 5
@@ -722,7 +722,7 @@
     },
     "GENSHIN1006S": {
       "Code": "GENSHIN1006S",
-      "Server": "AS",
+      "Server": 3,
       "Rewards": {
         "primogem": 30,
         "adventurers_experience": 5
@@ -731,7 +731,7 @@
     },
     "GENSHIN1006U": {
       "Code": "GENSHIN1006U",
-      "Server": "EU",
+      "Server": 1,
       "Rewards": {
         "primogem": 30,
         "adventurers_experience": 5
@@ -740,7 +740,7 @@
     },
     "GENSHIN0928N": {
       "Code": "GENSHIN0928N",
-      "Server": "NA",
+      "Server": 2,
       "Rewards": {
         "primogem": 60,
         "mora": 10000
@@ -749,7 +749,7 @@
     },
     "GENSHIN0928E": {
       "Code": "GENSHIN0928E",
-      "Server": "AS",
+      "Server": 3,
       "Rewards": {
         "primogem": 60,
         "mora": 10000
@@ -758,7 +758,7 @@
     },
     "GENSHIN0928A": {
       "Code": "GENSHIN0928A",
-      "Server": "EU",
+      "Server": 1,
       "Rewards": {
         "primogem": 60,
         "mora": 10000

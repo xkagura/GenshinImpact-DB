@@ -1,17 +1,17 @@
 {
   "ElementalLifeforms": {
     "anemo_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Teyvat",
+      "Element": 2,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -20,17 +20,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cryo_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -39,9 +39,9 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dendro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Dendro",
+      "Element": 8,
       "Location": 1030,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -49,7 +49,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -58,17 +58,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Teyvat",
+      "Element": 16,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -77,17 +77,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "geo_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Teyvat",
+      "Element": 32,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -96,17 +96,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hydro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -115,17 +115,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "pyro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -134,17 +134,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_anemo_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Teyvat",
+      "Element": 2,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -153,17 +153,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_cryo_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -172,9 +172,9 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_dendro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Dendro",
+      "Element": 8,
       "Location": 6,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -182,7 +182,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -191,17 +191,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_electro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Teyvat",
+      "Element": 16,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -210,17 +210,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_geo_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Teyvat",
+      "Element": 32,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -229,17 +229,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_hydro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -248,17 +248,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "large_pyro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -267,17 +267,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "mutant_electro_slime": {
-      "CommonAscensionMaterialsRewarded": "Slime",
+      "CommonAscensionMaterialsRewarded": 1,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Teyvat",
+      "Element": 16,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           59
         ]
@@ -286,17 +286,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "anemo_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Inazuma",
+      "Element": 2,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -305,9 +305,9 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "cryo_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Cryo",
+      "Element": 4,
       "Location": 1032,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -315,7 +315,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -324,9 +324,9 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "dendro_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Dendro",
+      "Element": 8,
       "Location": 1032,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -334,7 +334,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -343,9 +343,9 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "electro_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Electro",
+      "Element": 16,
       "Location": 1032,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -353,7 +353,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -362,17 +362,17 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "geo_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Inazuma",
+      "Element": 32,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -381,17 +381,17 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "hydro_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Inazuma",
+      "Element": 64,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -400,9 +400,9 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "pyro_specter": {
-      "CommonAscensionMaterialsRewarded": "Spectral",
+      "CommonAscensionMaterialsRewarded": 256,
       "EntityId": "enemy",
-      "Element": "Pyro",
+      "Element": 128,
       "Location": 1032,
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -410,7 +410,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           229
         ]
@@ -421,17 +421,17 @@
   },
   "MysticalBeasts": {
     "cryo_whopperflower": {
-      "CommonAscensionMaterialsRewarded": "Nectar",
+      "CommonAscensionMaterialsRewarded": 64,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           47
         ]
@@ -440,17 +440,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro_whopperflower": {
-      "CommonAscensionMaterialsRewarded": "Nectar",
+      "CommonAscensionMaterialsRewarded": 64,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           47
         ]
@@ -459,17 +459,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "pyro_whopperflower": {
-      "CommonAscensionMaterialsRewarded": "Nectar",
+      "CommonAscensionMaterialsRewarded": 64,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           47
         ]
@@ -478,17 +478,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hunters_ray_1": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -497,17 +497,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "hunters_ray_2": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -516,17 +516,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "armored_crab_1": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Unknown",
-      "Location": "Fontaine",
+      "Element": 0,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -535,17 +535,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "armored_crab_2": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Unknown",
-      "Location": "Fontaine",
+      "Element": 0,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -554,17 +554,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "blubberbeast": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -573,17 +573,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "hat_jellyfish_1": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -592,17 +592,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "hat_jellyfish_2": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -611,17 +611,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "bubbly_seahorse_1": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -630,17 +630,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "bubbly_seahorse_2": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -649,17 +649,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "bubbly_seahorse_3": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -668,17 +668,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "ball_octopus_1": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -687,17 +687,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "ball_octopus_2": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -706,17 +706,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "angelic_sea_hare_1": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -725,17 +725,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "angelic_sea_hare_2": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -744,17 +744,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "sternshield_crab": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Hydro, Pyro",
-      "Location": "Fontaine",
+      "Element": 192,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -763,17 +763,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "bubbler_seahorse": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Electro, Hydro",
-      "Location": "Fontaine",
+      "Element": 80,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -782,17 +782,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "cherubic_sea_hare": {
-      "CommonAscensionMaterialsRewarded": "Pearl",
+      "CommonAscensionMaterialsRewarded": 2048,
       "EntityId": "enemy",
-      "Element": "Cryo, Hydro",
-      "Location": "Fontaine",
+      "Element": 68,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           493
         ]
@@ -803,17 +803,17 @@
   },
   "Hilichurls": {
     "hilichurl": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -822,17 +822,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hilichurl_fighter": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -841,17 +841,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hilichurl_berserker": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -860,17 +860,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "wooden_shield_hilichurl_guard": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Teyvat",
+      "Element": 8,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -879,17 +879,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "rock_shield_hilichurl_guard": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Teyvat",
+      "Element": 32,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -898,17 +898,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "ice_shield_hilichurl_guard": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -917,17 +917,17 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "pyro_hilichurl_grenadier": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -936,17 +936,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cryo_hilichurl_grenadier": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Dragonspine",
+      "Element": 4,
+      "Location": 512,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -955,17 +955,17 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "electro_hilichurl_grenadier": {
-      "CommonAscensionMaterialsRewarded": "Mask",
+      "CommonAscensionMaterialsRewarded": 2,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           55
         ]
@@ -974,17 +974,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "hilichurl_shooter": {
-      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "CommonAscensionMaterialsRewarded": 6,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           56
         ]
@@ -993,17 +993,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cryo_hilichurl_shooter": {
-      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "CommonAscensionMaterialsRewarded": 6,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           56
         ]
@@ -1012,17 +1012,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro_hilichurl_shooter": {
-      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "CommonAscensionMaterialsRewarded": 6,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Teyvat",
+      "Element": 16,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           56
         ]
@@ -1031,17 +1031,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "pyro_hilichurl_shooter": {
-      "CommonAscensionMaterialsRewarded": "Mask, Arrowhead",
+      "CommonAscensionMaterialsRewarded": 6,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           56
         ]
@@ -1050,17 +1050,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "anemo_samachurl": {
-      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "CommonAscensionMaterialsRewarded": 10,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Teyvat",
+      "Element": 2,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           57
         ]
@@ -1069,17 +1069,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cryo_samachurl": {
-      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "CommonAscensionMaterialsRewarded": 10,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Dragonspine",
+      "Element": 4,
+      "Location": 512,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           57
         ]
@@ -1088,17 +1088,17 @@
       "DateAdded": "2020-12-23T00:00:00"
     },
     "dendro_samachurl": {
-      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "CommonAscensionMaterialsRewarded": 10,
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Teyvat",
+      "Element": 8,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           57
         ]
@@ -1107,17 +1107,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro_samachurl": {
-      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "CommonAscensionMaterialsRewarded": 10,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           57
         ]
@@ -1126,17 +1126,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "geo_samachurl": {
-      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "CommonAscensionMaterialsRewarded": 10,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Teyvat",
+      "Element": 32,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           57
         ]
@@ -1145,17 +1145,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hydro_samachurl": {
-      "CommonAscensionMaterialsRewarded": "Mask, Scroll",
+      "CommonAscensionMaterialsRewarded": 10,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           57
         ]
@@ -1166,17 +1166,17 @@
   },
   "Fatui": {
     "fatui_anemoboxer_vanguard": {
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "CommonAscensionMaterialsRewarded": 32,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Teyvat",
+      "Element": 2,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           54
         ]
@@ -1185,17 +1185,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_electrohammer_vanguard": {
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "CommonAscensionMaterialsRewarded": 32,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Teyvat",
+      "Element": 16,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           54
         ]
@@ -1204,17 +1204,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_geochanter_bracer": {
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "CommonAscensionMaterialsRewarded": 32,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Teyvat",
+      "Element": 32,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           54
         ]
@@ -1223,17 +1223,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_pyroslinger_bracer": {
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "CommonAscensionMaterialsRewarded": 32,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Teyvat",
+      "Element": 128,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           54
         ]
@@ -1242,17 +1242,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_cryogunner_legionnaire": {
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "CommonAscensionMaterialsRewarded": 32,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Teyvat",
+      "Element": 4,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           54
         ]
@@ -1261,17 +1261,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "fatui_hydrogunner_legionnaire": {
-      "CommonAscensionMaterialsRewarded": "FatuiInsignia",
+      "CommonAscensionMaterialsRewarded": 32,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Teyvat",
+      "Element": 64,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           54
         ]
@@ -1282,17 +1282,17 @@
   },
   "HumansFactions": {
     "treasure_hoarder_crusher": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1301,17 +1301,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_gravedigger": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1320,17 +1320,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_marksman": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1339,17 +1339,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_scout": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1358,17 +1358,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_handyman": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1377,17 +1377,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_pugilist": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1396,17 +1396,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_seaman": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Teyvat",
+      "Element": 1,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1415,17 +1415,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_cryo_potioneer": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical, Cryo",
-      "Location": "Teyvat",
+      "Element": 5,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1434,17 +1434,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_electro_potioneer": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical, Electro",
-      "Location": "Teyvat",
+      "Element": 17,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1453,17 +1453,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_hydro_potioneer": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical, Hydro",
-      "Location": "Teyvat",
+      "Element": 65,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1472,17 +1472,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "treasure_hoarder_pyro_potioneer": {
-      "CommonAscensionMaterialsRewarded": "TreasureHoarderInsignia",
+      "CommonAscensionMaterialsRewarded": 16,
       "EntityId": "enemy",
-      "Element": "Physical, Pyro",
-      "Location": "Teyvat",
+      "Element": 129,
+      "Location": 1,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 0.0,
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           58
         ]
@@ -1491,17 +1491,17 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "nobushi_hitsukeban": {
-      "CommonAscensionMaterialsRewarded": "Handguard",
+      "CommonAscensionMaterialsRewarded": 128,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Inazuma",
+      "Element": 128,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           209
         ]
@@ -1510,17 +1510,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "nobushi_jintouban": {
-      "CommonAscensionMaterialsRewarded": "Handguard",
+      "CommonAscensionMaterialsRewarded": 128,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Inazuma",
+      "Element": 1,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           209
         ]
@@ -1529,17 +1529,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "nobushi_kikouban": {
-      "CommonAscensionMaterialsRewarded": "Handguard",
+      "CommonAscensionMaterialsRewarded": 128,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           209
         ]
@@ -1548,17 +1548,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "kairagi_dancing_thunder": {
-      "CommonAscensionMaterialsRewarded": "Handguard",
+      "CommonAscensionMaterialsRewarded": 128,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Inazuma",
+      "Element": 16,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           209
         ]
@@ -1567,17 +1567,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "kairagi_fiery_might": {
-      "CommonAscensionMaterialsRewarded": "Handguard",
+      "CommonAscensionMaterialsRewarded": 128,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Inazuma",
+      "Element": 128,
+      "Location": 8,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 5514.0,
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           209
         ]
@@ -1586,17 +1586,17 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "eremite_axe_vanguard": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1605,17 +1605,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_crossbow": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1624,17 +1624,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_ravenbeak_halberdier": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1643,17 +1643,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_linebreaker": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1662,17 +1662,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_sword_dancer": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Physical",
-      "Location": "Sumeru",
+      "Element": 1,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1681,17 +1681,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_daythunder": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Sumeru",
+      "Element": 16,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1700,17 +1700,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_sunfrost": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Cryo",
-      "Location": "Sumeru",
+      "Element": 4,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1719,17 +1719,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_desert_clearwater": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Sumeru",
+      "Element": 64,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1738,17 +1738,17 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "eremite_stone_enchanter": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Sumeru",
+      "Element": 32,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1757,17 +1757,17 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "eremite_galehunter": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Sumeru",
+      "Element": 2,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1776,17 +1776,17 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "eremite_scorching_loremaster": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Pyro",
-      "Location": "Sumeru",
+      "Element": 128,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1795,17 +1795,17 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "eremite_floral_ring_dancer": {
-      "CommonAscensionMaterialsRewarded": "EremiteCloth",
+      "CommonAscensionMaterialsRewarded": 1024,
       "EntityId": "enemy",
-      "Element": "Dendro",
-      "Location": "Sumeru",
+      "Element": 8,
+      "Location": 16,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": 3370.35,
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           389
         ]
@@ -1816,17 +1816,17 @@
   },
   "Automatons": {
     "area_alert_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Cryo, Hydro",
-      "Location": "Fontaine",
+      "Element": 68,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1835,17 +1835,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "arithmetic_enhancer_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Geo",
-      "Location": "Fontaine",
+      "Element": 32,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1854,17 +1854,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "geological_survey_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Geo, Hydro",
-      "Location": "Fontaine",
+      "Element": 96,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1873,17 +1873,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "nimble_harvester_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Anemo, Geo",
-      "Location": "Fontaine",
+      "Element": 34,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1892,17 +1892,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "recon_log_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Electro",
-      "Location": "Fontaine",
+      "Element": 16,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1911,17 +1911,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "underwater_patrol_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Fontaine",
+      "Element": 2,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1930,17 +1930,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "underwater_survey_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Hydro",
-      "Location": "Fontaine",
+      "Element": 64,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1949,17 +1949,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "annihilation_specialist_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Electro, Hydro",
-      "Location": "Fontaine",
+      "Element": 80,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1968,17 +1968,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "assault_specialist_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Electro, Pyro",
-      "Location": "Fontaine",
+      "Element": 144,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -1987,17 +1987,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "construction_specialist_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Cryo, Pyro",
-      "Location": "Fontaine",
+      "Element": 132,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -2006,17 +2006,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "suppression_specialist_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Dendro, Pyro",
-      "Location": "Fontaine",
+      "Element": 136,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]
@@ -2025,17 +2025,17 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "deepwater_assault_mek": {
-      "CommonAscensionMaterialsRewarded": "Gear",
+      "CommonAscensionMaterialsRewarded": 4096,
       "EntityId": "enemy",
-      "Element": "Anemo",
-      "Location": "Fontaine",
+      "Element": 2,
+      "Location": 32,
       "InteractiveMapPoint": {
         "Coordinate": {
           "Latitude": -691.0,
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           494
         ]

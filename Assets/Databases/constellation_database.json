@@ -3,70 +3,70 @@
     "albedo": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_albedo_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_albedo_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_albedo_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_albedo_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_albedo_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_albedo_6",
         "DateAdded": null
@@ -75,74 +75,74 @@
     "alhaitham": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_alhaitham_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_alhaitham_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_alhaitham_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          -1,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_alhaitham_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_alhaitham_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          -1,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_alhaitham_6",
         "DateAdded": null
@@ -151,66 +151,66 @@
     "aloy": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_aloy_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_aloy_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_aloy_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_aloy_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_aloy_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_aloy_6",
         "DateAdded": null
@@ -219,69 +219,69 @@
     "amber": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_amber_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_amber_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_amber_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_amber_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_amber_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_amber_6",
         "DateAdded": null
@@ -290,68 +290,68 @@
     "kamisato_ayaka": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayaka_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayaka_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kamisato_ayaka_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayaka_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kamisato_ayaka_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayaka_6",
         "DateAdded": null
@@ -360,69 +360,69 @@
     "kamisato_ayato": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayato_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayato_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kamisato_ayato_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kamisato_ayato_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kamisato_ayato_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_kamisato_ayato_6",
         "DateAdded": null
@@ -431,72 +431,72 @@
     "baizhu": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_baizhu_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_baizhu_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_baizhu_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_baizhu_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_baizhu_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_baizhu_6",
         "DateAdded": null
@@ -505,73 +505,73 @@
     "barbara": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_barbara_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_barbara_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_barbara_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_barbara_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_barbara_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          0,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_barbara_6",
         "DateAdded": null
@@ -580,70 +580,70 @@
     "beidou": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_beidou_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_beidou_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_beidou_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_beidou_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_beidou_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_beidou_6",
         "DateAdded": null
@@ -652,69 +652,69 @@
     "bennett": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_bennett_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_bennett_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_bennett_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_bennett_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_bennett_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_bennett_6",
         "DateAdded": null
@@ -723,69 +723,69 @@
     "candace": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_candace_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_candace_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_candace_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_candace_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_candace_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_candace_6",
         "DateAdded": null
@@ -794,71 +794,71 @@
     "chevreuse": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_chevreuse_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_chevreuse_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_chevreuse_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_chevreuse_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_chevreuse_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_chevreuse_6",
         "DateAdded": null
@@ -867,68 +867,68 @@
     "charlotte": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_charlotte_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_charlotte_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_charlotte_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_charlotte_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_charlotte_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_charlotte_6",
         "DateAdded": null
@@ -937,70 +937,70 @@
     "chongyun": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_chongyun_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_chongyun_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_chongyun_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_chongyun_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_chongyun_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_chongyun_6",
         "DateAdded": null
@@ -1009,73 +1009,73 @@
     "collei": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_collei_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_collei_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_collei_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_collei_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_collei_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_collei_6",
         "DateAdded": null
@@ -1084,73 +1084,73 @@
     "cyno": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_cyno_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_cyno_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_cyno_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_cyno_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_cyno_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_cyno_6",
         "DateAdded": null
@@ -1159,72 +1159,72 @@
     "dehya": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet"
+          -1,
+          8,
+          8
         ],
         "Id": "constellation_dehya_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_dehya_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_dehya_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_dehya_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_dehya_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_dehya_6",
         "DateAdded": null
@@ -1233,71 +1233,71 @@
     "diluc": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_diluc_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diluc_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diluc_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diluc_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diluc_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diluc_6",
         "DateAdded": null
@@ -1306,71 +1306,71 @@
     "diona": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_diona_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diona_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diona_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_diona_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_diona_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_diona_6",
         "DateAdded": null
@@ -1379,72 +1379,72 @@
     "dori": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_dori_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_dori_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_dori_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet"
+          -1,
+          8,
+          8
         ],
         "Id": "constellation_dori_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_dori_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet"
+          -1,
+          8,
+          8
         ],
         "Id": "constellation_dori_6",
         "DateAdded": null
@@ -1453,69 +1453,69 @@
     "eula": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_eula_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_eula_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_eula_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_eula_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_eula_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_eula_6",
         "DateAdded": null
@@ -1524,69 +1524,69 @@
     "faruzan": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_faruzan_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_faruzan_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_faruzan_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_faruzan_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_faruzan_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_faruzan_6",
         "DateAdded": null
@@ -1595,69 +1595,69 @@
     "fischl": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_fischl_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_fischl_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_fischl_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_fischl_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_fischl_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_fischl_6",
         "DateAdded": null
@@ -1666,68 +1666,68 @@
     "freminet": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_freminet_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_freminet_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_freminet_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_freminet_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_freminet_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_freminet_6",
         "DateAdded": null
@@ -1736,76 +1736,76 @@
     "furina": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_furina_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_furina_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_furina_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_furina_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_furina_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular",
-          "LineBreak",
-          "Title",
-          "Regular",
-          "Title",
-          "LineBreak",
-          "Regular"
+          0,
+          0,
+          -1,
+          4,
+          0,
+          4,
+          -1,
+          0
         ],
         "Id": "constellation_furina_6",
         "DateAdded": null
@@ -1814,71 +1814,71 @@
     "ganyu": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_ganyu_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_ganyu_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_ganyu_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_ganyu_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_ganyu_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_ganyu_6",
         "DateAdded": null
@@ -1887,72 +1887,72 @@
     "gorou": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_gorou_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_gorou_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_gorou_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_gorou_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_gorou_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          0,
+          8,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_gorou_6",
         "DateAdded": null
@@ -1961,69 +1961,69 @@
     "shikanoin_heizou": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_shikanoin_heizou_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_shikanoin_heizou_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_shikanoin_heizou_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_shikanoin_heizou_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_shikanoin_heizou_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_shikanoin_heizou_6",
         "DateAdded": null
@@ -2032,72 +2032,72 @@
     "hu_tao": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_hu_tao_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_hu_tao_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_hu_tao_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_hu_tao_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_hu_tao_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8,
+          8
         ],
         "Id": "constellation_hu_tao_6",
         "DateAdded": null
@@ -2106,69 +2106,69 @@
     "arataki_itto": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_arataki_itto_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_arataki_itto_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_arataki_itto_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_arataki_itto_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_arataki_itto_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_arataki_itto_6",
         "DateAdded": null
@@ -2177,68 +2177,68 @@
     "jean": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_jean_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_jean_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_jean_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_jean_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_jean_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_jean_6",
         "DateAdded": null
@@ -2247,68 +2247,68 @@
     "kaveh": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaveh_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaveh_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaveh_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaveh_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaveh_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaveh_6",
         "DateAdded": null
@@ -2317,71 +2317,71 @@
     "kaeya": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaeya_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaeya_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaeya_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8,
+          8
         ],
         "Id": "constellation_kaeya_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaeya_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaeya_6",
         "DateAdded": null
@@ -2390,74 +2390,74 @@
     "kaedehara_kazuha": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaedehara_kazuha_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          0,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_kaedehara_kazuha_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaedehara_kazuha_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_kaedehara_kazuha_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kaedehara_kazuha_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kaedehara_kazuha_6",
         "DateAdded": null
@@ -2466,70 +2466,70 @@
     "keqing": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_keqing_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_keqing_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_keqing_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_keqing_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_keqing_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_keqing_6",
         "DateAdded": null
@@ -2538,70 +2538,70 @@
     "kirara": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kirara_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_kirara_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kirara_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kirara_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kirara_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kirara_6",
         "DateAdded": null
@@ -2610,69 +2610,69 @@
     "klee": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_klee_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_klee_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_klee_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_klee_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_klee_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_klee_6",
         "DateAdded": null
@@ -2681,70 +2681,70 @@
     "kuki_shinobu": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kuki_shinobu_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kuki_shinobu_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kuki_shinobu_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kuki_shinobu_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kuki_shinobu_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_kuki_shinobu_6",
         "DateAdded": null
@@ -2753,72 +2753,72 @@
     "sangonomiya_kokomi": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sangonomiya_kokomi_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_sangonomiya_kokomi_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sangonomiya_kokomi_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sangonomiya_kokomi_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sangonomiya_kokomi_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_sangonomiya_kokomi_6",
         "DateAdded": null
@@ -2827,71 +2827,71 @@
     "layla": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_layla_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_layla_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_layla_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_layla_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_layla_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_layla_6",
         "DateAdded": null
@@ -2900,72 +2900,72 @@
     "lisa": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lisa_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_lisa_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lisa_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lisa_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lisa_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lisa_6",
         "DateAdded": null
@@ -2974,68 +2974,68 @@
     "lynette": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lynette_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lynette_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lynette_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lynette_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lynette_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lynette_6",
         "DateAdded": null
@@ -3044,69 +3044,69 @@
     "lyney": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lyney_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lyney_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lyney_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lyney_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_lyney_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_lyney_6",
         "DateAdded": null
@@ -3115,70 +3115,70 @@
     "mika": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_mika_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mika_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mika_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_mika_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mika_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mika_6",
         "DateAdded": null
@@ -3187,74 +3187,74 @@
     "mona": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8,
+          8,
+          8
         ],
         "Id": "constellation_mona_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mona_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mona_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_mona_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mona_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_mona_6",
         "DateAdded": null
@@ -3263,72 +3263,72 @@
     "nahida": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_nahida_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet"
+          -1,
+          8,
+          8
         ],
         "Id": "constellation_nahida_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_nahida_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_nahida_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_nahida_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_nahida_6",
         "DateAdded": null
@@ -3337,69 +3337,69 @@
     "navia": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_navia_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_navia_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_navia_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_navia_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_navia_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_navia_6",
         "DateAdded": null
@@ -3408,71 +3408,71 @@
     "neuvillette": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_neuvillette_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_neuvillette_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_neuvillette_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_neuvillette_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_neuvillette_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_neuvillette_6",
         "DateAdded": null
@@ -3481,72 +3481,72 @@
     "nilou": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet"
+          -1,
+          8,
+          8
         ],
         "Id": "constellation_nilou_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_nilou_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_nilou_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_nilou_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_nilou_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_nilou_6",
         "DateAdded": null
@@ -3555,69 +3555,69 @@
     "ningguang": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_ningguang_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_ningguang_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_ningguang_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_ningguang_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_ningguang_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_ningguang_6",
         "DateAdded": null
@@ -3626,69 +3626,69 @@
     "noelle": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_noelle_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_noelle_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_noelle_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_noelle_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_noelle_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_noelle_6",
         "DateAdded": null
@@ -3697,69 +3697,69 @@
     "qiqi": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_qiqi_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_qiqi_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_qiqi_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_qiqi_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_qiqi_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_qiqi_6",
         "DateAdded": null
@@ -3768,69 +3768,69 @@
     "raiden_shogun": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_raiden_shogun_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_raiden_shogun_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_raiden_shogun_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_raiden_shogun_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_raiden_shogun_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_raiden_shogun_6",
         "DateAdded": null
@@ -3839,69 +3839,69 @@
     "razor": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_razor_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_razor_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_razor_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_razor_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_razor_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_razor_6",
         "DateAdded": null
@@ -3910,69 +3910,69 @@
     "rosaria": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_rosaria_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_rosaria_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_rosaria_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_rosaria_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_rosaria_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_rosaria_6",
         "DateAdded": null
@@ -3981,69 +3981,69 @@
     "kujou_sara": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_kujou_sara_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kujou_sara_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kujou_sara_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kujou_sara_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_kujou_sara_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_kujou_sara_6",
         "DateAdded": null
@@ -4052,73 +4052,73 @@
     "sayu": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_sayu_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_sayu_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sayu_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sayu_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sayu_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_sayu_6",
         "DateAdded": null
@@ -4127,71 +4127,71 @@
     "shenhe": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_shenhe_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_shenhe_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_shenhe_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_shenhe_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_shenhe_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_shenhe_6",
         "DateAdded": null
@@ -4200,68 +4200,68 @@
     "sucrose": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_sucrose_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_sucrose_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sucrose_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_sucrose_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_sucrose_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_sucrose_6",
         "DateAdded": null
@@ -4270,70 +4270,70 @@
     "tartaglia": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_tartaglia_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_tartaglia_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tartaglia_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tartaglia_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tartaglia_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tartaglia_6",
         "DateAdded": null
@@ -4342,69 +4342,69 @@
     "thoma": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_thoma_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_thoma_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_thoma_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_thoma_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_thoma_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_thoma_6",
         "DateAdded": null
@@ -4413,69 +4413,69 @@
     "tighnari": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_tighnari_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tighnari_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tighnari_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_tighnari_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_tighnari_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_tighnari_6",
         "DateAdded": null
@@ -4484,70 +4484,70 @@
     "venti": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_venti_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_venti_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_venti_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_venti_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_venti_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_venti_6",
         "DateAdded": null
@@ -4556,73 +4556,73 @@
     "wanderer": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wanderer_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wanderer_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wanderer_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wanderer_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wanderer_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet"
+          -1,
+          8,
+          8
         ],
         "Id": "constellation_wanderer_6",
         "DateAdded": null
@@ -4631,76 +4631,76 @@
     "wriothesley": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          "Regular",
-          "LineBreak",
-          "Italic",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          0,
+          -1,
+          2,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_wriothesley_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wriothesley_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wriothesley_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_wriothesley_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_wriothesley_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          "Regular",
-          "Regular"
+          0,
+          0
         ],
         "Id": "constellation_wriothesley_6",
         "DateAdded": null
@@ -4709,68 +4709,68 @@
     "xiangling": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiangling_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiangling_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xiangling_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiangling_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xiangling_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiangling_6",
         "DateAdded": null
@@ -4779,68 +4779,68 @@
     "xiao": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiao_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiao_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xiao_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiao_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xiao_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xiao_6",
         "DateAdded": null
@@ -4849,69 +4849,69 @@
     "xingqiu": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xingqiu_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xingqiu_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xingqiu_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xingqiu_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xingqiu_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xingqiu_6",
         "DateAdded": null
@@ -4920,69 +4920,69 @@
     "xinyan": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xinyan_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xinyan_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xinyan_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xinyan_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_xinyan_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_xinyan_6",
         "DateAdded": null
@@ -4991,68 +4991,68 @@
     "yae_miko": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yae_miko_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yae_miko_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yae_miko_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yae_miko_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yae_miko_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yae_miko_6",
         "DateAdded": null
@@ -5061,71 +5061,71 @@
     "yaoyao": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yaoyao_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yaoyao_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yaoyao_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yaoyao_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yaoyao_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Bullet",
-          "Bullet, LineBreak",
-          "Regular"
+          -1,
+          8,
+          -1,
+          0
         ],
         "Id": "constellation_yaoyao_6",
         "DateAdded": null
@@ -5134,70 +5134,70 @@
     "yanfei": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yanfei_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yanfei_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yanfei_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          "Regular",
-          "Bullet",
-          "Bullet"
+          0,
+          8,
+          8
         ],
         "Id": "constellation_yanfei_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yanfei_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yanfei_6",
         "DateAdded": null
@@ -5206,71 +5206,71 @@
     "yelan": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yelan_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yelan_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yelan_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yelan_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yelan_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          "LineBreak",
-          "LineBreak",
-          "Regular"
+          -1,
+          -1,
+          0
         ],
         "Id": "constellation_yelan_6",
         "DateAdded": null
@@ -5279,70 +5279,70 @@
     "yoimiya": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yoimiya_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yoimiya_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yoimiya_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yoimiya_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yoimiya_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yoimiya_6",
         "DateAdded": null
@@ -5351,68 +5351,68 @@
     "yun_jin": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yun_jin_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yun_jin_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yun_jin_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yun_jin_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_yun_jin_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_yun_jin_6",
         "DateAdded": null
@@ -5421,69 +5421,69 @@
     "zhongli": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_zhongli_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_zhongli_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_zhongli_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_zhongli_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_zhongli_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_zhongli_6",
         "DateAdded": null
@@ -5492,69 +5492,69 @@
     "traveler_anemo": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_anemo_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_anemo_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_anemo_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_anemo_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_anemo_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_anemo_6",
         "DateAdded": null
@@ -5563,70 +5563,70 @@
     "traveler_geo": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_geo_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_geo_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_geo_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_geo_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_geo_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_geo_6",
         "DateAdded": null
@@ -5635,68 +5635,68 @@
     "traveler_electro": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_electro_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_electro_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_electro_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_electro_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_electro_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_electro_6",
         "DateAdded": null
@@ -5705,69 +5705,69 @@
     "traveler_dendro": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_dendro_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_dendro_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_dendro_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_dendro_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_dendro_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_dendro_6",
         "DateAdded": null
@@ -5776,70 +5776,70 @@
     "traveler_hydro": [
       {
         "EntityId": "constellation",
-        "ConstellationType": "C1",
+        "ConstellationType": 1,
         "Number": 1,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_hydro_1",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C2",
+        "ConstellationType": 2,
         "Number": 2,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_hydro_2",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C3",
+        "ConstellationType": 3,
         "Number": 3,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_hydro_3",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C4",
+        "ConstellationType": 4,
         "Number": 4,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_hydro_4",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C5",
+        "ConstellationType": 5,
         "Number": 5,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          "LineBreak",
-          "Regular"
+          -1,
+          0
         ],
         "Id": "constellation_traveler_hydro_5",
         "DateAdded": null
       },
       {
         "EntityId": "constellation",
-        "ConstellationType": "C6",
+        "ConstellationType": 6,
         "Number": 6,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          "Regular"
+          0
         ],
         "Id": "constellation_traveler_hydro_6",
         "DateAdded": null

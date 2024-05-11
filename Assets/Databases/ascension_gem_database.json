@@ -1,7 +1,8 @@
 {
   "Materials": {
     "brilliant_diamond_sliver": {
-      "Set": "Diamond",
+      "Set": 1,
+      "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -20,7 +21,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "brilliant_diamond_fragment": {
-      "Set": "Diamond",
+      "Set": 1,
+      "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -39,7 +41,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "brilliant_diamond_chunk": {
-      "Set": "Diamond",
+      "Set": 1,
+      "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -58,7 +61,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "brilliant_diamond_gemstone": {
-      "Set": "Diamond",
+      "Set": 1,
+      "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -77,7 +81,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "agnidus_agate_sliver": {
-      "Set": "Agnidus",
+      "Set": 2,
+      "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -96,7 +101,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "agnidus_agate_fragment": {
-      "Set": "Agnidus",
+      "Set": 2,
+      "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -115,7 +121,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "agnidus_agate_chunk": {
-      "Set": "Agnidus",
+      "Set": 2,
+      "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -134,7 +141,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "agnidus_agate_gemstone": {
-      "Set": "Agnidus",
+      "Set": 2,
+      "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -153,7 +161,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "varunada_lazurite_sliver": {
-      "Set": "Varunada",
+      "Set": 4,
+      "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -172,7 +181,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "varunada_lazurite_fragment": {
-      "Set": "Varunada",
+      "Set": 4,
+      "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -191,7 +201,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "varunada_lazurite_chunk": {
-      "Set": "Varunada",
+      "Set": 4,
+      "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -210,7 +221,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "varunada_lazurite_gemstone": {
-      "Set": "Varunada",
+      "Set": 4,
+      "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -229,7 +241,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vajrada_amethyst_sliver": {
-      "Set": "Vajrada",
+      "Set": 16,
+      "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -248,7 +261,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vajrada_amethyst_fragment": {
-      "Set": "Vajrada",
+      "Set": 16,
+      "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -267,7 +281,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vajrada_amethyst_chunk": {
-      "Set": "Vajrada",
+      "Set": 16,
+      "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -286,7 +301,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vajrada_amethyst_gemstone": {
-      "Set": "Vajrada",
+      "Set": 16,
+      "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -305,7 +321,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vayuda_turquoise_sliver": {
-      "Set": "Vayuda",
+      "Set": 8,
+      "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -324,7 +341,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vayuda_turquoise_fragment": {
-      "Set": "Vayuda",
+      "Set": 8,
+      "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -343,7 +361,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vayuda_turquoise_chunk": {
-      "Set": "Vayuda",
+      "Set": 8,
+      "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -362,7 +381,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "vayuda_turquoise_gemstone": {
-      "Set": "Vayuda",
+      "Set": 8,
+      "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -381,7 +401,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "shivada_jade_sliver": {
-      "Set": "Shivada",
+      "Set": 32,
+      "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -400,7 +421,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "shivada_jade_fragment": {
-      "Set": "Shivada",
+      "Set": 32,
+      "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -419,7 +441,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "shivada_jade_chunk": {
-      "Set": "Shivada",
+      "Set": 32,
+      "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -438,7 +461,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "shivada_jade_gemstone": {
-      "Set": "Shivada",
+      "Set": 32,
+      "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -457,7 +481,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "prithiva_topaz_sliver": {
-      "Set": "Prithiva",
+      "Set": 128,
+      "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -476,7 +501,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "prithiva_topaz_fragment": {
-      "Set": "Prithiva",
+      "Set": 128,
+      "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -495,7 +521,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "prithiva_topaz_chunk": {
-      "Set": "Prithiva",
+      "Set": 128,
+      "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -514,7 +541,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "prithiva_topaz_gemstone": {
-      "Set": "Prithiva",
+      "Set": 128,
+      "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -533,7 +561,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "nagadus_emerald_sliver": {
-      "Set": "Nagadus",
+      "Set": 64,
+      "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -552,7 +581,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "nagadus_emerald_fragment": {
-      "Set": "Nagadus",
+      "Set": 64,
+      "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -571,7 +601,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "nagadus_emerald_chunk": {
-      "Set": "Nagadus",
+      "Set": 64,
+      "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
         "Range": {
@@ -590,7 +621,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "nagadus_emerald_gemstone": {
-      "Set": "Nagadus",
+      "Set": 64,
+      "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
         "Range": {

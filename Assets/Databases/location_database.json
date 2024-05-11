@@ -2,15 +2,15 @@
   "Areas": {
     "dragonspine": {
       "EntityId": "area",
-      "Nation": "Mondstadt",
-      "Location": "Dragonspine",
+      "Nation": 2,
+      "Location": 512,
       "Id": "dragonspine",
       "DateAdded": "2020-12-23T00:00:00"
     },
     "enkanomiya": {
       "EntityId": "area",
-      "Nation": "Inazuma",
-      "Location": "Enkanomiya",
+      "Nation": 8,
+      "Location": 1024,
       "Id": "enkanomiya",
       "DateAdded": "2022-01-05T00:00:00"
     }
@@ -18,7 +18,7 @@
   "SubAreas": {
     "beaches_of_dragonspine": {
       "EntityId": "sub_area",
-      "Location": "Dragonspine",
+      "Location": 512,
       "LocalSpecialities": [
         "starconch"
       ],
@@ -28,7 +28,7 @@
     },
     "cider_lake": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -46,7 +46,7 @@
     },
     "city_of_mondstadt": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "dandelion_seed"
       ],
@@ -56,7 +56,7 @@
     },
     "dawn_winery": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "philanemo_mushroom",
         "windwheel_aster"
@@ -74,7 +74,7 @@
     },
     "stormbearer_mountains": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "valberry",
         "windwheel_aster"
@@ -93,7 +93,7 @@
     },
     "stormbearer_point": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "valberry"
       ],
@@ -103,7 +103,7 @@
     },
     "stormterrors_lair": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "windwheel_aster"
       ],
@@ -119,7 +119,7 @@
     },
     "springvale": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "calla_lily",
         "philanemo_mushroom"
@@ -130,7 +130,7 @@
     },
     "starsnatch_cliff": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "cecilia"
       ],
@@ -140,7 +140,7 @@
     },
     "windrise": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "windwheel_aster"
       ],
@@ -154,7 +154,7 @@
     },
     "whispering_woods": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "small_lamp_grass"
       ],
@@ -164,7 +164,7 @@
     },
     "wolvendom": {
       "EntityId": "sub_area",
-      "Location": "Mondstadt",
+      "Location": 2,
       "LocalSpecialities": [
         "wolfhook"
       ],
@@ -174,7 +174,7 @@
     },
     "beaches_of_liyue": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "starconch"
       ],
@@ -184,7 +184,7 @@
     },
     "bishui_plain": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -198,7 +198,7 @@
     },
     "dihua_marsh": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -211,7 +211,7 @@
     },
     "guili_plains": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": null,
       "Fishes": [
         "sweet_flower_medaka",
@@ -226,7 +226,7 @@
     },
     "liyue_harbor": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "glaze_lily",
         "silk_flower"
@@ -243,7 +243,7 @@
     },
     "luhua_pool": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": null,
       "Fishes": [
         "sweet_flower_medaka",
@@ -258,7 +258,7 @@
     },
     "minlin": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "qingxin"
       ],
@@ -268,7 +268,7 @@
     },
     "mingyun_village": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "noctilucous_jade"
       ],
@@ -278,7 +278,7 @@
     },
     "mt_aocang": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -292,7 +292,7 @@
     },
     "mt_hulao": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "cor_lapis"
       ],
@@ -309,7 +309,7 @@
     },
     "stone_gate": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "jueyun_chili"
       ],
@@ -319,7 +319,7 @@
     },
     "qingce_village": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "glaze_lily",
         "jueyun_chili"
@@ -337,7 +337,7 @@
     },
     "tianqiu_valley": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -349,7 +349,7 @@
     },
     "wangshu_inn": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "qingxin",
         "silk_flower"
@@ -367,7 +367,7 @@
     },
     "wuwang_hill": {
       "EntityId": "sub_area",
-      "Location": "Liyue",
+      "Location": 4,
       "LocalSpecialities": [
         "qingxin"
       ],
@@ -377,7 +377,7 @@
     },
     "nameless_ruins": {
       "EntityId": "sub_area",
-      "Location": "Chasm",
+      "Location": 2048,
       "LocalSpecialities": [
         "noctilucous_jade"
       ],
@@ -387,7 +387,7 @@
     },
     "underground_waterway": {
       "EntityId": "sub_area",
-      "Location": "Chasm",
+      "Location": 2048,
       "LocalSpecialities": [
         "cor_lapis",
         "noctilucous_jade"
@@ -398,7 +398,7 @@
     },
     "beaches_of_inazuma": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "sea_ganoderma"
       ],
@@ -408,7 +408,7 @@
     },
     "amakane_island": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "glaze_medaka",
@@ -420,7 +420,7 @@
     },
     "autake_plains": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -433,7 +433,7 @@
     },
     "chirai_shrine": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -445,7 +445,7 @@
     },
     "kannazuka": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "dendrobium"
       ],
@@ -455,7 +455,7 @@
     },
     "koseki_village": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "glaze_medaka",
@@ -473,7 +473,7 @@
     },
     "mikage_furnace": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "onikabuto"
       ],
@@ -483,7 +483,7 @@
     },
     "mt_yougou": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "onikabuto"
       ],
@@ -493,7 +493,7 @@
     },
     "narukami_island": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "sakura_bloom"
       ],
@@ -503,7 +503,7 @@
     },
     "nazuchi_beach": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -516,7 +516,7 @@
     },
     "ritou": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "glaze_medaka",
@@ -530,7 +530,7 @@
     },
     "sangonomiya_shrine": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -544,7 +544,7 @@
     },
     "serai_island": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "amakumo_fruit",
         "naku_weed"
@@ -555,7 +555,7 @@
     },
     "suigetsu_pool": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": null,
       "Fishes": [
         "medaka",
@@ -569,7 +569,7 @@
     },
     "tatarasuna": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "crystal_marrow"
       ],
@@ -581,7 +581,7 @@
     },
     "tsurumi_island": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "fluorescent_fungus"
       ],
@@ -591,7 +591,7 @@
     },
     "watatsumi_island": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "sango_pearl"
       ],
@@ -601,7 +601,7 @@
     },
     "yashiori_island": {
       "EntityId": "sub_area",
-      "Location": "Inazuma",
+      "Location": 8,
       "LocalSpecialities": [
         "crystal_marrow"
       ],
@@ -611,7 +611,7 @@
     },
     "the_serpents_bowels": {
       "EntityId": "sub_area",
-      "Location": "Enkanomiya",
+      "Location": 1024,
       "LocalSpecialities": [],
       "Fishes": [
         "divda_ray",
@@ -622,7 +622,7 @@
     },
     "the_serpents_heart_altar": {
       "EntityId": "sub_area",
-      "Location": "Enkanomiya",
+      "Location": 1024,
       "LocalSpecialities": [],
       "Fishes": [
         "divda_ray",
@@ -635,23 +635,23 @@
   "FontainLocations": {
     "poisson": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "poisson",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "romaritime_harbor": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "romaritime_harbor",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "west_slopes_of_mont_automnequi": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [
         "lumidouce_bell",
         "pluie_lotus_pluie_lotus",
@@ -659,215 +659,215 @@
       ],
       "Fishes": null,
       "Id": "west_slopes_of_mont_automnequi",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "a_lonely_place": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "a_lonely_place",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "a_very_bright_place": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "a_very_bright_place",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "a_very_warm_place": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "a_very_warm_place",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "elton_trench": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "elton_trench",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "elynas": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "elynas",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "merusea_village": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "merusea_village",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "annapausis": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "annapausis",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "chemin_de_l_espoir": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "chemin_de_l_espoir",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "court_of_fontaine": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "court_of_fontaine",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "fountain_of_lucine": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "fountain_of_lucine",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "institute_of_natural_philosophy": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "institute_of_natural_philosophy",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "marcotte_station": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "marcotte_station",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "opera_epiclese": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "opera_epiclese",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "salacia_plain": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "salacia_plain",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "thalatta_submarine_canyon": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "thalatta_submarine_canyon",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "fortress_of_meropide": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "fortress_of_meropide",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "mont_esus_east": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "mont_esus_east",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "central_laboratory_ruins": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "central_laboratory_ruins",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "new_fontaine_research_institute": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "new_fontaine_research_institute",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "foggy_forest_path": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "foggy_forest_path",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "loch_urania": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "loch_urania",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "lumidouce_harbor": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "lumidouce_harbor",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "weeping_willow_of_the_lake": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "weeping_willow_of_the_lake",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "east_slopes_of_mont_automnequi": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "east_slopes_of_mont_automnequi",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "fort_charybdis_ruins": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "fort_charybdis_ruins",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     },
     "tower_of_ipsissimus": {
       "EntityId": "sub_area",
-      "Location": "Fontaine",
+      "Location": 32,
       "LocalSpecialities": [],
       "Fishes": null,
       "Id": "tower_of_ipsissimus",
-      "DateAdded": "2023-12-20T00:00:00"
+      "DateAdded": "2024-04-24T00:00:00"
     }
   },
   "Type": "LocationDatabase"

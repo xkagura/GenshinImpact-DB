@@ -1,8 +1,8 @@
 {
   "Materials": {
     "hurricane_seed": {
-      "MaterialType": "HurricaneSeed",
-      "Element": "Anemo",
+      "MaterialType": 1,
+      "Element": 2,
       "Rarity": {
         "Range": {
           "Start": {
@@ -21,8 +21,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "lightning_prism": {
-      "MaterialType": "LightningPrism",
-      "Element": "Electro",
+      "MaterialType": 8,
+      "Element": 16,
       "Rarity": {
         "Range": {
           "Start": {
@@ -41,8 +41,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "basalt_pillar": {
-      "MaterialType": "BasaltPillar",
-      "Element": "Geo",
+      "MaterialType": 16,
+      "Element": 32,
       "Rarity": {
         "Range": {
           "Start": {
@@ -61,8 +61,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hoarfrost_core": {
-      "MaterialType": "HoarfrostCore",
-      "Element": "Cryo",
+      "MaterialType": 4,
+      "Element": 4,
       "Rarity": {
         "Range": {
           "Start": {
@@ -81,8 +81,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "everflame_seed": {
-      "MaterialType": "EverflameSeed",
-      "Element": "Pyro",
+      "MaterialType": 64,
+      "Element": 128,
       "Rarity": {
         "Range": {
           "Start": {
@@ -101,8 +101,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cleansing_heart": {
-      "MaterialType": "CleansingHeart",
-      "Element": "Hydro",
+      "MaterialType": 32,
+      "Element": 64,
       "Rarity": {
         "Range": {
           "Start": {
@@ -121,8 +121,8 @@
       "DateAdded": "2020-09-28T00:00:00"
     },
     "juvenile_jade": {
-      "MaterialType": "JuvenileJade",
-      "Element": "Physical",
+      "MaterialType": 128,
+      "Element": 1,
       "Rarity": {
         "Range": {
           "Start": {
@@ -141,8 +141,8 @@
       "DateAdded": "2021-02-03T00:00:00"
     },
     "crystalline_bloom": {
-      "MaterialType": "CrystallineBloom",
-      "Element": "Cryo",
+      "MaterialType": 2,
+      "Element": 4,
       "Rarity": {
         "Range": {
           "Start": {
@@ -161,8 +161,8 @@
       "DateAdded": "2021-02-03T00:00:00"
     },
     "marionette_core": {
-      "MaterialType": "MarionetteCore",
-      "Element": "Anemo",
+      "MaterialType": 256,
+      "Element": 2,
       "Rarity": {
         "Range": {
           "Start": {
@@ -181,8 +181,8 @@
       "DateAdded": "2021-06-09T00:00:00"
     },
     "perpetual_heart": {
-      "MaterialType": "PerpetualHeart",
-      "Element": "Physical",
+      "MaterialType": 512,
+      "Element": 1,
       "Rarity": {
         "Range": {
           "Start": {
@@ -201,8 +201,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "smoldering_pearl": {
-      "MaterialType": "SmolderingPearl",
-      "Element": "Pyro",
+      "MaterialType": 1024,
+      "Element": 128,
       "Rarity": {
         "Range": {
           "Start": {
@@ -221,8 +221,8 @@
       "DateAdded": "2021-07-21T00:00:00"
     },
     "dew_of_repudiation": {
-      "MaterialType": "DewOfRepudiation",
-      "Element": "Hydro",
+      "MaterialType": 4096,
+      "Element": 64,
       "Rarity": {
         "Range": {
           "Start": {
@@ -241,8 +241,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "storm_beads": {
-      "MaterialType": "StormBeads",
-      "Element": "Electro",
+      "MaterialType": 2048,
+      "Element": 16,
       "Rarity": {
         "Range": {
           "Start": {
@@ -261,8 +261,8 @@
       "DateAdded": "2021-09-01T00:00:00"
     },
     "riftborn_regalia": {
-      "MaterialType": "RiftbornRegalia",
-      "Element": "Geo",
+      "MaterialType": 8192,
+      "Element": 32,
       "Rarity": {
         "Range": {
           "Start": {
@@ -281,8 +281,8 @@
       "DateAdded": "2021-11-24T00:00:00"
     },
     "dragonheirs_false_fin": {
-      "MaterialType": "DragonheirsFalseFin",
-      "Element": "Physical",
+      "MaterialType": 16384,
+      "Element": 1,
       "Rarity": {
         "Range": {
           "Start": {
@@ -301,8 +301,8 @@
       "DateAdded": "2022-01-05T00:00:00"
     },
     "runic_fang": {
-      "MaterialType": "RunicFang",
-      "Element": "Physical",
+      "MaterialType": 32768,
+      "Element": 1,
       "Rarity": {
         "Range": {
           "Start": {
@@ -321,8 +321,8 @@
       "DateAdded": "2022-03-30T00:00:00"
     },
     "majestic_hooked_beak": {
-      "MaterialType": "MajesticHookedBeak",
-      "Element": "Dendro",
+      "MaterialType": 65536,
+      "Element": 8,
       "Rarity": {
         "Range": {
           "Start": {
@@ -341,8 +341,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "thunderclap_fruitcore": {
-      "MaterialType": "ThunderclapFruitcore",
-      "Element": "Electro",
+      "MaterialType": 131072,
+      "Element": 16,
       "Rarity": {
         "Range": {
           "Start": {
@@ -361,8 +361,8 @@
       "DateAdded": "2022-08-24T00:00:00"
     },
     "perpetual_caliber": {
-      "MaterialType": "PerpetualCaliber",
-      "Element": "Physical",
+      "MaterialType": 262144,
+      "Element": 1,
       "Rarity": {
         "Range": {
           "Start": {
@@ -381,8 +381,8 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "light_guiding_tetrahedron": {
-      "MaterialType": "LightGuidingTetrahedron",
-      "Element": "Physical",
+      "MaterialType": 524288,
+      "Element": 1,
       "Rarity": {
         "Range": {
           "Start": {
@@ -401,8 +401,8 @@
       "DateAdded": "2022-09-28T00:00:00"
     },
     "quelled_creeper": {
-      "MaterialType": "QuelledCreeper",
-      "Element": "Dendro",
+      "MaterialType": 1048576,
+      "Element": 8,
       "Rarity": {
         "Range": {
           "Start": {
@@ -421,8 +421,8 @@
       "DateAdded": "2022-11-02T00:00:00"
     },
     "pseudo_stamens": {
-      "MaterialType": "PseudoStamens",
-      "Element": "Anemo",
+      "MaterialType": 2097152,
+      "Element": 2,
       "Rarity": {
         "Range": {
           "Start": {
@@ -441,8 +441,8 @@
       "DateAdded": "2023-01-18T00:00:00"
     },
     "evergloom_ring": {
-      "MaterialType": "EvergloomRing",
-      "Element": "Cryo, Electro, Hydro, Pyro",
+      "MaterialType": 4194304,
+      "Element": 212,
       "Rarity": {
         "Range": {
           "Start": {
@@ -461,8 +461,8 @@
       "DateAdded": "2023-04-12T00:00:00"
     },
     "artificed_spare_clockwork_component_coppelia": {
-      "MaterialType": "Coppelia",
-      "Element": "Anemo",
+      "MaterialType": 8388608,
+      "Element": 2,
       "Rarity": {
         "Range": {
           "Start": {
@@ -481,8 +481,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "artificed_spare_clockwork_component_coppelius": {
-      "MaterialType": "Coppelius",
-      "Element": "Cryo",
+      "MaterialType": 16777216,
+      "Element": 4,
       "Rarity": {
         "Range": {
           "Start": {
@@ -501,8 +501,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "emperors_resolution": {
-      "MaterialType": "EmperorsResolution",
-      "Element": "Pyro",
+      "MaterialType": 33554432,
+      "Element": 128,
       "Rarity": {
         "Range": {
           "Start": {
@@ -521,8 +521,8 @@
       "DateAdded": "2023-08-16T00:00:00"
     },
     "fontemer_unihorn": {
-      "MaterialType": "FontemerUnihorn",
-      "Element": "Electro",
+      "MaterialType": 67108864,
+      "Element": 16,
       "Rarity": {
         "Range": {
           "Start": {
@@ -541,8 +541,8 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "tourbillon_device": {
-      "MaterialType": "TourbillonDevice",
-      "Element": "Geo",
+      "MaterialType": 134217728,
+      "Element": 32,
       "Rarity": {
         "Range": {
           "Start": {
@@ -561,8 +561,8 @@
       "DateAdded": "2023-09-27T00:00:00"
     },
     "water_that_failed_to_transcend": {
-      "MaterialType": "WaterThatFailedToTranscend",
-      "Element": "Hydro",
+      "MaterialType": 268435456,
+      "Element": 64,
       "Rarity": {
         "Range": {
           "Start": {

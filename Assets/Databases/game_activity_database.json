@@ -4,7 +4,7 @@
       "EntityId": "game_activity",
       "IconFileName": "icon_commission",
       "UnixTimerFactory": {
-        "ResetType": "Daily",
+        "ResetType": 1,
         "Duration": "00:00:00",
         "Offset": "00:00:00"
       },
@@ -15,7 +15,7 @@
       "EntityId": "game_activity",
       "IconFileName": "icon_battle_pass",
       "UnixTimerFactory": {
-        "ResetType": "Daily",
+        "ResetType": 1,
         "Duration": "00:00:00",
         "Offset": "00:00:00"
       },
@@ -26,7 +26,7 @@
       "EntityId": "game_activity",
       "IconFileName": "icon_battle_pass",
       "UnixTimerFactory": {
-        "ResetType": "Weekly",
+        "ResetType": 2,
         "Duration": "00:00:00",
         "Offset": "00:00:00"
       },
@@ -37,7 +37,7 @@
       "EntityId": "game_activity",
       "IconFileName": "icon_reputation",
       "UnixTimerFactory": {
-        "ResetType": "Weekly",
+        "ResetType": 2,
         "Duration": "00:00:00",
         "Offset": "00:00:00"
       },
@@ -48,7 +48,7 @@
       "EntityId": "game_activity",
       "IconFileName": "icon_reputation",
       "UnixTimerFactory": {
-        "ResetType": "Weekly",
+        "ResetType": 2,
         "Duration": "00:00:00",
         "Offset": "00:00:00"
       },
@@ -59,7 +59,7 @@
       "EntityId": "game_activity",
       "IconFileName": "gadgets_parametric_transformer",
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "6.22:00:00",
         "Offset": "00:00:00"
       },

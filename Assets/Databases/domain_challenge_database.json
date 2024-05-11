@@ -1872,12 +1872,12 @@
             {
               "EnemyId": "geovishap",
               "Amount": 1,
-              "Element": "Hydro"
+              "Element": 64
             },
             {
               "EnemyId": "geovishap",
               "Amount": 1,
-              "Element": "Electro"
+              "Element": 16
             }
           ]
         ]
@@ -2761,6 +2761,295 @@
             },
             {
               "EnemyId": "annihilation_specialist_mek",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "waterfall_wen": [
+      {
+        "DomainId": "waterfall_wen",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 4,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 2,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "sternshield_crab",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "waterfall_wen",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "electro_slime",
+              "Amount": 4,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_hydro_slime",
+              "Amount": 2,
+              "Element": null
+            },
+            {
+              "EnemyId": "bubbler_seahorse",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "waterfall_wen",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "cherubic_sea_hare",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "waterfall_wen",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "large_pyro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "sternshield_crab",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "cherubic_sea_hare",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "bubbler_seahorse",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      }
+    ],
+    "faded_theater": [
+      {
+        "DomainId": "faded_theater",
+        "Level": 1,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "hydro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "cryo_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "rock_shield_hilichurl_guard",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "rock_shieldwall_mitachurl",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "rock_shield_hilichurl_guard",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "faded_theater",
+        "Level": 2,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "rock_shield_hilichurl_guard",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_hilichurl_shooter",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "rock_shieldwall_mitachurl",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "pyro_hilichurl_shooter",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "faded_theater",
+        "Level": 3,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "praetorian_golem",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "praetorian_golem",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_electro_slime",
+              "Amount": 1,
+              "Element": null
+            },
+            {
+              "EnemyId": "large_cryo_slime",
+              "Amount": 1,
+              "Element": null
+            }
+          ]
+        ]
+      },
+      {
+        "DomainId": "faded_theater",
+        "Level": 4,
+        "EnemyWaves": [
+          [
+            {
+              "EnemyId": "rock_shieldwall_mitachurl",
+              "Amount": 1,
+              "Element": null
+            }
+          ],
+          [
+            {
+              "EnemyId": "praetorian_golem",
               "Amount": 1,
               "Element": null
             }

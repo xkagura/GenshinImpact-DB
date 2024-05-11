@@ -2,57 +2,57 @@
   "Elements": {
     "anemo": {
       "EntityId": "element",
-      "ElementType": "Anemo",
-      "ReactsWith": "Cryo, Electro, Hydro, Pyro",
-      "Nation": "Mondstadt",
+      "ElementType": 2,
+      "ReactsWith": 212,
+      "Nation": 2,
       "Id": "anemo",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "cryo": {
       "EntityId": "element",
-      "ElementType": "Cryo",
-      "ReactsWith": "Anemo, Electro, Geo, Hydro, Pyro",
-      "Nation": "Snezhnaya",
+      "ElementType": 4,
+      "ReactsWith": 242,
+      "Nation": 128,
       "Id": "cryo",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "dendro": {
       "EntityId": "element",
-      "ElementType": "Dendro",
-      "ReactsWith": "Electro, Hydro, Pyro",
-      "Nation": "Sumeru",
+      "ElementType": 8,
+      "ReactsWith": 208,
+      "Nation": 16,
       "Id": "dendro",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "electro": {
       "EntityId": "element",
-      "ElementType": "Electro",
-      "ReactsWith": "Anemo, Cryo, Dendro, Geo, Hydro, Pyro",
-      "Nation": "Inazuma",
+      "ElementType": 16,
+      "ReactsWith": 238,
+      "Nation": 8,
       "Id": "electro",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "geo": {
       "EntityId": "element",
-      "ElementType": "Geo",
-      "ReactsWith": "Cryo, Electro, Hydro, Pyro",
-      "Nation": "Liyue",
+      "ElementType": 32,
+      "ReactsWith": 212,
+      "Nation": 4,
       "Id": "geo",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "hydro": {
       "EntityId": "element",
-      "ElementType": "Hydro",
-      "ReactsWith": "Anemo, Cryo, Dendro, Electro, Geo, Pyro",
-      "Nation": "Fontaine",
+      "ElementType": 64,
+      "ReactsWith": 190,
+      "Nation": 32,
       "Id": "hydro",
       "DateAdded": "2020-09-28T00:00:00"
     },
     "pyro": {
       "EntityId": "element",
-      "ElementType": "Pyro",
-      "ReactsWith": "Anemo, Cryo, Dendro, Electro, Geo, Hydro",
-      "Nation": "Natlan",
+      "ElementType": 128,
+      "ReactsWith": 126,
+      "Nation": 64,
       "Id": "pyro",
       "DateAdded": "2020-09-28T00:00:00"
     }

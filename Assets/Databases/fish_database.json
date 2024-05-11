@@ -2,14 +2,14 @@
   "Fishies": {
     "medaka": {
       "EntityId": "fish",
-      "Set": "Medaka",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FruitPaste",
+      "Set": 1,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 1,
       "Location": 14,
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "Anytime",
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -19,7 +19,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           233
         ]
@@ -42,14 +42,14 @@
     },
     "glaze_medaka": {
       "EntityId": "fish",
-      "Set": "Medaka",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FruitPaste",
-      "Location": "Inazuma",
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "Anytime",
+      "Set": 1,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 1,
+      "Location": 8,
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -59,7 +59,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           234
         ]
@@ -82,14 +82,14 @@
     },
     "sweet_flower_medaka": {
       "EntityId": "fish",
-      "Set": "Medaka",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FruitPaste",
-      "Location": "Liyue",
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "Unknown",
+      "Set": 1,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 1,
+      "Location": 4,
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -99,7 +99,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           235
         ]
@@ -122,14 +122,14 @@
     },
     "aizen_medaka": {
       "EntityId": "fish",
-      "Set": "Medaka",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FruitPaste",
-      "Location": "Mondstadt",
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "Anytime",
+      "Set": 1,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 1,
+      "Location": 2,
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -139,7 +139,7 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           236
         ]
@@ -162,14 +162,14 @@
     },
     "dawncatcher": {
       "EntityId": "fish",
-      "Set": "Medaka",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FruitPaste",
+      "Set": 1,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 1,
       "Location": 14,
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "AllNight",
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -179,7 +179,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           237
         ]
@@ -202,14 +202,14 @@
     },
     "crystalfish": {
       "EntityId": "fish",
-      "Set": "Medaka",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FruitPaste",
+      "Set": 1,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 1,
       "Location": 14,
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "AllDay",
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -219,7 +219,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           238
         ]
@@ -242,14 +242,14 @@
     },
     "brown_shirakodai": {
       "EntityId": "fish",
-      "Set": "Butterflyfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FalseWorm",
-      "Location": "Liyue",
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "AllDay",
+      "Set": 2,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 2,
+      "Location": 4,
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -259,7 +259,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           246
         ]
@@ -282,14 +282,14 @@
     },
     "purple_shirakodai": {
       "EntityId": "fish",
-      "Set": "Butterflyfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FalseWorm",
-      "Location": "Inazuma",
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "AllDay",
+      "Set": 2,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 2,
+      "Location": 8,
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -299,7 +299,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           247
         ]
@@ -322,14 +322,14 @@
     },
     "tea_colored_shirakodai": {
       "EntityId": "fish",
-      "Set": "Butterflyfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FalseWorm",
-      "Location": "Mondstadt",
-      "CatchingDifficulty": "VeryEasy",
-      "TimeOfDay": "AllDay",
+      "Set": 2,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 2,
+      "Location": 2,
+      "CatchingDifficulty": 1,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -339,7 +339,7 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           248
         ]
@@ -362,14 +362,14 @@
     },
     "abiding_angelfish": {
       "EntityId": "fish",
-      "Set": "Butterflyfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FalseWorm",
-      "Location": "Liyue",
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "AllDay",
+      "Set": 2,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 2,
+      "Location": 4,
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -379,7 +379,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           249
         ]
@@ -402,14 +402,14 @@
     },
     "raimei_angelfish": {
       "EntityId": "fish",
-      "Set": "Butterflyfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FalseWorm",
-      "Location": "Inazuma",
-      "CatchingDifficulty": "VeryHard",
-      "TimeOfDay": "AllNight",
+      "Set": 2,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 2,
+      "Location": 8,
+      "CatchingDifficulty": 5,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -419,7 +419,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           250
         ]
@@ -442,14 +442,14 @@
     },
     "lunged_stickleback": {
       "EntityId": "fish",
-      "Set": "Stickleback",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Redrot",
-      "Location": "Inazuma",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllNight",
+      "Set": 4,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 4,
+      "Location": 8,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -459,7 +459,7 @@
           "Longitude": 1788.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           239
         ]
@@ -482,14 +482,14 @@
     },
     "betta": {
       "EntityId": "fish",
-      "Set": "Stickleback",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Redrot",
-      "Location": "Liyue",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllNight",
+      "Set": 4,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 4,
+      "Location": 4,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -499,7 +499,7 @@
           "Longitude": -1838.51,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           240
         ]
@@ -522,14 +522,14 @@
     },
     "venomspine_fish": {
       "EntityId": "fish",
-      "Set": "Stickleback",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Redrot",
-      "Location": "Mondstadt",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllNight",
+      "Set": 4,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 4,
+      "Location": 2,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -539,7 +539,7 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           241
         ]
@@ -562,14 +562,14 @@
     },
     "akai_maou": {
       "EntityId": "fish",
-      "Set": "Stickleback",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Redrot",
+      "Set": 4,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 4,
       "Location": 14,
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "AllDay",
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -579,7 +579,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           242
         ]
@@ -602,14 +602,14 @@
     },
     "snowstrider": {
       "EntityId": "fish",
-      "Set": "Stickleback",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Redrot",
-      "Location": "Mondstadt",
-      "CatchingDifficulty": "VeryHard",
-      "TimeOfDay": "AllNight",
+      "Set": 4,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 4,
+      "Location": 2,
+      "CatchingDifficulty": 5,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -619,7 +619,7 @@
           "Longitude": -68.2,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           243
         ]
@@ -642,14 +642,14 @@
     },
     "golden_koi": {
       "EntityId": "fish",
-      "Set": "Koi",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FakeFly",
+      "Set": 8,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 8,
       "Location": 14,
-      "CatchingDifficulty": "Medium",
-      "TimeOfDay": "Anytime",
+      "CatchingDifficulty": 3,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -659,7 +659,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           244
         ]
@@ -682,14 +682,14 @@
     },
     "rusty_koi": {
       "EntityId": "fish",
-      "Set": "Koi",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FakeFly",
+      "Set": 8,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 8,
       "Location": 14,
-      "CatchingDifficulty": "Medium",
-      "TimeOfDay": "Anytime",
+      "CatchingDifficulty": 3,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -699,7 +699,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           245
         ]
@@ -722,14 +722,14 @@
     },
     "pufferfish": {
       "EntityId": "fish",
-      "Set": "Pufferfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FakeFly",
+      "Set": 16,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 8,
       "Location": 14,
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "Anytime",
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -739,7 +739,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           251
         ]
@@ -762,14 +762,14 @@
     },
     "bitter_pufferfish": {
       "EntityId": "fish",
-      "Set": "Pufferfish",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FakeFly",
+      "Set": 16,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 8,
       "Location": 14,
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "Anytime",
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -779,7 +779,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           252
         ]
@@ -802,14 +802,14 @@
     },
     "divda_ray": {
       "EntityId": "fish",
-      "Set": "Ray",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FakeFly",
-      "Location": "Enkanomiya",
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "Anytime",
+      "Set": 32,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 8,
+      "Location": 1024,
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -819,7 +819,7 @@
           "Longitude": 198.64,
           "Zoom": -4.0
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           336
         ]
@@ -842,14 +842,14 @@
     },
     "formalo_ray": {
       "EntityId": "fish",
-      "Set": "Ray",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "FakeFly",
-      "Location": "Enkanomiya",
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "Anytime",
+      "Set": 32,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 8,
+      "Location": 1024,
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -859,7 +859,7 @@
           "Longitude": 198.64,
           "Zoom": -4.0
         },
-        "Map": "Enkanomiya",
+        "Map": 7,
         "ShownTypes": [
           335
         ]
@@ -882,14 +882,14 @@
     },
     "halcyon_jade_axe_marlin": {
       "EntityId": "fish",
-      "Set": "AxeMarlins",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Sumeru",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Unknown",
+      "Set": 64,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 16,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -899,7 +899,7 @@
           "Longitude": 0.0,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           423
         ]
@@ -922,14 +922,14 @@
     },
     "lazurite_axe_marlin": {
       "EntityId": "fish",
-      "Set": "AxeMarlins",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Sumeru",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Unknown",
+      "Set": 64,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 16,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -939,7 +939,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           422
         ]
@@ -962,14 +962,14 @@
     },
     "peach_of_the_deep_waves": {
       "EntityId": "fish",
-      "Set": "Angler",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Sumeru",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Unknown",
+      "Set": 128,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 16,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -979,7 +979,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           419
         ]
@@ -1002,14 +1002,14 @@
     },
     "sandstorm_angler": {
       "EntityId": "fish",
-      "Set": "Angler",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Sumeru",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Unknown",
+      "Set": 128,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 16,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1019,7 +1019,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           420
         ]
@@ -1042,14 +1042,14 @@
     },
     "sunset_cloud_angler": {
       "EntityId": "fish",
-      "Set": "Angler",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Sumeru",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Unknown",
+      "Set": 128,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 16,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1059,7 +1059,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           421
         ]
@@ -1082,14 +1082,14 @@
     },
     "true_fruit_angler": {
       "EntityId": "fish",
-      "Set": "Angler",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Sumeru",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Unknown",
+      "Set": 128,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 16,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 0,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1099,7 +1099,7 @@
           "Longitude": -4762.86,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           418
         ]
@@ -1122,14 +1122,14 @@
     },
     "streaming_axe_marlin": {
       "EntityId": "fish",
-      "Set": "AxeMarlins",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "Sugardew",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Anytime",
+      "Set": 64,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 16,
+      "Location": 32,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1139,7 +1139,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           527
         ]
@@ -1162,14 +1162,14 @@
     },
     "rippling_heartfeather_bass": {
       "EntityId": "fish",
-      "Set": "HeartfeatherBass",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "SourBait",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllNight",
+      "Set": 256,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 64,
+      "Location": 32,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1179,7 +1179,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           528
         ]
@@ -1202,14 +1202,14 @@
     },
     "blazing_heartfeather_bass": {
       "EntityId": "fish",
-      "Set": "HeartfeatherBass",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "SourBait",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllDay",
+      "Set": 256,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 64,
+      "Location": 32,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1219,7 +1219,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           529
         ]
@@ -1242,14 +1242,14 @@
     },
     "maintenance_mek_initial_configuration": {
       "EntityId": "fish",
-      "Set": "Mek",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "MekBait",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "Anytime",
+      "Set": 512,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 32,
+      "Location": 32,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 15,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1259,7 +1259,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           530
         ]
@@ -1282,14 +1282,14 @@
     },
     "maintenance_mek_water_body_cleaner": {
       "EntityId": "fish",
-      "Set": "Mek",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "MekBait",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllDay",
+      "Set": 512,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 32,
+      "Location": 32,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 3,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1299,7 +1299,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           531
         ]
@@ -1322,14 +1322,14 @@
     },
     "maintenance_mek_situation_controller": {
       "EntityId": "fish",
-      "Set": "Mek",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "MekBait",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Easy",
-      "TimeOfDay": "AllNight",
+      "Set": 512,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 32,
+      "Location": 32,
+      "CatchingDifficulty": 2,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1339,7 +1339,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           532
         ]
@@ -1362,14 +1362,14 @@
     },
     "maintenance_mek_platinum_collection": {
       "EntityId": "fish",
-      "Set": "Mek",
-      "CurrencyType": "Fish",
-      "BaitTypeRequired": "MekBait",
-      "Location": "Fontaine",
-      "CatchingDifficulty": "Hard",
-      "TimeOfDay": "AllNight",
+      "Set": 512,
+      "CurrencyType": 65536,
+      "BaitTypeRequired": 32,
+      "Location": 32,
+      "CatchingDifficulty": 4,
+      "TimeOfDay": 12,
       "UnixTimerFactory": {
-        "ResetType": "Time",
+        "ResetType": 0,
         "Duration": "3.00:00:00",
         "Offset": "00:00:00"
       },
@@ -1379,7 +1379,7 @@
           "Longitude": -5305.5,
           "Zoom": -4.0
         },
-        "Map": "Teyvat",
+        "Map": 2,
         "ShownTypes": [
           533
         ]
