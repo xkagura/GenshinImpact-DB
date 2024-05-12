@@ -4,17 +4,10 @@
       "MaterialType": 1,
       "Element": 2,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "hurricane_seed",
@@ -24,17 +17,10 @@
       "MaterialType": 8,
       "Element": 16,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "lightning_prism",
@@ -44,17 +30,10 @@
       "MaterialType": 16,
       "Element": 32,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "basalt_pillar",
@@ -64,17 +43,10 @@
       "MaterialType": 4,
       "Element": 4,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "hoarfrost_core",
@@ -84,17 +56,10 @@
       "MaterialType": 64,
       "Element": 128,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "everflame_seed",
@@ -104,17 +69,10 @@
       "MaterialType": 32,
       "Element": 64,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "cleansing_heart",
@@ -124,17 +82,10 @@
       "MaterialType": 128,
       "Element": 1,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "juvenile_jade",
@@ -144,17 +95,10 @@
       "MaterialType": 2,
       "Element": 4,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "crystalline_bloom",
@@ -164,17 +108,10 @@
       "MaterialType": 256,
       "Element": 2,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "marionette_core",
@@ -184,17 +121,10 @@
       "MaterialType": 512,
       "Element": 1,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "perpetual_heart",
@@ -204,17 +134,10 @@
       "MaterialType": 1024,
       "Element": 128,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "smoldering_pearl",
@@ -224,17 +147,10 @@
       "MaterialType": 4096,
       "Element": 64,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "dew_of_repudiation",
@@ -244,17 +160,10 @@
       "MaterialType": 2048,
       "Element": 16,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "storm_beads",
@@ -264,17 +173,10 @@
       "MaterialType": 8192,
       "Element": 32,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "riftborn_regalia",
@@ -284,17 +186,10 @@
       "MaterialType": 16384,
       "Element": 1,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "dragonheirs_false_fin",
@@ -304,17 +199,10 @@
       "MaterialType": 32768,
       "Element": 1,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "runic_fang",
@@ -324,17 +212,10 @@
       "MaterialType": 65536,
       "Element": 8,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "majestic_hooked_beak",
@@ -344,17 +225,10 @@
       "MaterialType": 131072,
       "Element": 16,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "thunderclap_fruitcore",
@@ -364,17 +238,10 @@
       "MaterialType": 262144,
       "Element": 1,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "perpetual_caliber",
@@ -384,17 +251,10 @@
       "MaterialType": 524288,
       "Element": 1,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "light_guiding_tetrahedron",
@@ -404,17 +264,10 @@
       "MaterialType": 1048576,
       "Element": 8,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "quelled_creeper",
@@ -424,17 +277,10 @@
       "MaterialType": 2097152,
       "Element": 2,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "pseudo_stamens",
@@ -444,17 +290,10 @@
       "MaterialType": 4194304,
       "Element": 212,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "evergloom_ring",
@@ -464,17 +303,10 @@
       "MaterialType": 8388608,
       "Element": 2,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "artificed_spare_clockwork_component_coppelia",
@@ -484,17 +316,10 @@
       "MaterialType": 16777216,
       "Element": 4,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "artificed_spare_clockwork_component_coppelius",
@@ -504,17 +329,10 @@
       "MaterialType": 33554432,
       "Element": 128,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "emperors_resolution",
@@ -524,17 +342,10 @@
       "MaterialType": 67108864,
       "Element": 16,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "fontemer_unihorn",
@@ -544,17 +355,10 @@
       "MaterialType": 134217728,
       "Element": 32,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "tourbillon_device",
@@ -564,17 +368,10 @@
       "MaterialType": 268435456,
       "Element": 64,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "EntityId": "material",
       "Id": "water_that_failed_to_transcend",

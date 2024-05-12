@@ -20,17 +20,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "iron_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -55,17 +46,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "white_iron_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -90,17 +72,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "crystal_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -125,17 +98,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "condessence_crystal",
       "DateAdded": "2023-08-16T00:00:00"
@@ -156,17 +120,8 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "magical_crystal_chunk",
       "DateAdded": "2020-11-11T00:00:00"
@@ -191,17 +146,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "starsilver",
       "DateAdded": "2020-12-23T00:00:00"
@@ -226,17 +172,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "amethyst_lump",
       "DateAdded": "2021-07-21T00:00:00"
@@ -247,17 +184,8 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "vitalized_dragontooth",
       "DateAdded": "2020-09-28T00:00:00"
@@ -271,17 +199,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "northlander_bow_billet",
       "DateAdded": "2020-09-28T00:00:00"
@@ -293,17 +214,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "northlander_catalyst_billet",
       "DateAdded": "2020-09-28T00:00:00"
@@ -315,17 +229,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "northlander_claymore_billet",
       "DateAdded": "2020-09-28T00:00:00"
@@ -337,17 +244,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "northlander_polearm_billet",
       "DateAdded": "2020-09-28T00:00:00"
@@ -359,17 +259,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "northlander_sword_billet",
       "DateAdded": "2020-09-28T00:00:00"
@@ -381,17 +274,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "midlander_bow_billet",
       "DateAdded": "2022-08-24T00:00:00"
@@ -403,17 +289,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "midlander_catalyst_billet",
       "DateAdded": "2022-08-24T00:00:00"
@@ -425,17 +304,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "midlander_claymore_billet",
       "DateAdded": "2022-08-24T00:00:00"
@@ -447,17 +319,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "midlander_polearm_billet",
       "DateAdded": "2022-08-24T00:00:00"
@@ -469,17 +334,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "midlander_sword_billet",
       "DateAdded": "2022-08-24T00:00:00"

@@ -4,17 +4,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "amber",
         "PortraitUri": null,
@@ -27,17 +20,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "kamisato_ayaka",
         "PortraitUri": null,
@@ -50,17 +36,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "barbara",
         "PortraitUri": null,
@@ -73,17 +52,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 5,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 5,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 5
+          "Range": [
+            5
+          ],
+          "IsCollab": false
         },
         "CharacterId": "diluc",
         "PortraitUri": null,
@@ -96,17 +68,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "fischl",
         "PortraitUri": null,
@@ -119,17 +84,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "kaeya",
         "PortraitUri": null,
@@ -142,17 +100,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "keqing",
         "PortraitUri": null,
@@ -165,17 +116,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "jean",
         "PortraitUri": null,
@@ -186,17 +130,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "jean",
         "PortraitUri": null,
@@ -209,17 +146,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "klee",
         "PortraitUri": null,
@@ -232,17 +162,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "lisa",
         "PortraitUri": null,
@@ -255,17 +178,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "mona",
         "PortraitUri": null,
@@ -278,17 +194,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "ningguang",
         "PortraitUri": null,
@@ -301,17 +210,10 @@
       {
         "EntityId": "outfit",
         "Rarity": {
-          "Range": {
-            "Start": {
-              "Value": 4,
-              "IsFromEnd": false
-            },
-            "End": {
-              "Value": 4,
-              "IsFromEnd": false
-            }
-          },
-          "Value": 4
+          "Range": [
+            4
+          ],
+          "IsCollab": false
         },
         "CharacterId": "rosaria",
         "PortraitUri": null,

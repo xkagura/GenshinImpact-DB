@@ -14,17 +14,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "ajilenakh_nut",
       "DateAdded": "2022-09-28T00:00:00"
@@ -33,17 +26,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "almond",
       "DateAdded": "2020-09-28T00:00:00"
@@ -62,17 +48,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "bamboo_shoot",
       "DateAdded": "2020-11-11T00:00:00"
@@ -91,17 +70,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "berry",
       "DateAdded": "2020-09-28T00:00:00"
@@ -120,17 +92,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "bird_egg",
       "DateAdded": "2020-09-28T00:00:00"
@@ -139,17 +104,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "cabbage",
       "DateAdded": "2020-09-28T00:00:00"
@@ -168,17 +126,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "carrot",
       "DateAdded": "2020-09-28T00:00:00"
@@ -197,17 +148,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "chilled_meat",
       "DateAdded": "2020-12-23T00:00:00"
@@ -216,17 +160,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "coffee_beans",
       "DateAdded": "2023-03-01T00:00:00"
@@ -250,17 +187,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "crab",
       "DateAdded": "2020-09-28T00:00:00"
@@ -279,17 +209,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "eel_meat",
       "DateAdded": "2021-09-01T00:00:00"
@@ -298,17 +221,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "fermented_juice",
       "DateAdded": "2023-08-16T00:00:00"
@@ -327,17 +243,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "fowl",
       "DateAdded": "2020-09-28T00:00:00"
@@ -346,17 +255,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "glabrous_beans",
       "DateAdded": "2022-08-24T00:00:00"
@@ -375,17 +277,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "harra_fruit",
       "DateAdded": "2022-08-24T00:00:00"
@@ -404,17 +299,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "horsetail",
       "DateAdded": "2020-09-28T00:00:00"
@@ -433,17 +321,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "lavender_melon",
       "DateAdded": "2021-07-21T00:00:00"
@@ -462,17 +343,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "lotus_head",
       "DateAdded": "2020-09-28T00:00:00"
@@ -491,17 +365,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "marcotte",
       "DateAdded": "2023-08-16T00:00:00"
@@ -520,17 +387,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "matsutake",
       "DateAdded": "2020-09-28T00:00:00"
@@ -539,17 +399,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "milk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -568,17 +421,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "mint",
       "DateAdded": "2020-09-28T00:00:00"
@@ -597,17 +443,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "mushroom",
       "DateAdded": "2020-09-28T00:00:00"
@@ -626,17 +465,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "mysterious_meat",
       "DateAdded": "2023-01-18T00:00:00"
@@ -645,17 +477,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "onion",
       "DateAdded": "2020-09-28T00:00:00"
@@ -664,17 +489,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "pepper",
       "DateAdded": "2020-09-28T00:00:00"
@@ -693,17 +511,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "pinecone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -712,17 +523,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "potato",
       "DateAdded": "2020-09-28T00:00:00"
@@ -741,17 +545,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "radish",
       "DateAdded": "2020-09-28T00:00:00"
@@ -760,17 +557,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "rice",
       "DateAdded": "2020-09-28T00:00:00"
@@ -779,17 +569,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "salt",
       "DateAdded": "2020-09-28T00:00:00"
@@ -808,17 +591,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "seagrass",
       "DateAdded": "2021-07-21T00:00:00"
@@ -827,17 +603,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "shrimp_meat",
       "DateAdded": "2020-09-28T00:00:00"
@@ -856,17 +625,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "snapdragon",
       "DateAdded": "2020-09-28T00:00:00"
@@ -885,17 +647,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "sumeru_rose",
       "DateAdded": "2022-08-24T00:00:00"
@@ -914,17 +669,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "sweet_flower",
       "DateAdded": "2020-09-28T00:00:00"
@@ -943,17 +691,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "tidalga",
       "DateAdded": "2023-08-16T00:00:00"
@@ -962,17 +703,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "tofu",
       "DateAdded": "2020-09-28T00:00:00"
@@ -981,17 +715,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "tomato",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1000,17 +727,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "wheat",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1029,17 +749,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "Id": "zaytun_peach",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1061,17 +774,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "bacon",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1090,17 +796,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "butter",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1119,17 +818,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "cheese",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1148,17 +840,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "crab_roe",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1177,17 +862,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "cream",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1376,17 +1054,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "fish",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1405,17 +1076,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "flour",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1435,17 +1099,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "ham",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1466,17 +1123,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "jam",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1495,17 +1145,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "mysterious_meat_product",
       "DateAdded": "2023-01-18T00:00:00"
@@ -1534,17 +1177,10 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "raw_meat",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1563,17 +1199,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "sausage",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1593,17 +1222,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "smoked_fowl",
       "DateAdded": "2020-09-28T00:00:00"
@@ -1622,17 +1244,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "spice",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1651,17 +1266,10 @@
       "InteractiveMapPoint": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "sugar",
       "DateAdded": "2020-09-28T00:00:00"

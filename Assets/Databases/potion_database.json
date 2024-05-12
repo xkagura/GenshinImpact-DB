@@ -13,17 +13,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 12,
       "InteractiveMapPoint": null,
@@ -43,17 +36,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 19,
       "InteractiveMapPoint": null,
@@ -73,17 +59,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 3,
       "InteractiveMapPoint": null,
@@ -103,17 +82,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 20,
       "InteractiveMapPoint": null,
@@ -133,17 +105,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 15,
       "InteractiveMapPoint": null,
@@ -163,17 +128,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 22,
       "InteractiveMapPoint": null,
@@ -193,17 +151,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 16,
       "InteractiveMapPoint": null,
@@ -223,17 +174,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 23,
       "InteractiveMapPoint": null,
@@ -253,17 +197,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 17,
       "InteractiveMapPoint": null,
@@ -283,17 +220,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 24,
       "InteractiveMapPoint": null,
@@ -313,17 +243,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 18,
       "InteractiveMapPoint": null,
@@ -343,17 +266,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 25,
       "InteractiveMapPoint": null,
@@ -373,17 +289,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 14,
       "InteractiveMapPoint": null,
@@ -403,17 +312,10 @@
         "CraftingTime": null
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "StatusEffect": 21,
       "InteractiveMapPoint": null,

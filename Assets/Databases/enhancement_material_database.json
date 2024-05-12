@@ -5,17 +5,10 @@
       "CraftingRecipeBlueprints": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "wanderers_advice",
       "DateAdded": "2020-09-28T00:00:00"
@@ -25,17 +18,10 @@
       "CraftingRecipeBlueprints": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "adventurers_experience",
       "DateAdded": "2020-09-28T00:00:00"
@@ -45,17 +31,10 @@
       "CraftingRecipeBlueprints": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "heros_wit",
       "DateAdded": "2020-09-28T00:00:00"
@@ -75,17 +54,10 @@
       ],
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "enhancement_ore",
       "DateAdded": "2020-09-28T00:00:00"
@@ -114,17 +86,10 @@
       ],
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "fine_enhancement_ore",
       "DateAdded": "2020-09-28T00:00:00"
@@ -163,17 +128,10 @@
       ],
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "mystic_enhancement_ore",
       "DateAdded": "2020-09-28T00:00:00"

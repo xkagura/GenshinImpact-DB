@@ -25,17 +25,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "medaka",
       "DateAdded": "2021-09-01T00:00:00"
@@ -65,17 +58,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "glaze_medaka",
       "DateAdded": "2021-09-01T00:00:00"
@@ -105,17 +91,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "sweet_flower_medaka",
       "DateAdded": "2021-09-01T00:00:00"
@@ -145,17 +124,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "aizen_medaka",
       "DateAdded": "2021-09-01T00:00:00"
@@ -185,17 +157,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "dawncatcher",
       "DateAdded": "2021-09-01T00:00:00"
@@ -225,17 +190,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "crystalfish",
       "DateAdded": "2021-09-01T00:00:00"
@@ -265,17 +223,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "brown_shirakodai",
       "DateAdded": "2021-09-01T00:00:00"
@@ -305,17 +256,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "purple_shirakodai",
       "DateAdded": "2021-09-01T00:00:00"
@@ -345,17 +289,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "tea_colored_shirakodai",
       "DateAdded": "2021-09-01T00:00:00"
@@ -385,17 +322,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "abiding_angelfish",
       "DateAdded": "2021-09-01T00:00:00"
@@ -425,17 +355,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "raimei_angelfish",
       "DateAdded": "2021-09-01T00:00:00"
@@ -465,17 +388,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "lunged_stickleback",
       "DateAdded": "2021-09-01T00:00:00"
@@ -505,17 +421,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "betta",
       "DateAdded": "2021-09-01T00:00:00"
@@ -545,17 +454,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "venomspine_fish",
       "DateAdded": "2021-09-01T00:00:00"
@@ -585,17 +487,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "akai_maou",
       "DateAdded": "2021-09-01T00:00:00"
@@ -625,17 +520,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "snowstrider",
       "DateAdded": "2021-09-01T00:00:00"
@@ -665,17 +553,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "golden_koi",
       "DateAdded": "2021-09-01T00:00:00"
@@ -705,17 +586,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "rusty_koi",
       "DateAdded": "2021-09-01T00:00:00"
@@ -745,17 +619,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "pufferfish",
       "DateAdded": "2021-09-01T00:00:00"
@@ -785,17 +652,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "bitter_pufferfish",
       "DateAdded": "2021-09-01T00:00:00"
@@ -825,17 +685,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "divda_ray",
       "DateAdded": "2022-01-05T00:00:00"
@@ -865,17 +718,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "formalo_ray",
       "DateAdded": "2022-01-05T00:00:00"
@@ -905,17 +751,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "halcyon_jade_axe_marlin",
       "DateAdded": "2022-08-24T00:00:00"
@@ -945,17 +784,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "lazurite_axe_marlin",
       "DateAdded": "2022-08-24T00:00:00"
@@ -985,17 +817,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "peach_of_the_deep_waves",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1025,17 +850,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "sandstorm_angler",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1065,17 +883,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "sunset_cloud_angler",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1105,17 +916,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "true_fruit_angler",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1145,17 +949,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "streaming_axe_marlin",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1185,17 +982,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "rippling_heartfeather_bass",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1225,17 +1015,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "blazing_heartfeather_bass",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1265,17 +1048,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "maintenance_mek_initial_configuration",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1305,17 +1081,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "maintenance_mek_water_body_cleaner",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1345,17 +1114,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "maintenance_mek_situation_controller",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1385,17 +1147,10 @@
         ]
       },
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "maintenance_mek_platinum_collection",
       "DateAdded": "2023-08-16T00:00:00"

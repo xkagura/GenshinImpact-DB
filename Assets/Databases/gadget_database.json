@@ -3,17 +3,10 @@
     "anemo_treasure_compass": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -37,17 +30,10 @@
     "dendro_treasure_compass": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -71,17 +57,10 @@
     "electro_treasure_compass": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -105,17 +84,10 @@
     "geo_treasure_compass": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -139,17 +111,10 @@
     "hydro_treasure_compass": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -163,17 +128,10 @@
     "kusava": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -187,17 +145,10 @@
     "the_boon_of_the_elder_tree": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -211,17 +162,10 @@
     "crystalfly_trap": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 1,
@@ -235,17 +179,10 @@
     "fishing_line_stabilizer": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 4,
@@ -288,17 +225,10 @@
     "kamera": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -312,17 +242,10 @@
     "lumenstone_adjuvant": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -336,17 +259,10 @@
     "memento_lens": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -360,17 +276,10 @@
     "narukawa_ukai": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 4,
@@ -395,17 +304,10 @@
     "nre_menu_30": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -429,17 +331,10 @@
     "parametric_transformer": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 1,
@@ -453,17 +348,10 @@
     "peculiar_pinion": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -477,17 +365,10 @@
     "red_feather_fan": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -501,17 +382,10 @@
     "seed_dispensary": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -525,17 +399,10 @@
     "serendipity": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 4,
@@ -560,17 +427,10 @@
     "serenitea_pot": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 1,
@@ -584,17 +444,10 @@
     "special_kamera": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -608,17 +461,10 @@
     "ultra_hot_burner_lamp_test_model": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 5,
@@ -632,17 +478,10 @@
     "vintage_lyre": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -656,17 +495,10 @@
     "wilderness_rod": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 4,
@@ -680,17 +512,10 @@
     "wind_catcher": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -714,17 +539,10 @@
     "wind_powered_wind_generator": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -738,17 +556,10 @@
     "windtangler": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 4,
@@ -773,17 +584,10 @@
     "wishmaker": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 4,
@@ -810,17 +614,10 @@
     "anemoculus_resonance_stone": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -844,17 +641,10 @@
     "dendroculus_resonance_stone": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -878,17 +668,10 @@
     "electroculus_resonance_stone": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -912,17 +695,10 @@
     "geoculus_resonance_stone": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -946,17 +722,10 @@
     "hydroculus_resonance_stone": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -980,17 +749,10 @@
     "adepti_seekers_stove": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 1,
@@ -1014,17 +776,10 @@
     "omni_ubiquity_net": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -1038,17 +793,10 @@
     "portable_waypoint": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 1,
@@ -1072,17 +820,10 @@
     "warming_bottle": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "GadgetType": 1,
       "Usage": 3,
@@ -1107,17 +848,10 @@
     "aratakis_great_and_glorious_drum": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1131,17 +865,10 @@
     "cloud_retainers_damasked_device": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1155,17 +882,10 @@
     "endora": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1179,17 +899,10 @@
     "floral_zither": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1203,17 +916,10 @@
     "itty_bitty_octobaby": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1227,17 +933,10 @@
     "jumpy_dumpty_party_popper": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1251,17 +950,10 @@
     "launch_tube": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1275,17 +967,10 @@
     "mini_seelie_curcuma": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1299,17 +984,10 @@
     "mini_seelie_dayflower": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1323,17 +1001,10 @@
     "mini_seelie_moss": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1347,17 +1018,10 @@
     "mini_seelie_rose": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1371,17 +1035,10 @@
     "mini_seelie_viola": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1395,17 +1052,10 @@
     "moonstringer": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1419,17 +1069,10 @@
     "portable_aerodynamic_gelatinous_bubble_generator": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 2,
       "Usage": 3,
@@ -1443,17 +1086,10 @@
     "shiki_koshou": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1467,17 +1103,10 @@
     "waverider_repair_toolbox": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1491,17 +1120,10 @@
     "wind_blessed_harpastum": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1515,17 +1137,10 @@
     "windblume_festival_commemorative_balloon": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,
@@ -1539,17 +1154,10 @@
     "windsong_lyre": {
       "EntityId": "gadget",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "GadgetType": 3,
       "Usage": 2,

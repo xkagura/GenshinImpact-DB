@@ -3,17 +3,11 @@
     "adventurer": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          1,
+          3
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -26,17 +20,11 @@
     "archaic_petra": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -50,17 +38,11 @@
     "berserker": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -73,17 +55,11 @@
     "blizzard_strayer": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -97,17 +73,11 @@
     "bloodstained_chivalry": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -122,17 +92,11 @@
     "brave_heart": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -146,17 +110,11 @@
     "crimson_witch_of_flames": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -175,17 +133,11 @@
     "deepwood_memories": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -201,17 +153,11 @@
     "defenders_will": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -225,17 +171,11 @@
     "desert_pavilion_chronicle": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -249,17 +189,11 @@
     "echoes_of_an_offering": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -273,17 +207,11 @@
     "emblem_of_severed_fate": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -297,17 +225,11 @@
     "flower_of_paradise_lost": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -323,17 +245,11 @@
     "gambler": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -346,17 +262,11 @@
     "gilded_dreams": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -369,17 +279,11 @@
     "gladiators_finale": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -393,17 +297,11 @@
     "golden_troupe": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -416,17 +314,11 @@
     "heart_of_depth": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -440,17 +332,11 @@
     "husk_of_opulent_dreams": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -464,17 +350,11 @@
     "instructor": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -487,17 +367,11 @@
     "lavawalker": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -511,17 +385,11 @@
     "lucky_dog": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          1,
+          3
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -535,17 +403,11 @@
     "maiden_beloved": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -558,17 +420,11 @@
     "marechaussee_hunter": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -583,17 +439,11 @@
     "martial_artist": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -608,17 +458,11 @@
     "noblesse_oblige": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -633,17 +477,11 @@
     "nymphs_dream": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -660,17 +498,11 @@
     "ocean_hued_clam": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -683,17 +515,11 @@
     "pale_flame": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -709,17 +535,11 @@
     "prayers_for_destiny": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 5,
@@ -733,17 +553,11 @@
     "prayers_for_illumination": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 5,
@@ -757,17 +571,11 @@
     "prayers_for_wisdom": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 5,
@@ -781,17 +589,11 @@
     "prayers_to_springtime": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 5,
@@ -805,17 +607,11 @@
     "resolution_of_sojourner": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -829,17 +625,11 @@
     "retracing_bolide": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -852,17 +642,11 @@
     "scholar": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -875,17 +659,11 @@
     "shimenawas_reminiscence": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -899,17 +677,11 @@
     "tenacity_of_the_millelith": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -923,17 +695,11 @@
     "the_exile": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -946,17 +712,11 @@
     "thundering_fury": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -970,17 +730,11 @@
     "thundersoother": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -994,17 +748,11 @@
     "tiny_miracle": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          3,
+          4
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -1018,17 +766,11 @@
     "traveling_doctor": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          1,
+          3
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -1043,17 +785,11 @@
     "vermillion_hereafter": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -1067,17 +803,11 @@
     "viridescent_venerer": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -1091,17 +821,11 @@
     "vourukashas_glow": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,
@@ -1116,17 +840,11 @@
     "wanderers_troupe": {
       "EntityId": "artifact_set",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          4,
+          5
+        ],
+        "IsCollab": false
       },
       "Set": null,
       "ArtifactType": 0,

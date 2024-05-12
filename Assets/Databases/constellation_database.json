@@ -19,8 +19,8 @@
         "CharacterId": "albedo",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_albedo_2",
         "DateAdded": null
@@ -31,7 +31,7 @@
         "Number": 3,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_albedo_3",
@@ -54,7 +54,7 @@
         "Number": 5,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_albedo_5",
@@ -101,7 +101,7 @@
         "Number": 3,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_alhaitham_3",
@@ -113,9 +113,9 @@
         "Number": 4,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          -1,
-          8,
-          -1,
+          1,
+          16,
+          17,
           0
         ],
         "Id": "constellation_alhaitham_4",
@@ -127,7 +127,7 @@
         "Number": 5,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_alhaitham_5",
@@ -139,9 +139,9 @@
         "Number": 6,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          -1,
-          8,
-          -1,
+          1,
+          16,
+          17,
           0
         ],
         "Id": "constellation_alhaitham_6",
@@ -234,7 +234,7 @@
         "Number": 2,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_amber_2",
@@ -246,7 +246,7 @@
         "Number": 3,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_amber_3",
@@ -269,7 +269,7 @@
         "Number": 5,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_amber_5",
@@ -316,7 +316,7 @@
         "Number": 3,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kamisato_ayaka_3",
@@ -339,7 +339,7 @@
         "Number": 5,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kamisato_ayaka_5",
@@ -386,7 +386,7 @@
         "Number": 3,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kamisato_ayato_3",
@@ -409,7 +409,7 @@
         "Number": 5,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kamisato_ayato_5",
@@ -446,9 +446,9 @@
         "Number": 2,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          -1,
+          1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_baizhu_2",
@@ -460,7 +460,7 @@
         "Number": 3,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_baizhu_3",
@@ -483,7 +483,7 @@
         "Number": 5,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_baizhu_5",
@@ -495,7 +495,7 @@
         "Number": 6,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_baizhu_6",
@@ -520,7 +520,7 @@
         "Number": 2,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_barbara_2",
@@ -532,7 +532,7 @@
         "Number": 3,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_barbara_3",
@@ -544,7 +544,7 @@
         "Number": 4,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_barbara_4",
@@ -556,7 +556,7 @@
         "Number": 5,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_barbara_5",
@@ -569,8 +569,8 @@
         "CharacterId": "barbara",
         "DescriptionFormatting": [
           0,
-          8,
-          -1,
+          16,
+          17,
           0
         ],
         "Id": "constellation_barbara_6",
@@ -585,8 +585,8 @@
         "CharacterId": "beidou",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_beidou_1",
         "DateAdded": null
@@ -608,7 +608,7 @@
         "Number": 3,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_beidou_3",
@@ -631,7 +631,7 @@
         "Number": 5,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_beidou_5",
@@ -678,7 +678,7 @@
         "Number": 3,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_bennett_3",
@@ -690,7 +690,7 @@
         "Number": 4,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_bennett_4",
@@ -702,7 +702,7 @@
         "Number": 5,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_bennett_5",
@@ -749,7 +749,7 @@
         "Number": 3,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_candace_3",
@@ -772,7 +772,7 @@
         "Number": 5,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_candace_5",
@@ -784,7 +784,7 @@
         "Number": 6,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_candace_6",
@@ -821,7 +821,7 @@
         "Number": 3,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_chevreuse_3",
@@ -845,7 +845,7 @@
         "Number": 5,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_chevreuse_5",
@@ -893,7 +893,7 @@
         "Number": 3,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_charlotte_3",
@@ -916,7 +916,7 @@
         "Number": 5,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_charlotte_5",
@@ -963,7 +963,7 @@
         "Number": 3,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_chongyun_3",
@@ -975,7 +975,7 @@
         "Number": 4,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_chongyun_4",
@@ -987,7 +987,7 @@
         "Number": 5,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_chongyun_5",
@@ -999,7 +999,7 @@
         "Number": 6,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_chongyun_6",
@@ -1024,10 +1024,10 @@
         "Number": 2,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          -1,
-          -1,
+          1,
+          1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_collei_2",
@@ -1039,7 +1039,7 @@
         "Number": 3,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_collei_3",
@@ -1062,7 +1062,7 @@
         "Number": 5,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_collei_5",
@@ -1074,7 +1074,7 @@
         "Number": 6,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_collei_6",
@@ -1088,7 +1088,7 @@
         "Number": 1,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_cyno_1",
@@ -1111,7 +1111,7 @@
         "Number": 3,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_cyno_3",
@@ -1123,7 +1123,7 @@
         "Number": 4,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_cyno_4",
@@ -1135,7 +1135,7 @@
         "Number": 5,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_cyno_5",
@@ -1147,9 +1147,9 @@
         "Number": 6,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          -1,
+          1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_cyno_6",
@@ -1163,9 +1163,9 @@
         "Number": 1,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Id": "constellation_dehya_1",
         "DateAdded": null
@@ -1176,7 +1176,7 @@
         "Number": 2,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_dehya_2",
@@ -1188,7 +1188,7 @@
         "Number": 3,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_dehya_3",
@@ -1211,7 +1211,7 @@
         "Number": 5,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_dehya_5",
@@ -1223,7 +1223,7 @@
         "Number": 6,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_dehya_6",
@@ -1248,7 +1248,7 @@
         "Number": 2,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diluc_2",
@@ -1260,7 +1260,7 @@
         "Number": 3,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diluc_3",
@@ -1272,7 +1272,7 @@
         "Number": 4,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diluc_4",
@@ -1284,7 +1284,7 @@
         "Number": 5,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diluc_5",
@@ -1296,7 +1296,7 @@
         "Number": 6,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diluc_6",
@@ -1321,7 +1321,7 @@
         "Number": 2,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diona_2",
@@ -1333,7 +1333,7 @@
         "Number": 3,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diona_3",
@@ -1356,7 +1356,7 @@
         "Number": 5,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_diona_5",
@@ -1369,8 +1369,8 @@
         "CharacterId": "diona",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_diona_6",
         "DateAdded": null
@@ -1405,7 +1405,7 @@
         "Number": 3,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_dori_3",
@@ -1417,9 +1417,9 @@
         "Number": 4,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Id": "constellation_dori_4",
         "DateAdded": null
@@ -1430,7 +1430,7 @@
         "Number": 5,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_dori_5",
@@ -1442,9 +1442,9 @@
         "Number": 6,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Id": "constellation_dori_6",
         "DateAdded": null
@@ -1457,7 +1457,7 @@
         "Number": 1,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_eula_1",
@@ -1480,7 +1480,7 @@
         "Number": 3,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_eula_3",
@@ -1503,7 +1503,7 @@
         "Number": 5,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_eula_5",
@@ -1550,7 +1550,7 @@
         "Number": 3,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_faruzan_3",
@@ -1562,7 +1562,7 @@
         "Number": 4,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_faruzan_4",
@@ -1574,7 +1574,7 @@
         "Number": 5,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_faruzan_5",
@@ -1621,7 +1621,7 @@
         "Number": 3,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_fischl_3",
@@ -1633,7 +1633,7 @@
         "Number": 4,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_fischl_4",
@@ -1645,7 +1645,7 @@
         "Number": 5,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_fischl_5",
@@ -1692,7 +1692,7 @@
         "Number": 3,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_freminet_3",
@@ -1715,7 +1715,7 @@
         "Number": 5,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_freminet_5",
@@ -1763,7 +1763,7 @@
         "Number": 3,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_furina_3",
@@ -1786,7 +1786,7 @@
         "Number": 5,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_furina_5",
@@ -1800,11 +1800,11 @@
         "DescriptionFormatting": [
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
-          4,
-          -1,
+          8,
+          1,
           0
         ],
         "Id": "constellation_furina_6",
@@ -1818,7 +1818,7 @@
         "Number": 1,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_ganyu_1",
@@ -1841,7 +1841,7 @@
         "Number": 3,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_ganyu_3",
@@ -1853,8 +1853,8 @@
         "Number": 4,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_ganyu_4",
@@ -1866,7 +1866,7 @@
         "Number": 5,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_ganyu_5",
@@ -1913,7 +1913,7 @@
         "Number": 3,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_gorou_3",
@@ -1936,7 +1936,7 @@
         "Number": 5,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_gorou_5",
@@ -1949,9 +1949,9 @@
         "CharacterId": "gorou",
         "DescriptionFormatting": [
           0,
-          8,
-          8,
-          -1,
+          16,
+          16,
+          17,
           0
         ],
         "Id": "constellation_gorou_6",
@@ -1987,7 +1987,7 @@
         "Number": 3,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_shikanoin_heizou_3",
@@ -1999,7 +1999,7 @@
         "Number": 4,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_shikanoin_heizou_4",
@@ -2011,7 +2011,7 @@
         "Number": 5,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_shikanoin_heizou_5",
@@ -2047,7 +2047,7 @@
         "Number": 2,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_hu_tao_2",
@@ -2059,7 +2059,7 @@
         "Number": 3,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_hu_tao_3",
@@ -2082,7 +2082,7 @@
         "Number": 5,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_hu_tao_5",
@@ -2095,9 +2095,9 @@
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
           0,
-          8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Id": "constellation_hu_tao_6",
         "DateAdded": null
@@ -2121,7 +2121,7 @@
         "Number": 2,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_arataki_itto_2",
@@ -2133,7 +2133,7 @@
         "Number": 3,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_arataki_itto_3",
@@ -2156,7 +2156,7 @@
         "Number": 5,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_arataki_itto_5",
@@ -2203,7 +2203,7 @@
         "Number": 3,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_jean_3",
@@ -2226,7 +2226,7 @@
         "Number": 5,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_jean_5",
@@ -2273,7 +2273,7 @@
         "Number": 3,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaveh_3",
@@ -2296,7 +2296,7 @@
         "Number": 5,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaveh_5",
@@ -2343,7 +2343,7 @@
         "Number": 3,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaeya_3",
@@ -2356,9 +2356,9 @@
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
           0,
-          8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Id": "constellation_kaeya_4",
         "DateAdded": null
@@ -2369,7 +2369,7 @@
         "Number": 5,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaeya_5",
@@ -2394,7 +2394,7 @@
         "Number": 1,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaedehara_kazuha_1",
@@ -2407,8 +2407,8 @@
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
           0,
-          8,
-          -1,
+          16,
+          17,
           0
         ],
         "Id": "constellation_kaedehara_kazuha_2",
@@ -2420,7 +2420,7 @@
         "Number": 3,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaedehara_kazuha_3",
@@ -2433,8 +2433,8 @@
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_kaedehara_kazuha_4",
         "DateAdded": null
@@ -2445,7 +2445,7 @@
         "Number": 5,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kaedehara_kazuha_5",
@@ -2481,7 +2481,7 @@
         "Number": 2,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_keqing_2",
@@ -2493,7 +2493,7 @@
         "Number": 3,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_keqing_3",
@@ -2516,7 +2516,7 @@
         "Number": 5,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_keqing_5",
@@ -2528,7 +2528,7 @@
         "Number": 6,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_keqing_6",
@@ -2553,8 +2553,8 @@
         "Number": 2,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_kirara_2",
@@ -2566,7 +2566,7 @@
         "Number": 3,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kirara_3",
@@ -2589,7 +2589,7 @@
         "Number": 5,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kirara_5",
@@ -2636,7 +2636,7 @@
         "Number": 3,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_klee_3",
@@ -2659,7 +2659,7 @@
         "Number": 5,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_klee_5",
@@ -2671,7 +2671,7 @@
         "Number": 6,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_klee_6",
@@ -2707,7 +2707,7 @@
         "Number": 3,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kuki_shinobu_3",
@@ -2719,7 +2719,7 @@
         "Number": 4,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kuki_shinobu_4",
@@ -2731,7 +2731,7 @@
         "Number": 5,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kuki_shinobu_5",
@@ -2757,7 +2757,7 @@
         "Number": 1,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sangonomiya_kokomi_1",
@@ -2770,8 +2770,8 @@
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_sangonomiya_kokomi_2",
         "DateAdded": null
@@ -2782,7 +2782,7 @@
         "Number": 3,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sangonomiya_kokomi_3",
@@ -2794,7 +2794,7 @@
         "Number": 4,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sangonomiya_kokomi_4",
@@ -2806,7 +2806,7 @@
         "Number": 5,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sangonomiya_kokomi_5",
@@ -2831,7 +2831,7 @@
         "Number": 1,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_layla_1",
@@ -2854,7 +2854,7 @@
         "Number": 3,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_layla_3",
@@ -2866,7 +2866,7 @@
         "Number": 4,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_layla_4",
@@ -2878,7 +2878,7 @@
         "Number": 5,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_layla_5",
@@ -2890,7 +2890,7 @@
         "Number": 6,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_layla_6",
@@ -2904,7 +2904,7 @@
         "Number": 1,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lisa_1",
@@ -2917,8 +2917,8 @@
         "CharacterId": "lisa",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_lisa_2",
         "DateAdded": null
@@ -2929,7 +2929,7 @@
         "Number": 3,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lisa_3",
@@ -2952,7 +2952,7 @@
         "Number": 5,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lisa_5",
@@ -2964,7 +2964,7 @@
         "Number": 6,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lisa_6",
@@ -3000,7 +3000,7 @@
         "Number": 3,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lynette_3",
@@ -3023,7 +3023,7 @@
         "Number": 5,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lynette_5",
@@ -3048,7 +3048,7 @@
         "Number": 1,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lyney_1",
@@ -3071,7 +3071,7 @@
         "Number": 3,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lyney_3",
@@ -3094,7 +3094,7 @@
         "Number": 5,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_lyney_5",
@@ -3130,7 +3130,7 @@
         "Number": 2,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mika_2",
@@ -3142,7 +3142,7 @@
         "Number": 3,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mika_3",
@@ -3165,7 +3165,7 @@
         "Number": 5,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mika_5",
@@ -3177,7 +3177,7 @@
         "Number": 6,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mika_6",
@@ -3192,10 +3192,10 @@
         "CharacterId": "mona",
         "DescriptionFormatting": [
           0,
-          8,
-          8,
-          8,
-          8
+          16,
+          16,
+          16,
+          16
         ],
         "Id": "constellation_mona_1",
         "DateAdded": null
@@ -3206,7 +3206,7 @@
         "Number": 2,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mona_2",
@@ -3218,7 +3218,7 @@
         "Number": 3,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mona_3",
@@ -3241,7 +3241,7 @@
         "Number": 5,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mona_5",
@@ -3253,7 +3253,7 @@
         "Number": 6,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_mona_6",
@@ -3278,9 +3278,9 @@
         "Number": 2,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Id": "constellation_nahida_2",
         "DateAdded": null
@@ -3291,7 +3291,7 @@
         "Number": 3,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_nahida_3",
@@ -3314,7 +3314,7 @@
         "Number": 5,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_nahida_5",
@@ -3326,8 +3326,8 @@
         "Number": 6,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_nahida_6",
@@ -3364,7 +3364,7 @@
         "Number": 3,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_navia_3",
@@ -3387,7 +3387,7 @@
         "Number": 5,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_navia_5",
@@ -3412,7 +3412,7 @@
         "Number": 1,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_neuvillette_1",
@@ -3424,7 +3424,7 @@
         "Number": 2,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_neuvillette_2",
@@ -3436,7 +3436,7 @@
         "Number": 3,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_neuvillette_3",
@@ -3459,7 +3459,7 @@
         "Number": 5,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_neuvillette_5",
@@ -3471,7 +3471,7 @@
         "Number": 6,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_neuvillette_6",
@@ -3485,9 +3485,9 @@
         "Number": 1,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Id": "constellation_nilou_1",
         "DateAdded": null
@@ -3498,7 +3498,7 @@
         "Number": 2,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_nilou_2",
@@ -3510,7 +3510,7 @@
         "Number": 3,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_nilou_3",
@@ -3533,7 +3533,7 @@
         "Number": 5,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_nilou_5",
@@ -3545,7 +3545,7 @@
         "Number": 6,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_nilou_6",
@@ -3570,7 +3570,7 @@
         "Number": 2,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_ningguang_2",
@@ -3582,7 +3582,7 @@
         "Number": 3,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_ningguang_3",
@@ -3605,7 +3605,7 @@
         "Number": 5,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_ningguang_5",
@@ -3652,7 +3652,7 @@
         "Number": 3,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_noelle_3",
@@ -3675,7 +3675,7 @@
         "Number": 5,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_noelle_5",
@@ -3687,7 +3687,7 @@
         "Number": 6,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_noelle_6",
@@ -3723,7 +3723,7 @@
         "Number": 3,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_qiqi_3",
@@ -3746,7 +3746,7 @@
         "Number": 5,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_qiqi_5",
@@ -3758,7 +3758,7 @@
         "Number": 6,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_qiqi_6",
@@ -3794,7 +3794,7 @@
         "Number": 3,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_raiden_shogun_3",
@@ -3817,7 +3817,7 @@
         "Number": 5,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_raiden_shogun_5",
@@ -3829,7 +3829,7 @@
         "Number": 6,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_raiden_shogun_6",
@@ -3865,7 +3865,7 @@
         "Number": 3,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_razor_3",
@@ -3888,7 +3888,7 @@
         "Number": 5,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_razor_5",
@@ -3900,7 +3900,7 @@
         "Number": 6,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_razor_6",
@@ -3936,7 +3936,7 @@
         "Number": 3,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_rosaria_3",
@@ -3948,7 +3948,7 @@
         "Number": 4,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_rosaria_4",
@@ -3960,7 +3960,7 @@
         "Number": 5,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_rosaria_5",
@@ -4008,7 +4008,7 @@
         "Number": 3,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kujou_sara_3",
@@ -4031,7 +4031,7 @@
         "Number": 5,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_kujou_sara_5",
@@ -4068,8 +4068,8 @@
         "CharacterId": "sayu",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_sayu_2",
         "DateAdded": null
@@ -4080,7 +4080,7 @@
         "Number": 3,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sayu_3",
@@ -4092,7 +4092,7 @@
         "Number": 4,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sayu_4",
@@ -4104,7 +4104,7 @@
         "Number": 5,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sayu_5",
@@ -4117,8 +4117,8 @@
         "CharacterId": "sayu",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_sayu_6",
         "DateAdded": null
@@ -4142,7 +4142,7 @@
         "Number": 2,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_shenhe_2",
@@ -4154,7 +4154,7 @@
         "Number": 3,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_shenhe_3",
@@ -4167,8 +4167,8 @@
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_shenhe_4",
         "DateAdded": null
@@ -4179,7 +4179,7 @@
         "Number": 5,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_shenhe_5",
@@ -4226,7 +4226,7 @@
         "Number": 3,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sucrose_3",
@@ -4249,7 +4249,7 @@
         "Number": 5,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_sucrose_5",
@@ -4296,7 +4296,7 @@
         "Number": 3,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tartaglia_3",
@@ -4308,7 +4308,7 @@
         "Number": 4,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tartaglia_4",
@@ -4320,7 +4320,7 @@
         "Number": 5,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tartaglia_5",
@@ -4332,7 +4332,7 @@
         "Number": 6,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tartaglia_6",
@@ -4346,7 +4346,7 @@
         "Number": 1,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_thoma_1",
@@ -4369,7 +4369,7 @@
         "Number": 3,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_thoma_3",
@@ -4392,7 +4392,7 @@
         "Number": 5,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_thoma_5",
@@ -4428,7 +4428,7 @@
         "Number": 2,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tighnari_2",
@@ -4440,7 +4440,7 @@
         "Number": 3,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tighnari_3",
@@ -4463,7 +4463,7 @@
         "Number": 5,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_tighnari_5",
@@ -4499,7 +4499,7 @@
         "Number": 2,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_venti_2",
@@ -4511,7 +4511,7 @@
         "Number": 3,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_venti_3",
@@ -4534,7 +4534,7 @@
         "Number": 5,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_venti_5",
@@ -4546,7 +4546,7 @@
         "Number": 6,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_venti_6",
@@ -4560,7 +4560,7 @@
         "Number": 1,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wanderer_1",
@@ -4572,7 +4572,7 @@
         "Number": 2,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wanderer_2",
@@ -4584,7 +4584,7 @@
         "Number": 3,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wanderer_3",
@@ -4596,7 +4596,7 @@
         "Number": 4,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wanderer_4",
@@ -4608,7 +4608,7 @@
         "Number": 5,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wanderer_5",
@@ -4620,9 +4620,9 @@
         "Number": 6,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Id": "constellation_wanderer_6",
         "DateAdded": null
@@ -4636,10 +4636,10 @@
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
           0,
-          -1,
-          2,
-          8,
-          -1,
+          1,
+          4,
+          16,
+          17,
           0
         ],
         "Id": "constellation_wriothesley_1",
@@ -4651,7 +4651,7 @@
         "Number": 2,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wriothesley_2",
@@ -4663,7 +4663,7 @@
         "Number": 3,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wriothesley_3",
@@ -4687,7 +4687,7 @@
         "Number": 5,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_wriothesley_5",
@@ -4735,7 +4735,7 @@
         "Number": 3,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xiangling_3",
@@ -4758,7 +4758,7 @@
         "Number": 5,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xiangling_5",
@@ -4805,7 +4805,7 @@
         "Number": 3,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xiao_3",
@@ -4828,7 +4828,7 @@
         "Number": 5,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xiao_5",
@@ -4864,7 +4864,7 @@
         "Number": 2,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xingqiu_2",
@@ -4876,7 +4876,7 @@
         "Number": 3,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xingqiu_3",
@@ -4899,7 +4899,7 @@
         "Number": 5,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xingqiu_5",
@@ -4924,7 +4924,7 @@
         "Number": 1,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xinyan_1",
@@ -4947,7 +4947,7 @@
         "Number": 3,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xinyan_3",
@@ -4970,7 +4970,7 @@
         "Number": 5,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_xinyan_5",
@@ -5017,7 +5017,7 @@
         "Number": 3,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yae_miko_3",
@@ -5040,7 +5040,7 @@
         "Number": 5,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yae_miko_5",
@@ -5087,7 +5087,7 @@
         "Number": 3,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yaoyao_3",
@@ -5110,7 +5110,7 @@
         "Number": 5,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yaoyao_5",
@@ -5122,9 +5122,9 @@
         "Number": 6,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          -1,
-          8,
-          -1,
+          1,
+          16,
+          17,
           0
         ],
         "Id": "constellation_yaoyao_6",
@@ -5160,7 +5160,7 @@
         "Number": 3,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yanfei_3",
@@ -5173,8 +5173,8 @@
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Id": "constellation_yanfei_4",
         "DateAdded": null
@@ -5185,7 +5185,7 @@
         "Number": 5,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yanfei_5",
@@ -5221,7 +5221,7 @@
         "Number": 2,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yelan_2",
@@ -5233,7 +5233,7 @@
         "Number": 3,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yelan_3",
@@ -5256,7 +5256,7 @@
         "Number": 5,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yelan_5",
@@ -5268,8 +5268,8 @@
         "Number": 6,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Id": "constellation_yelan_6",
@@ -5283,7 +5283,7 @@
         "Number": 1,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yoimiya_1",
@@ -5295,7 +5295,7 @@
         "Number": 2,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yoimiya_2",
@@ -5307,7 +5307,7 @@
         "Number": 3,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yoimiya_3",
@@ -5330,7 +5330,7 @@
         "Number": 5,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yoimiya_5",
@@ -5377,7 +5377,7 @@
         "Number": 3,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yun_jin_3",
@@ -5400,7 +5400,7 @@
         "Number": 5,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_yun_jin_5",
@@ -5447,7 +5447,7 @@
         "Number": 3,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_zhongli_3",
@@ -5470,7 +5470,7 @@
         "Number": 5,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_zhongli_5",
@@ -5482,7 +5482,7 @@
         "Number": 6,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_zhongli_6",
@@ -5518,7 +5518,7 @@
         "Number": 3,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_anemo_3",
@@ -5541,7 +5541,7 @@
         "Number": 5,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_anemo_5",
@@ -5553,7 +5553,7 @@
         "Number": 6,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_anemo_6",
@@ -5589,7 +5589,7 @@
         "Number": 3,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_geo_3",
@@ -5601,7 +5601,7 @@
         "Number": 4,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_geo_4",
@@ -5613,7 +5613,7 @@
         "Number": 5,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_geo_5",
@@ -5625,7 +5625,7 @@
         "Number": 6,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_geo_6",
@@ -5661,7 +5661,7 @@
         "Number": 3,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_electro_3",
@@ -5684,7 +5684,7 @@
         "Number": 5,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_electro_5",
@@ -5731,7 +5731,7 @@
         "Number": 3,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_dendro_3",
@@ -5743,7 +5743,7 @@
         "Number": 4,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_dendro_4",
@@ -5755,7 +5755,7 @@
         "Number": 5,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_dendro_5",
@@ -5780,7 +5780,7 @@
         "Number": 1,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_hydro_1",
@@ -5803,7 +5803,7 @@
         "Number": 3,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_hydro_3",
@@ -5815,7 +5815,7 @@
         "Number": 4,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_hydro_4",
@@ -5827,7 +5827,7 @@
         "Number": 5,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Id": "constellation_traveler_hydro_5",

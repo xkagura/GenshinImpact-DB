@@ -20,17 +20,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "butterfly_wings",
       "DateAdded": "2020-09-28T00:00:00"
@@ -59,17 +50,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "crystal_core",
       "DateAdded": "2020-09-28T00:00:00"
@@ -94,17 +76,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "electro_crystal",
       "DateAdded": "2020-09-28T00:00:00"
@@ -129,17 +102,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "flaming_flower_stamen",
       "DateAdded": "2020-09-28T00:00:00"
@@ -164,17 +128,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "frog",
       "DateAdded": "2020-09-28T00:00:00"
@@ -199,17 +154,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "lizard_tail",
       "DateAdded": "2020-09-28T00:00:00"
@@ -234,17 +180,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "luminescent_spine",
       "DateAdded": "2020-09-28T00:00:00"
@@ -269,17 +206,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "mist_flower_corolla",
       "DateAdded": "2020-09-28T00:00:00"
@@ -294,17 +222,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "strange_tooth",
       "DateAdded": "2020-12-23T00:00:00"
@@ -315,17 +234,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "dust_of_azoth",
       "DateAdded": "2021-02-03T00:00:00"
@@ -336,17 +248,10 @@
       "UnixTimerFactory": null,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "dream_solvent",
       "DateAdded": "2021-04-28T00:00:00"

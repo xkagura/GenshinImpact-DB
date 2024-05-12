@@ -5,17 +5,10 @@
       "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "brilliant_diamond_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -25,17 +18,10 @@
       "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "brilliant_diamond_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -45,17 +31,10 @@
       "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "brilliant_diamond_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -65,17 +44,10 @@
       "GemType": "diamond",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "brilliant_diamond_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -85,17 +57,10 @@
       "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "agnidus_agate_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -105,17 +70,10 @@
       "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "agnidus_agate_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -125,17 +83,10 @@
       "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "agnidus_agate_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -145,17 +96,10 @@
       "GemType": "agnidus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "agnidus_agate_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -165,17 +109,10 @@
       "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "varunada_lazurite_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -185,17 +122,10 @@
       "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "varunada_lazurite_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -205,17 +135,10 @@
       "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "varunada_lazurite_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -225,17 +148,10 @@
       "GemType": "varunada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "varunada_lazurite_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -245,17 +161,10 @@
       "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "vajrada_amethyst_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -265,17 +174,10 @@
       "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "vajrada_amethyst_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -285,17 +187,10 @@
       "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "vajrada_amethyst_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -305,17 +200,10 @@
       "GemType": "vajrada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "vajrada_amethyst_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -325,17 +213,10 @@
       "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "vayuda_turquoise_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -345,17 +226,10 @@
       "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "vayuda_turquoise_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -365,17 +239,10 @@
       "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "vayuda_turquoise_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -385,17 +252,10 @@
       "GemType": "vayuda",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "vayuda_turquoise_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -405,17 +265,10 @@
       "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "shivada_jade_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -425,17 +278,10 @@
       "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "shivada_jade_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -445,17 +291,10 @@
       "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "shivada_jade_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -465,17 +304,10 @@
       "GemType": "shivada",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "shivada_jade_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -485,17 +317,10 @@
       "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "prithiva_topaz_sliver",
       "DateAdded": "2020-09-28T00:00:00"
@@ -505,17 +330,10 @@
       "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "prithiva_topaz_fragment",
       "DateAdded": "2020-09-28T00:00:00"
@@ -525,17 +343,10 @@
       "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "prithiva_topaz_chunk",
       "DateAdded": "2020-09-28T00:00:00"
@@ -545,17 +356,10 @@
       "GemType": "prithiva",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "prithiva_topaz_gemstone",
       "DateAdded": "2020-09-28T00:00:00"
@@ -565,17 +369,10 @@
       "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "nagadus_emerald_sliver",
       "DateAdded": "2022-08-24T00:00:00"
@@ -585,17 +382,10 @@
       "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "nagadus_emerald_fragment",
       "DateAdded": "2022-08-24T00:00:00"
@@ -605,17 +395,10 @@
       "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "nagadus_emerald_chunk",
       "DateAdded": "2022-08-24T00:00:00"
@@ -625,17 +408,10 @@
       "GemType": "nagadus",
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "nagadus_emerald_gemstone",
       "DateAdded": "2022-08-24T00:00:00"

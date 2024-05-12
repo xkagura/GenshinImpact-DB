@@ -24,17 +24,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "calla_lily",
       "DateAdded": "2020-09-28T00:00:00"
@@ -63,17 +54,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "cecilia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -102,17 +84,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "dandelion_seed",
       "DateAdded": "2020-09-28T00:00:00"
@@ -143,17 +116,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "philanemo_mushroom",
       "DateAdded": "2020-09-28T00:00:00"
@@ -182,17 +146,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "small_lamp_grass",
       "DateAdded": "2020-09-28T00:00:00"
@@ -222,17 +177,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "valberry",
       "DateAdded": "2020-09-28T00:00:00"
@@ -263,17 +209,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "windwheel_aster",
       "DateAdded": "2020-09-28T00:00:00"
@@ -302,17 +239,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "wolfhook",
       "DateAdded": "2020-09-28T00:00:00"
@@ -343,17 +271,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "cor_lapis",
       "DateAdded": "2020-09-28T00:00:00"
@@ -383,17 +302,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "glaze_lily",
       "DateAdded": "2020-09-28T00:00:00"
@@ -424,17 +334,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "jueyun_chili",
       "DateAdded": "2020-09-28T00:00:00"
@@ -463,17 +364,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "noctilucous_jade",
       "DateAdded": "2020-09-28T00:00:00"
@@ -503,17 +395,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "qingxin",
       "DateAdded": "2020-09-28T00:00:00"
@@ -543,17 +426,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "silk_flower",
       "DateAdded": "2020-09-28T00:00:00"
@@ -583,17 +457,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "starconch",
       "DateAdded": "2020-09-28T00:00:00"
@@ -622,17 +487,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "violetgrass",
       "DateAdded": "2020-09-28T00:00:00"
@@ -663,17 +519,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "amakumo_fruit",
       "DateAdded": "2021-09-01T00:00:00"
@@ -703,17 +550,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "crystal_marrow",
       "DateAdded": "2021-07-21T00:00:00"
@@ -743,17 +581,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "dendrobium",
       "DateAdded": "2021-07-21T00:00:00"
@@ -782,17 +611,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "fluorescent_fungus",
       "DateAdded": "2021-10-13T00:00:00"
@@ -821,17 +641,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "naku_weed",
       "DateAdded": "2021-07-21T00:00:00"
@@ -861,17 +672,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "onikabuto",
       "DateAdded": "2021-07-21T00:00:00"
@@ -900,17 +702,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "sakura_bloom",
       "DateAdded": "2021-07-21T00:00:00"
@@ -940,17 +733,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "sango_pearl",
       "DateAdded": "2021-09-01T00:00:00"
@@ -979,17 +763,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "sea_ganoderma",
       "DateAdded": "2021-06-09T00:00:00"
@@ -1020,17 +795,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "henna_berry",
       "DateAdded": "2022-09-28T00:00:00"
@@ -1059,17 +825,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "kalpalata_lotus",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1098,17 +855,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "mourning_flower",
       "DateAdded": "2023-04-12T00:00:00"
@@ -1137,17 +885,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "nilotpala_lotus",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1176,17 +915,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "padisarah",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1215,17 +945,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "rukkhashava_mushrooms",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1254,17 +975,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "sand_grease_pupa",
       "DateAdded": "2023-01-18T00:00:00"
@@ -1293,17 +1005,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "scarab",
       "DateAdded": "2022-09-28T00:00:00"
@@ -1333,17 +1036,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "trishiraite",
       "DateAdded": "2023-04-12T00:00:00"
@@ -1374,17 +1068,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "beryl_conch",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1414,17 +1099,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "lakelight_lily",
       "DateAdded": "2023-11-08T00:00:00"
@@ -1454,17 +1130,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "lumidouce_bell",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1493,17 +1160,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "lumitoile",
       "DateAdded": "2023-09-27T00:00:00"
@@ -1532,17 +1190,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "rainbow_rose",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1571,17 +1220,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "romaritime_flower",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1610,17 +1250,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "spring_of_the_first_dewdrop",
       "DateAdded": "2024-04-24T00:00:00"
@@ -1649,17 +1280,8 @@
       },
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": null,
+        "IsCollab": false
       },
       "Id": "subdetection_unit",
       "DateAdded": "2023-09-27T00:00:00"

@@ -9,17 +9,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "tile_of_decarabians_tower",
       "DateAdded": "2020-09-28T00:00:00"
@@ -33,17 +26,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "debris_of_decarabians_city",
       "DateAdded": "2020-09-28T00:00:00"
@@ -57,17 +43,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "fragment_of_decarabians_epic",
       "DateAdded": "2020-09-28T00:00:00"
@@ -81,17 +60,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "scattered_piece_of_decarabians_dream",
       "DateAdded": "2020-09-28T00:00:00"
@@ -105,17 +77,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "boreal_wolfs_milk_tooth",
       "DateAdded": "2020-09-28T00:00:00"
@@ -129,17 +94,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "boreal_wolfs_cracked_tooth",
       "DateAdded": "2020-09-28T00:00:00"
@@ -153,17 +111,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "boreal_wolfs_broken_fang",
       "DateAdded": "2020-09-28T00:00:00"
@@ -177,17 +128,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "boreal_wolfs_nostalgia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -201,17 +145,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "fetters_of_the_dandelion_gladiator",
       "DateAdded": "2020-09-28T00:00:00"
@@ -225,17 +162,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "chains_of_the_dandelion_gladiator",
       "DateAdded": "2020-09-28T00:00:00"
@@ -249,17 +179,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "shackles_of_the_dandelion_gladiator",
       "DateAdded": "2020-09-28T00:00:00"
@@ -273,17 +196,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "dream_of_the_dandelion_gladiator",
       "DateAdded": "2020-09-28T00:00:00"
@@ -297,17 +213,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "luminous_sands_from_guyun",
       "DateAdded": "2020-09-28T00:00:00"
@@ -321,17 +230,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "lustrous_stone_from_guyun",
       "DateAdded": "2020-09-28T00:00:00"
@@ -345,17 +247,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "relic_from_guyun",
       "DateAdded": "2020-09-28T00:00:00"
@@ -369,17 +264,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "divine_body_from_guyun",
       "DateAdded": "2020-09-28T00:00:00"
@@ -393,17 +281,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "mist_veiled_lead_elixir",
       "DateAdded": "2020-09-28T00:00:00"
@@ -417,17 +298,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "mist_veiled_mercury_elixir",
       "DateAdded": "2020-09-28T00:00:00"
@@ -441,17 +315,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "mist_veiled_gold_elixir",
       "DateAdded": "2020-09-28T00:00:00"
@@ -465,17 +332,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "mist_veiled_primo_elixir",
       "DateAdded": "2020-09-28T00:00:00"
@@ -489,17 +349,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "grain_of_aerosiderite",
       "DateAdded": "2020-09-28T00:00:00"
@@ -513,17 +366,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "piece_of_aerosiderite",
       "DateAdded": "2020-09-28T00:00:00"
@@ -537,17 +383,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "bit_of_aerosiderite",
       "DateAdded": "2020-09-28T00:00:00"
@@ -561,17 +400,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "chunk_of_aerosiderite",
       "DateAdded": "2020-09-28T00:00:00"
@@ -585,17 +417,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "coral_branch_of_a_distant_sea",
       "DateAdded": "2021-07-21T00:00:00"
@@ -609,17 +434,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "jeweled_branch_of_a_distant_sea",
       "DateAdded": "2021-07-21T00:00:00"
@@ -633,17 +451,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "jade_branch_of_a_distant_sea",
       "DateAdded": "2021-07-21T00:00:00"
@@ -657,17 +468,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "golden_branch_of_a_distant_sea",
       "DateAdded": "2021-07-21T00:00:00"
@@ -681,17 +485,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "narukamis_wisdom",
       "DateAdded": "2021-07-21T00:00:00"
@@ -705,17 +502,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "narukamis_joy",
       "DateAdded": "2021-07-21T00:00:00"
@@ -729,17 +519,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "narukamis_affection",
       "DateAdded": "2021-07-21T00:00:00"
@@ -753,17 +536,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "narukamis_valor",
       "DateAdded": "2021-07-21T00:00:00"
@@ -777,17 +553,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "mask_of_the_wicked_lieutenant",
       "DateAdded": "2021-07-21T00:00:00"
@@ -801,17 +570,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "mask_of_the_tigers_bite",
       "DateAdded": "2021-07-21T00:00:00"
@@ -825,17 +587,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "mask_of_the_one_horned",
       "DateAdded": "2021-07-21T00:00:00"
@@ -849,17 +604,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "mask_of_the_kijin",
       "DateAdded": "2021-07-21T00:00:00"
@@ -873,17 +621,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "copper_talisman_of_the_forest_dew",
       "DateAdded": "2022-08-24T00:00:00"
@@ -897,17 +638,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "iron_talisman_of_the_forest_dew",
       "DateAdded": "2022-08-24T00:00:00"
@@ -921,17 +655,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "silver_talisman_of_the_forest_dew",
       "DateAdded": "2022-08-24T00:00:00"
@@ -945,17 +672,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "golden_talisman_of_the_forest_dew",
       "DateAdded": "2022-08-24T00:00:00"
@@ -969,17 +689,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "oasis_gardens_reminiscence",
       "DateAdded": "2022-08-24T00:00:00"
@@ -993,17 +706,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "oasis_gardens_kindness",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1017,17 +723,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "oasis_gardens_mourning",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1041,17 +740,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "oasis_gardens_truth",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1065,17 +757,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "echo_of_scorching_might",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1089,17 +774,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "remnant_glow_of_scorching_might",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1113,17 +791,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "dream_of_scorching_might",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1137,17 +808,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "olden_days_of_scorching_might",
       "DateAdded": "2022-08-24T00:00:00"
@@ -1161,17 +825,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "fragment_of_an_ancient_chord",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1185,17 +842,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "chapter_of_an_ancient_chord",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1209,17 +859,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "movement_of_an_ancient_chord",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1233,17 +876,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "echo_of_an_ancient_chord",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1257,17 +893,10 @@
       "Set": 8192,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "dross_of_pure_sacred_dewdrop",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1281,17 +910,10 @@
       "Set": 8192,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "sublimation_of_pure_sacred_dewdrop",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1305,17 +927,10 @@
       "Set": 8192,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "spring_of_pure_sacred_dewdrop",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1329,17 +944,10 @@
       "Set": 8192,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "essence_of_pure_sacred_dewdrop",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1353,17 +961,10 @@
       "Set": 16384,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "broken_goblet_of_the_pristine_sea",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1377,17 +978,10 @@
       "Set": 16384,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "wine_goblet_of_the_pristine_sea",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1401,17 +995,10 @@
       "Set": 16384,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "Id": "silver_goblet_of_the_pristine_sea",
       "DateAdded": "2023-08-16T00:00:00"
@@ -1425,17 +1012,10 @@
       "Set": 16384,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "Id": "golden_goblet_of_the_pristine_sea",
       "DateAdded": "2023-08-16T00:00:00"

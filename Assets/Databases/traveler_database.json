@@ -4,17 +4,10 @@
       "Id": "traveler_anemo",
       "ElementType": 2,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 0,
@@ -46,17 +39,10 @@
       "Id": "traveler_cryo",
       "ElementType": 4,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 0,
@@ -88,17 +74,10 @@
       "Id": "traveler_dendro",
       "ElementType": 8,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 0,
@@ -130,17 +109,10 @@
       "Id": "traveler_electro",
       "ElementType": 16,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 0,
@@ -172,17 +144,10 @@
       "Id": "traveler_geo",
       "ElementType": 32,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 0,
@@ -214,17 +179,10 @@
       "Id": "traveler_hydro",
       "ElementType": 64,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 1,
@@ -256,17 +214,10 @@
       "Id": "traveler_pyro",
       "ElementType": 128,
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "WeaponType": 16,
       "ArkheType": 0,

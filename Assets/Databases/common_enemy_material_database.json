@@ -4,17 +4,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "slime_condensate",
       "DateAdded": "2020-09-28T00:00:00"
@@ -23,17 +16,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "slime_secretions",
       "DateAdded": "2020-09-28T00:00:00"
@@ -42,17 +28,10 @@
       "Set": 1,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "slime_concentrate",
       "DateAdded": "2020-09-28T00:00:00"
@@ -61,17 +40,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "damaged_mask",
       "DateAdded": "2020-09-28T00:00:00"
@@ -80,17 +52,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "stained_mask",
       "DateAdded": "2020-09-28T00:00:00"
@@ -99,17 +64,10 @@
       "Set": 2,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "ominous_mask",
       "DateAdded": "2020-09-28T00:00:00"
@@ -118,17 +76,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "divining_scroll",
       "DateAdded": "2020-09-28T00:00:00"
@@ -137,17 +88,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "sealed_scroll",
       "DateAdded": "2020-09-28T00:00:00"
@@ -156,17 +100,10 @@
       "Set": 8,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "forbidden_curse_scroll",
       "DateAdded": "2020-09-28T00:00:00"
@@ -175,17 +112,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "firm_arrowhead",
       "DateAdded": "2020-09-28T00:00:00"
@@ -194,17 +124,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "sharp_arrowhead",
       "DateAdded": "2020-09-28T00:00:00"
@@ -213,17 +136,10 @@
       "Set": 4,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "weathered_arrowhead",
       "DateAdded": "2020-09-28T00:00:00"
@@ -232,17 +148,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "recruits_insignia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -251,17 +160,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "sergeants_insignia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -270,17 +172,10 @@
       "Set": 32,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "lieutenants_insignia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -289,17 +184,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "treasure_hoarder_insignia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -308,17 +196,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "silver_raven_insignia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -327,17 +208,10 @@
       "Set": 16,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "golden_raven_insignia",
       "DateAdded": "2020-09-28T00:00:00"
@@ -346,17 +220,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "whopperflower_nectar",
       "DateAdded": "2020-09-28T00:00:00"
@@ -365,17 +232,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "shimmering_nectar",
       "DateAdded": "2020-09-28T00:00:00"
@@ -384,17 +244,10 @@
       "Set": 64,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "energy_nectar",
       "DateAdded": "2020-09-28T00:00:00"
@@ -403,17 +256,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "old_handguard",
       "DateAdded": "2021-07-21T00:00:00"
@@ -422,17 +268,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "kageuchi_handguard",
       "DateAdded": "2021-07-21T00:00:00"
@@ -441,17 +280,10 @@
       "Set": 128,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "famed_handguard",
       "DateAdded": "2021-07-21T00:00:00"
@@ -460,17 +292,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "spectral_husk",
       "DateAdded": "2021-09-01T00:00:00"
@@ -479,17 +304,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "spectral_heart",
       "DateAdded": "2021-09-01T00:00:00"
@@ -498,17 +316,10 @@
       "Set": 256,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "spectral_nucleus",
       "DateAdded": "2021-09-01T00:00:00"
@@ -517,17 +328,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "fungal_spores",
       "DateAdded": "2022-03-30T00:00:00"
@@ -536,17 +340,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "luminescent_pollen",
       "DateAdded": "2022-03-30T00:00:00"
@@ -555,17 +352,10 @@
       "Set": 512,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "crystalline_cyst_dust",
       "DateAdded": "2022-03-30T00:00:00"
@@ -574,17 +364,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "faded_red_satin",
       "DateAdded": "2022-08-24T00:00:00"
@@ -593,17 +376,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "trimmed_red_silk",
       "DateAdded": "2022-08-24T00:00:00"
@@ -612,17 +388,10 @@
       "Set": 1024,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "rich_red_brocade",
       "DateAdded": "2022-08-24T00:00:00"
@@ -631,17 +400,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "transoceanic_pearl",
       "DateAdded": "2023-08-16T00:00:00"
@@ -650,17 +412,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "transoceanic_chunk",
       "DateAdded": "2023-08-16T00:00:00"
@@ -669,17 +424,10 @@
       "Set": 2048,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "xenochromatic_crystal",
       "DateAdded": "2023-08-16T00:00:00"
@@ -688,17 +436,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 1,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 1,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 1
+        "Range": [
+          1
+        ],
+        "IsCollab": false
       },
       "Id": "meshing_gear",
       "DateAdded": "2023-08-16T00:00:00"
@@ -707,17 +448,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 2,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 2,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 2
+        "Range": [
+          2
+        ],
+        "IsCollab": false
       },
       "Id": "mechanical_spur_gear",
       "DateAdded": "2023-08-16T00:00:00"
@@ -726,17 +460,10 @@
       "Set": 4096,
       "EntityId": "material",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "Id": "artificed_dynamic_gear",
       "DateAdded": "2023-08-16T00:00:00"

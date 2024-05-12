@@ -3,17 +3,10 @@
     "original_resin": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 3,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 3,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 3
+        "Range": [
+          3
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": null,
       "Id": "original_resin",
@@ -22,17 +15,10 @@
     "condensed_resin": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": null,
       "Id": "condensed_resin",
@@ -41,17 +27,10 @@
     "fragile_resin": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": null,
       "Id": "fragile_resin",
@@ -60,17 +39,10 @@
     "transient_resin": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 4,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 4,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 4
+        "Range": [
+          4
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": null,
       "Id": "transient_resin",
@@ -81,17 +53,10 @@
     "intertwined_fate": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": null,
       "Id": "intertwined_fate",
@@ -100,17 +65,10 @@
     "acquaint_fate": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 5,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 5,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 5
+        "Range": [
+          5
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": null,
       "Id": "acquaint_fate",
@@ -119,17 +77,10 @@
     "anemoculus": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -148,17 +99,10 @@
     "dendroculus": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -177,17 +121,10 @@
     "geoculus": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -206,17 +143,10 @@
     "electroculus": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -235,17 +165,10 @@
     "hydroculus": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -264,17 +187,10 @@
     "crimson_agate": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -293,17 +209,10 @@
     "lumenspar": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -322,17 +231,10 @@
     "mondstadt_shrine_of_depths_key": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -351,17 +253,10 @@
     "liyue_shrine_of_depths_key": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -380,17 +275,10 @@
     "inazuma_shrine_of_depths_key": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -409,17 +297,10 @@
     "sumeru_shrine_of_depths_key": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {
@@ -438,17 +319,10 @@
     "fontaine_shrine_of_depths_key": {
       "EntityId": "precious_item",
       "Rarity": {
-        "Range": {
-          "Start": {
-            "Value": 0,
-            "IsFromEnd": false
-          },
-          "End": {
-            "Value": 0,
-            "IsFromEnd": false
-          }
-        },
-        "Value": 0
+        "Range": [
+          0
+        ],
+        "IsCollab": false
       },
       "InteractiveMapPoint": {
         "Coordinate": {

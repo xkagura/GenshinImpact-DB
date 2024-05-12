@@ -8,12 +8,12 @@
         "Number": 1,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -149,13 +149,13 @@
         "Number": 2,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          -1,
+          1,
+          8,
           4,
-          2,
-          8,
-          8,
-          8,
-          -1,
+          16,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -218,8 +218,8 @@
         "Number": 3,
         "CharacterId": "albedo",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -336,12 +336,12 @@
         "Number": 1,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -462,15 +462,15 @@
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
+          8,
+          1,
+          8,
           4,
-          -1,
-          4,
-          2,
-          8,
-          8,
-          8,
-          8
+          16,
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -562,8 +562,8 @@
         "Number": 3,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -670,7 +670,7 @@
         "Number": 5,
         "CharacterId": "alhaitham",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -707,12 +707,12 @@
         "Number": 1,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -822,13 +822,13 @@
         "Number": 2,
         "CharacterId": "aloy",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          -1,
-          4,
+          1,
+          1,
+          1,
           8,
-          -1,
-          -1,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -1030,12 +1030,12 @@
         "Number": 1,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -1154,12 +1154,12 @@
         "Number": 2,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
+          16,
+          16,
+          17,
           8,
-          -1,
-          4,
           0,
           0
         ],
@@ -1311,7 +1311,7 @@
         "Number": 6,
         "CharacterId": "amber",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -1331,11 +1331,11 @@
         "Number": 1,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -1492,10 +1492,10 @@
         "Number": 3,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -1563,12 +1563,12 @@
         "Number": 4,
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
-          4,
-          -1,
-          0,
-          2,
           8,
-          8
+          1,
+          0,
+          4,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -1634,8 +1634,8 @@
         "CharacterId": "kamisato_ayaka",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -1671,11 +1671,11 @@
         "Number": 1,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -1794,13 +1794,13 @@
         "Number": 2,
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
-          -1,
+          1,
+          8,
+          1,
           4,
-          -1,
-          2,
-          8,
-          8,
-          -1,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -1968,8 +1968,8 @@
         "CharacterId": "kamisato_ayato",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -2022,12 +2022,12 @@
         "Number": 1,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -2135,7 +2135,7 @@
         "Number": 2,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -2187,10 +2187,10 @@
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
           0,
-          -1,
-          -1,
-          8,
-          8
+          1,
+          5,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -2282,9 +2282,9 @@
         "Number": 4,
         "CharacterId": "baizhu",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          5,
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -2337,11 +2337,11 @@
         "Number": 1,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -2450,12 +2450,12 @@
         "Number": 2,
         "CharacterId": "barbara",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          8,
-          8
+          16,
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -2631,12 +2631,12 @@
         "Number": 1,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -2775,15 +2775,15 @@
         "Number": 2,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
-          0,
-          0,
-          2,
+          1,
           8,
-          8
+          1,
+          8,
+          0,
+          0,
+          4,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -2843,10 +2843,10 @@
         "Number": 3,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -2943,8 +2943,8 @@
         "CharacterId": "beidou",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -2961,7 +2961,7 @@
         "Number": 6,
         "CharacterId": "beidou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -2981,11 +2981,11 @@
         "Number": 1,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -3106,13 +3106,13 @@
         "CharacterId": "bennett",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
-          0,
+          1,
           8,
-          -1,
+          1,
+          8,
+          0,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -3185,11 +3185,11 @@
         "Number": 3,
         "CharacterId": "bennett",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -3322,11 +3322,11 @@
         "Number": 1,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -3436,11 +3436,11 @@
         "Number": 2,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -3511,12 +3511,12 @@
         "Number": 3,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          -1,
+          1,
+          8,
           4,
-          2,
-          8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -3638,7 +3638,7 @@
         "Number": 6,
         "CharacterId": "candace",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -3658,14 +3658,14 @@
         "Number": 1,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -3783,10 +3783,10 @@
         "Number": 2,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
           0,
           0
@@ -3907,10 +3907,10 @@
         "Number": 3,
         "CharacterId": "charlotte",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -4055,12 +4055,12 @@
         "Number": 1,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -4171,11 +4171,11 @@
         "DescriptionFormatting": [
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -4371,7 +4371,7 @@
         "Number": 6,
         "CharacterId": "chevreuse",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -4391,12 +4391,12 @@
         "Number": 1,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -4525,7 +4525,7 @@
         "Number": 2,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -4584,7 +4584,7 @@
         "Number": 3,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -4650,7 +4650,7 @@
         "Number": 5,
         "CharacterId": "chongyun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -4687,12 +4687,12 @@
         "Number": 1,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -4801,7 +4801,7 @@
         "Number": 2,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -4840,8 +4840,8 @@
         "Number": 3,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -4910,7 +4910,7 @@
         "Number": 4,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -4928,7 +4928,7 @@
         "Number": 5,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -4946,7 +4946,7 @@
         "Number": 6,
         "CharacterId": "collei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -4966,11 +4966,11 @@
         "Number": 1,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -5080,7 +5080,7 @@
         "Number": 2,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -5149,8 +5149,8 @@
         "Number": 3,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -5310,7 +5310,7 @@
         "Number": 4,
         "CharacterId": "cyno",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -5329,8 +5329,8 @@
         "CharacterId": "cyno",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -5366,13 +5366,13 @@
         "Number": 1,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -5500,18 +5500,18 @@
         "Number": 2,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
-          -1,
-          -1,
-          4,
+          1,
+          1,
+          8,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -5602,10 +5602,10 @@
         "CharacterId": "dehya",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -5676,7 +5676,7 @@
         "Number": 4,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -5711,7 +5711,7 @@
         "Number": 6,
         "CharacterId": "dehya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -5731,12 +5731,12 @@
         "Number": 1,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -5865,7 +5865,7 @@
         "Number": 2,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -5924,8 +5924,8 @@
         "Number": 3,
         "CharacterId": "diluc",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -6057,12 +6057,12 @@
         "Number": 1,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -6182,12 +6182,12 @@
         "CharacterId": "diona",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -6258,10 +6258,10 @@
         "Number": 3,
         "CharacterId": "diona",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -6394,11 +6394,11 @@
         "Number": 1,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -6518,7 +6518,7 @@
         "Number": 2,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -6567,13 +6567,13 @@
         "Number": 3,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          8,
-          8,
-          -1,
-          -1,
+          16,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -6654,7 +6654,7 @@
         "Number": 4,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -6672,7 +6672,7 @@
         "Number": 5,
         "CharacterId": "dori",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -6709,12 +6709,12 @@
         "Number": 1,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -6855,13 +6855,13 @@
         "Number": 2,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
           0,
           0
@@ -6982,8 +6982,8 @@
         "Number": 3,
         "CharacterId": "eula",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0,
           0,
           0
@@ -7117,13 +7117,13 @@
         "Number": 1,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -7231,9 +7231,9 @@
         "Number": 2,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          4,
+          1,
+          1,
+          8,
           0,
           0
         ],
@@ -7293,11 +7293,11 @@
         "Number": 3,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          4,
+          1,
+          1,
           8,
-          8
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -7412,7 +7412,7 @@
         "Number": 5,
         "CharacterId": "faruzan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -7449,12 +7449,12 @@
         "Number": 1,
         "CharacterId": "fischl",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -7574,7 +7574,7 @@
         "CharacterId": "fischl",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0,
           0
         ],
@@ -7635,10 +7635,10 @@
         "CharacterId": "fischl",
         "DescriptionFormatting": [
           0,
-          2,
-          8,
-          8,
-          8
+          4,
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -7739,13 +7739,13 @@
         "Number": 1,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -7874,16 +7874,16 @@
         "CharacterId": "freminet",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          2,
-          8,
-          8,
+          1,
           8,
           4,
+          16,
+          16,
+          16,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -8005,10 +8005,10 @@
         "Number": 3,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          -1,
-          2,
-          8,
-          -1,
+          1,
+          4,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -8101,7 +8101,7 @@
         "Number": 6,
         "CharacterId": "freminet",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -8121,14 +8121,14 @@
         "Number": 1,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -8258,13 +8258,13 @@
         "Number": 2,
         "CharacterId": "furina",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
           0,
           0
         ],
@@ -8531,14 +8531,14 @@
         "Number": 1,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          0,
-          0,
           8,
-          -1,
-          4,
+          1,
+          8,
+          0,
+          0,
+          16,
+          17,
+          8,
           0
         ],
         "Attributes": [
@@ -8687,11 +8687,11 @@
         "Number": 2,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -8749,7 +8749,7 @@
         "Number": 3,
         "CharacterId": "ganyu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -8861,12 +8861,12 @@
         "Number": 1,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -8975,15 +8975,15 @@
         "Number": 2,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          -1,
-          4,
-          0,
+          1,
           8,
-          8,
-          -1,
           0,
-          -1,
-          4,
+          16,
+          16,
+          17,
+          0,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -9052,13 +9052,13 @@
         "Number": 3,
         "CharacterId": "gorou",
         "DescriptionFormatting": [
-          -1,
+          1,
+          8,
           4,
-          2,
-          8,
-          8,
-          -1,
-          -1,
+          16,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -9145,8 +9145,8 @@
         "CharacterId": "gorou",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -9182,11 +9182,11 @@
         "Number": 1,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -9307,11 +9307,11 @@
         "Number": 2,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -9380,8 +9380,8 @@
         "Number": 3,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -9474,7 +9474,7 @@
         "Number": 6,
         "CharacterId": "shikanoin_heizou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -9494,11 +9494,11 @@
         "Number": 1,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -9629,15 +9629,15 @@
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
           8,
+          16,
+          16,
+          16,
+          17,
           8,
-          8,
-          -1,
-          4,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -9716,7 +9716,7 @@
         "Number": 3,
         "CharacterId": "hu_tao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0,
           0
         ],
@@ -9849,15 +9849,15 @@
         "Number": 1,
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
-          4,
+          8,
           0,
           0,
-          -1,
-          -1,
-          4,
+          1,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -9997,14 +9997,14 @@
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0,
+          16,
+          16,
+          16,
+          17,
           8,
-          8,
-          8,
-          -1,
-          4,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -10064,11 +10064,11 @@
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
           0,
-          2,
-          8,
-          8,
-          8,
-          -1,
+          4,
+          16,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -10138,8 +10138,8 @@
         "CharacterId": "arataki_itto",
         "DescriptionFormatting": [
           0,
-          8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [],
@@ -10193,12 +10193,12 @@
         "Number": 1,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -10317,8 +10317,8 @@
         "Number": 2,
         "CharacterId": "jean",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
           0
@@ -10380,10 +10380,10 @@
         "CharacterId": "jean",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
           8,
-          8
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -10518,11 +10518,11 @@
         "Number": 1,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -10680,7 +10680,7 @@
         "Number": 3,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -10756,7 +10756,7 @@
         "Number": 5,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -10774,7 +10774,7 @@
         "Number": 6,
         "CharacterId": "kaeya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -10794,13 +10794,13 @@
         "Number": 1,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -10966,10 +10966,10 @@
         "Number": 3,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8,
-          -1,
+          5,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -11055,7 +11055,7 @@
         "Number": 5,
         "CharacterId": "kaveh",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -11092,13 +11092,13 @@
         "Number": 1,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -11220,12 +11220,12 @@
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
+          1,
+          8,
           0,
           0
         ],
@@ -11286,8 +11286,8 @@
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0
         ],
@@ -11368,7 +11368,7 @@
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -11403,7 +11403,7 @@
         "Number": 6,
         "CharacterId": "kaedehara_kazuha",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -11423,11 +11423,11 @@
         "Number": 1,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -11549,14 +11549,14 @@
         "CharacterId": "keqing",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          0,
-          -1,
-          4,
-          0,
+          1,
           8,
-          8
+          0,
+          1,
+          8,
+          0,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -11614,8 +11614,8 @@
         "Number": 3,
         "CharacterId": "keqing",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -11737,12 +11737,12 @@
         "Number": 1,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -11853,17 +11853,17 @@
         "Number": 2,
         "CharacterId": "kirara",
         "DescriptionFormatting": [
-          4,
-          -1,
-          -1,
-          4,
-          -1,
-          4,
           8,
+          1,
+          1,
           8,
+          1,
           8,
-          8,
-          8
+          16,
+          16,
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -12087,11 +12087,11 @@
         "Number": 1,
         "CharacterId": "klee",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -12191,9 +12191,9 @@
         "CharacterId": "klee",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -12363,11 +12363,11 @@
         "Number": 1,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -12467,8 +12467,8 @@
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -12529,11 +12529,11 @@
         "Number": 3,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          -1,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -12668,7 +12668,7 @@
         "Number": 6,
         "CharacterId": "sangonomiya_kokomi",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -12705,12 +12705,12 @@
         "Number": 1,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -12810,11 +12810,11 @@
         "CharacterId": "layla",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -12885,7 +12885,7 @@
         "Number": 3,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -12944,9 +12944,9 @@
         "Number": 4,
         "CharacterId": "layla",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8
+          1,
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -12999,11 +12999,11 @@
         "Number": 1,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -13112,11 +13112,11 @@
         "Number": 2,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0
         ],
@@ -13206,7 +13206,7 @@
         "Number": 3,
         "CharacterId": "lisa",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -13318,12 +13318,12 @@
         "Number": 1,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -13435,14 +13435,14 @@
         "DescriptionFormatting": [
           0,
           0,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
-          -1,
-          -1,
-          4,
+          1,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -13531,11 +13531,11 @@
         "Number": 3,
         "CharacterId": "lynette",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          -1,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -13667,24 +13667,24 @@
         "Number": 1,
         "CharacterId": "lyney",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          0,
-          0,
           8,
+          1,
+          8,
+          1,
           8,
           0,
-          -1,
-          4,
+          0,
+          16,
+          16,
+          0,
+          1,
           8,
+          16,
+          16,
+          16,
+          1,
           8,
-          8,
-          -1,
-          4,
-          -1
+          1
         ],
         "Attributes": [
           {
@@ -13864,7 +13864,7 @@
         "CharacterId": "lyney",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0,
           0
         ],
@@ -13925,7 +13925,7 @@
         "CharacterId": "lyney",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -14012,8 +14012,8 @@
         "CharacterId": "lyney",
         "DescriptionFormatting": [
           0,
-          8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [],
@@ -14050,12 +14050,12 @@
         "Number": 1,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -14175,11 +14175,11 @@
         "CharacterId": "mika",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -14257,8 +14257,8 @@
         "Number": 3,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
           0
         ],
@@ -14343,8 +14343,8 @@
         "CharacterId": "mika",
         "DescriptionFormatting": [
           0,
-          8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [],
@@ -14362,8 +14362,8 @@
         "Number": 5,
         "CharacterId": "mika",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [],
@@ -14400,11 +14400,11 @@
         "Number": 1,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -14513,13 +14513,13 @@
         "Number": 2,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
-          2,
-          8,
-          8,
-          -1,
+          1,
           4,
-          -1,
+          16,
+          16,
+          17,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -14568,14 +14568,14 @@
         "Number": 3,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
-          4,
-          0,
-          -1,
-          0,
+          1,
           8,
-          -1,
-          4,
+          0,
+          1,
+          0,
+          16,
+          17,
+          8,
           0
         ],
         "Attributes": [
@@ -14654,8 +14654,8 @@
         "Number": 4,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          4,
-          -1,
+          8,
+          1,
           0,
           0
         ],
@@ -14695,7 +14695,7 @@
         "Number": 5,
         "CharacterId": "mona",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -14749,12 +14749,12 @@
         "Number": 1,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -14863,13 +14863,13 @@
         "CharacterId": "nahida",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1
+          1
         ],
         "Attributes": [
           {
@@ -14958,12 +14958,12 @@
         "Number": 3,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          8,
-          8,
-          -1,
-          -1,
+          1,
+          1,
+          16,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -15072,8 +15072,8 @@
         "Number": 4,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [],
@@ -15091,7 +15091,7 @@
         "Number": 5,
         "CharacterId": "nahida",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -15128,13 +15128,13 @@
         "Number": 1,
         "CharacterId": "navia",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -15265,11 +15265,11 @@
           0,
           0,
           0,
-          -1,
-          4,
-          -1,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -15460,20 +15460,20 @@
         "Number": 1,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -15602,8 +15602,8 @@
         "Number": 2,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -15765,7 +15765,7 @@
         "Number": 6,
         "CharacterId": "neuvillette",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -15785,12 +15785,12 @@
         "Number": 1,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -15890,10 +15890,10 @@
         "CharacterId": "nilou",
         "DescriptionFormatting": [
           0,
-          -1,
-          2,
-          8,
-          -1,
+          1,
+          4,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -16054,12 +16054,12 @@
         "CharacterId": "nilou",
         "DescriptionFormatting": [
           0,
-          8,
-          8,
-          8,
-          8,
-          8,
-          8
+          16,
+          16,
+          16,
+          16,
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -16076,7 +16076,7 @@
         "Number": 5,
         "CharacterId": "nilou",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -16113,13 +16113,13 @@
         "Number": 1,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          4,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -16208,10 +16208,10 @@
         "Number": 2,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -16260,7 +16260,7 @@
         "Number": 3,
         "CharacterId": "ningguang",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -16362,12 +16362,12 @@
         "Number": 1,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -16497,9 +16497,9 @@
         "CharacterId": "noelle",
         "DescriptionFormatting": [
           0,
-          2,
-          8,
-          -1,
+          4,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -16583,10 +16583,10 @@
         "CharacterId": "noelle",
         "DescriptionFormatting": [
           0,
-          2,
-          8,
-          8,
-          8
+          4,
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -16665,8 +16665,8 @@
         "CharacterId": "noelle",
         "DescriptionFormatting": [
           0,
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [],
@@ -16684,7 +16684,7 @@
         "Number": 5,
         "CharacterId": "noelle",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -16721,11 +16721,11 @@
         "Number": 1,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -16847,11 +16847,11 @@
         "Number": 2,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -16933,8 +16933,8 @@
         "Number": 3,
         "CharacterId": "qiqi",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -17058,11 +17058,11 @@
         "Number": 1,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -17182,11 +17182,11 @@
         "Number": 2,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          -1,
-          -1,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -17255,15 +17255,15 @@
         "Number": 3,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
           0,
-          -1,
-          -1,
-          4,
-          -1,
-          -1,
+          1,
+          1,
+          8,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -17455,7 +17455,7 @@
         "Number": 4,
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -17474,8 +17474,8 @@
         "CharacterId": "raiden_shogun",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -17511,12 +17511,12 @@
         "Number": 1,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -17645,12 +17645,12 @@
         "Number": 2,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0
         ],
@@ -17741,14 +17741,14 @@
         "CharacterId": "razor",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
           8,
-          8,
-          8,
-          8,
-          -1,
-          -1,
+          16,
+          16,
+          16,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -17871,7 +17871,7 @@
         "Number": 6,
         "CharacterId": "razor",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -17891,11 +17891,11 @@
         "Number": 1,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -18015,7 +18015,7 @@
         "Number": 2,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -18055,7 +18055,7 @@
         "Number": 3,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -18142,7 +18142,7 @@
         "Number": 5,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -18160,7 +18160,7 @@
         "Number": 6,
         "CharacterId": "rosaria",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -18180,13 +18180,13 @@
         "Number": 1,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -18305,8 +18305,8 @@
         "Number": 2,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -18375,8 +18375,8 @@
         "Number": 3,
         "CharacterId": "kujou_sara",
         "DescriptionFormatting": [
-          -1,
-          -1,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -18488,12 +18488,12 @@
         "Number": 1,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -18623,18 +18623,18 @@
         "Number": 2,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          -1,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          1,
+          8,
+          1,
+          8,
           0,
           0,
-          -1,
+          1,
           0,
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -18725,11 +18725,11 @@
         "CharacterId": "sayu",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          0,
+          1,
           8,
-          8
+          0,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -18821,7 +18821,7 @@
         "Number": 4,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -18840,8 +18840,8 @@
         "CharacterId": "sayu",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -18858,7 +18858,7 @@
         "Number": 6,
         "CharacterId": "sayu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -18878,11 +18878,11 @@
         "Number": 1,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -19003,15 +19003,15 @@
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
+          8,
+          1,
+          8,
+          1,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -19102,7 +19102,7 @@
         "Number": 3,
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -19199,8 +19199,8 @@
         "CharacterId": "shenhe",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -19236,11 +19236,11 @@
         "Number": 1,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -19350,9 +19350,9 @@
         "Number": 2,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -19433,7 +19433,7 @@
         "Number": 3,
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -19522,8 +19522,8 @@
         "CharacterId": "kuki_shinobu",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -19559,11 +19559,11 @@
         "Number": 1,
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -19711,8 +19711,8 @@
         "CharacterId": "sucrose",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0
         ],
@@ -19835,16 +19835,16 @@
         "Number": 1,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          0,
-          -1,
-          4,
-          0,
           8,
-          -1,
-          4,
+          1,
+          8,
+          0,
+          1,
+          8,
+          0,
+          16,
+          17,
+          8,
           0,
           0
         ],
@@ -20005,13 +20005,13 @@
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
+          8,
+          1,
+          8,
+          1,
           0,
           0,
           0
@@ -20165,13 +20165,13 @@
         "Number": 3,
         "CharacterId": "tartaglia",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
           0
         ],
@@ -20304,11 +20304,11 @@
         "Number": 1,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -20417,12 +20417,12 @@
         "Number": 2,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          -1,
+          1,
           0,
           0,
           0,
-          8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -20495,14 +20495,14 @@
         "Number": 3,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          -1,
-          4,
-          0,
-          -1,
-          0,
+          1,
           8,
-          -1,
-          -1,
+          0,
+          1,
+          0,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -20593,7 +20593,7 @@
         "Number": 4,
         "CharacterId": "thoma",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -20647,14 +20647,14 @@
         "Number": 1,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          0,
-          0,
           8,
-          -1,
-          4,
+          1,
+          8,
+          0,
+          0,
+          16,
+          17,
+          8,
           0
         ],
         "Attributes": [
@@ -20783,7 +20783,7 @@
         "Number": 2,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -20842,7 +20842,7 @@
         "Number": 3,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -20918,7 +20918,7 @@
         "Number": 5,
         "CharacterId": "tighnari",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -20955,12 +20955,12 @@
         "Number": 1,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -21091,12 +21091,12 @@
         "Number": 2,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -21155,9 +21155,9 @@
         "Number": 3,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -21260,7 +21260,7 @@
         "Number": 6,
         "CharacterId": "venti",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -21280,12 +21280,12 @@
         "Number": 1,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -21384,13 +21384,13 @@
         "Number": 2,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
+          8,
+          1,
           4,
-          -1,
-          2,
-          8,
-          8,
-          -1,
+          16,
+          16,
+          17,
           0,
           0
         ],
@@ -21508,11 +21508,11 @@
         "Number": 4,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
-          8,
-          8,
-          8,
-          -1,
+          1,
+          16,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [],
@@ -21530,7 +21530,7 @@
         "Number": 5,
         "CharacterId": "wanderer",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -21567,13 +21567,13 @@
         "Number": 1,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          4,
+          8,
           0,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -21692,10 +21692,10 @@
         "Number": 2,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          -1,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -21754,8 +21754,8 @@
         "Number": 3,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -21824,7 +21824,7 @@
         "Number": 4,
         "CharacterId": "wriothesley",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -21878,11 +21878,11 @@
         "Number": 1,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -22040,7 +22040,7 @@
         "Number": 3,
         "CharacterId": "xiangling",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -22182,11 +22182,11 @@
         "Number": 1,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0,
           0
         ],
@@ -22358,11 +22358,11 @@
         "Number": 3,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          -1,
+          16,
+          16,
+          17,
           0,
           0
         ],
@@ -22466,7 +22466,7 @@
         "Number": 6,
         "CharacterId": "xiao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -22486,11 +22486,11 @@
         "Number": 1,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -22613,10 +22613,10 @@
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
           0,
-          2,
-          8,
-          -1,
-          -1,
+          4,
+          16,
+          17,
+          1,
           0,
           0,
           0
@@ -22678,10 +22678,10 @@
         "Number": 3,
         "CharacterId": "xingqiu",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -22792,12 +22792,12 @@
         "Number": 1,
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -22928,12 +22928,12 @@
         "DescriptionFormatting": [
           0,
           0,
-          8,
-          8,
-          -1,
-          2,
-          8,
-          8
+          16,
+          16,
+          17,
+          4,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -23096,8 +23096,8 @@
         "CharacterId": "xinyan",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -23150,11 +23150,11 @@
         "Number": 1,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -23254,12 +23254,12 @@
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          2,
+          1,
           8,
-          -1,
-          -1,
+          4,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -23338,7 +23338,7 @@
         "Number": 3,
         "CharacterId": "yae_miko",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -23450,14 +23450,14 @@
         "Number": 1,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          4,
+          8,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -23580,7 +23580,7 @@
         "Number": 2,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -23619,11 +23619,11 @@
         "Number": 3,
         "CharacterId": "yanfei",
         "DescriptionFormatting": [
-          -1,
-          4,
-          2,
+          1,
           8,
-          -1,
+          4,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -23755,12 +23755,12 @@
         "Number": 1,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -23869,14 +23869,14 @@
         "Number": 2,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
-          -1,
-          0,
+          1,
           8,
-          -1,
+          1,
+          8,
+          1,
+          0,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -23947,12 +23947,12 @@
         "Number": 3,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
           8,
-          8,
-          8,
-          -1,
+          16,
+          16,
+          16,
+          17,
           0
         ],
         "Attributes": [
@@ -24077,7 +24077,7 @@
         "Number": 6,
         "CharacterId": "yaoyao",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -24097,14 +24097,14 @@
         "Number": 1,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
           0,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -24225,12 +24225,12 @@
         "CharacterId": "yelan",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -24279,11 +24279,11 @@
         "Number": 3,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          -1,
-          4,
-          0,
+          1,
           8,
-          8
+          0,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -24368,7 +24368,7 @@
         "Number": 5,
         "CharacterId": "yelan",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -24405,14 +24405,14 @@
         "Number": 1,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          0,
-          0,
           8,
-          -1,
-          4,
+          1,
+          8,
+          0,
+          0,
+          16,
+          17,
+          8,
           0
         ],
         "Attributes": [
@@ -24541,10 +24541,10 @@
         "Number": 2,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -24593,10 +24593,10 @@
         "Number": 3,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          -1,
+          1,
+          8,
+          1,
+          1,
           0
         ],
         "Attributes": [
@@ -24682,7 +24682,7 @@
         "Number": 5,
         "CharacterId": "yoimiya",
         "DescriptionFormatting": [
-          -1,
+          1,
           0
         ],
         "Attributes": [],
@@ -24719,11 +24719,11 @@
         "Number": 1,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -24844,10 +24844,10 @@
         "Number": 2,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
           0,
           0
@@ -24920,10 +24920,10 @@
         "Number": 3,
         "CharacterId": "yun_jin",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          -1,
+          1,
           0
         ],
         "Attributes": [
@@ -25055,11 +25055,11 @@
         "Number": 1,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -25188,21 +25188,21 @@
         "Number": 2,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
-          2,
+          1,
           8,
+          1,
           8,
-          8,
-          -1,
           4,
+          16,
+          16,
+          16,
+          17,
+          8,
           0,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0,
           0
         ],
@@ -25293,8 +25293,8 @@
         "Number": 3,
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -25354,8 +25354,8 @@
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
           0,
-          8,
-          8
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -25373,9 +25373,9 @@
         "CharacterId": "zhongli",
         "DescriptionFormatting": [
           0,
-          8,
-          8,
-          8
+          16,
+          16,
+          16
         ],
         "Attributes": [],
         "StatCount": 0,
@@ -25411,11 +25411,11 @@
         "Number": 1,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -25547,11 +25547,11 @@
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -25630,9 +25630,9 @@
         "Number": 3,
         "CharacterId": "traveler_anemo",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
+          1,
+          8,
+          1,
           0
         ],
         "Attributes": [
@@ -25737,11 +25737,11 @@
         "Number": 1,
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -25873,8 +25873,8 @@
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -25924,7 +25924,7 @@
         "CharacterId": "traveler_geo",
         "DescriptionFormatting": [
           0,
-          -1,
+          1,
           0,
           0
         ],
@@ -26020,11 +26020,11 @@
         "Number": 1,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -26156,11 +26156,11 @@
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
           0,
-          -1,
-          4,
-          2,
+          1,
           8,
-          8
+          4,
+          16,
+          16
         ],
         "Attributes": [
           {
@@ -26238,8 +26238,8 @@
         "Number": 3,
         "CharacterId": "traveler_electro",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
           0,
           0
@@ -26356,11 +26356,11 @@
         "Number": 1,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
+          8,
+          1,
+          8,
+          1,
+          8,
           0
         ],
         "Attributes": [
@@ -26529,13 +26529,13 @@
         "Number": 3,
         "CharacterId": "traveler_dendro",
         "DescriptionFormatting": [
-          -1,
-          4,
+          1,
+          8,
           0,
-          8,
-          8,
-          -1,
-          -1,
+          16,
+          16,
+          17,
+          1,
           0
         ],
         "Attributes": [
@@ -26640,12 +26640,12 @@
         "Number": 1,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          4,
-          -1,
-          4,
-          -1,
-          4,
-          -1
+          8,
+          1,
+          8,
+          1,
+          8,
+          1
         ],
         "Attributes": [
           {
@@ -26775,14 +26775,14 @@
         "Number": 2,
         "CharacterId": "traveler_hydro",
         "DescriptionFormatting": [
-          -1,
-          4,
-          -1,
-          4,
+          1,
+          8,
+          1,
+          8,
           0,
           0,
-          -1,
-          4,
+          1,
+          8,
           0
         ],
         "Attributes": [
