@@ -303,6 +303,59 @@
       "Id": "calamity_queller",
       "DateAdded": "2022-01-05T00:00:00"
     },
+    "cashflow_supervision": {
+      "EntityId": "weapon",
+      "PortraitUri": null,
+      "Rarity": {
+        "Range": [
+          5
+        ],
+        "IsCollab": false
+      },
+      "RefinementValues": [
+        [
+          16.0,
+          14.0,
+          8.0
+        ],
+        [
+          20.0,
+          17.5,
+          10.0
+        ],
+        [
+          24.0,
+          21.0,
+          12.0
+        ],
+        [
+          28.0,
+          24.5,
+          14.0
+        ],
+        [
+          32.0,
+          28.0,
+          16.0
+        ]
+      ],
+      "WeaponType": 2,
+      "Series": 0,
+      "Obtainable": 2,
+      "Stat": 13,
+      "Stats": {
+        "BaseATK": 48.0,
+        "SubStat": 4.8
+      },
+      "RefinementMaterialType": 0,
+      "WeaponDomainMaterialType": 16384,
+      "EliteEnemyMaterialType": 65536,
+      "CommonEnemyMaterialType": 2048,
+      "ForgingRecipe": null,
+      "TradingBlueprint": null,
+      "Id": "cashflow_supervision",
+      "DateAdded": "2023-09-27T00:00:00"
+    },
     "elegy_for_the_end": {
       "EntityId": "weapon",
       "PortraitUri": null,
@@ -2514,59 +2567,6 @@
       "TradingBlueprint": null,
       "Id": "blackcliff_warbow",
       "DateAdded": "2020-11-01T00:00:00"
-    },
-    "cashflow_supervision": {
-      "EntityId": "weapon",
-      "PortraitUri": null,
-      "Rarity": {
-        "Range": [
-          4
-        ],
-        "IsCollab": false
-      },
-      "RefinementValues": [
-        [
-          16.0,
-          14.0,
-          8.0
-        ],
-        [
-          20.0,
-          17.5,
-          10.0
-        ],
-        [
-          24.0,
-          21.0,
-          12.0
-        ],
-        [
-          28.0,
-          24.5,
-          14.0
-        ],
-        [
-          32.0,
-          28.0,
-          16.0
-        ]
-      ],
-      "WeaponType": 2,
-      "Series": 0,
-      "Obtainable": 2,
-      "Stat": 13,
-      "Stats": {
-        "BaseATK": 48.0,
-        "SubStat": 4.8
-      },
-      "RefinementMaterialType": 0,
-      "WeaponDomainMaterialType": 16384,
-      "EliteEnemyMaterialType": 65536,
-      "CommonEnemyMaterialType": 2048,
-      "ForgingRecipe": null,
-      "TradingBlueprint": null,
-      "Id": "cashflow_supervision",
-      "DateAdded": "2023-09-27T00:00:00"
     },
     "cinnabar_spindle": {
       "EntityId": "weapon",
